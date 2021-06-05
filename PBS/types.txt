@@ -1,0 +1,189 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name = Normal
+InternalName = NORMAL
+Weaknesses = FIGHTING,FORBIDDEN,NUCLEAR
+Resistances = GLITCH
+Immunities = GHOST
+#-------------------------------
+[1]
+Name = Fighting
+InternalName = FIGHTING
+Weaknesses = FLYING,PSYCHIC,FAIRY,GLITCH,BIRD,NUCLEAR
+Resistances = ROCK,DARK,FIGHTING
+#-------------------------------
+[2]
+Name = Flying
+InternalName = FLYING
+Weaknesses = ROCK,ELECTRIC,ICE,SOLAR,DRAGON,NUCLEAR
+Resistances = FIGHTING,BUG,GRASS,LUNAR
+Immunities = GROUND
+#-------------------------------
+[3]
+Name = Poison
+InternalName = POISON
+Weaknesses = GROUND,PSYCHIC,STEEL
+Resistances = FIGHTING,POISON,BUG,GRASS,FAIRY,NINE
+#-------------------------------
+[4]
+Name = Ground
+InternalName = GROUND
+Weaknesses = WATER,GRASS,ICE,NUCLEAR
+Resistances = POISON,ROCK
+Immunities = ELECTRIC
+#-------------------------------
+[5]
+Name = Rock
+InternalName = ROCK
+Weaknesses = FIGHTING,GROUND,STEEL,WATER,GRASS,NUCLEAR,NINE,FORBIDDEN
+Resistances = NORMAL,FLYING,POISON,FIRE,ICE,BIRD
+#-------------------------------
+[6]
+Name = Bug
+InternalName = BUG
+Weaknesses = FLYING,ROCK,FIRE,NUCLEAR,LUNAR,NINE
+Resistances = FIGHTING,GROUND,GRASS,PSYCHIC,SOLAR
+#-------------------------------
+[7]
+Name = Ghost
+InternalName = GHOST
+Weaknesses = GHOST,DARK,FORBIDDEN,SHADOW,NUCLEAR,GLITCH,SOLAR
+Resistances = POISON,BUG,LUNAR
+Immunities = NORMAL,FIGHTING
+#-------------------------------
+[8]
+Name = Steel
+InternalName = STEEL
+Weaknesses = FIGHTING,GROUND,FIRE,GHOST,NINE
+Resistances = NORMAL,FLYING,ROCK,BUG,STEEL,GRASS,PSYCHIC,ICE,DRAGON,FAIRY,NUCLEAR,SHADOW,BIRD
+Immunities = POISON
+#-------------------------------
+[9]
+Name = Untyped
+InternalName = QMARKS
+IsPseudoType = true
+#-------------------------------
+[10]
+Name = Fire
+InternalName = FIRE
+IsSpecialType = true
+Weaknesses = GROUND,ROCK,WATER,SHADOW,NUCLEAR
+Resistances = BUG,STEEL,FIRE,GRASS,ICE,FAIRY,GLITCH
+#-------------------------------
+[11]
+Name = Water
+InternalName = WATER
+IsSpecialType = true
+Weaknesses = GRASS,ELECTRIC,SOLAR,NUCLEAR,POISON
+Resistances = STEEL,FIRE,WATER,ICE,GLITCH
+#-------------------------------
+[12]
+Name = Grass
+InternalName = GRASS
+IsSpecialType = true
+Weaknesses = FLYING,POISON,BUG,FIRE,ICE,NUCLEAR,BIRD,LUNAR
+Resistances = GROUND,WATER,GRASS,ELECTRIC,SOLAR,GLITCH,FIGHTING
+#-------------------------------
+[13]
+Name = Electric
+InternalName = ELECTRIC
+IsSpecialType = true
+Weaknesses = GROUND,DRAGON,GLITCH,SHADOW,NUCLEAR
+Resistances = FLYING,STEEL,ELECTRIC,BIRD
+#-------------------------------
+[14]
+Name = Psychic
+InternalName = PSYCHIC
+IsSpecialType = true
+Weaknesses = BUG,GHOST,DARK,NUCLEAR,LUNAR
+Resistances = FIGHTING,PSYCHIC,SOLAR,SHADOW,POISON
+#-------------------------------
+[15]
+Name = Ice
+InternalName = ICE
+IsSpecialType = true
+Weaknesses = FIGHTING,ROCK,STEEL,FIRE,NUCLEAR
+Resistances = ICE,GRASS,BUG,FLYING,ELECTRIC
+#-------------------------------
+[16]
+Name = Dragon
+InternalName = DRAGON
+IsSpecialType = true
+Weaknesses = ICE,DRAGON,FAIRY,PSYCHIC,LUNAR,NUCLEAR
+Resistances = FIRE,WATER,GRASS,ELECTRIC,SOLAR,SHADOW
+#-------------------------------
+[17]
+Name = Dark
+InternalName = DARK
+IsSpecialType = true
+Weaknesses = FIGHTING,BUG,FAIRY,SOLAR,NUCLEAR,NINE
+Resistances = GHOST,DARK,LUNAR,GLITCH,SHADOW
+Immunities = PSYCHIC
+#-------------------------------
+[18]
+Name = Fairy
+InternalName = FAIRY
+IsSpecialType = true
+Weaknesses = POISON,STEEL,SOLAR,SHADOW,NUCLEAR
+Resistances = FIGHTING,DARK,LUNAR
+Immunities = DRAGON
+#-------------------------------
+[19]
+Name = Lunar
+InternalName = LUNAR
+IsSpecialType = true
+Weaknesses = FIRE,ELECTRIC,SOLAR,NUCLEAR
+Resistances = FIGHTING,DARK,GRASS
+Immunities = FIRE
+#-------------------------------
+[20]
+Name = Solar
+InternalName = SOLAR
+IsSpecialType = true
+Weaknesses = DRAGON,DARK,LUNAR,SHADOW
+Resistances = ELECTRIC,FAIRY,FIRE
+Immunities = WATER
+#-------------------------------
+[21]
+Name = Glitch
+InternalName = GLITCH
+Weaknesses = GLITCH,NUCLEAR,BUG,GRASS
+Resistances = NORMAL,FIGHTING,GHOST,PSYCHIC
+Immunities = SHADOW
+#-------------------------------
+[22]
+Name = Bird
+InternalName = BIRD
+Weaknesses = STEEL,ROCK,FLYING,FIRE,NUCLEAR,POISON,ELECTRIC
+Resistances = DARK,FIGHTING,GROUND,GRASS
+Immunities = GLITCH
+#-------------------------------
+[23]
+Name = 999
+InternalName = NINE
+IsSpecialType = true
+Weaknesses = NUCLEAR,NINE,DRAGON,ELECTRIC,FIRE,GHOST
+Resistances = FIGHTING,SOLAR,LUNAR,SHADOW
+Immunities = BUG
+#-------------------------------
+[24]
+Name = Forbidden
+InternalName = FORBIDDEN
+IsSpecialType = true
+Weaknesses = GHOST,DRAGON,GLITCH
+Resistances = SHADOW,BIRD,SOLAR,FAIRY,LUNAR,DARK,ICE,PSYCHIC,ELECTRIC,GRASS,WATER,FIRE,STEEL,BUG,ROCK,GROUND,POISON,FLYING,FIGHTING,NORMAL
+#-------------------------------
+[25]
+Name = Shadow
+InternalName = SHADOW
+IsSpecialType = true
+Weaknesses = FORBIDDEN,NUCLEAR,GLITCH,PSYCHIC,ELECTRIC,FIRE
+Resistances = POISON,FAIRY,LUNAR,SOLAR,BIRD
+#-------------------------------
+[26]
+Name = Nuclear
+InternalName = NUCLEAR
+IsSpecialType = true
+Weaknesses = FIRE,WATER,GRASS,ELECTRIC,PSYCHIC,ICE,DRAGON,DARK,FAIRY,NORMAL,FIGHTING,FLYING,GROUND,ROCK,BUG,GHOST,STEEL,FORBIDDEN
+Resistances = BIRD,NINE,NUCLEAR,POISON
