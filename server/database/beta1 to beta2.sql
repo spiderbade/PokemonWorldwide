@@ -1,0 +1,5 @@
+START TRANSACTION;
+
+ALTER TABLE users ADD uniquecode CHAR(8);
+
+COMMIT;
