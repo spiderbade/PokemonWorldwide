@@ -1,0 +1,271 @@
+ABRA: The Psi Pokémon! It can teleport wherever you need to go. A Psychic-type.
+
+ARON: The Iron Armor Pokémon! Its tough hide can take attacks. A Rock/Steel-type.
+
+MACHOP: The Superpower Pokémon! Its techniques can plow through foes. A Fighting-type.
+
+PICHU: The Tiny Mouse Pokémon! An Electric-type.
+
+EEVEE: The Evolution Pokémon! A Normal-type. It evolves into many different types.
+
+BULBASAUR: The Seed Pokémon! A Grass/Poison-type. 
+
+CHARMANDER: The Lizard Pokémon! A Fire-type. It evolves into a Fire/Flying-type.
+
+SQUIRTLE: The Tiny Turtle Pokémon! A Water-type.
+
+CHIKORITA: The Leaf Pokémon! A Grass-type.
+
+CYNDAQUIL: The Fire Mouse Pokémon! A Fire-type.
+
+TOTODILE: The Big Jaw Pokémon! A Water-type.
+
+TREECKO: The Wood Gecko Pokémon! A Grass-type.
+
+TORCHIC: The Chick Pokémon! A Fire-type. It evolves into a Fire/Fighting-type.
+
+MUDKIP: The Mud Fish Pokémon! A Water-type. It evolves into a Water/Ground-type.
+
+TURTWIG: The Tiny Leaf Pokémon! A Grass-type. It evolves into a Grass/Ground-type.
+
+CHIMCHAR: The Chimp Pokémon! A Fire-type. It evolves into a Fire/Fighting-type.
+
+PIPLUP: The Penguin Pokémon! A Water-type. It evolves into a Water/Steel-type.
+
+SNIVY: The Grass Snake Pokémon! A Grass-type.
+
+TEPIG: The Fire Pig Pokémon! A Fire-type. It evolves into a Fire/Fighting-type.
+
+OSHAWOTT: The Sea Otter Pokémon! A Water-type.
+
+CHESPIN: The Spiny Nut Pokémon! A Grass-type. It evolves into a Grass/Fighting-type.
+
+FENNEKIN: The Fox Pokémon! A Fire-type. It evolves into a Fire/Psychic-type.
+
+FROAKIE: The Bubble Frog Pokémon! A Water-type. It evolves into a Water/Dark-type.
+
+ROWLET: The Grass Quil Pokémon! A Grass/Flying-type. It evolves into a Grass/Ghost-type.
+
+LITTEN: The Fire Cat Pokémon! A Fire-type. It evolves into a Fire/Dark-type.
+
+POPPLIO: The Sea Lion Pokémon! A Water-type. It evolves into a Water/Fairy-type.
+
+GROOKEY: The Chimp Pokémon! A Grass-type.
+
+SCORBUNNY: The Rabbit Pokémon! A Fire-type.
+
+SOBBLE: The Water Lizard Pokémon! A Water-type.
+
+POIPOLE: The Poison Pin Pokémon! A Poison-type. It evolves into a Poison/Dragon-type.
+
+GRASSTRUDE: The Mossy Pokémon! A Grass-type. It evolves into a Grass/Ground-type.
+
+TURBOMB: The Explosive Pokémon! A Fire-type. It evolves into a Fire/Dark-type.
+
+JACHASM: The Plow Pokémon! A Water-type. It evolves into a Water/Poison-type.
+
+REPTYKE: The Clobber Pokémon! A Fighting-type. Evolves into a Fighting/Dragon-type.
+
+FAEIROCK: The Geode Pokémon! A Rock-type. Evolves into a Rock/Fairy-type.
+
+CLOUCAT: The Fluffy Pokémon! A Flying-type. Evolves into a Flying/Dark-type.
+
+FAWNIFER: The Elk Pokémon! A Grass-type. It evolves into a Grass/Electric-type.
+
+SMOGECKO: The Smog Pokémon! A Fire-type. It evolves into a Fire/Ground-type.
+
+SWIRLPOOL: The Reef Pokémon! A Water-type. It evolves into a Water/Bug-type. 
+
+FOOL'S BULBASAUR: The Pepper Pokémon! A Grass/Fire-type.
+
+FOOL'S CHARMANDER: The Blind Pokémon! A Fire/Dark-type.
+
+FOOL'S SQUIRTLE: The Tiny Turtle Pokémon! A Water/Dragon-type.
+
+FOOL'S PICHU: The Tiny Mouse Pokémon! A Normal-type. It evolves into a Normal/Ice-type.
+
+FOOL'S EEVEE: The Evolution Pokémon! An Untyped. It evolves into many different types.
+
+FOOL'S CHIKORITA: The Nunchaku Pokémon! A Fighting-type.
+
+FOOL'S CYNDAQUIL: The Ice Mouse Pokémon! An Ice-type.
+
+FOOL'S TOTODILE: The Pilot Pokémon! A Flying-type.
+
+TREEWEE: The Small Bush Pokémon! A Grass/Normal-type. It evolves into a Grass/Fighting or Grass/Ice-type.
+
+SCORCHUPETTE: The Fire Porcupine Pokémon! A Fire-type. It evolves into a Fire/Grass or Fire/Steel-type Pokémon.
+
+SCOOTURL: The Scuba Turtle Pokémon! A Water-type. It evolves into a Water/Steel or Water/Dark-type.
+
+CHAPEBAYA: The Peach Pokémon! A Grass-type.
+
+COALCHU: The Mouse Pokémon! A Fire-type.
+
+TODAD: The Toad Pokémon! A Water-type.
+
+POTAC: The Potato Pokémon! A Grass-type. It evolves into a Grass/Ground-type.
+
+LAVLON: The Lava Pokémon! A Fire-type.
+
+SHELLDAN: The Bivalve Pokémon! A Water-type.
+
+SEEGG: The Dino Egg Pokémon! A Grass-type. 
+
+FIREGG: The Dino Egg Pokémon! A Fire-type. It evolves into a Fire/Dark-type.
+
+AQUEGG: The Dino Egg Pokémon! A Water-type. It evolves into a Water/Flying-type.
+
+NIMBLEAF: The Sprout Pokémon! A Grass-type. It evolves into a Grass/Flying-type.
+
+PEYERO: The Gunpowder Pokémon! A Fire-type. It evolves into a Fire/Steel-type.
+
+LIQUIPUT: The Liquid Pokémon! A Water-type. It evolves into a Water/Poison-type.
+
+ORCHYNX: The Kitten Pokémon! A Grass/Steel-type.
+
+RAPTORCH: The Fire Dino Pokémon! A Fire/Ground-type.
+
+ELETUX: The Hippocampus Pokémon! A Water/Electric-type.
+
+FOLIAT: The Fledgling Pokémon! A Grass-type. It evolves into a Grass/Flying-type.
+
+KIDLING: The Tinder Pokémon! A Fire-type. It evolves into a Fire/Rock-type.
+
+AGUADE: The Hatchling Pokémon!! A Water-type. It evolves into a Water/Fighting-type.
+
+BOG'S PTEROSAUR: The Carpenter Pokémon! A Grass-type. It evolves into a Grass/Steel-type.
+
+BOG'S CALF: The Sheriff Pokémon! A Fire-type. It evolves into a Fire/Ground-type.
+
+SHREWMISH: The Burglar Pokémon! A Water-type. It evolves into a Water/Dark-type.
+
+CIGRILLAR: The Caterpillar Pokémon! A Bug/Grass-type.
+
+RADEON: The Jaw Pokémon! A Fire-type. It evolves into a Fire/Steel-type.
+
+NUTANUK: The Ice Floe Pokémon! A Water-type. It evolves into a Water/Ice-type.
+
+SHYLEON: The Mask Pokémon! A Grass/Fairy-type.
+
+TRISHOUT: The Shout Pokémon! A Fire/Normal-type.
+
+SHULONG: The Blue Dragon Pokémon! A Water/Dragon-type.
+
+RABBUSH: The Rabbit Pokémon! A Grass-type. It evolves into a Grass/Fighting-type.
+
+MAGMUTT: The Mutt Pokémon! A Fire-type. It evolves into a Fire/Steel-type.
+
+DRIZZEEL: The Cryptic Pokémon! A Water-type. It evolves into a Water/Poison-type.
+
+LAVENDOR: The Theropod Pokémon! A Grass-type. It evolves into a Grass/Dragon-type.
+
+FOOMBER: The Serpent Pokémon! A Fire-type. It evolves into a Fire/Dragon-type.
+
+GOGLISS: The Goggles Pokémon! A Water-type. It evolves into a Water/Dragon-type.
+
+OAKUB: The Cub Pokémon! A Grass-type.
+
+LAMBELLO: The Kid Pokémon! A Fire-type. It evolves into a Fire/Ground-type.
+
+ILLUMINEWT: The Newt Pokémon! A Water-type. It evolves into a Water/Electric-type.
+
+PSYBIS: The Ibis Pokémon! A Grass-type. It evolves into a Grass/Psychic-type.
+
+INFERPENT: The Serpent Pokémon! A Fire-type. It evolves into a Fire/Dark-type.
+
+DEWIPPER: The Pinniped Pokémon! A Water/Normal-type. 
+
+TRACOON: The Racoon Pokémon! A Grass-type. It evolves into a Grass/Dark-type.
+
+GILAVA: The Lizard Pokémon! A Fire-type. It evolves into a Fire/Poison-type.
+
+SEAVER: The Aquanaut Pokémon! A Water-type. It evolves into a Water/Ground-type.
+
+EYTWIG: The Twig Pokémon! A Grass-type.
+
+LLAMPAS: The Llama Pokémon! A Grass-type.
+
+THERPAL: The Rattlesnake Pokémon! A Fire-type.
+
+BURBWHIRL: The Waterbug Pokémon! A Water-type.
+
+PLUSLE & MINUN: The Cheering Pokémon! Electric-types.
+
+PACHIRISU: The EleSquirrel Pokémon! An Electric-type.
+
+EMOLGA: The Sky Squirrel Pokémon! An Electric/Flying-type.
+
+DEDENNE: The Antenna Pokémon! An Electric/Fairy-type.
+
+TOGEDEMARU: The Roly-Poly Pokémon! An Electric/Steel-type.
+
+MORPEKO: The Two-Sided Pokémon! An Electric/Dark-type.
+
+SANDSHREW: The Mouse Pokémon! A Ground-type.
+
+SNOWSHREW: The Mouse Pokémon! An Ice/Steel-type.
+
+AZURILL: The Polka Dot Pokémon! A Normal/Fairy-type. It evolves into a Water/Fairy-type.
+
+TRUBBISH: The Trash Bag Pokémon! A Poison-type.
+
+MINCCINO: The Chinchilla Pokémon! A Normal-type.
+
+MIMIKYU: The Disguise Pokémon! A Ghost/Fairy-type.
+
+CATERPIE: The Worm Pokémon! A Bug-type. It evolves into a Bug/Flying-type.
+
+PARAS: The Mushroom Pokémon! A Bug/Grass-type. 
+
+SEEDOT: The Acorn Pokémon! A Grass-type. It evolves into a Grass/Dark-type.
+
+PIDGEY: The Tiny Bird Pokémon! A Normal/Flying-type
+
+RATTATA: The Mouse Pokémon! A Normal-type.
+
+RATTATAK: The Mouse Pokémon! A Dark/Normal-type.
+
+MAGIKARP: The Fish Pokémon! A Water-type. It evolves into a Water/Flying-type.
+
+FEEBAS: The Fish Pokémon! A Water-type.
+
+ELEKID: The Electric Pokémon! An Electric-type.
+
+MAGBY: The Live Coal Pokémon! A Fire-type.
+
+MIME JR.: The Mime Pokémon! A Psychic/Fairy-type. It evolves into a Psychic/Fairy or Ice/Psychic-type.
+
+RALTS: The Feeling Pokémon! A Psychic/Fairy-type. It evolves into a Psychic/Fairy or Psychic/Fighting-type.
+
+WYNAUT: The Bright Pokémon! A Psychic-type.
+
+MUNCHLAX: The Big Eater Pokémon! A Normal-type. It evolves into a Normal/Flying-type.
+
+RIOLU: The Emanation Pokémon! A Fighting-type. It evolves into a Fighting/Steel-type.
+
+GOLETT: The Automation Pokémon! A Ground/Ghost-type.
+
+BALTOY: The Clay Doll Pokémon! A Ground/Psychic-type.
+
+CHATOT: The Music Note Pokémon! A Normal/Flying-type.
+
+ELEKIT: The Electrokit Pokémon! An Electric-type. It evolves into an Electric/Dark-type.
+
+DARKIT: The Dark Kit Pokémon! A Dark-type. It evolves into an Electric/Dark-type.
+
+SHINX: The Flash Pokémon! An Electric-type.
+
+ROTOM: The Plasma Pokémon! An Electric/Ghost-type.
+
+UNOWN: The Symbol Pokémon! A Psychic-type.
+
+KOFFING: The Poison Gas Pokémon! A Poison-type. It evolves into a Poison or Poison/Fairy-type.
+
+DELIBIRD: The Delivery Pokémon! An Ice/Flying-type.
+
+SMOGAROBEN: The Competetive Pokémon! A Poison/Flying-type.
+
+COSMOG: The Nebula Pokémon! A Psychic-type. 
+
+DITTO: The Transform Pokémon! A Normal-type. It evolves into a Normal/Steel-type.
