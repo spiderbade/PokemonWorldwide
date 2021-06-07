@@ -113,6 +113,8 @@
 1118,POKEMONTRAINER_Ellie,Pokémon Trainer,100
 1142,POKEMONTRAINER_Duplica,Pokémon Trainer,100
 1143,SAMURAI,Samurai,100
+1144,POKEMONTRAINER_Joseph,Champion,100
+1145,POKEMONTRAINER_Rande,Pokémon Trainer,100
 #-------------------------------
 1138,RYUKI,Rock Star,100
 1140,LEADER_MistyFrlg,Gym Leader,100,Gym Leader
