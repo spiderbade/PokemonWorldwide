@@ -1,4 +1,5 @@
 dotifier
+nicomts
 zender1752
 silver-100 - wes
 captaincanada99 - wes
@@ -12,7 +13,7 @@ kirkieball
 Avatar: Psychic (Male), Psychic (Female), Rich Boy, Cue Ball (Dismounted)
 Daman: Professor Ivy, Professor Ivy's Assistant
 Kalarie: Aroma Lady, Blackbelt, Burglar, Crush Girl, Engineer, Juggler, Lady, Pokemon Breeder, Rocker, Tamer, Twin, Young Couple, (Almost) All Anime Sprites
-MrDollSteak: Cue Ball, Cue Ball (Dismounted), Painter, PokÈManiac, PokÈmon Ranger (Male), PokÈmon Ranger (Female)
+MrDollSteak: Cue Ball, Cue Ball (Dismounted), Painter, Pok√©Maniac, Pok√©mon Ranger (Male), Pok√©mon Ranger (Female)
 Pokesho: Various First Frames of Anime Overworld Sprites
 Spherical Ice: Biker (Dismounted), Bird Keeper, Expert (Male), Expert (Female), Kindler, Ruin Maniac
 MechanicalApe464
