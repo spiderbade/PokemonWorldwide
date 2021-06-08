@@ -4,6 +4,8 @@ nicomts
 zender1752
 silver-100 - wes
 captaincanada99 - wes
+Wolfang62 - meltan
+ larryturbo - meltan
 sanorace
 lucky96u - tai
 souleaterf - tai
