@@ -693,7 +693,7 @@
 998,FAREPRINCE,Fare Prince,100
 #-------------------------------
 543,BARAFAG,Burly Man,100
-549,FUCKING,Private,100
+549,FUCKING,Soldier,100
 550,FUCKING_LJackson,Samuel,100
 551,LIFTER,Lifter,100
 565,TERRORIST,Immigrant,100
