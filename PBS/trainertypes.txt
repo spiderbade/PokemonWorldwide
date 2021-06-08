@@ -580,6 +580,7 @@
 1081,PROFESSOR_Sycamore,Professor,100
 1084,PROFESSOR_Ivy,Professor,100
 1146,PROFESSOR_Stump,Professor,100
+1147,CHAMPION_Peri,Peri,100
 #------------------------------
 187,BOSS_Giovanni,Boss,100
 245,ROCKET_RBY,Rocket Brother,100
