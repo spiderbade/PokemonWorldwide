@@ -444,3 +444,4 @@
 431,SUDDENLY,Suddenly,"Charge moves can be used instantly."
 432,NUCLEARBURN,Nuclear Burn,"Fire-type moves become Nuclear-type."
 432,ADMINABUSE,Admin Abuse,"Powers up hammer-based moves."
+433,FAETOUCHED,Fae Touched,"Powers up Fairy-type moves."
