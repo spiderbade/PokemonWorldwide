@@ -1,0 +1,116 @@
+OVERWORLD SPRITES
+
+CRIES
+
+clauncher line
+
+ULTRA Gyarados
+Code: Angelus (Dimensional Rift Gardevoir)
+
+Azumarill - reverse the egg sonic-boombotnik stylE and give him BIG HANDS to punch wiht
+politoed - cyan, droopy, and icicley
+Slaking - slaking but MUSCLE and STANDING UP
+Electivire - FLUFFY BIG WOOL BOY and also electrical burn vibe
+Honchkrow - ULTRA BEARD! ULTRA WIZARD HAT! no wings
+Magmortar - i got this new anime plot. basically theres this high school magmortar except shes got huge guns. i mean some serious arm cannons. a real set of mega launchers. packin some dobonheateros. massive dohoonkabhankolobs. big old tonhongerebazookers.
+
+DEFINE ALL MONS AND FORMS
+
+http://megasforall.wikidot.com/dex
+https://www.smogon.com/forums/threads/almost-any-ability-resources.3595753/#post-7232129 
+
+DEFINE TM COMPATIBILITIES
+
+SKINS
+	Trainer
+	Walk sprites
+	Surf sprites
+	Run sprites
+	Fishing sprites
+	sauce
+		KisiroKitsune
+		PurpleZaffre
+		AveonTrainer
+		UlithiumDragon
+		Lolw3e932
+		Young-Dante
+		PKMNTrainerSpriterC
+		Kyle-Dove
+		Teraneck
+		TaniJ
+MickelPickelYT
+Smogon
+Find!! Someone to commission!!
+MON SPRITES
+
+mons
+1. DEFINE
+2. front, back, shiny, shinyback
+3. icon
+4. OW
+5. cries
+
+skins
+1. trainer
+2. walking
+3. running
+4. surfing
+5. fishing
+
+#-------------------------------
+[]
+Name =
+InternalName =
+Type1 =
+Type2 = 
+BaseStats = 
+GenderRate =
+GrowthRate =
+BaseEXP =
+EffortPoints = 
+Rareness = 
+Happiness = 
+Abilities = 
+HiddenAbility =
+Moves = 
+EggMoves = 
+Compatibility = 
+StepsToHatch =
+Height = 
+Weight = 
+Color =
+Shape = 
+Kind = 
+Pokedex = 
+Evolutions = 
+
+EGG GROUPS
+
+nonanimaloid supergroup
+
+Grass [floroid and fungoid]
+Mineral [inorganic]
+Amorphous [unsolid]
+Human-like.Humanlike [humanoid]
+Fairy [fairies and cryptids]
+
+tetrapoid supergroup
+
+Fish.Water2 [fish and amphiboids]
+Monster [reptilloids]
+Dragon [near-avian archosauroids or serpents]
+Flying [avian archosauroids]
+Field [mammaloids]
+Water.Water1 [aquatic tetrapoids]
+
+bug supergroup
+
+Bug [invertebrates, especially arthropods]
+Invertebrate.Water3 [aquatic invertebrates]
+
+cryptoid
+
+Ditto [shapeshifters]
+Legendary [legendary beasts]
+Mythical [legendary critters]
+Inapplicable [baby pokémon; infertile]
