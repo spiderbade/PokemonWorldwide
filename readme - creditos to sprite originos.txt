@@ -7,6 +7,7 @@ nicomts
 zender1752
 silver-100 - wes
 ayu draws - barceus
+smogon sprite project (a lot of mons
 captaincanada99 - wes
 Wolfang62 - meltan
  larryturbo - meltan
