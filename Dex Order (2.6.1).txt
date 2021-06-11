@@ -1,7 +1,3 @@
-﻿mons with numbers after 898 require OW sprites!
-mons that need refined battler and menu sprites include 
-
-
 RGBY
 
 1; 2; 3. Bulbasaur-Ivysaur-Venusaur [GRASS.POISON]
