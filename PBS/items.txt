@@ -612,6 +612,7 @@
 1075,CONCHFOSSIL,Conch Fossil,Conch Fossils,1,1000,"A fossil of an ancient, seafloor-dwelling Pokémon. It appears to be a Conch shell filled with voices.",0,0,8,
 1076,BOOK,Book,Books,1,15,"A holy bible to be held by Caroline. It raises her Critical-hit ratio.",0,0,0,
 1077,TACO,Taco,Tacos,5,20,"It may be used or held by a Pokémon to heal the user's HP a little.",1,1,5,
+1091,PLATEFOSSIL,Plate Fossil,Plate Fossils,1,1000,"A fossil of an ancient aquatic Pokémon. It looks like armor plating.",0,0,8,
 #-------------------------------
 668,PLAINPLATE,Plain Plate,Plain Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Normal-type moves.",0,0,0,
 669,ATOMICPLATE,Atomic Plate,Atomic Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Nuclear-type moves.",0,0,0,
