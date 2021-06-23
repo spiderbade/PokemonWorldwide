@@ -578,31 +578,17 @@ PULSE Mime
 
 Mega Furb
 
-PULSE Furb
-
 Mega Man
-
-PULSE Man
 
 Mega Rime
 
-PULSE Rime
-
 Mega Crime
-
-PULSE Crime
 
 Mega Lime
 
-PULSE Lime
-
 Mega Slime
 
-PULSE Slime
-
 Mega Grime
-
-PULSE Grime
 
 Mega Time
 
