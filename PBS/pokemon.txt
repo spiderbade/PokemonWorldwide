@@ -26820,5 +26820,5 @@ Weight = 70.2
 Color = Blue
 Shape = 12
 Kind = Time
-Pokedex = Looking at it, Time feels like a reptile in human form. Some swear that it moves in reverse. 
+Pokedex = Despite its simplistic form, some say it has a reptillian vibe. It was said to be crafted by Dialga itself.
 Evolutions = 
