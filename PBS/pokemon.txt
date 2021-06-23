@@ -14636,7 +14636,7 @@ Evolutions = SUDOWOODO,HappinessLevel,15,SUDOWOODO,HasMove,MIMIC
 Incense = ROCKINCENSE
 #-------------------------------
 [439]
-Name = Mime Jr.
+Name = Junior
 InternalName = MIMEJR
 Type1 = PSYCHIC
 Type2 = FAIRY
