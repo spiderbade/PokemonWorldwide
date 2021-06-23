@@ -3102,9 +3102,9 @@ Type1 = WATER
 Type2 = STEEL
 MegaStone = DUBIOUSDISC
 BaseStats = 71,70,120,59,160,120
-Abilities = NOGUARD
+Abilities = BEAMBLASTER
 Weight = 370
-HiddenAbility = NOGUARD
+HiddenAbility = BEAMBLASTER
 Pokedex = It is heavy enough to accidentally fall through floors in buildings. It resembles a tank more than a shrimp.
 #-------------------------------
 [CLAWITZER,3]
@@ -3112,7 +3112,7 @@ FormName = BREAK Clawitzer
 Type1 = WATER
 Type2 = ELECTRIC
 BaseStats = 71,102,30,117,149,31
-Abilities = MAGICBOUCNE
+Abilities = MAGICBOUNCE
 HiddenAbility = MAGICBOUNCE
 #-------------------------------
 [CARBINK,1]
