@@ -2284,8 +2284,22 @@ FURCOAT
 689. Barbaracle
 690. Skrelp
 691. Dragalge
-692. Clauncher
-693. Clawitzer, Mega Clawitzer , Clawitzer BREAK 
+
+692; 693. Clauncher-Clawitzer
+MEGALAUNCHER
+MAXIFOCUS
+SNIPER
+ARTHROPOD
+
+Mega Clawitzer
+MEGALAUNCHER
+
+PULSE Clawitzer
+NOGUARD
+
+BREAK Clawitzer
+MAGICBOUNCE
+
 694. Helioptile
 695. Heliolisk
 696. Tyrunt
