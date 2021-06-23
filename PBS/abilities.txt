@@ -1,7 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-2,DRIZZLE,Drizzle,"The Pokémon makes it rain if it appears in battle."
 1,STENCH,Stench,"The stench may cause the target to flinch."
+2,DRIZZLE,Drizzle,"The Pokémon makes it rain if it appears in battle."
 3,SPEEDBOOST,Speed Boost,"Its Speed stat is gradually boosted."
 4,BATTLEARMOR,Battle Armor,"The Pokémon is protected against critical hits."
 5,STURDY,Sturdy,"It cannot be knocked out with one hit."
@@ -445,3 +445,4 @@
 432,NUCLEARBURN,Nuclear Burn,"Fire-type moves become Nuclear-type."
 433,FAETOUCHED,Fae Touched,"Powers up Fairy-type moves."
 434,DAUNTLESS,Dauntless,"Special Attack cannot be lowered."
+435,BEAMBLASTER,Beam Blaster,"Powers up beam and laser moves."
