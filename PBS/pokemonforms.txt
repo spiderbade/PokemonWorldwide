@@ -3086,6 +3086,35 @@ HiddenAbility = FILTER
 MegaMessage = 1
 Pokedex = Its shield has grown to encompass its entire body. Despite this, it seems as agile as ever.
 #-------------------------------
+[CLAWITZER,1]
+FormName = Mega Clawitzer
+Type1 = WATER
+Type2 = BUG
+MegaStone = MEGASTONE
+BaseStats = 71,70,100,110,150,99
+Abilities = MEGALAUNCHER
+HiddenAbility = MEGALAUNCHER
+Pokedex = Mega Clawitzer has slimmed down, and can compress its attacks into thin beams. It has been referred to as the 'Ocean Sniper'.
+#-------------------------------
+[CLAWITZER,2]
+FormName = PULSE Clawitzer
+Type1 = WATER
+Type2 = STEEL
+MegaStone = DUBIOUSDISC
+BaseStats = 71,70,120,59,160,120
+Abilities = NOGUARD
+Weight = 370
+HiddenAbility = NOGUARD
+Pokedex = It is heavy enough to accidentally fall through floors in buildings. It resembles a tank more than a shrimp.
+#-------------------------------
+[CLAWITZER,3]
+FormName = BREAK Clawitzer
+Type1 = WATER
+Type2 = ELECTRIC
+BaseStats = 71,102,30,117,149,31
+Abilities = MAGICBOUCNE
+HiddenAbility = MAGICBOUNCE
+#-------------------------------
 [CARBINK,1]
 FormName = BREAK Carbink
 Type1 = ROCK
