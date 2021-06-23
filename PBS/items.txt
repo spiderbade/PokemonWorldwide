@@ -274,6 +274,7 @@
 1088,RARESODA,Rare Soda,Rare Sodas,2,29000,"A fizzy soda drink that is packed with energy. It raises the level of a single Pokémon by 3.",1,0,0,
 1089,ULTRARARESODA,Ultra Rare Soda,Ultra Rare Sodas,2,45000,"A fizzy soda drink that is packed with energy. It raises the level of a single Pokémon by 5.",1,0,0,
 1090,PERILOUSSOUP,Perilous Soup,Perilous Soups,2,15000,"A nasty soup that drains energy. It drops the EVSs of a single Pokémon to 0.",1,0,0,
+1092,BADGECASE,Badge Case,Badge Cases,8,0,"A fancy case. Use it to store Gym Badges which don't fit on your Trainer Card.",2,0,6
 #-------------------------------
 264,MASTERBALL,Master Ball,Master Balls,3,0,"The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.",0,4,4,
 265,ULTRABALL,Ultra Ball,Ultra Balls,3,800,"An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.",0,4,4,
