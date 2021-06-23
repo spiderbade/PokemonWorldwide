@@ -488,7 +488,7 @@
 565,MEGASTONE,Mega Stone,Mega Stones,8,0,"A stone filled with a mysterious power.",5,0,12,
 1040,WISHINGSTAR,Wishing Star,Wishing Stars,8,0,"A gem filled with a mysterious power.",5,0,12,
 566,CHEESE,Cheese,Cheese,5,20,"It may be used or held by a Pokémon to heal the user's HP a little.",1,1,5,
-567,REDBOOK,Red's Book,Red's Books,8,0,"A book that explains the basics of battling with your Pokémon.",0,0,6,
+567,REDBOOK,Red's Book,Red's Books,8,0,"A book that explains the basics of battling with your Pokémon.",2,0,6,
 568,BILLNECTOR,Bill's Connector,Bill's Connector,8,0,"A device which lets you access the PC remotely through your Pokégear.",0,0,6,
 569,DIPLOMA,Diploma,Diploma,8,0,"Congrats! This diploma certifies that you have completed your Pokédex.",0,0,6,
 570,BOTTLECAP,Bottle Cap,Bottle Caps,1,0,"A beautiful bottle cap that gives off a silvery gleam. Some people are happy to receive one.",0,0,0
