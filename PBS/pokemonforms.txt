@@ -2744,7 +2744,7 @@ Pokedex = Meloetta's voicebox has been reinforced by the power of Mega Evolution
 FormName = Altered Genesect
 BaseStats = 71,120,95,99,120,95
 Abilities = DOWNLOAD,SYNTHETICALLOY
-HiddenAbility = WEAPONSPROFICIENCY,MEGALAUNCHER
+HiddenAbility = WEAPONSPROFICIENCY,BEAMBLASTER
 Pokedex = A version of Genesect which has been mechanically augmented. It can use its new move, Techno Blast, to the fullest.
 #-------------------------------
 [GENESECT,2]
