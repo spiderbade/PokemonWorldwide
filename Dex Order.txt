@@ -2285,19 +2285,19 @@ FURCOAT
 690. Skrelp
 691. Dragalge
 
-692; 693. Clauncher-Clawitzer
+692; 693. Clauncher-Clawitzer [WATER]
 MEGALAUNCHER
 MAXIFOCUS
 SNIPER
 ARTHROPOD
 
-Mega Clawitzer
+Mega Clawitzer [WATER.BUG]
 MEGALAUNCHER
 
-PULSE Clawitzer
+PULSE Clawitzer [WATER.STEEL]
 NOGUARD
 
-BREAK Clawitzer
+BREAK Clawitzer [WATER.ELECTRIC]
 MAGICBOUNCE
 
 694. Helioptile
