@@ -172,8 +172,10 @@ ShowArea = true
 #-------------------------------
 [033]
 # Your Cabin
+DiveMap = 79
 Bicycle = false
 Outdoor = false
+Environment = None
 ShowArea = true
 #-------------------------------
 [034]
@@ -432,3 +434,9 @@ ShowArea = true
 # Arena
 Outdoor = false
 ShowArea = true
+#-------------------------------
+[079]
+# underboat
+SnapEdges = true
+Outdoor = false
+Environment = Underwater
