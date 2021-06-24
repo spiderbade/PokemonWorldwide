@@ -1039,6 +1039,18 @@ Abilities = GORILLATACTICS
 HiddenAbility = GORILLATACTICS
 Pokedex = Its mindset has narrowed to the point where all it can think of is hitting the target as hard as it can.
 #-------------------------------
+[TANGELA,1]
+FormName = Delta Tangela
+Type1 = BUG
+Abilities = VAMPIRIC,DISCOURAGE
+HiddenAbility = TANGLINGHAIR,SWARM
+#-------------------------------
+[TANGROWTH,1]
+FormName = Delta Tangrowth
+Type1 = BUG
+Abilities = VAMPIRIC,DISCOURAGE
+HiddenAbility = TANGLINGHAIR,INSECTAFFINITY
+#-------------------------------
 [TANGROWTH,2]
 FormName = Mega Tangrowth
 MegaStone = MEGASTONE
@@ -1058,25 +1070,112 @@ HiddenAbility = FILTER
 BaseStats = 100,70,235,10,70,150
 Pokedex = Its mechanically augmented body causes its vines to spread out of control. They grow faster than they can be cut. 
 #-------------------------------
-[TANGELA,1]
-FormName = Delta Tangela
-Type1 = BUG
-Abilities = VAMPIRIC,DISCOURAGE
-HiddenAbility = TANGLINGHAIR,SWARM
-#-------------------------------
-[TANGROWTH,1]
-FormName = Delta Tangrowth
-Type1 = BUG
-Abilities = VAMPIRIC,DISCOURAGE
-HiddenAbility = TANGLINGHAIR,INSECTAFFINITY
-#-------------------------------
 [MIMEJR,1]
 Type1 = PSYCHIC
-Evolutions = MIME,HasMove,MIMIC,BLIME,None,,LIME,None,
+Evolutions = MIME,HasMove,MIMIC,BLIME,None,,LIME,None,,TIME,None
 #-------------------------------
 [MIME,1]
 Type1 = PSYCHIC
 Evolutions = FURB,None,,MAN,None,
+#-------------------------------
+[MIME,2]
+FormName = Mega Mime
+Type1 = FAIRY
+Type2 = PSYCHIC
+MegaStone = MEGASTONE
+BaseStats = 40,110,80,100,110,120
+Abilities = REGALIA
+HiddenAbility = REGALIA
+Pokedex = It is covered in sparkling bits and bobs. Mega Mime fancies itself a royal jester.
+#-------------------------------
+[MIME,3]
+FormName = PULSE Mime
+Type1 = FAIRY
+Type2 = PSYCHIC
+MegaStone = DUBIOUSDISC
+BaseStats = 40,45,130,90,125,130
+Abilities = PRISMGUARD
+HiddenAbility = PRISMGUARD
+Pokedex = Bloated by PULSE energy, Mime passively generates fields of energy around itself. Striking them causes intense backlash.
+#-------------------------------
+[FURB,1]
+FormName = Mega Furb
+Type1 = STEEL
+Type2 = FAIRY
+MegaStone = MEGASTONE
+BaseStats = 80,135,142,31,95,142
+Abilities = LEVINSKIN
+HiddenAbility = LEVINSKIN
+Pokedex = Mega Furb has grown to a huge size. Its giant eye glowers down on its opponents, intimidating them.
+#-------------------------------
+[MAN,1]
+FormName = Mega Man
+Type1 = STEEL
+Type2 = FAIRY
+MegaStone = MEGASTONE
+BaseStats = 87,106,106,106,106,106
+Abilities = ADAPTABILITY
+HiddenAbility = ADAPTABILITY
+Pokedex = Its hair resembles a shining helmet. When it defeats an enemy, it may try to learn its moves.
+#-------------------------------
+[RIME,1]
+FormName = Mega Rime
+Type1 = ICE
+Type2 = PSYCHIC
+MegaStone = MEGASTONE
+BaseStats = 80,125,95,90,125,95
+Abilities = PENDULUM
+HiddenAbility = PENDULUM
+Pokedex = It repeats itself over and over, as if following a pattern.
+#-------------------------------
+[CRIME,1]
+FormName = Mega Crime
+Type1 = PSYCHIC
+MegaStone = MEGASTONE
+BaseStats = 80,100,140,70,95,135
+Abilities = CRYSTALCASE
+HiddenAbility = CRYSTALCASE
+Pokedex = The ice has melted off its body. When someone threatens it with fire, it goes ballistic.
+#-------------------------------
+[LIME,1]
+FormName = Mega Lime
+Type1 = GRASS
+Type2 = PSYCHIC
+MegaStone = MEGASTONE
+BaseStats = 60,106,90,68,126,110
+Abilities = NEUROFORCE
+HiddenAbility = NEUROFORCE
+Pokedex = The juices of Mega Lime can stimulate one's brain function. Most are reluctant to drink them, however.
+#-------------------------------
+[SLIME,1]
+FormName = Mega Slime
+Type1 = WATER
+Type2 = FAIRY
+MegaStone = MEGASTONE
+BaseStats = 90,80,160,65,86,140
+Abilities = EXTREMEOMNIVORE
+HiddenAbility = EXTREMEOMNIVORE
+Pokedex = It is easily able to pull itself together. Its pieces resemble the texture of Jello.
+#-------------------------------
+[GRIME,1]
+FormName = Mega Grime
+Type1 = POISON
+Type2 = PSYCHIC
+MegaStone = MEGASTONE
+BaseStats = 100,75,150,65,80,150
+Abilities = REBUILD
+HiddenAbility = REBUILD
+Pokedex = It likes to roll around in garbage. Some suspect that it is actually made up of trash.
+#-------------------------------
+[TIME,1]
+FormName = Mega Time
+Type1 = PSYCHIC
+Type2 = DRAGON
+MegaStone = MEGASTONE
+BaseStats = 50,145,125,110,145,125
+Abilities = EVENTHORIZON
+HiddenAbility = EVENTHORIZON
+Pokedex = Time's power has exploded into a dramatic aura. Those near it feel themselves slow down.
 #-------------------------------
 [SCYTHER,1]
 FormName = Mega Scyther
