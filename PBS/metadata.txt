@@ -1,8 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [000]
-PlayerA = POKEMONTRAINER_Lucas,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
-PlayerB = POKEMONTRAINER_Dawn,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+PlayerA = POKEMONTRAINER_Lucas,trchar000,player_bike,player_surf,trchar000,player_surf,player_fish,player_surf
 TrainerVictoryME = Victory! Trainer.mp3
 WildVictoryME = Victory! Wild Pokémon.mp3
 TrainerBattleBGM = Vs Trainer.mp3
@@ -173,7 +172,7 @@ ShowArea = true
 [033]
 # Your Cabin
 DiveMap = 79
-Bicycle = false
+Bicycle = true
 Outdoor = false
 Environment = None
 ShowArea = true
