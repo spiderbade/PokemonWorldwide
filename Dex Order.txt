@@ -5735,6 +5735,7 @@ Nonmon
 194. Gnawvice
 195. Dreadnim
 196. Fingore
+197. Mine Turtle
 Fusions
 1. Eeveesaur
 2. Leafusaur
