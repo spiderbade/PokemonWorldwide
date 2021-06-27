@@ -1222,6 +1222,16 @@ HiddenAbility = MOLDBREAKER
 Weight = 305.0
 Pokedex = Its mind sinks into a battle frenzy with its new power. Only the commands of its trainer register through the haze the world has become.
 #-------------------------------
+[MAGIKARP,1]
+FormName = Rift Gyarados
+Type1 = WATER
+Type2 = FORBIDDEN
+BaseStats = 70,100,100,100,90,78
+Abilities = INTIMIDATE
+HiddenAbility = INTIMIDATE
+Pokedex = Genetically, this specimen is still a Magikarp. If sufficiently disturbed, it may become a Ghost-type. 
+Evolutions = GYARADOS,None,
+#-------------------------------
 [LAPRAS,1]
 FormName = Mega Lapras
 MegaStone = MEGASTONE
