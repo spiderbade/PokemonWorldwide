@@ -1714,7 +1714,35 @@ FormName = Delta Kirlia
 Type1 = PSYCHIC
 FormName = Delta Gallade
 #-------------------------------
+[RALTS,2]
+FormName = Rift Ralts
+Type1 = FAIRY
+Type2 = POISON
+BaseStats = 100,50,80,105,50,80
+Abilities = FRIENDGUARD
+HiddenAbility = FRIENDGUARD
+Pokedex = Rift Ralts is said to originate in an as-of-yet uncontacted Ultra Space. Its secondary type changes with each evolution.
+#-------------------------------
+[KIRLIA,2]
+FormName = Rift Kirlia
+Type1 = FAIRY
+Type2 = FIRE
+BaseStats = 100,50,90,105,50,90
+Abilities = FRIENDGUARD
+HiddenAbility = FRIENDGUARD
+Pokedex = It is barely any stronger than its pre-evolution. Rift Kirlia is unable to evolve into a Gallade.
+Evolutions = GARDEVOIR,Level,30,GALLADE,None,
+#-------------------------------
 [GARDEVOIR,2]
+FormName = Rift Gardevoir
+Type1 = FAIRY
+Type2 = DARK
+BaseStats = 180,130,100,240,100,100
+Abilities = EXECUTION
+HiddenAbility = EXECUTION
+Pokedex = It contains signature genes of Gallade, its alternate evolution. If perfectly integrated, its power might reach unrivaled heights.
+#-------------------------------
+[GARDEVOIR,3]
 FormName = Mega Gardevoir
 MegaStone = MEGASTONE
 UnmegaForm = 0
@@ -1723,12 +1751,21 @@ Abilities = PIXILATE
 HiddenAbility = PIXILATE
 Pokedex = It has the power to create a micro-black hole. These are too small to last for more than an instant, though.
 #-------------------------------
+[GARDEVOIR,4]
+FormName = Angel of Death Gardevoir
+MegaStone = OBLIVIONSHARD
+UnmegaForm = 2
+BaseStats = 255,200,150,145,180,200
+Abilities = EXECUTION
+HiddenAbility = EXECUTION
+Pokedex = Its DNA is finely tuned to unleash its maximum potential. It seeks to deliver its enemies to death.
+#-------------------------------
 [GALLADE,1]
 Type1 = PSYCHIC
 Type2 = FIGHTING
 FormName = Delta-born Gallade
 #-------------------------------
-[GALLADE,2]
+[GALLADE,3]
 FormName = Mega Gallade
 MegaStone = MEGASTONE
 UnmegaForm = 0
