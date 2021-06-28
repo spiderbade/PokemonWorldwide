@@ -446,3 +446,4 @@
 433,FAETOUCHED,Fae Touched,"Powers up Fairy-type moves."
 434,DAUNTLESS,Dauntless,"Special Attack cannot be lowered."
 435,BEAMBLASTER,Beam Blaster,"Powers up beam and laser moves."
+436,EXECUTION,Execution,"Doubles the power of moves when the target has less than half its HP left."
