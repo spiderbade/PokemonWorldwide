@@ -1679,6 +1679,7 @@ Type1 = GRASS
 BaseStats = 70,145,85,110,145,75
 Abilities = LIGHTNINGROD
 HiddenAbility = LIGHTNINGROD
+MegaMessage = 1
 Pokedex = Gigant Sceptile towers over the trees. Lightning strikes it invariably.
 MegaMessage = 2
 #-------------------------------
@@ -2254,8 +2255,8 @@ MegaStone = MEGASTONE
 Type1 = BUG
 Type2 = ELECTRIC
 BaseStats = 70,104,85,76,104,85
-Abilities = HARVEST
-HiddenAbility = HARVEST
+Abilities = MOODY
+HiddenAbility = MOODY
 Pokedex = Mega Mothim is driven by an unsatiable hunger. Trevenant have been known to cry out in terror as they are ravenously assaulted.
 #-------------------------------
 [COMBEE,1]
