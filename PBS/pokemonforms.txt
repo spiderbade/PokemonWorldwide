@@ -178,11 +178,12 @@ FormName = The Legendary Super Caterpie
 MegaStone = OBLIVIONSHARD
 Type1 = BUG
 Type2 = FORBIDDEN
-BaseStats = 45,130,135,20,145,120
+BaseStats = 45,130,255,20,145,255
 Abilities = SWARM
 HiddenAbility = SWARM
 Height = 5.4
 Weight = 900
+MegaMessage = 2
 Pokedex = A Caterpie that has grown to gargantuan size. It is said to be capable of devouring an entire forest in a day.
 Evolutions = METAPOD,None,
 #-------------------------------
@@ -562,6 +563,7 @@ MegaStone = DUBIOUSDISC
 BaseStats = 25,120,115,90,205,155
 Abilities = MAGICGUARD
 HiddenAbility = MAGICGUARD
+MegaMessage = 3
 Pokedex = Its stats have exploded beyond what even Mega Evolution usually provides. When it attacks, the target is usually obliterated instantly.
 #-------------------------------
 [KADABRA,1]
@@ -716,6 +718,7 @@ FormName = PULSE Magnezone
 MegaStone = DUBIOUSDISC
 BaseStats = 70,70,115,60,200,120
 Pokedex = It is said to have absorbed power from space. PULSE Magnezone flies forwards, grabbing at its foe with sharp claws.
+MegaMessage = 3
 Abilities = LEVITATE
 HiddenAbility = LEVITATE
 #-------------------------------
@@ -760,6 +763,7 @@ MegaStone = DUBIOUSDISC
 BaseStats = 105,105,70,40,97,183
 Abilities = PROTEAN
 HiddenAbility = PROTEAN
+MegaMessage = 3
 Pokedex = Muk's amorphous abilities are fully unleashed. Part of its body transforms to augment whatever attack it is about to use.
 #-------------------------------
 [HAUNTER,1]
@@ -776,7 +780,7 @@ Type1 = SHADOW
 Type2 = POISON
 MegaStone = OBLIVIONSHARD
 UnmegaForm = 0
-BaseStats = 70,90,90,125,135,90
+BaseStats = 255,90,90,255,135,90
 Abilities = CORROSION
 HiddenAbility = CORROSION
 WildItemCommon = PRISONBOTTLE
@@ -833,6 +837,7 @@ MegaStone = MEGASTONE
 BaseStats = 85,70,140,70,78,140
 Abilities = COMATOSE
 HiddenAbility = COMATOSE
+MegaMessage = 3
 Pokedex = Mega Hypno would like to slumber for eternity. Nothing can wake it up sans a great physical shock. 
 #-------------------------------
 [HYPNO,2]
@@ -1068,6 +1073,7 @@ Type2 = POISON
 Abilities = FILTER
 HiddenAbility = FILTER
 BaseStats = 100,70,235,10,70,150
+MegaMessage = 3
 Pokedex = Its mechanically augmented body causes its vines to spread out of control. They grow faster than they can be cut. 
 #-------------------------------
 [MIMEJR,1]
@@ -1096,6 +1102,7 @@ MegaStone = DUBIOUSDISC
 BaseStats = 40,45,130,90,125,130
 Abilities = PRISMGUARD
 HiddenAbility = PRISMGUARD
+MegaMefssage = 3
 Pokedex = Bloated by PULSE energy, Mime passively generates fields of energy around itself. Striking them causes intense backlash.
 #-------------------------------
 [FURB,1]
@@ -1654,7 +1661,7 @@ FormName=Tyranitar Black
 MegaStone = OBLIVIONSHARD
 Type1 = DARK
 Type2 = ROCK
-BaseStats = 100,179,165,86,119,135
+BaseStats = 255,179,255,82,119,135
 Abilities = UNFLINCHING
 HiddenAbility = UNFLINCHING
 Pokedex = Black Tyranitar wreaked havoc in the Johto region many years ago. It took nearly all of the Fighting Pokémon in Cianwood to weaken it.
@@ -1681,7 +1688,7 @@ Abilities = LIGHTNINGROD
 HiddenAbility = LIGHTNINGROD
 MegaMessage = 1
 Pokedex = Gigant Sceptile towers over the trees. Lightning strikes it invariably.
-MegaMessage = 2
+MegaMessage = 1
 #-------------------------------
 [BLAZIKEN,1]
 FormName = Mega Blaziken
@@ -1759,6 +1766,7 @@ UnmegaForm = 2
 BaseStats = 255,200,150,145,180,200
 Abilities = EXECUTION
 HiddenAbility = EXECUTION
+MegaMessage = 2
 Pokedex = Its DNA is finely tuned to unleash its maximum potential. It seeks to deliver its enemies to death.
 #-------------------------------
 [GALLADE,1]
@@ -1868,6 +1876,7 @@ Type2 = WATER
 BaseStats = 100,93,123,15,103,123
 Abilities = WATERABSORB
 HiddenAbility = WATERABSORB
+MegaMessage = 3
 Pokedex = Anything near it will start to feel ill soon enough. Fluid taken from it can corrupt land for decades.
 #-------------------------------
 [SHARPEDO,1]
@@ -1888,6 +1897,7 @@ Abilities = SHEERFORCE
 HiddenAbility = SHEERFORCE
 Height = 2.5
 Weight = 320.5
+MegaMessage = 3
 Pokedex = The humps on its back are outcrops of bone. When it is enraged, it blows out molten magma.
 #-------------------------------
 [CAMERUPT,2]
@@ -3252,6 +3262,7 @@ BaseStats = 71,70,120,59,160,120
 Abilities = BEAMBLASTER
 Weight = 370
 HiddenAbility = BEAMBLASTER
+MegaMessage = 3
 Pokedex = It is heavy enough to accidentally fall through floors in buildings. It resembles a tank more than a shrimp.
 #-------------------------------
 [CLAWITZER,3]
@@ -3291,6 +3302,7 @@ Type2 = WATER
 BaseStats = 95,125,148,10,136,100
 Abilities = CRYSTALCASE
 HiddenAbility = CRYSTALCASE
+MegaMessage = 3
 Pokedex = The power in it has caused Avalugg to start melting. Its frosty core keeps too much ice from sloughing off, though.
 #-------------------------------
 [AVALUGG,2]
