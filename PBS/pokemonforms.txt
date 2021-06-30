@@ -2173,6 +2173,17 @@ Abilities = ANALYTIC
 HiddenAbility = ANALYTIC
 Pokedex = Mega Torterra has grown to massive size. Its speed is miniscule, so it takes its time to attack.
 #-------------------------------
+[TORTERRA,2]
+FormName = Gigant Torterra
+MegaStone = WISHINGSTAR
+MegaMessage = 1
+BaseStats = 95,115,142,16,115,142
+Abilities = GREENTHUMB
+HiddenAbility = GREENTHUMB
+Height = 600
+Weight = 999
+Pokedex = It looks more like a mountain than a Pokémon. When it sleeps, it can hardly be recognized.
+#-------------------------------
 [INFERNAPE,1]
 FormName = Mega Infernape
 MegaStone = MEGASTONE
