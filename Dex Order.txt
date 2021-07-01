@@ -1939,8 +1939,21 @@ DRYSKIN
 592. Frillish
 593. Jellicent, Mega
 594. Alomomola
-595. Joltik
-596. Galvantula, DIMENSIONAL RIFT ULTRA Galvantula
+
+595; 596. Joltik-Galvantula [BUG.ELECTRIC] 
+COMPOUNDEYES
+SMALLTARGET-UNNERVE
+SWARM
+VAMPIRIC-POISONTOUCH
+
+Rift Joltik
+
+Mega Galvantula 
+SHIELDDUST
+
+Rift Galvantula [POISON.ELECTRIC]
+MULTISTRIKE
+
 597. Ferroseed
 598. Ferrothorn, Code: Drifio (Dimensional Rift/Pulse Ferrothorn)
 599. Klink
