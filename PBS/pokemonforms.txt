@@ -2794,6 +2794,27 @@ Abilities = DRYSKIN
 HiddenAbility = DRYSKIN
 Pokedex = Its new skin is thin and fragile due to it being bloated with ethereal energy. Any hit can cause it to cave in, but it immediately fills back out.
 #-------------------------------
+[JOLTIK,1]
+FormName = Rift Joltik
+Pokedex = It can be found attached to Ultra Beasts. Rift Joltik feeds off their aura to fuel its own.
+#-------------------------------
+[GALVANTULA,1]
+FormName = Rift Galvantula
+Type1 = POISON
+Type2 = ELECTRIC
+BaseStats = 70,80,100,80,160,130
+Abilities = MULTISTRIKE
+HiddenAbility = MULTISTRIKE
+Pokedex = They can lay many Joltik at once. Its children may swarm larger Pokémon and bring them to their parent.
+#-------------------------------
+[GALVANTULA,2]
+FormName = Mega Galvantula
+BaseStats = 70,87,105,108,97,105
+MegaStone = MEGASTONE
+Abilities = SHIELDDUST
+HiddenAbility = SHIELDDUST
+Pokedex = When attacked, stinging hairs may irritate the enemy. They don't deal significant damage, however.
+#-------------------------------
 [CHANDELURE,1]
 FormName = Mega Chandelure
 MegaStone = MEGASTONE
