@@ -1526,7 +1526,18 @@ ADAPTABILITY
 452. Drapion
 453. Croagunk
 454. Toxicroak
-455. Carnivine, Code:Sarpa (Dimensional Rift Carnivine)
+
+455. Carnivine [GRASS]
+LEVITATE
+INSECTOVORE
+SUCTIONCUPS
+TANGLINGHAIR
+
+Mega Carnivine [GRASS.POISON]
+ADAPTABILITY
+
+Rift Carnivine [GRASS.DRAGON]
+THICKFAT
 
 456; 457. Finneon-Lumineon [WATER]
 SWIFTSWIM
