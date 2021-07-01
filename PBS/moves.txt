@@ -32,8 +32,10 @@
 687,SKITTERSMACK,Skitter Smack,045,70,BUG,Physical,90,10,100,NearOther,0,abef,"The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat."
 818,PUKEBLOOD,Puke Blood,0FA,130,BUG,Special,95,5,0,NearOther,0,bef,"The user hurls blood on the foe. This also hurts the user a little."
 1164,HIVEMIND,Hivemind,122,90,BUG,Special,100,10,0,Other,0,bef,"The user materializes an odd mental wave to attack the target. This attack does physical damage."
+1203,IRRITATION,Irritation,07F,70,BUG,Special,100,10,0,NearOther,0,bef,"This relentless attack does massive damage to a target affected by status problems."
 #-------------------------------
 764,BLACKHOLEECLIPSE,Black Hole Eclipse,164,200,DARK,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
+1205,DECIMATION,Decimation,070,1,DARK,Special,40,5,0,NearOther,0,be,"The user drains the target's life force. If it hits, the target faints instantly."
 29,HYPERSPACEFURY,Hyperspace Fury,13B,100,DARK,Physical,0,5,0,NearOther,0,ef,"Unleashes a barrage of multi-arm attacks, skipping protections. The user's Defense stat falls."
 30,FOULPLAY,Foul Play,121,95,DARK,Physical,100,15,0,NearOther,0,abef,"The user turns the foe's power against it. It does more damage the higher the target's Attack stat."
 31,DARKESTLARIAT,Darkest Lariat,0A9,85,DARK,Physical,100,10,0,NearOther,0,abef,"The user swings both arms and hits the target. Ignores the target's stat changes."
@@ -268,6 +270,7 @@
 868,WEIRDFLEX,Weird Flex,249,0,FIGHTING,Status,0,15,0,User,4,d,"The user displays a weird flex, resulting in multiple effects."
 1148,AUDACITY,Audacity,288,0,FIGHTING,Status,0,5,0,User,0,dg,"The user massively boosts its stats, but will faint soon."
 1171,PUMMEL,Pummel,01C,90,FIGHTING,Physical,100,10,30,NearOther,0,abefj,"A flurry of punches that may raise user's Attack."
+1206,COMBINATIONATTACK,Combination Attack,091,30,FIGHTING,Physical,100,10,0,NearOther,0,abef,"The target is pummeled with martial arts. Its power increases if it hits in succession."
 #-------------------------------
 757,INFERNOOVERDRIVE,Inferno Overdrive,164,200,FIRE,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 172,VCREATE,V-create,03D,180,FIRE,Physical,95,5,0,NearOther,0,abef,"With a fiery forehead, the user hurls itself at the foe. It lowers the user's Defense, Sp. Def, and Speed."
@@ -322,6 +325,7 @@
 1158,DEVILDARTS,Devil Darts,285,45,FIRE,Physical,100,10,0,Other,0,bef,"The user attacks twice. If there are two targets, this move hits each target once."
 1200,SIZZLEBEAK,Sizzle Beak,00A,40,FIRE,Physical,95,15,100,NearOther,0,abefp,"A fiery beak assault that inflicts a burn."
 1202,TOKE,Toke,035,0,GRASS,Status,0,15,0,User,0,d,"The user smokes and relaxes, lowering its defenses but sharply raising attacking and Speed stats."
+1204,MAGMADRIFT,Magma Drift,075,90,FIRE,Special,100,15,0,AllNearOthers,0,bef,"It swamps the area around the user with a giant wave. It can also be used for crossing lava."
 #-------------------------------
 750,SUPERSONICSKYSTRIKE,Supersonic Skystrike,164,200,FLYING,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 206,SKYATTACK,Sky Attack,0C7,140,FLYING,Physical,90,5,30,Other,0,beh,"A second-turn attack move where critical hits land more easily. It may also make the target flinch."
@@ -451,6 +455,7 @@
 910,CHERRYTAP,Cherry Tap,000,1,GRASS,Physical,0,100,0,NearOther,2,abef,"A terrible attack at first glance. However, it can be used almost indefinitely."
 935,THOUSANDNEEDLES,1000 Needles,250,1,GRASS,Special,70,10,0,NearOther,0,bef,"This attack hits the target with barrage of thorns. This attack always inflicts 100 HP damage."
 1201,RIPEN,Ripen,294,0,GRASS,Status,0,20,0,User,0,d,"The user ripens, raising Defense and sharply raising Sp. Attack."
+1207,SLASHANDBURN,Slash and Burn,00A,90,GRASS,Physical,90,10,10,NearOther,0,befp,"The target is hit with a heated branch. It may also leave the target with a burn."
 #-------------------------------
 752,TECTONICRAGE,Tectonic Rage,164,200,GROUND,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 294,PRECIPICEBLADES,Precipice Blades,000,120,GROUND,Physical,85,10,0,AllNearFoes,0,bef,"The user attacks its foes by manifesting the power of the land in fearsome blades of stone."
@@ -483,6 +488,7 @@
 849,QUICKSAND,Quick Sand,000,40,GROUND,Physical,100,20,0,Other,1,bef,"The user spurts a burst of sand at super speed. This move usually goes first."
 852,SCORCHEARTH,Scorch Earth,246,20,GROUND,Special,100,15,30,AllBattlers,0,be,"The ground erupts into flame, burning everyone present."
 853,SPAM,Spam,0D2,120,GROUND,Physical,100,10,0,RandomNearFoe,0,abef,"The user spreads idiocy for two to three turns. It then becomes confused, however."
+1208,ARENITEWALL,Arentite Wall,300,0,GROUND,Status,0,20,0,UserSide,0,d,"A wall of sand is put up to suppress damage from Super Effective attacks for five turns."
 #-------------------------------
 762,SUBZEROSLAMMER,Subzero Slammer,164,200,ICE,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 319,FREEZESHOCK,Freeze Shock,0C5,140,ICE,Physical,90,5,30,NearOther,0,bef,"On the second turn, the user hits the foe with electrically charged ice. It may also paralyze the foe."
@@ -1227,9 +1233,3 @@
 1197,SAPPYSEED,Sappy Seed,089,1,GRASS,Physical,0,20,0,NearOther,0,abef,"The more a partner Pokémon loves its trainer, the greater this move's power."
 1198,FREEZYFROST,Freezy Frost,089,1,ICE,Special,0,20,0,NearOther,0,abef,"The more a partner Pokémon loves its trainer, the greater this move's power."
 1199,SPARKLYSWIRL,Sparkly Swirl,089,1,FAIRY,Special,0,20,0,NearOther,0,bef,"The more a partner Pokémon loves its trainer, the greater this move's power."
-1203,IRRITATION,Irritation,07F,70,BUG,Special,100,10,0,NearOther,0,bef,"This relentless attack does massive damage to a target affected by status problems."
-1204,MAGMADRIFT,Magma Drift,075,90,FIRE,Special,100,15,0,AllNearOthers,0,bef,"It swamps the area around the user with a giant wave. It can also be used for crossing lava."
-1205,DECIMATION,Decimation,070,1,DARK,Special,40,5,0,NearOther,0,be,"The user drains the target's life force. If it hits, the target faints instantly."
-1206,COMBINATIONATTACK,Combination Attack,091,30,FIGHTING,Physical,100,10,0,NearOther,0,abef,"The target is pummeled with martial arts. Its power increases if it hits in succession."
-1207,SLASHANDBURN,Slash and Burn,00A,90,GRASS,Physical,90,10,10,NearOther,0,befp,"The target is hit with a heated branch. It may also leave the target with a burn."
-1208,ARENITEWALL,Arentite Wall,300,0,GROUND,Status,0,20,0,UserSide,0,d,"A wall of sand is put up to suppress damage from Super Effective attacks for five turns."
