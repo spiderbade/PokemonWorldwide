@@ -1353,6 +1353,9 @@ PHOTOTROPH
 Mega Torterra
 ANALYTIC
 
+Gigant Torterra
+GREENTHUMB
+
 390; 391; 392. Chimchar-Monferno-Infernape [FIRE-FIRE.FIGHTING]
 BLAZE
 STUFFCHEEKS
