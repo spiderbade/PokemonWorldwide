@@ -411,10 +411,6 @@ SHADOWTAG
 Gigant Gengar
 SHADOWSYNERGY
 
-92. Gastly
-93. Haunter, Black Fog
-94. Gengar, Mega, Gigant, Delta
-
 95; 208. Onix-Steelix [ROCK.GROUND-STEEL.GROUND]
 ROCKHEAD
 STURDY
