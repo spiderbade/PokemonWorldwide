@@ -690,7 +690,7 @@
 496,SKETCH,Sketch,05D,0,NORMAL,Status,0,1,0,NearOther,0,,"It enables the user to permanently learn the move last used by the foe. Once used, Sketch disappears."
 497,SLACKOFF,Slack Off,0D5,0,NORMAL,Status,0,10,0,User,0,d,"The user slacks off, restoring its own HP by up to half of its maximum HP."
 498,SLEEPTALK,Sleep Talk,0B4,0,NORMAL,Status,0,10,0,User,0,,"While it is asleep, the user randomly uses one of the moves it knows."
-499,SMOKESCREEN,Smokescreen,047,0,NORMAL,Status,100,20,0,NearOther,0,bce,"The user releases an obscuring cloud of smoke or ink. It reduces the target's accuracy."
+499,SMOKESCREEN,Smokescreen,047,0,FIRE,Status,100,20,0,NearOther,0,bce,"The user releases an obscuring cloud of smoke or ink. It reduces the target's accuracy."
 500,SOFTBOILED,Soft-Boiled,0D5,0,NORMAL,Status,0,10,0,User,0,d,"The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP."
 501,SPLASH,Splash,001,0,NORMAL,Status,0,40,0,User,0,,"The user just flops and splashes around to no effect at all..."
 502,SPOTLIGHT,Spotlight,16A,0,NORMAL,Status,0,15,0,NearOther,3,bc,"The user shines a spotlight on the target so that only it will be attacked during the turn."
