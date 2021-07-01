@@ -2430,7 +2430,18 @@ DISENCHANT
 SHADOWTAG
 HUGEPOWER
 
-721. Volcanion, Code:Statia (Dimensional Rift Volcanion)
+721. Volcanion [FIRE.WATER]
+WATERABSORB
+STEAMENGINE
+MAGMAARMOR
+LEVINSKIN
+
+Mega Volcanion
+PERFECTMATCH
+
+Rift Volcanion
+WATERABSORB
+
 SMUSUM
 722. Rowlett
 723. Dartrix
