@@ -1056,7 +1056,21 @@ Type1 = BUG
 Abilities = VAMPIRIC,DISCOURAGE
 HiddenAbility = TANGLINGHAIR,INSECTAFFINITY
 #-------------------------------
+[TANGELA,2]
+FormName = Rift Tangela
+Type1 = GRASS
+Type2 = DARK
+Abilities = TANGLINGHAIR
+Pokedex = It can be found clinging to larger creatures, siphoning nutrients through its tentacles.
+#-------------------------------
 [TANGROWTH,2]
+FormName = Rift Tangrowth
+Type1 = GRASS
+Type2 = GHOST
+Abilities = TANGLINGHAIR
+Pokedex = Rift Tangrowth can be found floating through space in a cyst-like form. When they find something solid, their tentacles inextricably ensnare it.
+#-------------------------------
+[TANGROWTH,3]
 FormName = Mega Tangrowth
 MegaStone = MEGASTONE
 Type1 = GRASS
@@ -1065,7 +1079,7 @@ HiddenAbility = GRASSYSURGE
 BaseStats = 100,100,125,50,110,50
 Pokedex = Its rapidly expanding vines sprawl across the battlefield like a blanket of grass. 
 #-------------------------------
-[TANGROWTH,3]
+[TANGROWTH,4]
 FormName = PULSE Tangrowth
 MegaStone = DUBIOUSDISC
 Type1 = GRASS
@@ -2356,6 +2370,25 @@ HiddenAbility = ADAPTABILITY
 Height = 1.3
 Weight = 57.5
 Pokedex = It readies itself to face its enemies by focusing its mental energies. Its fighting style can be summed up in a single word: heartless.
+#-------------------------------
+[CARNIVINE,1]
+FormName = Rift Carnivine
+Type1 = GRASS
+Type2 = DRAGON
+BaseStats = 80,110,75,115,120,100
+Abilities = THICKFAT
+HiddenAbility = THICKFAT
+Pokedex = It has no eyes, but it can detect vibrations. Rift Carnivine bobs as if listening to music.
+#-------------------------------
+[CARNIVINE,2]
+FormName = Mega Carnivine
+MegaStone = MEGASTONE
+Type1 = GRASS
+Type2 = POISON
+BaseStats = 74,100,72,46,90,72
+Abilities = ADAPTABILITY
+HiddenAbility = ADAPTABILITY
+Pokedex = Mega Carnivine's jaws have become large enough to snap up a human. They lie in wait for foes to walk too close to escape.
 #-------------------------------
 [LUMINEON,1]
 FormName = Mega Lumineon
