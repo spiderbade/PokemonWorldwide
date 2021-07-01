@@ -1763,11 +1763,11 @@ Pokedex = It has the power to create a micro-black hole. These are too small to 
 FormName = Angel of Death Gardevoir
 MegaStone = OBLIVIONSHARD
 UnmegaForm = 2
-BaseStats = 255,200,150,145,180,200
+BaseStats = 255,164,114,109,144,164
 Abilities = EXECUTION
 HiddenAbility = EXECUTION
 MegaMessage = 2
-Pokedex = Its DNA is finely tuned to unleash its maximum potential. It seeks to deliver its enemies to death.
+Pokedex = It seeks to deliver death to its enemies. The original Angel of Death Gardevoir is said to have been stronger than Eternamax Eternatus at its peak.
 #-------------------------------
 [GALLADE,1]
 Type1 = PSYCHIC
