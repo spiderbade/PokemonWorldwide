@@ -876,6 +876,7 @@
 1155,CRYSTALIZE,Crystalize,00C,110,ROCK,Special,90,10,20,AllNearFoes,0,bef,"The target is crushed in solid crystal. There is a chance to freeze the target."
 1173,RUBBLERUSH,Rubble Rush,0FD,150,ROCK,Physical,90,10,0,NearOther,0,abef,"A rancorous rushdown that also hurts the user."
 1179,STONESURGE,Stone Surge,000,90,ROCK,Physical,95,10,0,AllNearOthers,0,abefh,"Large boulders are hurled. High critical-hit ratio."
+1209,PLATECRUNCH,Plate Crunch,000,90,ROCK,Physical,100,12,0,NearOther,0,abefi,"The user crushes the target in its jaws."
 #-------------------------------
 756,CORKSCREWCRASH,Corkscrew Crash,164,200,STEEL,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 926,DELETTHIS,Delet This,264,1,STEEL,Physical,0,1,0,Other,0,befn,"The user has strap. It's all over when they turn it sideways."
