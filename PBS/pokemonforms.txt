@@ -3465,6 +3465,21 @@ Weight = 490.0
 Shape = 6
 Pokedex = In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within. 
 #-------------------------------
+[VOLCANION,1]
+FormName = Rift Volcanion
+BaseStats = 110,60,80,60,90,200
+Abilities = WATERABSORB
+HiddenAbility = WATERABSORB
+Pokedex = It only rarely moves. Rift Volcanion can be found clinging to the underside of planetoids and asteroids in certain high-activity areas.
+#-------------------------------
+[VOLCANION,2]
+FormName = Mega Volcanion
+BaseStats = 80,130,130,50,180,130
+MegaStone = MEGASTONE
+Abilities = PERFECTMATCH
+HiddenAbility = PERFECTMATCH
+Pokedex = The synergy of fire and water makes it explode with power. Some refer to it as a living supervolcano.
+#-------------------------------
 [ORICORIO,1]
 FormName = Pom-Pom Style
 Type1 = ELECTRIC
