@@ -5589,12 +5589,12 @@ Nonmon
 4. Marowak Ghost
 5. Invader
 6. Xenobugg
-7. Puchuu
-8. Warechu
+7. Puchuu [excel saga
+8. Warechu [neptunia
 9. Cyborg
 10. Arch-Cyborg
 11. Skeleton
-12. Longfellow
+12. Longfellow [mortasheen]
 13. Flarecry
 14. Shinigami
 15. Phantom
@@ -5603,7 +5603,7 @@ Nonmon
 18. Misterror
 19. Dorghast
 20. Dogmobile
-21. Monoculus
+21. Monoculus [tf2
 22. Magboil
 23. Agblap
 24. Blindling
@@ -5719,7 +5719,7 @@ Nonmon
 134. Altoramare
 135. D.E.U.S.
 136. Antispiral
-137. Human {Psychic, Bruno, Kamina, Arturia}
+137. Human {Psychic, Bruno, Kamina, Arturia, Nihilego Fusion, Rift Aelita, Monica}
 138. Gijinka
 139. Giant {Monica}
 140. Saiyan {Gohan, Broly, Vegeta}
