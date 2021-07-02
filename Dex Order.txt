@@ -331,9 +331,22 @@ MOLDBREAKER
 71. Victreebel
 72. Tentacool
 73. Tentacruel, Mega Tentacruel , Gigant Tentacruel 
-74. Geodude
-75. Graveler
-76. Golem, Mega, Delta
+
+74; 75; 76. Geodude-Graveler-Golem [ROCK.GROUND]
+ROCKHEAD
+STURDY
+SANDVEIL-FIGHTINGPOWER
+MOUNTAINEER-SOLIDROCK
+
+Delta Geodude-Graveler-Golem [ROCK]
+
+Mega Graveler
+
+Mega Golem
+
+Rift Golem [DARK.FIGHTING]
+CONTRARY
+
 77. Ponyta
 78. Rapidash
 
