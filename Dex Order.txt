@@ -1887,6 +1887,9 @@ POLLUTION
 Mega Garbodor [POISON.STEEL]
 TRASHCOMPACTOR
 
+Rift Garbodor [POISON.DARK]
+POISONHEAL
+
 570. Zorua
 571. Zoroark, Mega Zoroark  - Trace, Zoroark BREAK 
 572. Minccino
