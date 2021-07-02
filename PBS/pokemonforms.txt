@@ -2768,6 +2768,15 @@ HiddenAbility = TRASHCOMPACTOR
 Pokedex = Mega Garbodor is covered in sharp outcroppings of metallic trash. They are said to be parts of its skeleton, bursting through the skin.
 #-------------------------------
 [GARBODOR,2]
+FormName = Gigant Garbodor
+MegaStone = WISHINGSTAR
+BaseStats = 80,65,120,65,104,140
+Abilities = POLLUTION
+HiddenAbility = POLLUTION
+MegaMessage = 1
+Pokedex = It sprays toxic gas from its mouth and fingers. If the gas engulfs you, the toxins will seep in all the way down to your bones.
+#-------------------------------
+[GARBODOR,3]
 FormName = Rift Garbodor
 MegaStone = MEGASTONE
 Type1 = POISON
@@ -2776,15 +2785,6 @@ BaseStats = 80,80,120,10,90,150
 Abilities = POISONHEAL
 HiddenAbility = POISONHEAL
 Pokedex = Rift Garbodor slowly absorbs toxins to fuel itself. Its general appetite seems lower, though.
-#-------------------------------
-[GARBODOR,2]
-FormName = Gigant Garbodor
-MegaStone = WISHINGSTAR
-BaseStats = 80,65,120,65,104,140
-Abilities = POLLUTION
-HiddenAbility = POLLUTION
-MegaMessage = 1
-Pokedex = It sprays toxic gas from its mouth and fingers. If the gas engulfs you, the toxins will seep in all the way down to your bones.
 #-------------------------------
 [DEERLING,1]
 FormName = Summer Form
