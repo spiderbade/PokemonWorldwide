@@ -546,7 +546,7 @@
 356,HYPERVOICE,Hyper Voice,000,90,NORMAL,Special,100,10,0,AllNearFoes,0,befk,"The user lets loose a horribly echoing shout with the power to inflict damage."
 357,MULTIATTACK,Multi-Attack,09F,90,NORMAL,Physical,100,10,0,NearOther,0,abef,"Cloaking itself in high energy, the user slams into the target. This move's type depends on the held memory."
 358,REVELATIONDANCE,Revelation Dance,169,90,NORMAL,Special,100,15,0,NearOther,0,befo,"The user attacks the target by dancing very hard. The user's type determines the type of this move."
-359,ROCKCLIMB,Rock Climb,013,90,NORMAL,Physical,85,20,20,NearOther,0,abef,"The user attacks the target by smashing into it with incredible force. It may also confuse the target."
+359,ROCKCLIMB,Rock Climb,013,90,ROCK,Physical,85,20,20,NearOther,0,abef,"The user attacks the target by smashing into it with incredible force. It may also confuse the target."
 360,TAKEDOWN,Take Down,0FA,90,NORMAL,Physical,85,20,0,NearOther,0,abef,"A reckless, full-body charge attack for slamming into the foe. It also damages the user a little."
 361,UPROAR,Uproar,0D1,90,NORMAL,Special,100,10,0,RandomNearFoe,0,befk,"The user attacks in an uproar for three turns. Over that time, no one can fall asleep."
 362,BODYSLAM,Body Slam,007,85,NORMAL,Physical,100,15,30,NearOther,0,abef,"The user drops onto the target with its full body weight. It may leave the target with paralysis."
