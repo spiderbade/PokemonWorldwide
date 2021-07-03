@@ -5795,6 +5795,7 @@ Nonmon
 195. Dreadnim
 196. Fingore
 197. Mine Turtle
+198. Dufaux
 Fusions
 1. Eeveesaur
 2. Leafusaur
