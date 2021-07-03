@@ -2891,6 +2891,26 @@ Abilities = SHIELDDUST
 HiddenAbility = SHIELDDUST
 Pokedex = When attacked, stinging hairs may irritate the enemy. They don't deal significant damage, however.
 #-------------------------------
+[FERROTHORN,2]
+FormName = Rift Ferrothorn
+Type1 = FIRE
+Type2 = STEEL
+MegaStone = OBLIVIONSHARD
+BaseStats = 255,150,150,185,80,205
+Abilities = SHIFT
+HiddenAbility = SHIFT
+UnmegaForm = 0
+Pokedex = In its dormant state, it suspends itself in the air, waiting for prey. Its movements are reminiscient of a yo-yo.
+#-------------------------------
+[FERROTHORN,3]
+FormName = Rift Ferrothorn: Full Throttle
+MegaMessage = 2
+BaseStats = 255,250,100,240,80,200
+Abilities = SHIFT
+HiddenAbility = SHIFT
+UnmegaForm = 0
+Pokedex = Once it gets rolling, it will never stop. It can punch through the strongest barriers with ease.
+#-------------------------------
 [CHANDELURE,1]
 FormName = Mega Chandelure
 MegaStone = MEGASTONE
