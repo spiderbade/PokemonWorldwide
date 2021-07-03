@@ -652,9 +652,42 @@ HiddenAbility = MOLDBREAKER
 MegaMessage = 1
 Pokedex = The Gigantamax energy coursing through its arms makes its punches hit as hard as bomb blasts.
 #-------------------------------
-[GOLEM,2]
+[GEODUDE,1]
+FormName = Delta Geodude
+Type1 = ROCK
+#-------------------------------
+[GRAVELER,1]
+FormName = Delta Graveler
+Type1 = ROCK
+#-------------------------------
+[GOLEM,1]
 FormName = Delta Golem
 Type1 = ROCK
+#-------------------------------
+[GRAVELER,2]
+FormName = Mega Graveler
+MegaStone = MEGASTONE
+Type1 = ROCK
+BaseStats = 55,180,30,135,45,45
+Abilities = HARDASROCK
+HiddenAbility = HARDASROCK
+Pokedex = Mega Graveler's skin is extremely brittle. It relishes its newfound speed, weaving around attacks like a pursuit predator.
+#-------------------------------
+[GOLEM,2]
+FormName = Mega Golem
+Type1 = GROUND
+MegaStone = MEGASTONE
+BaseStats = 80,130,150,35,25,75
+Abilities = SHEDSKIN
+HiddenAbility = SHEDSKIN
+Pokedex = It sheds scutes at a much faster rate. Sometimes, status problems simply slough off with them.
+#-------------------------------
+[GOLEM,3]
+FormName = Rift Golem
+BaseStats = 85,90,110,10,90,110
+Abilities = CONTRARY
+HiddenAbility = CONTRARY
+Pokedex = As they fight, they continue to grow stronger and faster. They do run out of energy eventually, though.
 #-------------------------------
 [SLOWBRO,1]
 FormName = Mega Slowbro
