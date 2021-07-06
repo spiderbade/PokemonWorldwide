@@ -1535,8 +1535,18 @@ WEAKARMOR
 Mega Lucario
 ADAPTABILITY
 
-449. Hippopotas
-450. Hippowdon, Code: Gorna (Dimensional Rift Hippowdon/Gloria)
+449; 450. Hippopotas-Hippowdon [GROUND]
+SANDSTREAM
+STRONGJAW
+SANDFORCE
+SAPSIPPER
+
+Mega Hippowdon
+SEDIMENTATE
+
+Rift Hippowdon [GROUND.POISON]
+UNFLINCHING
+
 451. Skorupi
 452. Drapion
 453. Croagunk
