@@ -5589,8 +5589,34 @@ Other
 3784. raindrop1 egg
 3875. raindrop2 swablu
 3876. raindrop3 phoenix
+Clover+
+3877. Ethigator
+Gamergator
+Papieroom
+Maggafungi
+Zapvii
+Zasiete
+Taseookie
+Shoxiraptr
+Dracoproto
+Dracoverse
+Dracomet
+Vapvern
+Vapsilisk
+Fazbunny
+Avidraco
+Dramasque
+Titaneetle
+Balboa
+Rerollan
+Godziladon
+Saffroth
+Cinnadorah
+Icesthetic
+Goblyin
+Yangfin
 Buddy+
-3777. Merculope
+3. Merculope
 . https://buddyverse.fandom.com/wiki/Category:Orelonian_Pokémon
 Kaskade
 . https://tvtropes.org/pmwiki/pmwiki.php/WebVideo/TheKaskadeRegion
