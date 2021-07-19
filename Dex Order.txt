@@ -2000,9 +2000,19 @@ MULTISTRIKE
 604. Eelektross
 605. Elgyem
 606. Beheeyem, Mega Beheeyem , Beheeyem BREAK 
-607. Litwick
-608. Lampent
-609. Chandelure, Mega Chandelure  - Final Ticker hp ¼ back per ko
+
+607; 608; 609. Litwick-Lampent-Chandelure
+FLASHFIRE
+FLAMEBODY
+INFILTRATOR
+SHADOWTAG
+
+Mega Chandelure
+SOULHEART
+
+Rift Chandelure
+PROTEAN
+
 610. Axew
 611. Fraxure
 612. Haxorus, Mega Haxorus  - Dragon/Steel, Shed Skin
