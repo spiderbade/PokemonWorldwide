@@ -2931,12 +2931,19 @@ Pokedex = Once it gets rolling, it will never stop. It can punch through the str
 [CHANDELURE,1]
 FormName = Mega Chandelure
 MegaStone = MEGASTONE
-Type2 = GHOST
-Type2 = FIRE
-BaseStats = 60,60,120,120,140,120
-Abilities = SHADOWTAG
-HiddenAbility = SHADOWTAG
-Pokedex = Those it sets its sights on cannot escape. Their souls are as good as firewood. 
+BaseStats = 60,55,100,100,215,100
+Abilities = SOULHEART
+HiddenAbility = SOULHEART
+Pokedex = Its metabolism has exploded in rate of function, requiring whole souls to keep burning.
+#-------------------------------
+[CHANDELURE,2]
+FormName = Rift Chandelure
+MegaStone = OBLIVIONSHARD
+MegaMessage = 2
+BaseStats = 100,25,69,100,200,110
+Abilities = PROTEAN
+HiddenAbility = PROTEAN
+Pokedex = Its limbs rotate around a stationary core. They are melancholy, sometimes staring at the floor and mumbling.
 #-------------------------------
 [STUNFISK,1]
 FormName = Mega Stunfisk
