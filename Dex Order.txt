@@ -5741,7 +5741,10 @@ Nonmon
 87Screechereen [tinymon
 88Badias [tinymon
 89Cacopoggers [doom
-90Cactuar [final fantasy
+
+N90. Cactuar [CACTUAR]
+CACTUAREFFECTS
+
 91Behemoth [final fantasy
 92Monoculus [tf2
 93Longfellow [mortasheen
