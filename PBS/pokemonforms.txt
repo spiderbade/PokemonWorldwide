@@ -1839,6 +1839,22 @@ HiddenAbility = INNERFOCUS
 Weight = 56.4
 Pokedex = Its empathic abilities have dulled due to its combative nature. Until it turns back to normal, it can barely emote at all.
 #-------------------------------
+[NINJASK,1]
+FormName = Mega Ninjask
+MegaStone = MEGASTONE
+BaseStats = 61,90,45,150,140,70
+Abilities = AERILATE
+HiddenAbility = AERILATE
+Pokedex = Unlike its base form, Mega Ninjask is quite loud. Its sharp chirps can shatter the eardrums of unlucky predators. 
+#-------------------------------
+[SHEDINJA,1]
+FormName = Mega Shedinja
+MegaStone = MEGASTONE
+BaseStats = 1,130,1,73,130,1
+Abilities = STURDY
+HiddenAbility = STURDY
+Pokedex = No matter what hits it, it is unperturbed. Mega Shedinja is as dense as a neutron star, kept from imploding by its own mystic power.
+#-------------------------------
 [SABLEYE,1]
 FormName = Mega Sableye
 MegaStone = MEGASTONE
