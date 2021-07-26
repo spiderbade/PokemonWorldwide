@@ -26812,4 +26812,29 @@ Shape = 12
 Kind = Time
 Pokedex = Despite its simplistic form, some say it has a reptillian vibe. It was said to be crafted by Dialga itself.
 Evolutions = 
-
+#-------------------------------
+[9090]
+Name = Cactuar
+InternalName = CACTUAR
+Type1 = CACTUAR
+BaseStats = 3,1,255,39,50,255
+GenderRate = Genderless
+GrowthRate = Fast
+BaseEXP = 0
+EffortPoints = 1,1,1,1,1,1
+Rareness = 3
+Happiness = 0
+Abilities = CACTUAREFFECTS
+Moves = 1,SWAGGER,1,THOUSANDNEEDLES,5,UTURN,10,RAGE,15,BRANCHPOKE,18,SLASHING,25,NEEDLEARM,28,SPIKYSHIELD,30,PHYSICALATTACK,30,SPECIALATTACK,35,SLASHANDBURN,42,SPIKES,50,WORRYSEED,55,SHIMMERSHOT,60,POKEOFDOOM,70,MEME,100,FLARE
+Compatibility = Inapplicable
+StepsToHatch = 65000
+Height = 0.7
+Weight = 5.3
+Color = Green
+Habitat = Rare
+Shape = 6
+Kind = Haniwa Cactus
+WildItemUncommon = POISONBARB
+WildItemRare = NUGGET
+Pokedex = A mysterious creature which resembles a cactus. It is thought to be from another universe. 
+Evolutions = 
