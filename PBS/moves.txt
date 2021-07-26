@@ -326,6 +326,7 @@
 1200,SIZZLEBEAK,Sizzle Beak,00A,40,FIRE,Physical,95,15,100,NearOther,0,abefp,"A fiery beak assault that inflicts a burn."
 1202,TOKE,Toke,035,0,GRASS,Status,0,15,0,User,0,d,"The user smokes and relaxes, lowering its defenses but sharply raising attacking and Speed stats."
 1204,MAGMADRIFT,Magma Drift,075,90,FIRE,Special,100,15,0,AllNearOthers,0,bef,"It swamps the area around the user with a giant wave. It can also be used for crossing lava."
+1210,MIXTAPE,Mixtape,000,90,FIRE,Special,100,15,0,AllNearFoes,0,befk,"The user lets loose a rocking reverb that scorches foes." 
 #-------------------------------
 750,SUPERSONICSKYSTRIKE,Supersonic Skystrike,164,200,FLYING,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 206,SKYATTACK,Sky Attack,0C7,140,FLYING,Physical,90,5,30,Other,0,beh,"A second-turn attack move where critical hits land more easily. It may also make the target flinch."
