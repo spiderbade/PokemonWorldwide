@@ -26812,3 +26812,4 @@ Shape = 12
 Kind = Time
 Pokedex = Despite its simplistic form, some say it has a reptillian vibe. It was said to be crafted by Dialga itself.
 Evolutions = 
+
