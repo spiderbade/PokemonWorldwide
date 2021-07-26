@@ -5649,205 +5649,284 @@ FINAL
 . Chaos Arceus
 Fusion Generation
 . Eon
+
 Nonmon
-1. Bittercold
-2. Dark Matter
-3. Dark Rust
-4. Marowak Ghost
-5. Invader
-6. Xenobugg
-7. Puchuu [excel saga
-8. Warechu [neptunia
-9. Cyborg
-10. Arch-Cyborg
-11. Skeleton
-12. Longfellow [mortasheen]
-13. Flarecry
-14. Shinigami
-15. Phantom
-16. Tiktik
-17. Cactuar
-18. Misterror
-19. Dorghast
-20. Dogmobile
-21. Monoculus [tf2
-22. Magboil
-23. Agblap
-24. Blindling
-25. Bloart
-26. Eeps
-27. Painchild
-28. Chainsaw Kid
-29. Belladonna
-30. Mangler
-31. Nemateuthis
-32. Goutbreak
-33. Q-Lex
-34. Slitherbleed
-35. Ticktox
-36. Cruelhardy
-37. Eviscergeist
-38. Escarghoul
-39. Anglesnipe
-40. Arkhex
-41. Astarath
-42. Furler
-43. Yamada
-44. Lazerbeak
-45. Sherman
-46. Welker
-47. Pazuzu
-48. Furruma
-49. Fungasu
-50. Ooshe
-51. Nigella
-52. Goosuboa
-53. Kuriputo
-54. Roodanse
-55. Botamon
-56. Gigimon
-57. Koromon
-58. Sukamon
-59. Agumon
-60. Greymon
-61. MetalGreymon
-62. AncientGreymon
-63. WarGreymon
-64. VictoryGreymon
-65. SkullGreymon
-66. BlackWarGreymon
-67. Chaosdramon
-68. GeoGreymon
-69. RizeGreymon
-70. ShineGreymon
-71. BlackAgumon
-72. Tyrannomon
-73. DarkTyrannomon
-74. MetalTyrannomon
-75. RustTyrannomon
-76. Machinedramon
-77. Chaosdromon
-78. Apocalymon
-79. Mephistomon
-80. Gulfmon
-81. HiMachineDramon
-82. MasterTyrannomon
-83. Samudramon
-84. Megadramon
-85. MameTyramon
-86. Dinorexmon
-87. Veedramon
-88. AeroVeedramon
-89. RedVeedramon
-90. UlforceVeedramon
-91. Geremon
-92. Sukamon
-93. Mawuh
-94. Dragonoid
-95. Delta Dragonoid
-96. Infinity Dragonoid
-97. Kuriboh
-98. Blue Eyes White Dragon
-99. EXODIA
-100. Electrobull 1.0
-101. Electrobull 2.0
-102. Doom Blade 1.0
-103. Doom Blade 2.0
-104. Doom Blade 3.0
-105. Spike Spine 1.0
-106. Spike Spine 2.0
-107. Spike Spine 3.0
-108. Archuslop
-109. Bleel
-110. Dreadmelt
-111. Glopoly
-112. Leaka
-113. Pitrool
-114. Plasmemon
-115. Dragon
-116. Valstrax
-117. Rathalos
-118. Rathian
-119. Goooboobobobobobo
-120. Pterdaken
-121. Shoe
-122. Pengin
-123. Lambtron
-124. Cuddlebuns
-125. Screechereen
-126. Yoshi
-127. Cacopoggers
-128. Horsantula
-129. Bunger
-130. Fryder
-131. Master Hand
-132. Crazy Hand
-133. Hirudegarn
-134. Altoramare
-135. D.E.U.S.
-136. Antispiral
-137. Human {Psychic, Bruno, Kamina, Arturia, Nihilego Fusion, Rift Aelita, Monica}
-138. Gijinka
-139. Giant {Monica}
-140. Saiyan {Gohan, Broly, Vegeta}
-141. Cat
-142. Poison Dart Frog
-143. Honeybee
-144. Louse
-145. Amblypygi
-146. Penguin
-147. Vampire Bat
-148. Chameleon
-149. Viperfish
-150. Barreleye Fish
-151. Octopus
-152. Chimp
-153. Crocodile
-154. Bull Shark
-155. Bear
-156. Cape Buffalo
-157. Elephant
-158. Mammoth
-159. Harpy Eagle
-160. Colossal Squid
-161. Blue Whale
-162. Anomalocaris
-163. Jaekelopterus
-164. Orthoceras
-165. Tanystropheus
-166. Terror Bird
-167. Smilodon
-168. Quetzalcoatlus
-169. Titanoboa
-170. Gorgonopsid
-171. Postosuchus
-172. Indricotherium
-173. Amoeba
-174. Slime Mold
-175. Hyneria
-176. Crassigyrinus
-177. Dunkleosteus
-178. Megalodon
-179. Basilosaurus
-180. Shastasaurus
-181. Liopleurodon
-182. Tyrannosaurus
-183. Livyatan
-184. Mosasaurus
-185. Bulbasaurus
-186. Aerodactylus
-187. Weedlei
-188. Heteroediscelis
-189. Petshop
-190. Vyglass’s Mech
-191. Gooblot
-192. Treenuki
-193. Gilava
-194. Gnawvice
-195. Dreadnim
-196. Fingore
-197. Mine Turtle
-198. Dufaux
+
+Cat
+Smilodon
+Bear
+Cape Buffalo
+Elephant
+Mammoth
+Indricothrerium
+Vampire Bat
+Gorgonopsid
+Bulbasaurus
+Penguin
+Harpy Eagle
+Terror Bird
+Tyrannosaurus rex
+Quetzalcoatlus
+Aerodactylus
+Crocodile
+Postosuchus
+Chameleon
+Tanystropheus
+Titanoboa
+Shastasaurus
+Liopleurodon
+Mosasaurus
+Crassigyrinus
+Poison dart frog
+Viperfish
+Barreleye Fish
+Bull Shark
+Hyneria
+Dunkleosteus
+Megalodon
+Honeybee
+Louse
+Amblypygi
+Stentorceps weedlei
+Chilicola (Heteroediscelis) charizard 
+Jaeklopterus
+Anomalocaris
+Orthoceras
+Octopus
+Colossal Squid
+Blue Whale
+Basilosaurus
+Livyatan
+Chimp
+Amoeba
+Slime Mold
+
+Mine Turtle [asdf
+Petshop [jojos
+Dogmobile [megamanspritegame
+
+Human {psychic, bruno, kamina, arturia, rift aelita, monica the giant
+Gijinka {nihilego fusion, gijinka, etc
+Saiyan {gohan, broly, vegeta
+
+Dragon [snakewood
+
+Cyborg [empyrean
+Arch-Cyborg [empyrean
+Invader [pokestar studios
+Xenobugg [you thought
+D.E.U.S. [empyrean
+Vyglass's Mech [clover
+
+Phantom [pokestar studios
+Skeleton [clover
+Flarecry [false red
+Shinigami [death note
+Misterror [pokestar studios
+Dorghast [pokestar studios
+Marowak Ghost [rgby
+Dufaux [rejuvenation
+
+Bittercold [pmd
+Dark Matter [pmd
+Dark Rust [rumble
+Altoramare [pokemon heroes
+
+Jibanyan [yokai watch
+
+Puchuu [excel saga
+
+Yoshi [mario
+
+Horsantula [earthbound
+
+Warechu [neptunia
+
+Goooboobobobobobo [gooeymon
+
+Bunger [bugsnax
+Fryder [bugsnax
+
+Pengin [chinpokomon
+Lambtron [chinpokomon
+Pterdaken [chinpokomon
+Shoe [chinpokomon
+
+Cuddlebuns [tinymon
+Screechereen [tinymon
+Badias [tinymon
+
+Cacopoggers [doom
+
+Cactuar [final fantasy
+Behemoth [final fantasy
+
+Monoculus [tf2
+
+Longfellow [mortasheen
+Magboil [awful hospital
+Furler [awful hospital
+Agblap [mortasheen
+Blindling [mortasheen
+Bloart [mortasheen
+Eeps [mortasheen
+Painchild [mortasheen
+Chainsaw Kid [mortasheen
+Belladonna [mortasheen
+Mangler [mortasheen
+Nematheuthis [mortasheen
+Goutbreak [mortasheen
+Q-Lex [mortasheen
+Slitherbleed [mortasheen
+Ticktox [mortasheen
+Cruelhardy [mortasheen
+Eviscergeist [mortasheen
+Escarghoul [mortasheen
+Anglesnipe [mortasheen
+Arkhex [mortasheen
+Astarath [mortasheen
+
+Yamada [scp foundation
+Lazerbeak [scp foundation
+Sherman [scp foundation
+Welker [scp foundation
+Pazuzu [scp foundation
+Furruma [scp foundation
+
+Fungasu [telefang
+Ooshe [telefang
+Nigella [telefang
+Goosuboa [telefang
+Kuriputo [telefang
+Roodanse [telefang
+
+Electrobull 1.0 [nanovor
+Electrobull 2.0 [nanovor
+Doom Blade 1.0 [nanovor
+Doom Blade 2.0 [nanovor
+Doom Blade 3.0 [nanovor
+Spike Spine 1.0 [nanovor
+Spike Spine 2.0 [nanovor
+Spike Spine 3.0 [nanovor
+
+Gooblot [buddymon
+Treenuki [buddymon
+Treenuki 2.0 [buddymon
+Treenuki 3.0 [buddymon
+Gilava [buddymon
+Gilvava 2.0 [buddymon
+Gilava 3.0 [buddymon
+Gnawvice [buddymon
+Gnawvice 2.0 [buddymon
+Gnawvice 3.0 [buddymon
+Dreadnim [buddymon
+
+Crystle [temtem
+Sherald [temtem
+Tortenite [temtem
+Smazee [temtem
+Baboong [temtem
+Seismunch [temtem
+Houchic [temtem
+Tental [temtem
+Nagaise [temtem
+Tuwai [temtem
+Tukai [temtem
+Tulcan [temtem
+Tuvine [temtem
+Turoc [temtem
+Tuwire [temtem
+
+Archuslop [squisherz
+Bleel [squisherz
+Dreadmelt [squisherz
+Glopoly [squisherz
+Leaka [squisherz
+Pitrool [squisherz
+Plasmemon [squisherz
+
+Tarrasque [pokednd
+
+Vespoid [monster hunter
+Jagras [monster hunter
+Jyuratodus [monster hunter
+Kulu-Ya-Ku [monster hunter
+Valstrax [monster hunter
+Cephadrome [monster hunter
+Khezu [monster hunter
+Diablos [monster hunter
+Shen Gaoren [monster hunter
+Rathalos [monster hunter
+Rathian [monster hunter
+Kirin [monster hunter
+Chameleos [monster hunter
+Yama Tsukami [monster hunter
+Dah'ren Moran [monster hunter
+Kulve Taroth [monster hunter
+Zorah Magdaros [monster hunter
+Xeno'jiva [monster hunter
+Safi'jiva [monster hunter
+Alatreon [monster hunter
+Dire Miralis [monster hunter
+Fatalis [monster hunter
+
+Kuriboh [duel monsters
+Blue Eyes White Dragon [duel monsters
+Red Eyes Black Dragon [duel monsters
+EXODIA [duel monsters [nanovor
+
+Botamon [digimon
+Gigimon [digimon
+Koromon [digimon
+Sukamon [digimon
+Agumon [digimon
+Greymon [digimon
+MetalGreymon [digimon
+AncientGreymon [digimon
+WarGreymon [digimon
+VictoryGreymon [digimon
+SkullGreymon [digimon
+BlackWarGreymon [digimon
+Chaosdramon [digimon
+GeoGreymon [digimon
+RizeGreymon [digimon
+ShineGreymon [digimon
+BlackAgumon [digimon
+Tyrannomon [digimon
+DarkTyrannomon [digimon
+MetalTyrannomon [digimon
+RustTyrannomon [digimon
+Machinedramon [digimon
+Chaosdramon [digimon
+Apocalymon [digimon
+Mephistomon [digimon
+Gulfmon [digimon
+HiMachineDramon [digimon
+MasterTyrannomon [digimon
+Samudramon [digimon
+Megadramon [digimon
+MameTyramon [digimon
+Dinorexmon [digimon
+Veedramon [digimon
+AeroVeedramon [digimon
+RedVeedramon [digimon
+UlforceVeedramon [digimon
+Geremon [digimon
+Sukamon [digimon
+Mawuh [neural net
+
+Dragonoid [bakugan
+Delta Dragonoid [bakugan
+Infinity Dragonoid [bakugan
+
+Master Hand [smash
+Crazy Hand [smash
+Scripulous Fingore [web
+
+Hirudegarn [dragon ball
+
+Antispiral {gurren lagan
+
 Fusions
 1. Eeveesaur
 2. Leafusaur
