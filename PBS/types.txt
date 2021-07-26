@@ -187,3 +187,10 @@ InternalName = NUCLEAR
 IsSpecialType = true
 Weaknesses = FIRE,WATER,GRASS,ELECTRIC,PSYCHIC,ICE,DRAGON,DARK,FAIRY,NORMAL,FIGHTING,FLYING,GROUND,ROCK,BUG,GHOST,STEEL,FORBIDDEN
 Resistances = BIRD,NINE,NUCLEAR,POISON
+#-------------------------------
+[27]
+Name = Cactuar
+InternalName = CACTUAR
+IsSpecialType = true
+Weaknesses = NUCLEAR,WATER,ICE
+Resistances = FIRE,FAIRY,POISON
