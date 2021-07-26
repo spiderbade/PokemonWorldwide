@@ -902,6 +902,14 @@ BaseStats = 55,80,75,40,180,135
 MegaMessage = 1
 Pokedex = The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.
 #-------------------------------
+[ELECTRODE,1]
+FormName = Mega Electrode
+MegaStone = MEGASTONE
+Abilities = DASTURDLY
+HiddenAbility = DASTURDLY
+BaseStats = 60,169,1,150,210,1
+Pokedex = Not expecting to last long in battle due to its reckless nature, it is extremely frail. Even powerful Legendary Pokémon panic upon seeing one.
+#-------------------------------
 [EXEGGCUTE,1]
 FormName = Reegg
 Type1 = SHADOW
