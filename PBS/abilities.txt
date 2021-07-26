@@ -450,4 +450,4 @@
 437,INSECTOVORE,Insectovore,"Makes the user's Grass-type moves Super Effective against Bug-types."
 438,SHIFT,Shift,"When the user is at half its total HP, allows it to transform into a stronger form."
 439,DASTURDLY,Dasturdly,"It cannot be knocked out with one hit. When reduced to 1 HP, its attacking stats max out."
-440,CACTUAREFFECTS,Cactuar Effects,"The effects of Cactuar. It has rough skin and some inherent evasion."
+440,CACTUAREFFECTS,Cactuar Effects,"It has rough skin and some inherent evasion. This ability and its user's type are fixed. It resembles the Grass type."
