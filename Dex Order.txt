@@ -5821,7 +5821,7 @@ Nonmon
 167Plasmemon [squisherz
 168Tarrasque [pokednd
 169Vespoid [monster hunter
-170Jagras [monster hunter
+170Jaggi [monster hunter
 171Jyuratodus [monster hunter
 172Kulu-Ya-Ku [monster hunter
 173Valstrax [monster hunter
