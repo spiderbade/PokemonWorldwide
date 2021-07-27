@@ -336,6 +336,8 @@ BaseStats = 35,121,121,151,162,160
 Pokedex = A cruel, deformed version of Pikachu, inhabiting the Lavender Town of an odd Ultra Space. Legend states that trainers that see it in the wild are doomed to never escape it's terrifying grasp. Thankfully, it's not in the wild. Or is it?
 Height = 0.4
 Weight = 5.9
+Type1 = FORBIDDEN
+Type2 = ELECTRIC
 #-------------------------------
 [RAICHU,1]
 FormName = Mega Raichu
@@ -663,7 +665,7 @@ HiddenAbility = MOLDBREAKER
 MegaMessage = 1
 Pokedex = The Gigantamax energy coursing through its arms makes its punches hit as hard as bomb blasts.
 #-------------------------------
-[MACHAMP,3]
+[MACHAMP,4]
 FormName = Pure Awesome Machamp
 MegaStone = OBLIVIONSHARD
 Abilities = HYPEBEAST
@@ -673,6 +675,8 @@ BaseStats = 90,158,158,138,118,118
 Pokedex = At it's utmost hype, a Machamp was said to become this in an Ultra Space. An aura of pure hype is said to hold a suffocating grasp on the air around it, focusing everyone to watch it's explosive power in sheer awe.
 Height = 1.7
 Weight = 133.9
+Type1 = FORBIDDEN
+Type2 = FIGHTING
 #-------------------------------
 [GEODUDE,1]
 FormName = Delta Geodude
