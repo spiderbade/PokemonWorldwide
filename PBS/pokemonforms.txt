@@ -333,7 +333,9 @@ Abilities = NOESCAPE
 HiddenAbility = NOESCAPE
 MegaMessage = 2
 BaseStats = 35,121,121,151,162,160
-Pokedex = 
+Pokedex = A cruel, deformed version of Pikachu, inhabiting the Lavender Town of an odd Ultra Space. Legend states that trainers that see it in the wild are doomed to never escape it's terrifying grasp. Thankfully, it's not in the wild. Or is it?
+Height = 0.4
+Weight = 5.9
 #-------------------------------
 [RAICHU,1]
 FormName = Mega Raichu
@@ -668,7 +670,9 @@ Abilities = HYPEBEAST
 HiddenAbility = HYPEBEAST
 MegaMessage = 2
 BaseStats = 90,158,158,138,118,118
-Pokedex = 
+Pokedex = At it's utmost hype, a Machamp was said to become this in an Ultra Space. An aura of pure hype is said to hold a suffocating grasp on the air around it, focusing everyone to watch it's explosive power in sheer awe.
+Height = 1.7
+Weight = 133.9
 #-------------------------------
 [GEODUDE,1]
 FormName = Delta Geodude
