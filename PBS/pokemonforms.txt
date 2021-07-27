@@ -326,6 +326,15 @@ HiddenAbility = ELECTRICSURGE
 MegaMessage = 1
 Pokedex = When it smashes its opponents with its bolt-shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 #-------------------------------
+[PIKACHU,3]
+FormName = Ravenous Pikachu
+MegaStone = OBLIVIONSHARD
+Abilities = NOESCAPE
+HiddenAbility = NOESCAPE
+MegaMessage = 2
+BaseStats = 35,121,121,151,162,160
+Pokedex = 
+#-------------------------------
 [RAICHU,1]
 FormName = Mega Raichu
 MegaStone = MEGASTONE
@@ -651,6 +660,15 @@ Abilities = MOLDBREAKER
 HiddenAbility = MOLDBREAKER
 MegaMessage = 1
 Pokedex = The Gigantamax energy coursing through its arms makes its punches hit as hard as bomb blasts.
+#-------------------------------
+[MACHAMP,3]
+FormName = Pure Awesome Machamp
+MegaStone = OBLIVIONSHARD
+Abilities = HYPEBEAST
+HiddenAbility = HYPEBEAST
+MegaMessage = 2
+BaseStats = 90,158,158,138,118,118
+Pokedex = 
 #-------------------------------
 [GEODUDE,1]
 FormName = Delta Geodude
