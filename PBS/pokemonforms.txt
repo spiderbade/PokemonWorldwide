@@ -337,7 +337,7 @@ Pokedex = A cruel, deformed version of Pikachu, inhabiting the Lavender Town of 
 Height = 0.4
 Weight = 5.9
 Type1 = FORBIDDEN
-Type2 = ELECTRIC
+Type2 = GHOST
 #-------------------------------
 [RAICHU,1]
 FormName = Mega Raichu
