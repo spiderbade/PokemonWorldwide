@@ -5912,6 +5912,9 @@ CACTUAREFFECTS
 239Scripulous Fingore [web
 240Hirudegarn [dragon ball
 241Antispiral {gurren lagan
+243Jsckfrost
+244blackfrost
+245pyrojsck
 
 Fusions
 1. Eeveesaur
