@@ -264,8 +264,10 @@ KOFFING: The Poison Gas Pokémon! A Poison-type. It evolves into a Poison or Poi
 
 DELIBIRD: The Delivery Pokémon! An Ice/Flying-type.
 
-SMOGAROBEN: The Competetive Pokémon! A Poison/Flying-type.
+SMOGAROBEN: The Competitive Pokémon! A Poison/Flying-type.
 
 COSMOG: The Nebula Pokémon! A Psychic-type. 
+
+BLOBBOS: The Blob Pokémon! An Ice/Rock-type.
 
 DITTO: The Transform Pokémon! A Normal-type. It evolves into a Normal/Steel-type.
