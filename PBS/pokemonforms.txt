@@ -3707,6 +3707,30 @@ FormName = Gigant Melmetal
 MegaStone = WISHINGSTAR
 BaseStats = 135,150,145,100,80,90
 Abilities = ELECTRICSURGE
-HIddenAbility = ELECTRICSURGE
+HiddenAbility = ELECTRICSURGE
 MegaMessage = 1
 Pokedex = It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot.
+#-------------------------------
+[BLOBBOS,1]
+Abilities = ICEFACE
+HiddenAbility = ICEFACE
+#-------------------------------
+[BLOBBOS,2]
+FormName = Mega Blobbos
+MegaStone = MEGASTONE
+Type1 = NUCLEAR
+Type2 = ICE
+BaseStats = 42,22,36,105,20,25
+Abilities = ATOMIZE
+HiddenAbility = ATOMIZE
+Pokedex = Mega Blobbos explodes with energy. Unfortunately, it is still very weak. 
+#-------------------------------
+[NARWHIZ,1]
+FormName = Mega Narwhiz
+MegaStone = MEGASTONE
+Type1 = FORBIDDEN
+Type2 = FAIRY
+BaseStats = 101,120,121,121,136,121
+Abilities = MIRRORARMOR
+HiddenAbility = MIRRORARMOR
+Pokedex = It considers itself the greatest wizard in the universe. Mega Narwhiz refuses to engage in romance.
