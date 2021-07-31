@@ -4229,7 +4229,19 @@ Clover
 2394.	Bongecko
 2395.	Mariguana
 2396.	Marleyzard
-2397.	Blobbos
+
+2397; 2642. Blobbos-Narwhiz [ICE.ROCK-WATER.FAIRY]
+PUREPOWER-MAGICIAN
+ATHENIAN-HEALER
+COMATOSE-MAGICBOUNCE
+ICEFACE-TABOO
+
+Mega Blobbos [NUCLEAR.ICE]
+ATOMIZE
+
+Mega Narwhiz [FORBIDDEN.FAIRY]
+MIRRORARMOR
+
 2398.	Ayylamo
 2399.	Smellox
 2400.	Chasumo
@@ -4474,7 +4486,6 @@ Clover
 2639.	Lankong
 2640.	Ballankey
 2641.	Funnedonk
-2642.	Narwhiz
 2643.	Niterpent
 2644.	Griffawork
 2645.	Boarnograf
