@@ -1,6 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 1149,ELITEFOUR_Megan,Elite Four,100
+1150,WINGULL,Wingull
 0,POKEMONTRAINER_Lucas,Pokémon Trainer,100,bgm,,intro
 1,POKEMONTRAINER_Dawn,Champion,100,Dawn
 2,POKEMONTRAINER_Barry,Pokémon Trainer,100,Barry
