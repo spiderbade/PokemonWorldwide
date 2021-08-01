@@ -1791,6 +1791,15 @@ Height = 1.9
 Weight = 102.0
 Pokedex = Mega Swampert may look bulky, but its muscles allow it to plow through water with incredible speed.
 #-------------------------------
+[PELIPPER,1]
+FormName = Mega Pelipper
+MegaStone = MEGASTONE
+Type1 = FLYING
+BaseStats = 60,50,120,65,105,140
+Abilities = ARENATRAP
+HiddenAbility = ARENATRAP
+Pokedex = Mega Pelipper can snap up a Sharpedo in one swoop. Its known for eating up to ten times its weight in prey, but it can hardly fly afterwards.
+#-------------------------------
 [RALTS,1]
 Type1 = PSYCHIC
 FormName = Delta Ralts
