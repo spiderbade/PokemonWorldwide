@@ -1065,7 +1065,7 @@
 780,MEGAFLARE,MegaFlare,000,200,FORBIDDEN,Special,100,15,0,Other,0,befn,"The user summons a fireball so potent it distorts reality."
 781,TERAFLARE,TeraFlare,000,200,FORBIDDEN,Special,100,10,0,AllFoes,0,befnv,"The user concentrates the devastating power of a Flare into a beam of focused energy."
 782,EXAFLARE,ExaFlare,0A0,250,FORBIDDEN,Special,100,5,0,AllFoes,0,befnv,"The user unleashes world-shattering explosive force upon its foes."
-783,ZETTAFLARE,ZettaFlare,176,250,FORBIDDEN,Special,100,1,0,AllFoes,0,befnv,"The user fires a beam of energy so powerful it defies description, all but assuredly putting an end to the opposition."
+783,ZETTAFLARE,ZettaFlare,301,250,FORBIDDEN,Special,100,1,0,AllFoes,0,befnv,"The user fires a beam of energy so powerful it defies description, all but assuredly putting an end to the opposition."
 899,OBLITERATE,Obliterate,253,1,FORBIDDEN,Special,0,5,0,Other,0,be,"The foe is touched by the concept of oblivion. Its HP vanishes into the void instantly."
 918,NEUTRONBLAST,Neutron Blast,122,95,FORBIDDEN,Special,95,10,0,Other,0,befv,"The foe is attacked with a powerful beam."
 1002,BADTOUCH,Bad-Touch,043,60,FORBIDDEN,Physical,100,5,100,NearOther,0,abef,"The user touches the target in a suspicious manner. This lowers the target's Defense."
