@@ -2524,15 +2524,30 @@ Rift Volcanion
 WATERABSORB
 
 SMUSUM
-722. Rowlett
-723. Dartrix
-724. Decidueye, Mega Decidueye  - Shadow Tag
-725. Litten
-726. Torracat
-727. Incineroar, Mega Incineroar  - No Guard
-728. Popplio
-729. Brionne
-730. Primarina, Mega Primarina  - Confusing Aura switch-in confusion
+
+722; 723; 724. Rowlet-Dartrix-Decidueye [GRASS.FLYING-GRASS.GHOST]
+OVERGROW
+
+LONGREACH
+
+Mega Decidueye
+SHADOWTAG
+
+725; 726; 727. Litten-Torracat-Incineroar [FIRE-FIRE.DARK]
+BLAZE
+
+INTIMIDATE
+
+Mega Incineroar
+INTIMIDATE
+
+728; 729; 730. Popplio-Brionne-Primarina [WATER-WATER.FAIRY]
+TORRENT
+LIQUIDVOICE
+
+Mega Primarina
+WATERLOVER
+
 731. Pikipek
 732. Trumbeak
 733. Toucannon
