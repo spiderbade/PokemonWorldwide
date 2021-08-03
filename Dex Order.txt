@@ -2658,15 +2658,43 @@ Gigant Melmetal [STEEL]
 ELECTRICSURGE
 
 SWSH
-810. Grookey
-811. Thwackey
-812. Rillaboom, Mega Rillaboom  - Bongo Congo hit chance to confuse, Gigant Rillaboom 
-813. Scorbunny
-814. Raboot
-815. Cinderace, Mega Cinderace  - Steely Kick iron fist but feet, Gigant Cinderace 
-816. Sobble
-817. Drizzile
-818. Inteleon, Mega Inteleon  - Sniper, Gigant Inteleon  [chocie specs
+
+810; 811; 812. Grookey-Thwackey-Rillaboom [GRASS]
+OVERGROW
+GRASSPELT
+GRASSYSURGE
+INSECTOVORE
+
+Mega Rillaboom
+MADMAN
+
+Gigant Rillaboom
+GRASSYSURGE
+
+813; 814; 815. Scorbunny-Raboot-Cinderace [FIRE]
+BLAZE
+STRIKER
+LIBERO
+REBOUND
+
+Mega Cinderace [FIRE.ELECTRIC]
+POUNCE
+
+Gigant Cinderace
+DROUGHT
+
+816; 817; 818. Sobble-Drizzile-Inteleon [WATER]
+TORRENT
+KEENEYE
+SNIPER
+WATERVEIL
+
+Mega Inteleon
+SUPERLUCK
+
+Gigant Inteleon
+DRIZZLE
+
 819. Skwovet [hastymint berries
 820. Greedent [hastymint berries
 821. Rookidee
