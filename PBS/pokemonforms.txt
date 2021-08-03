@@ -3659,6 +3659,30 @@ Abilities = PERFECTMATCH
 HiddenAbility = PERFECTMATCH
 Pokedex = The synergy of fire and water makes it explode with power. Some refer to it as a living supervolcano.
 #-------------------------------
+[DECIDUEYE,1]
+FormName = Mega Decidueye
+BaseStats = 78,115,102,120,112,103
+MegaStone = MEGASTONE
+Abilities = SHADOWTAG
+HiddenAbility = SHADOWTAG
+Pokedex = Its very presence pins its targets to the ground. Mega Decidueye has the uncanny ability to block you at every turn.
+#-------------------------------
+[INCINEROAR,1]
+FormName = Mega Incineroar
+BaseStats = 95,115,125,115,90,100
+MegaStone = MEGASTONE
+Abilities = INTIMIDATE
+HiddenAbility = INTIMIDATE
+Pokedex = Despite its preference for cool maneuvers, it still executes them with a certain sneakiness. It can sneak up eerily well despite its flamboyant looks.
+#-------------------------------
+[PRIMARINA,1]
+FormName = Mega Primarina
+BaseStats = 80,74,74,60,126,116
+MegaStone = MEGASTONE
+Abilities = WATERLOVER
+HiddenAbility = WATERLOVER
+Pokedex = It slips through the water with the grace of a naiad. Mega Primarina is known to knock Wingull out of the air with its shouts before eating them.
+#-------------------------------
 [ORICORIO,1]
 FormName = Pom-Pom Style
 Type1 = ELECTRIC
