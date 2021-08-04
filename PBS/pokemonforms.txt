@@ -3744,6 +3744,59 @@ HiddenAbility = ELECTRICSURGE
 MegaMessage = 1
 Pokedex = It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot.
 #-------------------------------
+[RILLABOOM,1]
+FormName = Mega Rillaboom
+MegaStone = MEGASTONE
+Abilities = MADMAN
+HiddenAbility = MADMAN
+BaseStats = 100,130,90,135,100,75
+Pokedex = Mega Rillaboom slams its fists into its targets hard enough to cause Confusion. Its relentless attacks can sometimes down an enemy before they can even fight back.
+#-------------------------------
+[RILLABOOM,2]
+FormName = Gigant Rillaboom
+MegaStone = WISHINGSTAR
+BaseStats = 100,100,90,75,130,135
+Abilities = GRASSYSURGE
+HiddenAbility = GRASSYSURGE
+MegaMessage = 1
+Pokedex = Rillaboom has become one with its forest of drums and lays down beats that shake the world.
+#-------------------------------
+[CINDERACE,1]
+FormName = Mega Cinderace
+MegaStone = MEGASTONE
+Abilities = POUNCE
+HiddenAbility = POUNCE
+BaseStats = 80,172,75,123,105,75
+Pokedex = Mega Cinderace leaves a trail sparks as it dashes. It's hard to tell if its attacks leaves fiery or electrical burns.
+Type1 = FIRE
+Type2 = ELECTRIC
+#-------------------------------
+[CINDERACE,2]
+FormName = Gigant Cinderace
+MegaStone = WISHINGSTAR
+BaseStats = 80,116,75,119,165,75
+Abilities = DROUGHT
+HiddenAbility = DROUGHT
+MegaMessage = 1
+Pokedex = Wishing star energy can sometimes cause the diameter of this Pokémon's fireball to exceed 300 feet.
+#-------------------------------
+[INTELEON,1]
+FormName = Mega Inteleon
+Abilities = PROTEAN
+HiddenAbility = PROTEAN
+MegaStone = MEGASTONE
+BaseStats = 70,135,65,130,175,65
+Pokedex = Mega Inteleon uses its flexible skin to change its appearance throughout a fight, throwing foes off. 
+#-------------------------------
+[INTELEON,2]
+FormName = Gigant Inteleon
+MegaStone = WISHINGSTAR
+BaseStats = 70,85,65,120,225,65
+Abilities = DRIZZLE
+HiddenAbility = DRIZZLE
+MegaMessage = 1
+Pokedex = It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
+#-------------------------------
 [BLOBBOS,1]
 Abilities = ICEFACE
 HiddenAbility = ICEFACE

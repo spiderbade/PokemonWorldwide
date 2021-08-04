@@ -91,7 +91,7 @@
 1156,DARKBARGAIN,Dark Bargain,291,0,DARK,Status,0,5,0,User,0,d,"Sharply raises Speed, Sp. Atk, and Accuracy but Curses the user."
 1162,GRIMSTINGER,Grim Stinger,07D,70,DARK,Physical,100,15,0,NearOther,0,abefp,"This attack inflicts big damage on a sleeping target. It also wakes the target up, however."
 1174,SHADETRANCE,Shade Trance,003,0,DARK,Status,100,15,0,NearOther,0,bce,"Envelops the foe with dark energy, inflicting sleep."
-1188,PREEMPTIVESTRIKE,Preemptive Strike,177,45,DARK,Physical,100,10,0,NearOther,1,abef,"The user strikes the foe to preempt its attack. If this hits first, it deals twice the damage."
+1188,PREEMPTIVESTRIKE,Preemptive Strike,177,35,DARK,Physical,100,10,0,NearOther,1,abef,"The user strikes the foe to preempt its attack. If this hits first, it deals twice the damage."
 #-------------------------------
 763,DEVASTATINGDRAKE,Devastating Drake,164,200,DRAGON,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 65,ROAROFTIME,Roar of Time,0C2,150,DRAGON,Special,90,5,0,NearOther,0,befv,"The user blasts the target with power that distorts even time. The user must rest on the next turn."
@@ -517,7 +517,7 @@
 341,MIST,Mist,056,0,ICE,Status,0,30,0,UserSide,0,d,"The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns."
 705,TRIPLEAXEL,Triple Axel,0BF,20,ICE,Physical,90,10,0,NearOther,0,abefs,"A consecutive three-kick attack that becomes more powerful with each successful hit."
 823,BLOPPYBOP,Bloppy Bop,000,70,ICE,Physical,0,15,0,NearOther,0,abef,"The user bounces on the foe with an unavoidable icy power."
-861,SUPERSNORE,Super Snore,011,85,ICE,Special,100,15,30,NearOther,-1,bek,"An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch."
+861,SUPERSNORE,Super Snore,011,180,ICE,Special,100,15,30,NearOther,-1,bek,"An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch."
 886,COLDFEET,Cold Feet,214,0,ICE,Status,0,10,0,NearOther,0,,"The foe's feet are rooted to the ground with hard ice. This makes them unable to move away."
 900,WINDSOFDESPAIR,Winds of Despair,045,80,ICE,Special,100,5,100,NearOther,0,bef,"The user summons the ravaging winds of an eternal winter. It lowers the target's Special Attack."
 901,UNUSED,Unused,013,80,ICE,Special,50,10,0,NearOther,0,bef,"The user freezes the target's brain vessels. It causes confusion if it hits."
@@ -1000,7 +1000,7 @@
 #-------------------------------
 769,RUNTIMEERROROCCURRED,Runtime Error Occurred,164,200,GLITCH,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 815,ANATTACK,An Attack,000,120,QMARKS,Physical,100,5,0,AllFoes,0,bef,"This is an attack. It does damage."
-816,MEME,Meme,02D,65,GLITCH,Special,100,15,10,NearOther,0,abefk,"The user memes on the target. It may also raise all the user's stats at once."
+816,MEME,Meme,02D,65,QMARKS,Special,100,15,10,NearOther,0,abefk,"The user memes on the target. It may also raise all the user's stats at once."
 894,PAINCANNON,Pain Cannon,299,999,GLITCH,Special,300,3,0,Other,0,befghmv,"A two-turn attack. The user gathers pure energy, then blasts a bundled beam on the second turn. It also has a cooldown."
 898,SUPERGLITCH,Super Glitch,03B,120,GLITCH,Physical,100,5,0,NearOther,0,abef,"The user attacks the target with everything it has. However, it lowers its attack and defense in the process."
 907,COOLTRAINERMOVE,CoolTrainer?,006,0,GLITCH,Status,90,10,0,NearOther,0,bce,"It looks like the user is performing Rapid Spin. It's actually using something like Toxic, though."

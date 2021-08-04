@@ -435,7 +435,15 @@ Outdoor = false
 ShowArea = true
 #-------------------------------
 [079]
-# underboat
+# Cynthia's Cabin
 SnapEdges = true
 Outdoor = false
 Environment = Underwater
+#-------------------------------
+[080]
+# Route 21
+Weather = Rain,10
+Bicycle = true
+Outdoor = true
+Environment = None
+ShowArea = true
