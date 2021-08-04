@@ -2690,7 +2690,7 @@ SNIPER
 WATERVEIL
 
 Mega Inteleon
-SUPERLUCK
+PROTEAN
 
 Gigant Inteleon
 DRIZZLE
