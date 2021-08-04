@@ -2603,8 +2603,16 @@ DISCONCERT
 764. Comfey
 765. Oranguru
 766. Passimian
-767. Wimpod
-768. Golisopod
+
+767; 768. Wimpod-Golisopod [WATER.BUG]
+WIMPOUT-EMERGENCYEXIT
+DEFEATIST
+STORMDRAIN-DISCONCERT
+SMALLTARGET-LEVINSKIN
+
+Mega Golisopod
+TOUGHCLAWS
+
 769. Sandygast
 770. Palossand
 771. Pyukumuku
