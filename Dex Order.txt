@@ -2783,8 +2783,19 @@ DRIZZLE
 897. Spectrier
 898. Calyrex
 Ex-Forms
-899. Rattatak
-900. Invamause, Mega Invamause  - Infiltrator, Invamause BREAK 
+
+889; 900. Rattatak-Invamause [DARK.NORMAL]
+GLUTTONY-STRONGJAW
+THICKFAT
+PICKUP
+HUSTLE
+
+Mega Invamause
+ADAPTABILITY
+
+BREAK Invamause [DARK.ELECTRIC]
+MAGICBOUNCE
+
 901. Surchu
 902. Snowshrew
 903. Snowslash
