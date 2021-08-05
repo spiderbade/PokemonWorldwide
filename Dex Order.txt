@@ -2784,7 +2784,7 @@ DRIZZLE
 898. Calyrex
 Ex-Forms
 
-889; 900. Rattatak-Invamause [DARK.NORMAL]
+899; 900. Rattatak-Invamause [DARK.NORMAL]
 GLUTTONY-STRONGJAW
 THICKFAT
 PICKUP
