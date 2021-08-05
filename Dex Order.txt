@@ -2647,8 +2647,16 @@ TOUGHCLAWS
 800. Necrozma, Necrozma Dawn Wings (Fusion), Necrozma Dusk Mane (Fusion), Ultra Necrozma (Primal)
 801. Magearna, Original Colors Magearna (Natural)
 802. Marshadow, Zenith Marshadow (Auto)
-803. Poipole
-804. Naganadel
+
+803; 804. Poipole-Naganadel
+BEASTBOOST
+POISONTOUCH
+LEVITATE
+VENOMOUS
+
+Mega Naganadel
+TECHNICIAN
+
 805. Stakataka
 806. Blacephalon
 807. Zeraora
