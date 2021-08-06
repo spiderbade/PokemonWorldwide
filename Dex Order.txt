@@ -2641,11 +2641,18 @@ TOUGHCLAWS
 785. Tapu Koko
 786. Tapu Lele
 787. Tapu Bulu
-788. Tapu Fini
-789. Cosmog
-790. Cosmoem
-791. Solgaleo, Radiant Sun Solgaleo (Auto)
-792. Lunala, Full Moon Lunala (Auto)
+788. Tapu Fini=
+
+789; 790; 791; 792. Cosmog-Cosmoem-Solgaleo:Lunala [PSYCHIC-PSYCHIC.STEEL:PSYCHIC.GHOST]
+UNAWARE-FLASHFIRE:SUPERCELL
+STURDY-FULLMETALBODY:SHADOWSHIELD
+LEVITATE-SOLARPOWER:HELIOPHOBIA
+SHIELDDUST-TABOO:TABOO
+
+Radiant Sun Solgaleo
+
+Full Moon Lunala
+
 793. Nihilego
 794. Buzzwole, Mega Triage
 795. Pheromosa
