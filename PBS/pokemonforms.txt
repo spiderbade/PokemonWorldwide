@@ -2327,6 +2327,22 @@ Abilities = ATHENIAN
 HiddenAbility = ATHENIAN
 Pokedex = The power running through Mega Kricketune leaves it constantly twitching. Its claws cannot be used effectively, unlike its powered-up special attacks.
 #-------------------------------
+[LUXRAY,1]
+FormName = Mega Luxray
+MegaStone = MEGASTONE
+Type1 = ELECTRIC
+Type2 = NUCLEAR
+BaseStats = 80,125,88,110,140,80
+Abilities = ATOMIZE
+HiddenAbility = ATOMIZE
+Pokedex = Mega Luxray bursts with electricity when excited. This may slowly fry its own brain.
+#-------------------------------
+[LUXRAY,2]
+FormName = BREAK Luxray
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+BaseStats = 80,146,27,122,121,27
+#-------------------------------
 [BURMY,1]
 FormName = Sandy Cloak
 #-------------------------------
@@ -3715,6 +3731,14 @@ Abilities = DISCONCERT
 HiddenAbility = DISCONCERT
 Pokedex = Its movements flow into each other as though endlessly planned. Mega Oricorio can lull its opponents to sleep in spite of their vigilance.
 #-------------------------------
+[GOLISOPOD,1]
+FormName = Mega Golisopod
+MegaStone = MEGASTONE
+BaseStats = 75,155,205,40,60,95
+Abilities = TOUGHCLAWS
+HiddenAbility = TOUGHCLAWS
+Pokedex = Golisopod's new power has imbued it with confidence. Observers might describe its new battle style as flamboyant and showy.
+#-------------------------------
 [MELTAN,1]
 FormName = Mega Meltan
 MegaStone = MEGASTONE
@@ -3800,6 +3824,25 @@ Pokedex = It has excellent sniping skills. Shooting a berry rolling along over n
 [BLOBBOS,1]
 Abilities = ICEFACE
 HiddenAbility = ICEFACE
+#-------------------------------
+[INVAMAUSE,1]
+FormName = Mega Invamause
+MegaStone = MEGASTONE
+BaseStats = 75,121,90,87,40,100
+Abilities = ADAPTABILITY
+HiddenAbility = ADAPTABILITY
+Pokedex = Invamause uses its newfound power to gnaw its way through enemy strongholds. 
+#-------------------------------
+[INVAMAUSE,2]
+FormName = BREAK Invamause
+Type1 = DARK
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 75,97,23,125,66,28
 #-------------------------------
 [BLOBBOS,2]
 FormName = Mega Blobbos

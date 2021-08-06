@@ -364,6 +364,7 @@
 1154,CLOUDBURST,Cloudburst,03F,140,FLYING,Special,90,5,0,Other,0,bef,"The user obliterates the target with a burst of air pressure."
 #-------------------------------
 755,NEVERENDINGNIGHTMARE,Never-Ending Nightmare,164,200,GHOST,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
+1212,TOMBSTONER,Tombstoner,302,85,GHOST,Physical,100,10,0,NearOther,0,abef,"This attack slams down a tombstone onto the target. The effects on Normal and Ghost-types are inverted."
 231,SHADOWFORCE,Shadow Force,0CD,120,GHOST,Physical,100,5,0,NearOther,0,aef,"The user disappears, then strikes the foe on the second turn. It hits even if the foe protects itself."
 232,MOONGEISTBEAM,Moongeist Beam,163,100,GHOST,Special,100,5,0,NearOther,0,befv,"The user emits a sinister ray. This move can be used on the target regardless of its Abilities."
 233,PHANTOMFORCE,Phantom Force,14D,90,GHOST,Physical,100,10,0,NearOther,0,aef,"The user vanishes somewhere, then strikes on the next turn. Hits through protections."
@@ -737,6 +738,7 @@
 521,SLUDGEWAVE,Sludge Wave,005,95,POISON,Special,100,10,10,AllNearOthers,0,bef,"It swamps the area around the user with a giant sludge wave. It may also poison those hit."
 522,SLUDGEBOMB,Sludge Bomb,005,90,POISON,Special,100,10,30,NearOther,0,befn,"Unsanitary sludge is hurled at the target. It may also poison the target."
 523,POISONJAB,Poison Jab,005,80,POISON,Physical,100,20,30,NearOther,0,abef,"The target is stabbed with a tentacle or arm seeped with poison. It may also poison the target."
+1211,FILTHYCLAW,Filthy Claw,005,80,NORMAL,Physical,100,20,30,NearOther,0,abefp,"The target is raked with dirty claws. It may also poison the target."
 524,CROSSPOISON,Cross Poison,005,70,POISON,Physical,100,20,10,NearOther,0,abefh,"A slashing attack with a poisonous blade that may also poison the foe. Critical hits land more easily."
 525,SLUDGE,Sludge,005,65,POISON,Special,100,20,30,NearOther,0,bef,"Unsanitary sludge is hurled at the target. It may also poison the target."
 526,VENOSHOCK,Venoshock,07B,65,POISON,Special,100,10,0,NearOther,0,bef,"The user drenches the foe in a special poisonous liquid. Its power doubles if the target is poisoned."
