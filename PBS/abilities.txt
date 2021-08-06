@@ -454,3 +454,4 @@
 441,NOESCAPE,No Escape,"You should already know; there's no escaping from Lavender Town! HAHAHA!"
 442,HYPEBEAST,HypeBeast,"The raw awesome this Machamp exudes... it's equivalent to an Ultra Beast's power...?!"
 443,TABOO,Taboo,"Powers up Forbidden-type moves."
+444,ATOMPOWER,Atom Power,"Powers up Nuclear-type moves."
