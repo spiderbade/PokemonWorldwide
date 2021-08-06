@@ -5951,7 +5951,7 @@ CACTUAREFFECTS
 184Kulve Taroth [monster hunter
 185Zorah Magdaros [monster hunter
 186Xeno'jiva [monster hunter
-187Safi'jiva [monster hunter
+187Yian Garuga [monster hunter
 188Alatreon [monster hunter
 189Dire Miralis [monster hunter
 190Fatalis [monster hunter
