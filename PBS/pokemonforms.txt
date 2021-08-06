@@ -3739,6 +3739,22 @@ Abilities = TOUGHCLAWS
 HiddenAbility = TOUGHCLAWS
 Pokedex = Golisopod's new power has imbued it with confidence. Observers might describe its new battle style as flamboyant and showy.
 #-------------------------------
+[SOLGALEO,1]
+FormName = Radiant Sun Solgaleo
+BaseStats = 137,147,107,120,123,96
+#-------------------------------
+[LUNALA,1]
+FormName = Full Moon Lunala
+BaseStats = 137,123,96,120,147,107
+#-------------------------------
+[NAGANADEL,1]
+FormName = Mega Naganadel
+MegaStone = MEGASTONE
+BaseStats = 73,145,80,111,155,76
+Abilities = TECHNICIAN
+HiddenAbility = TECHNICIAN
+Pokedex = Naganadel's needle has grown to the length of a sword. It can spray air with enough force to knock over a Noadkoko.
+#-------------------------------
 [MELTAN,1]
 FormName = Mega Meltan
 MegaStone = MEGASTONE
