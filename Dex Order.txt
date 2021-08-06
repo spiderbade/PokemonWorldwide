@@ -1432,9 +1432,18 @@ SHARPEDGE
 Mega Kricketune [BUG.NORMAL]
 ATHENIAN
 
-403. Shinx
-404. Luxio
-405. Luxray, Mega Luxray , Luxray BREAK 
+403; 404; 405. Shinx-Luxio-Luxray [ELECTRIC]
+STATIC-INTIMIDATE
+RIVALRY
+GUTS
+CUTECHARM
+
+Mega Luxray [ELECTRIC.DARK]
+FLAREBOOST
+
+BREAK Luxray
+MAGICBOUNCE
+
 406. Budew
 407. Roserade
 408. Cranidos
