@@ -1202,8 +1202,16 @@ BLADEMASTER
 340. Whiscash, Gigant Whiscash 
 341. Corphish
 342. Crawdaunt, Mega Crawdaunt 
-343. Baltoy
-344. Claydol
+
+343; 344. Baltoy-Claydol [GROUND.PSYCHIC]
+LEVITATE
+KEENEYE-COMPOUNDEYES
+SANDSPIT
+LONGREACH
+
+Mega Claydol
+TINTEDLENS
+
 345. Lileep
 346. Cradily
 347. Anorith, {Infested}
