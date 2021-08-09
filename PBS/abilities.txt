@@ -455,3 +455,4 @@
 442,HYPEBEAST,HypeBeast,"The raw awesome this Machamp exudes... it's equivalent to an Ultra Beast's power...?!"
 443,TABOO,Taboo,"Powers up Forbidden-type moves."
 444,ATOMPOWER,Atom Power,"Powers up Nuclear-type moves."
+445,KILN,Kiln,"Sharply ups Defense when hit by a Fire-type move."

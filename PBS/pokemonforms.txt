@@ -2045,6 +2045,14 @@ Abilities = BLADEMASTER
 HiddenAbility = BLADEMASTER
 Pokedex = Mega Seviper has studied its mortal enemy and learned their arts, in order to insult as it injures.
 #-------------------------------
+[CLAYDOL,1]
+FormName = Mega Claydol
+MegaStone = MEGASTONE
+BaseStats = 60,90,125,70,130,125
+Abilities = TINTEDLENS
+HiddenAbility = TINTEDLENS
+Pokedex = Its skin has softened due to the warm power in it. Mega Claydol's eyes are an eerie viridescent shade.
+#-------------------------------
 [MILOTIC,1]
 FormName = Mega Milotic
 MegaStone = MEGASTONE
