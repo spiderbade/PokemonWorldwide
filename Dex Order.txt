@@ -2082,6 +2082,19 @@ PROTEAN
 621. Druddigon
 622. Golett
 623. Golurk, Gigant Golurk 
+
+622; 623. Golett-Golurk [GROUND.GHOST]
+IRONFIST
+KLUTZ
+STEELWORKER
+NOGUARD
+
+Mega Golurk [STEEL.GHOST]
+UNSEENFIST
+
+Gigant Golurk
+SANDSTREAM
+
 624. Pawniard
 625. Bisharp, Mega Bisharp 
 626. Bouffalant
