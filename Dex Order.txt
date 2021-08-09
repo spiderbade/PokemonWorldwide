@@ -1558,7 +1558,16 @@ SCRAPPY
 437. Bronzong, Mega Bronzong  - Unaware, Bronzong BREAK 
 438. Bonsly
 440. Happiny
-441. Chatot
+
+441. Chatot [NORMAL.FLYING]
+KEENEYE
+TANGLEDFEET
+BIGPECKS
+AMPLIFIER
+
+Mega Chatot
+BOOMBOX
+
 442. Spiritomb, Mega Spiritomb (Bond)
 
 443; 444; 445. Gible-Gabite-Garchomp [DRAGON.GROUND]
