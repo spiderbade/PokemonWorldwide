@@ -2469,6 +2469,14 @@ Height = 1.3
 Weight = 28.3
 Pokedex = It swings its ears like whips and strikes its enemies with them. It has an intensely combative disposition.
 #-------------------------------
+[CHATOT,1]
+FormName = Mega Chatot
+MegaStone = MEGASTONE
+BaseStats = 76,65,55,111,152,52
+Abilities = BOOMBOX
+HiddenAbility = BOOMBOX
+Pokedex = Chatot are TIRED of being bullied by larger avianoids. They will blow the ears off of the Staraptor and Pidgeot that pushed them around.
+#-------------------------------
 [GARCHOMP,1]
 FormName = Mega Garchomp
 MegaStone = MEGASTONE
@@ -3027,6 +3035,24 @@ BaseStats = 100,25,69,100,200,110
 Abilities = PROTEAN
 HiddenAbility = PROTEAN
 Pokedex = Its limbs rotate around a stationary core. They are melancholy, sometimes staring at the floor and mumbling.
+#-------------------------------
+[GOLURK,1]
+FormName = Mega Golurk
+MegaStone = MEGASTONE
+Type1 = STEEL
+Type2 = GHOST
+BaseStats = 89,150,104,55,95,90
+Abilities = STEELWORKER
+HiddenAbility = STEELWORKER
+Pokedex = Mega Golurk's skin has hardened into stainless steel. Shining energy can be seen coming from its core.
+#-------------------------------
+[GOLURK,2]
+FormName = Gigant Golurk
+MegaMessage = 1
+BaseStats = 89,94,170,55,80,95
+Abilities = SANDSTREAM
+HiddenAbility = SANDSTREAM
+Pokedex = It doesn't look much different at first, but when it gets going, teal inscriptions start to glow.
 #-------------------------------
 [STUNFISK,1]
 FormName = Mega Stunfisk
