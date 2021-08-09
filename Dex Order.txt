@@ -2080,8 +2080,6 @@ PROTEAN
 619. Mienfoo
 620. Mienshao
 621. Druddigon
-622. Golett
-623. Golurk, Gigant Golurk 
 
 622; 623. Golett-Golurk [GROUND.GHOST]
 IRONFIST
