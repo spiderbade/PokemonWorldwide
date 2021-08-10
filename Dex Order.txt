@@ -2411,9 +2411,19 @@ FURCOAT
 
 677. Espurr
 678. Meowstic
-679. Honedge
-680. Doublade
-681. Aegislash, Blade, Mega
+
+679; 680; 681. Honedge-Doublade-Aegislash [STEEL.GHOST]
+CURSEDBODY-STANCECHANGE
+SHARPEDGE-INTREPIDSWORD
+NOGUARD
+REBOUND-DAUNTLESSSHIELD
+
+Mega Aegislash
+DOWNLOAD
+
+Gigant Aegislash
+FILTER
+
 682. Spritzee
 683. Aromatisse
 684. Swirlix
