@@ -1000,9 +1000,16 @@ SWIFTSWIM
 270. Lotad
 271. Lombre
 272. Ludicolo
-273. Seedot
-274. Nuzleaf
-275. Shiftry, Mega Shiftry 
+
+273; 274; 275. Seedot-Nuzleaf-Shiftry [GRASS-GRASS.DARK]
+CHLOROPHYLL
+EARLYBIRD-AVIAN
+SMALLTARGET-PICKPOCKET
+WOODENGUARD
+
+Mega Shiftry
+SHADOWDANCE
+
 276. Taillow
 277. Swellow
 
