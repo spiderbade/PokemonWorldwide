@@ -1,9 +1,8 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [0]
-Name = Kanto
+Name = Fochun
 FileName = mapRegion0.png
-Point = 6,14,"Pallet Town","Oak''s Lab",2,9,14,
 #-------------------------------
 [1]
 Name = Johto
@@ -32,3 +31,8 @@ Filename = mapRegion6.png
 [7]
 Name = Ultra Space
 Filename = mapRegion7.png
+#-------------------------------
+[8]
+Name = Kanto
+Filename = mapRegion8.png
+Point = 6,14,Pallet Town,,002,009,014,

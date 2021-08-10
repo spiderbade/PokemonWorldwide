@@ -19,14 +19,14 @@ MapSize = 2,11010010
 BattleBack = field
 Weather = Rain,10
 Bicycle = true
-MapPosition = 0,13,12
+MapPosition = 8,6,14
 Outdoor = true
 Environment = Grass
 ShowArea = true
 #-------------------------------
 [003]
 # Red's House
-MapPosition = 0,13,12
+MapPosition = 8,6,14
 Outdoor = false
 Environment = None
 HealingSpot = 2,8,8
@@ -34,7 +34,7 @@ ShowArea = true
 #-------------------------------
 [004]
 # Pokémon Lab
-MapPosition = 0,13,12
+MapPosition = 8,6,14
 Outdoor = false
 ShowArea = true
 #-------------------------------
@@ -57,8 +57,8 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [008]
-# Oak's house
-MapPosition = 0,13,12
+# Oak House
+MapPosition = 8,6,14
 Outdoor = false
 ShowArea = true
 #-------------------------------
@@ -173,6 +173,7 @@ ShowArea = true
 # Your Cabin
 DiveMap = 79
 Bicycle = true
+MapPosition = 8,8,16
 Outdoor = false
 Environment = None
 ShowArea = true
@@ -229,12 +230,15 @@ ShowArea = true
 #-------------------------------
 [042]
 # S.S. Whirlpool
+MapPosition = 8,8,16
 Outdoor = false
 ShowArea = true
 #-------------------------------
 [043]
-# Lab 2
+# Sublab
+MapPosition = 8,6,14
 Outdoor = false
+Environment = None
 ShowArea = true
 #-------------------------------
 [044]
@@ -437,6 +441,7 @@ ShowArea = true
 [079]
 # Cynthia's Cabin
 SnapEdges = true
+MapPosition = 8,8,16
 Outdoor = false
 Environment = Underwater
 #-------------------------------
@@ -444,6 +449,11 @@ Environment = Underwater
 # Route 21
 Weather = Rain,10
 Bicycle = true
+MapPosition = 8,6,16
 Outdoor = true
 Environment = None
 ShowArea = true
+#-------------------------------
+[081]
+# Poké Mart
+MapPosition = 8,6,14
