@@ -1012,25 +1012,25 @@
 
 #-------------------------------
 
-835,TM201,TM201,TM201s,4,30000,"Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.",3,0,0,PINMISSILE
+1093,TM201,TM201,TM201s,4,30000,"Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.",3,0,0,PINMISSILE
 
-836,TM202,TM202,TM202s,4,30000,"The user launches sharp icicles at the target two to five times in a row.",3,0,0,ICICLESPEAR
+1094,TM202,TM202,TM202s,4,30000,"The user launches sharp icicles at the target two to five times in a row.",3,0,0,ICICLESPEAR
 
-837,TM203,TM203,TM203s,4,30000,"The user hurls hard rocks at the target. Two to five rocks are launched in a row.",3,0,0,ROCKBLAST
+1095,TM203,TM203,TM203s,4,30000,"The user hurls hard rocks at the target. Two to five rocks are launched in a row.",3,0,0,ROCKBLAST
 
-838,TM204,TM204,TM204s,4,10000,"The user scatters curious leaves that chase the target. This attack never misses.",3,0,0,MAGICALLEAF
+1096,TM204,TM204,TM204s,4,10000,"The user scatters curious leaves that chase the target. This attack never misses.",3,0,0,MAGICALLEAF
 
-839,TM205,TM205,TM205s,4,10000,"In this two-turn attack, the user gathers light and fills a blade with the light's energy, attacking the target on the next turn.",3,0,0,SOLARBLADE
+1097,TM205,TM205,TM205s,4,10000,"In this two-turn attack, the user gathers light and fills a blade with the light's energy, attacking the target on the next turn.",3,0,0,SOLARBLADE
 
-840,TM206,TM206,TM206s,4,30000,"The target becomes trapped within a fierce vortex of fire that rages for four to five turns.",3,0,0,FIRESPIN
+1098,TM206,TM206,TM206s,4,30000,"The target becomes trapped within a fierce vortex of fire that rages for four to five turns.",3,0,0,FIRESPIN
 
-841,TM207,TM207,TM207s,4,10000,"An earsplitting screech harshly lowers the target's Defense stat.",3,0,0,SCREECH
+1099,TM207,TM207,TM207s,4,10000,"An earsplitting screech harshly lowers the target's Defense stat.",3,0,0,SCREECH
 
-842,TM208,TM208,TM208s,4,10000,"The user frightens the target with a scary face to harshly lower its Speed stat.",3,0,0,SCARYFACE
+1100,TM208,TM208,TM208s,4,10000,"The user frightens the target with a scary face to harshly lower its Speed stat.",3,0,0,SCARYFACE
 
-843,TM209,TM209,TM209s,4,10000,"The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.",3,0,0,CHARM
+1101,TM209,TM209,TM209s,4,10000,"The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.",3,0,0,CHARM
 
-844,TM210,TM210,TM210s,4,50000,"The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",3,0,0,BEATUP
+1102,TM210,TM210,TM210s,4,50000,"The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",3,0,0,BEATUP
 
 #-------------------------------
 
