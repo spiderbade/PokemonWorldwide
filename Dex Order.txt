@@ -4244,9 +4244,16 @@ Uranium
 2265.	Mutios
 2266.	Zephy
 Clover
-2267.	Grasstrude
-2268.	Banalgae
-2269.	Erectreem, Mega Erectreem (Mega) - Innards Out
+
+2267; 2268; 2269. Graass-Banalgae-Dirtreem [GRASS-GRASS.GROUND]
+OVERGROW
+CHEEKPOUCH
+INNARDSOUT
+ANALYTIC
+
+Mega Dirtreem [GROUND]
+DIRTY
+
 2270.	Turbomb
 2271.	Igaunabom
 2272.	Lizaxplode, Mega Lizaxplode (Mega) - Aftermath
