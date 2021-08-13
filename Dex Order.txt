@@ -4263,9 +4263,15 @@ DRYSKIN
 Mega Lizaxplode
 CRYSTALCASE
 
-2273.	Jachasm
-2274.	Hosarode
-2275.	Condig, Mega Condig (Mega) - Unaware
+2273; 2274; 2275. Jachasm-Troloxin-Condoil [WATER-WATER.POISON]
+TORRENT
+WATERVEIL-CRYSTALCASE
+UNAWARE-DIRTY
+POLLUTION
+
+Mega Condoil
+UNAWARE
+
 2276.	Squirrap
 2277.	Gampster
 2278.	Kengeon [hold item zinc
