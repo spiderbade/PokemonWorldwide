@@ -77,6 +77,12 @@ LAZY
 Mega Beedrill 
 ADAPTABILITY
 
+Delta Beedrill [BUG.FLYING]
+
+Delta-2 Beedrill [BUG.STEEL]
+
+Delta-3 Beedrill [GRASS.STEEL]
+
 16; 17; 18. Pidgey-Pidgeotto-Pidgeot [NORMAL.FLYING]
 KEENEYE
 TANGLEDFEET
@@ -377,6 +383,8 @@ ANALYTIC
 LEVITATE
 
 Delta Magnemite-Magneton-Magnezone [ELECTRIC]
+
+Delta-2 Magneton-Magnezone [STEEL]
 
 Mega Magneton [ELECTRIC.NUCLEAR]
 ATOMIZE
