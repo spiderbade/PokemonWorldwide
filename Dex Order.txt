@@ -715,6 +715,8 @@ Shadow Mewtwo [PSYCHIC.SHADOW]
 
 Armored Mewtwo [PSYCHIC.STEEL]
 
+Delta Mewtwo [FIRE.STEEL]
+
 133; 134; 135; 136; 196; 197; 470; 471; 700. Eevee-Vaporeon:Jolteon:Flareon:Espeon:Umbreon:Leafeon:Glaceon:Sylveon [NORMAL-WATER:ELECTRIC:FIRE:PSYCHIC:DARK:GRASS:ICE:FAIRY]
 RUNAWAY-WATERABSORB:VOLTABSORB:FLASHFIRE:SYNCHRONIZE:SYNCHRONIZE:LEAFGUARD:SNOWCLOAK:CUTECHARM
 ANTICIPATION-WATERVEIL:IRONBARBS:FLAMEBODY:ANTICIPATION:VENOM:GRASSPELT:WINTERJOY:TANGLINGHAIR
@@ -733,8 +735,12 @@ WATERLOVER
 Mega Jolteon
 GALVANIZE
 
+Delta Jolteon [ELECTRIC.STEEL]
+
 Mega Flareon
 IGNITION
+
+Delta Flareon [FIRE.STEEL]
 
 Mega Espeon
 PSIONICINFUSION
@@ -1067,6 +1073,8 @@ PIXILATE
 Mega Gallade
 INNERFOCUS
 
+Delta-2 Gardevoir [PSYCHIC.STEEL]
+
 283. Surskit
 284. Masquerain
 285. Shroomish
@@ -1350,6 +1358,8 @@ LEVITATE
 Mega Metagross
 TOUGHCLAWS
 
+Delta Metagross [ELECTRIC.STEEL]
+
 377. Regirock
 378. Regice
 379. Registeel
@@ -1365,6 +1375,10 @@ LEVITATE
 
 Mega Latios
 LEVITATE
+
+Delta Latias [ELECTRIC.STEEL]
+
+Delta Latios [ELECTRIC.STEEL]
 
 382. Kyogre [WATER] LEGENDARY
 DRIZZLE
@@ -5854,7 +5868,7 @@ Buddy+
 . https://buddyverse.fandom.com/wiki/Category:Orelonian_Pokémon
 Kaskade
 . https://tvtropes.org/pmwiki/pmwiki.php/WebVideo/TheKaskadeRegion
-Game de ALeks
+Insurgence deltas
 .
 FINAL
 . Keldeus
