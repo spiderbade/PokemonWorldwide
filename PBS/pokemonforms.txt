@@ -237,6 +237,21 @@ Height = 1.4
 Weight = 40.5
 Pokedex = Its legs have become poison stingers. It stabs its prey repeatedly, dealing the final blow with the one on its rear.
 #-------------------------------
+[BEEDRILL,2]
+FormName = Beedrill δ
+Type1 = BUG
+Type2 = FLYING
+#-------------------------------
+[BEEDRILL,3]
+FormName = Beedrill δ2
+Type1 = BUG
+Type2 = STEEL
+#-------------------------------
+[BEEDRILL,4]
+FormName = Beedrill δ3
+Type1 = GRASS
+Type2 = STEEL
+#-------------------------------
 [PIDGEOT,1]
 FormName = Mega Pidgeot
 MegaStone = MEGASTONE
@@ -248,7 +263,7 @@ Weight = 50.5
 Pokedex = With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.
 #-------------------------------
 [PIDGEOT,2]
-FormName = Delta Pidgeot
+FormName = Pidgeot δ
 Type1 = FLYING
 #-------------------------------
 [RATICATE,1]
@@ -489,7 +504,7 @@ MegaMessage = 1
 Pokedex = Its body has grown incredibly long and the coin on its forehead has grown incredibly large - all thanks to Gigantamax power.
 #-------------------------------
 [PERSIAN,3]
-FormName = Delta Persian
+FormName = Persian δ
 Type1 = DARK
 #-------------------------------
 [POLIWAG,1]
@@ -679,15 +694,15 @@ Type1 = FORBIDDEN
 Type2 = FIGHTING
 #-------------------------------
 [GEODUDE,1]
-FormName = Delta Geodude
+FormName = Geodude δ
 Type1 = ROCK
 #-------------------------------
 [GRAVELER,1]
-FormName = Delta Graveler
+FormName = Graveler δ
 Type1 = ROCK
 #-------------------------------
 [GOLEM,1]
-FormName = Delta Golem
+FormName = Golem δ
 Type1 = ROCK
 #-------------------------------
 [GRAVELER,2]
@@ -735,15 +750,15 @@ HiddenAbility = SPEEDSWAP
 Pokedex =The symbiote has expanded over its whole body. Since it is no longer attatched solely to Slowking's head, it does not increase its intelligence as much.
 #-------------------------------
 [MAGNEMITE,1]
-FormName = Delta Magnemite
+FormName = Magnemite δ
 Type1 = ELECTRIC
 #-------------------------------
 [MAGNETON,1]
-FormName = Delta Magneton
+FormName = Magneton δ
 Type1 = ELECTRIC
 #-------------------------------
 [MAGNETON,2]
-FormName = Delta Magneton
+FormName = Magneton δ2
 Type1 = STEEL
 #-------------------------------
 [MAGNETON,3]
@@ -757,11 +772,11 @@ Abilities = ATOMIZE
 HiddenAbility = ATOMIZE
 #-------------------------------
 [MAGNEZONE,1]
-FormName = Delta Magnezone
+FormName = Magnezone δ
 Type1 = ELECTRIC
 #-------------------------------
 [MAGNEZONE,2]
-FormName = Delta Magnezone
+FormName = Magnezone δ2
 Type1 = STEEL
 #-------------------------------
 [MAGNEZONE,3]
@@ -868,7 +883,7 @@ MegaMessage = 1
 Pokedex = Rumor has it that its gigantic mouth leads not into its body, filled with cursed energy, but instead directly to the afterlife.
 #-------------------------------
 [GENGAR,3]
-FormName = Delta Gengar
+FormName = Gengar δ
 Type1 = GHOST
 #-------------------------------
 [ONIX,1]
@@ -1112,13 +1127,13 @@ HiddenAbility = GORILLATACTICS
 Pokedex = Its mindset has narrowed to the point where all it can think of is hitting the target as hard as it can.
 #-------------------------------
 [TANGELA,1]
-FormName = Delta Tangela
+FormName = Tangela δ
 Type1 = BUG
 Abilities = VAMPIRIC,DISCOURAGE
 HiddenAbility = TANGLINGHAIR,SWARM
 #-------------------------------
 [TANGROWTH,1]
-FormName = Delta Tangrowth
+FormName = Tangrowth δ
 Type1 = BUG
 Abilities = VAMPIRIC,DISCOURAGE
 HiddenAbility = TANGLINGHAIR,INSECTAFFINITY
@@ -1283,7 +1298,7 @@ HiddenAbility = WANDERINGSPIRIT
 Pokedex = GrimReaper's shadowy soul hungers for others. It viciously rejects attempts to cure it.
 #-------------------------------
 [JYNX,3]
-FormName = Delta Jynx
+FormName = Jynx δ
 Type1 = ICE
 #-------------------------------
 [PINSIR,1]
@@ -1388,6 +1403,51 @@ Abilities = IGNITION
 HiddenAbility = IGNITION
 Pokedex = It has grown bulky and heavyset. Despite this, Mega Flareon is able to throw its new weight around with surprising agility.
 #-------------------------------
+[ESPEON,1]
+FormName = Mega Espeon
+MegaStone = MEGASTONE
+BaseStats = 65,65,130,110,130,125
+Abilities = PSIONICINFUSION
+HiddenAbility = PSIONICINFUSION
+Pokedex = Mega Espeon passively sees shortly into the future. It tenses up right before it is hit.
+#-------------------------------
+[ESPEON,2]
+FormName = Espeon δ
+Type1 = PSYCHIC
+Type2 = STEEL
+#-------------------------------
+[UMBREON,1]
+FormName = Mega Umbreon
+MegaStone = MEGASTONE
+BaseStats = 95,85,90,105,140,110
+Abilities = DEGENERATE
+HiddenAbility = DEGENERATE
+Pokedex = It is said to attack with the fury of a ravenous ape. Mega Umbreon is said to harness mysterious Blutz Waves to attack.
+#-------------------------------
+[LEAFEON,1]
+FormName = Mega Leafeon
+MegaStone = MEGASTONE
+BaseStats = 65,180,130,95,80,75
+Abilities = GREENTHUMB
+HiddenAbility = GREENTHUMB
+Pokedex = Its tail can slice through solid oak. Mega Leafeon hardly has to fight - it can simply wait out attacks.
+#-------------------------------
+[GLACEON,1]
+FormName = Mega Glaceon
+MegaStone = MEGASTONE
+BaseStats = 65,60,200,65,140,95
+Abilities = REFRIGERATE
+HiddenAbility = REFRIGERATE
+Pokedex = Mega Glaceon's pulse is almost undetectable. It attacks with a slow but precise rhythm.
+#-------------------------------
+[SYLVEON,1]
+FormName = Mega Sylveon
+MegaStone = MEGASTONE
+BaseStats = 95,145,85,60,110,130
+Abilities = PIXILATE
+HiddenAbility = PIXILATE
+Pokedex = Its feelers have strengthened into brutal whips. Mega Sylveon's whip attacks leave nasty lacerations.
+#-------------------------------
 [AERODACTYL,1]
 FormName = Mega Aerodactyl
 MegaStone = MEGASTONE
@@ -1431,7 +1491,7 @@ MegaMessage = 1
 Pokedex = Terrifyingly strong, this Pokémon is the size of a mountain - and moves about as much as one as well.
 #-------------------------------
 [DRAGONITE,2]
-FormName = Delta Dragonite
+FormName = Dragonite δ
 Type2 = DRAGON
 #-------------------------------
 [MEWTWO,1]
@@ -1513,6 +1573,13 @@ WildItemCommon = CELLBATTERY
 WildItemUncommon = CELLBATTERY
 WildItemRare = CELLBATTERY
 BaseStats = 85,114,27,132,154,24
+#-------------------------------
+[CROBAT,3]
+FormName = Crobat δ
+Type1 = BUG
+Type2 = STEEL
+Abilities = INNERFOCUS,SAPSIPPER
+HiddenAbilities = LEVITATE,VAMPIRIC
 #-------------------------------
 [PICHU,1]
 FormName = Spiky-Eared
@@ -1698,6 +1765,16 @@ WildItemRare = ZOMBIEVIRUS
 Color = Green
 Pokedex = It is filled with an eternal hatred for those with intact heads. Fire spurts from the hole its brain stem once was.
 #-------------------------------
+[DELIBIRD,1]
+FormName = Mega Delibird
+MegaStone = MEGASTONE
+Type1 = ICE
+Type2 = FLYING
+BaseStats = 45,60,90,75,70,90
+Abilities = THICKFAT
+HiddenAbility = THICKFAT
+Pokedex = Mega Delibird can fly surprisingly fast for its rotund build. It relaxes floating on water, its bold color repelling most predators. 
+#-------------------------------
 [STANTLER,1]
 FormName = Mega Stantler
 MegaStone = MEGASTONE
@@ -1820,15 +1897,15 @@ Pokedex = Mega Pelipper can snap up a Sharpedo in one swoop. Its known for eatin
 #-------------------------------
 [RALTS,1]
 Type1 = PSYCHIC
-FormName = Delta Ralts
+FormName = Ralts δ
 #-------------------------------
 [KIRLIA,1]
 Type1 = PSYCHIC
-FormName = Delta Kirlia
+FormName = Kirlia δ
 #-------------------------------
 [GARDEVOIR,1]
 Type1 = PSYCHIC
-FormName = Delta Gallade
+FormName = Gallade δ
 #-------------------------------
 [RALTS,2]
 FormName = Rift Ralts
@@ -1880,7 +1957,7 @@ Pokedex = It seeks to deliver death to its enemies. The original Angel of Death 
 [GALLADE,1]
 Type1 = PSYCHIC
 Type2 = FIGHTING
-FormName = Delta-born Gallade
+FormName = Gallade δ-EX
 #-------------------------------
 [GALLADE,3]
 FormName = Mega Gallade
@@ -1919,7 +1996,7 @@ Pokedex = Supporting a giant heavy jewel, it can't change direction very nimbly 
 #-------------------------------
 [MAWILE,1]
 Type1 = STEEL
-FormName = Delta Mawile
+FormName = Mawile δ
 #-------------------------------
 [MAWILE,2]
 FormName = Mega Mawile
@@ -3888,6 +3965,32 @@ Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
 MegaMessage = 1
 Pokedex = It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
+#-------------------------------
+[DIRTREEM,1]
+FormName = Mega Dirtreem
+MegaStone = MEGASTONE
+BaseStats = 90,175,95,80,110,75
+Abilities = DIRTY
+HiddenAbility = DIRTY
+Pokedex = Mega Dirtreem sloughs off dirt as it grows in power. Its attacks shake the ground for miles when they hit the ground.
+#-------------------------------
+[LIZAXPLODE,1]
+FormName = Mega Lizaxplode
+MegaStone = MEGASTONE
+BaseStats = 85,110,65,100,200,65
+Abilities = CRYSTALCASE
+HiddenAbility = CRYSTALCASE
+Pokedex = It does not fear death. Mega Lizaxplode bum-rushes its foes, intending to take them out no matter what.
+#-------------------------------
+[CONDOIL,1]
+FormName = Mega Condoil
+MegaStone = MEGASTONE
+Type1 = WATER
+Type2 = POISON
+Abilities = UNAWARE
+HiddenAbility = UNAWARE
+BaseStats = 120,70,135,75,95,130
+Pokedex = Mega Condoil is shielded by complex polymers. Its skin does not decay, no matter how long it is left to rest.
 #-------------------------------
 [BLOBBOS,1]
 Abilities = ICEFACE

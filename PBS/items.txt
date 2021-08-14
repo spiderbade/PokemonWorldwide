@@ -407,10 +407,10 @@
 490,DIREHIT2,Dire Hit 2,Dire Hit 2s,7,0,"It sharply raises the critical-hit ratio. It wears off if the Pokémon is withdrawn.",0,3,0,
 491,DIREHIT3,Dire Hit 3,Dire Hit 3s,7,0,"It greatly raises the critical-hit ratio. It wears off if the Pokémon is withdrawn.",0,3,0,
 492,GUARDSPEC,Guard Spec.,Guard Specs.,7,1500,"An item that prevents stat reduction among the Trainer's party Pokémon for five turns after use.",0,5,0,
-493,RESETURGE,Reset Urge,Reset Urges,7,0,"When used, it restores any stat changes of an ally Pokémon.",0,0,0,
-494,ABILITYURGE,Ability Urge,Ability Urges,7,0,"When used, it activates the Ability of an ally Pokémon.",0,0,0,
-495,ITEMURGE,Item Urge,Item Urges,7,0,"When used, it causes an ally Pokémon to use its held item.",0,0,0,
-496,ITEMDROP,Item Drop,Item Drops,7,0,"When used, it causes an ally Pokémon to drop a held item.",0,0,0,
+493,RESETURGE,Reset Urge,Reset Urges,7,0,"When used, it restores any stat changes of an ally Pokémon.",0,3,0,
+494,ABILITYURGE,Ability Urge,Ability Urges,7,0,"When used, it reactivates the Ability of an ally Pokémon.",0,3,0,
+495,ITEMURGE,Item Urge,Item Urges,7,0,"When used, it reinstates a used or dropped item.",0,3,0,
+496,ITEMDROP,Item Drop,Item Drops,7,0,"When used, it causes an ally Pokémon to drop a held item.",0,3,0,
 497,BLUEFLUTE,Wake-Up Flute,Wake-Up Flutes,7,100,"A blue flute made from blown glass. Its melody awakens a single Pokémon from sleep.",5,6,0,
 498,YELLOWFLUTE,Focus Flute,Focus Flutes,7,300,"A yellow flute made from blown glass. Its melody snaps a single Pokémon out of confusion.",0,8,0,
 499,REDFLUTE,Discipline Flute,Discipline Flutes,7,200,"A red flute made from blown glass. Its melody snaps a single Pokémon out of infatuation.",0,8,0,
@@ -689,7 +689,7 @@
 726,NUCLINIUM,Nuclinium,Nucliniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,WITHERINGHALFLIFE
 667,ULTRANECROZIUM,Ultranecrozium,Ultranecroziums,8,0,"This is a crystallized form of Z-Power. It was refined from a Sparkling Stone.",5,0,12,LIGHTTHATBURNSTHESKY
 727,SMASHBALL,Smash Ball,Smash Balls,8,0,"It unlocks fully-charged attack that blows the target away.",4,0,0,TRIPLEFINISH
-728,OBLIVIONSHARD,Oblivion Shard,Oblivion Shards,8,0,"A shard of endless infinity. It can teach a deadly attack.",4,0,0,OBLITERATE
+728,OBLIVIONSHARD,Oblivion Shard,Oblivion Shards,8,0,"A shard of endless infinity. It can teach a deadly attack.",4,0,12,OBLITERATE
 729,DRAGONBALL,Dragon Ball,Dragon Balls,8,0,"A mystical orb which contains the secrets of an ultimate technique.",4,0,0,KAMEHAMEHA
 1060,GLOCK,Weird Glock,Weird Glock,8,0,"A weapon intended for human use, infused with energy It can teach a deadly attack.",4,0,0,DELETTHIS
 #-------------------------------
