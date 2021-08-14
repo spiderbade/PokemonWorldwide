@@ -1,3 +1,14 @@
+music
+
+Pallet Townn.mp3 - DJ Zeptastic: Pallet Town Day/Night Style Trap Remix
+
+scripts
+
+GolisopodUser for the following mon scripts!
+
+sprites
+
+mjco - beta mon sprites
 dotifier
 zender1752
 linkd3 - dan
