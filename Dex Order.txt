@@ -915,7 +915,16 @@ WONDERGUARD
 222. Corsola
 223. Remoraid
 224. Octillery
-225. Delibird {}
+
+225. Delibird [ICE.FLYING]
+VITALSPIRIT
+HUSTLE
+INSOMNIA
+MOUNTAINEER
+
+Mega Delibird
+THICKFAT
+
 226. Mantine
 227. Skarmory
 228. Houndour, Infested
