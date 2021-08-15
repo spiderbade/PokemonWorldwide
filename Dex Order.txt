@@ -1447,7 +1447,7 @@ LEVITATE
 IGNITION
 MOXIE
 
-Delta Bagon-Shelgon-Salamence [WATER]
+Delta-2 Bagon-Shelgon-Salamence [WATER]
 DISCOURAGE
 LEVITATE
 HYDROPHILE
