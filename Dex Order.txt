@@ -846,8 +846,8 @@ TOUGHCLAWS
 144. Articuno
 145. Zapdos
 146. Moltres
-147. Dratini
-148. Dragonair
+147. Dratini, delta electric
+148. Dragonair, delta electric
 149. Dragonite, Mega Dragonite , Gigant Dragonite, Delta grass, Delta-2 electric/steel
 
 GSC
@@ -908,7 +908,7 @@ MOLDBREAKER
 
 182. Bellossom
 183. Marill, Graveill  {Delta}
-184. Azumarill, Mega Azumarill[i] , Azombarill 
+184. Azumarill, Mega Azumarill[i] , Azombarill, delta water steel
 185. Sudowoodo, Mega Sudowoodo 
 187. Hoppip
 188. Skiploom
@@ -1041,9 +1041,21 @@ SHEDSKIN
 MULTISCALE
 SANDVEIL-UNNERVE
 
+Delta Larvitar [FIRE]
+GUTS
+FLASHFIRE
+MULTISCALE
+DROUGHT
+
 Infested Pupitar [ROCK.SHADOW]
 TRUANT
 LAZY
+
+Delta Pupitar [FIRE]
+GUTS
+FLASHFIRE
+MULTISCALE
+DROUGHT
 
 Mega Tyranitar
 SANDSTREAM
@@ -1100,7 +1112,7 @@ Mega Swampert
 SWIFTSWIM
 
 261. Poochyena
-262. Mightyena
+262. Mightyena delta dark steel
 263. Zigzagoon
 264. Linoone
 265. Wurmple
@@ -3389,7 +3401,7 @@ Fools Gold
 1262.	Pikachu, Gigant Pikachu (Gigant)
 1263.	Raichu, Mega Raichu (Mega), Raichu BREAK
 1264.	Sandshrew
-1265.	Sandslash
+1265.	Sandslash delta ground steel, delta fighting steel
 1266.	Nidorin
 1267.	Nidorina
 1268.	Nidoqueen, Mega Nidoqueen (Mega), Nidoqueen BREAK (Break)
