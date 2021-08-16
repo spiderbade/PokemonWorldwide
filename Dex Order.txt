@@ -1359,10 +1359,10 @@ SPEEDBOOST-LONGREACH
 Mega Claydol
 TINTEDLENS
 
-345. Lileep
-346. Cradily
-347. Anorith, {Infested}
-348. Armaldo, {Infested}
+345. Lileep, delta dark 
+346. Cradily, delta dark steel
+347. Anorith, {Infested}, delta  tseel
+348. Armaldo, {Infested}, delta fight steel
 
 349; 350. Feebas-Milotic [WATER]
 SWIFTSWIM-MARVELSCALE
