@@ -5987,8 +5987,10 @@ Other
 3784. raindrop1 egg
 3875. raindrop2 swablu
 3876. raindrop3 phoenix
+Hisuian mons legends arcues
+3877
 Clover+
-3877. Ethigator
+. Ethigator
 Gamergator
 Papieroom
 Maggafungi
