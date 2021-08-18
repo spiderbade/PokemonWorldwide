@@ -3273,8 +3273,8 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 1115.	En
 1116.	Sui
 1117.	Zearen
-1118.	
-1119.	Belatio
+1118.	Belatio
+1119.	Ground-Electrode
 CAP
 1120.	Fawnifer
 1121.	Electrelk
