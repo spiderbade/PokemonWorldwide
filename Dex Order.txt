@@ -4616,15 +4616,34 @@ MIRRORARMOR
 2414.	Notridley
 2415.	Demiwaifu
 2416.	Clovenix
-2417.	Reptyke
-2418.	Rasclobber
-2419.	Batterex, Mega Batterex (Mega) - Sleep Talker sleepn’t stops moves
-2420.	Faeriock
-2421.	Sylviun
-2422.	Oburonyxo, Mega Oburonyxo (Mega) - Magician
-2423.	Cloucat
-2424.	Felinbus
-2425.	Deathorus, Mega Deathorus (Mega) - Delta Stream
+
+2417; 2418; 2419. Reptyke-Rasclobber-Batterex [FIGHTING-FIGHTING.DRAGON]
+IRONFIST
+INNERFOCUS
+SHEDSKIN
+REGENERATOR
+
+Mega Batterex
+COMATOSE
+
+2420; 2421; 2422. Faeriock-Sylviun-Oburonyxo [ROCK-ROCK.FAIRY]
+SOLIDROCK
+MAGICGUARD
+TELEPATHY
+REGALIA
+
+Mega Oburonyxo 
+MAGICBOUNCE
+
+2423; 2424; 2425. Cloucat-Felimbus-Deathorus [FLYING-FLYING.DARK]
+TOUGHCLAWS
+CLOUDNINE
+BLOODLUST
+SHOWERPOWER
+
+Mega Deathorus
+AERILATE
+
 2426.	Knogoat
 2427.	Knogrinyu
 2428.	Glasshot
