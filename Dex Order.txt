@@ -6041,6 +6041,8 @@ FINAL
 Fusion Generation
 . Eon
 
+Fusions - that can be naturally found in the wild
+
 Nonmon
 
 1Cat
