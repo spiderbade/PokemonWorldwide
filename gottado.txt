@@ -1,7 +1,6 @@
 OVERWORLD SPRITES
 
 Azumarill - reverse the egg sonic-boombotnik stylE and give him BIG HANDS to punch wiht
-politoed - cyan, droopy, and icicley
 Slaking - slaking but MUSCLE and STANDING UP
 Electivire - FLUFFY BIG WOOL BOY and also electrical burn vibe
 Honchkrow - ULTRA BEARD! ULTRA WIZARD HAT! no wings
@@ -107,3 +106,24 @@ Ditto [shapeshifters]
 Legendary [legendary beasts]
 Mythical [legendary critters]
 Inapplicable [baby pokémon; infertile]
+
+
+
+
+
+SHAPEs
+
+Head 1 Voltorb
+Serpentine 2 Arbok
+Finned 3 Goldeen
+HeadArms 4 Geodude
+HeadBase 5 Lileep - Metapod
+BipedalTail 6 Machop - Raichu
+HeadLegs 7 Oddish
+Quadruped 8 Stantler
+Winged 9 Pidgey
+Multiped 10 Omanyte
+MultiBody 11 Exeggcute
+Bipedal 12 Snorlax
+MultiWinged 13 Butterfree
+Insectoid 14 Lotad - Spinarak
