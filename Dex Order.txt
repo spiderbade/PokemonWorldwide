@@ -4732,15 +4732,34 @@ AERILATE
 2511.	Vivaiger
 2512.	Heliofug
 2513.	Adesign
-2514.	Sadrog
-2515.	Smugrok
-2516.	Peperee, Mega Peperee (Mega) - Infuriate
-2517.	Hodtog
-2518.	Weinebark
-2519.	Saudoge, Mega Saudoge (Mega) - Skill Link
-2520.	Gnarrk
-2521.	Corsharrk
-2522.	Davyjaws, Mega Davyjaws (Mega) - Download
+
+2514; 2515; 2516. Sadrog-Smugrok-Peperee [GRASS-GRASS.ROCK]
+OVERGROW
+DEFEATIST-UNAWARE-ANGERPOINT
+OBLIVIOUS-AMPLIFIER
+WATERABSORB
+
+Mega Peperee 
+INFURIATE
+
+2517; 2518; 2519. Hodtog-Weinebark-Saudoge [FIRE-FIRE.FLYING]
+BLAZE
+BALLFETCH-DRAGONSMAW
+WONDERSKIN
+SKILLLINK
+
+Mega Saudoge
+SKILLLINK
+
+2520; 2521; 2522. Gnarrk-Corsharrk-Davyjaws [WATER-WATER.FIGHTING]
+TORRENT
+PICKPOCKET-SHARPEDGE
+DOWNLOAD
+MOLDBREAKER
+
+Mega Davyjaws
+DRIZZLE
+
 2523.	Runny
 2524.	Bunnigang
 2525.	Emelgy
