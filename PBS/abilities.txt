@@ -456,3 +456,5 @@
 443,TABOO,Taboo,"Powers up Forbidden-type moves."
 444,ATOMPOWER,Atom Power,"Powers up Nuclear-type moves."
 445,KILN,Kiln,"Sharply ups Defense when hit by a Fire-type move."
+456,FIREABSORB,Fire Absorb,"Restores HP if hit by a Fire-type move."
+457,EXPLOSIVEGAS,Explosive Gas,"Inflammatory moves cause explosions, hurting the user."
