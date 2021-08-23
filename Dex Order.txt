@@ -4265,12 +4265,34 @@ LSASV
 2098.	Almaria
 2099.	Asphere
 Uranium
-2100.	Orchynx
-2101.	Metalynx, Mega Metalynx (Mega) - Heatproof
-2102.	Raptorch
-2103.	Archilles, Mega Archilles (Mega) - Drought
-2104.	Eletux
-2105.	Electruxo, Mega Electruxo (Mega) - Drizzle
+
+2100; 2101. Orchynx-Metalynx [GRASS.STEEL]
+OVERGROW
+BATTLEARMOR
+TOUGHCLAWS
+STEELYSPIRIT
+
+Mega Metalynx
+HEATPROOF
+
+2102; 2103. Raptorch-Archilles [FIRE.GROUND]
+BLAZE
+FLAMEBODY
+SUPERLUCK
+POUNCE
+
+Mega Raptorch
+DROUGHT
+
+2104; 2105. Eletux-Electruxo [WATER.ELECTRIC]
+STATIC
+TORRENT
+HYDRATION
+LEVINSKIN
+
+Mega Electruxo
+DRIZZLE
+
 2106.	Chyinmunk
 2107.	Kinetmunk
 2108.	Birbie
