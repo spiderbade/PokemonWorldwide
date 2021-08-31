@@ -1331,7 +1331,7 @@ DESOLATELAND
 329. Vibrava
 330. Flygon, Mega Flygon  - Tinted Lens
 331. Cacnea
-332. Cacturne, Mega Cacturne 
+332. Cacturne [technician], Mega Cacturne 
 
 333; 334. Swablu-Altaria [NORMAL.FLYING-DRAGON.FLYING]
 NATURALCURE
@@ -1655,7 +1655,7 @@ MAGICBOUNCE
 406. Budew
 407. Roserade
 408. Cranidos
-409. Rampardos
+409. Rampardos [rock head]
 410. Shieldon
 411. Bastiodon
 
@@ -3435,7 +3435,7 @@ Fools Gold
 1274.	Vulpix
 1275.	Ninetales, Mega Ninetales (Mega) - Aura Veil auto-lightscreen-reflect, Ninetales BREAK (Break)
 1276.	Jigglypuff, Gigant Jigglypuff (Gigant)
-1277.	Wigglytuff, Mega Wigglytuff (Mega) - Omniamorous non-gender based attraction
+1277.	Wigglytuff [huge power], Mega Wigglytuff (Mega) - Omniamorous non-gender based attraction
 1278.	Zubat
 1279.	Golbat
 1280.	Oddish
