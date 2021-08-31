@@ -4220,6 +4220,27 @@ HiddenAbility = DRIZZLE
 MegaMessage = 1
 Pokedex = It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
 #-------------------------------
+[METALYNX,1]
+FormName = Mega Metalynx
+MegaStone = MEGASTONE
+Abilities = HEATPROOF
+HiddenAbility = HEATPROOF
+BaseStats = 85,140,160,65,70,110
+#-------------------------------
+[ARCHILLES,1]
+FormName = Mega Archilles
+MegaStone = MEGASTONE
+Abilities = DROUGHT
+HiddenAbility = DROUGHT
+BaseStats = 75,90,95,155,135,90
+#-------------------------------
+[ELECTRUXO,1]
+FormName = Mega Electruxo
+MegaStone = MEGASTONE
+Abilities = DRIZZLE
+HiddenAbility = DRIZZLE
+BaseStats = 95,90,95,110,135,105
+#-------------------------------
 [DIRTREEM,1]
 FormName = Mega Dirtreem
 MegaStone = MEGASTONE

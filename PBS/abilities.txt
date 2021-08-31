@@ -79,7 +79,7 @@
 77,TANGLEDFEET,Tangled Feet,"Raises evasion if the Pokémon is confused."
 78,MOTORDRIVE,Motor Drive,"Raises Speed if hit by an Electric-type move."
 79,RIVALRY,Rivalry,"Deals more damage to a foe of the same gender."
-80,STEADFAST,Steadfast,"Raises Speed each time the Pokémon flinches."
+80,STEADFAST,Steadfast,"Raises Speed each time the Pokémon flinches. In addition, it cannot be Fully Paralyzed."
 81,SNOWCLOAK,Snow Cloak,"Raises evasion in a hailstorm."
 82,GLUTTONY,Gluttony,"Encourages the early use of a held Berry."
 83,ANGERPOINT,Anger Point,"Maxes Attack after taking a critical hit."
