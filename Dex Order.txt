@@ -4540,8 +4540,16 @@ UNAWARE
 2330.	Coolcube
 2331.	Tankube
 2332.	Fabkube
-2333.	Smogaroben
-2334.	Smoxilon
+
+2333; 2334. Smogaroben-Smoxilon [POISON.FLYING]
+POISONPOINT
+WHITESMOKE
+TECHNICIAN
+REGENERATOR
+
+Mega Smoxilon
+MOLDBREAKER
+
 2335.	Machmona
 2336.	Bacub
 2337.	Urswine
