@@ -4678,7 +4678,16 @@ AERILATE
 2435.	Bukitlee
 2436.	Lossolith
 2437.	Mimimie
-2438.	Sprucifix
+
+3659; 2438. Eytwig-Sprucifix [GRASS-GRASS.GHOST]
+WOODENGUARD-WONDERGUARD
+USELESS-REGENERATOR
+DEFEATIST-RAINDISH
+GRASSYSURGE-GRASSPELT
+
+Mega Sprucifix [GHOST]
+WONDERGUARD
+
 2439.	Hulkan
 2440.	Nonite
 2441.	Nonegative
@@ -5925,7 +5934,6 @@ Xenoverse
 3657.	Xeno Toxapex
 3658.	Xeno Mewtwo
 Other
-3659.	Eytwig {Baby phantump}
 3660.	Cottonpillar
 3661.	Coldoon
 3662.	Buzmoth
