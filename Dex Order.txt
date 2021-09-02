@@ -3276,15 +3276,34 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 1118.	Belatio
 1119.	Grubdon
 CAP
-1120.	Fawnifer
-1121.	Electrelk
-1122.	Caribolt, Mega Caribolt (Mega) - Galvanize
-1123.	Smogecko
-1124.	Smoguana
-1125.	Smokomodo, Mega Smokodo (Mega) - Bleeder
-1126.	Swirlpool
-1127.	Coribalis
-1128.	Snaelstrom, Mega Snaelstrom (Mega) - Water/Rock, Stamina
+
+1120; 1121; 1122. Fawnifer-Electrelk-Caribolt [GRASS-GRASS.ELECTRIC]
+OVERGROW
+HUSTLE
+LIGHTNINGROD
+GALAVNIZE
+
+Mega Caribolt
+GALVANIZE
+
+1123; 1124; 1125. Smogecko-Smoguana-Smokomodo [FIRE-FIRE.GROUND]
+BLAZE
+COLORCHANGE
+TECHNICIAN
+WHITESMOKE
+
+Mega Smokomodo
+VAPORIZATION
+
+1126; 1127; 1128. Swirlpool-Coribalis-Snaelstrom [WATER-WATER.BUG]
+TORRENT
+SHELLARMOR
+POISONHEAL
+SLIMEEXCRETION
+
+Mega Snaelstrom [WATER.ROCK]
+SAPSIPPER
+
 1129.	Mumbao
 1130.	Jumbao
 1131.	Embirch
