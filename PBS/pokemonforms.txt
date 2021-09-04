@@ -4220,6 +4220,29 @@ HiddenAbility = DRIZZLE
 MegaMessage = 1
 Pokedex = It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
 #-------------------------------
+[CARIBOLT,1]
+FormName = Mega Caribolt
+MegaStone = MEGASTONE
+Abilities = GALVANIZE
+HiddenAbility = GALVANIZE
+BaseStats = 
+#-------------------------------
+[SMOKOMODO,1]
+FormName = Mega Smokomodo
+MegaStone = MEGASTONE
+Abilities = VAPORIZATION
+HiddenAbility = VAPORIZATION
+BaseStats = 
+#-------------------------------
+[SNAELSTROM,1]
+FormName = Mega Snaelstrom
+MegaStone = MEGASTONE
+Type1 = WATER
+Type2 = ROCK
+Abilities = SAPSIPPER
+HiddenAbility = SAPSIPPER
+BaseStats = 
+#-------------------------------
 [METALYNX,1]
 FormName = Mega Metalynx
 MegaStone = MEGASTONE
@@ -4266,6 +4289,14 @@ Abilities = UNAWARE
 HiddenAbility = UNAWARE
 BaseStats = 120,70,135,75,95,130
 Pokedex = Mega Condoil is shielded by complex polymers. Its skin does not decay, no matter how long it is left to rest.
+#-------------------------------
+[SMOXILON,1]
+FormName = Mega Smoxilon
+MegaStone = MEGASTONE
+Abilities = MOLDBREAKER
+HiddenAbility = MOLDBREAKER
+BaseStats = 78,161,71,116,102,73
+Pokedex = Mega Smoxilon aims to float like a Beautifly, sting like a Beedrill. It achieves neither - rather, it hits like a TRUCK.
 #-------------------------------
 [BLOBBOS,1]
 Abilities = ICEFACE
@@ -4323,6 +4354,15 @@ BaseStats = 75,155,70,145,110,70
 Abilities = AERILATE
 HiddenAbility = AERILATE
 Pokedex = When it moves quickly, electricity build up around it. Sometimes, it shocks itself.
+#-------------------------------
+[SPRUCIFIX,1]
+FormName = Mega Sprucifix
+MegaStone = MEGASTONE
+BaseStats = 89,118,122,50,99,115
+Abilities = WONDERGUARD
+HiddenAbility = WONDERGUARD
+Type1 = GHOST
+Pokedex = The floral parts of its body have withered away. Mega Sprucifix sometimes replaces human's skeletons to prey on their souls.
 #-------------------------------
 [PEPEREE,1]
 FormName = Mega Peperee
