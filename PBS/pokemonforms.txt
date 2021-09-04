@@ -4225,14 +4225,14 @@ FormName = Mega Caribolt
 MegaStone = MEGASTONE
 Abilities = GALVANIZE
 HiddenAbility = GALVANIZE
-BaseStats = 
+BaseStats = 59,111,67,111,117,55
 #-------------------------------
 [SMOKOMODO,1]
 FormName = Mega Smokomodo
 MegaStone = MEGASTONE
 Abilities = VAPORIZATION
 HiddenAbility = VAPORIZATION
-BaseStats = 
+BaseStats = 88,146,67,97,158,78
 #-------------------------------
 [SNAELSTROM,1]
 FormName = Mega Snaelstrom
@@ -4241,7 +4241,16 @@ Type1 = WATER
 Type2 = ROCK
 Abilities = SAPSIPPER
 HiddenAbility = SAPSIPPER
-BaseStats = 
+BaseStats = 91,114,130,63,130,107 
+#-------------------------------
+[DENFROTA,1]
+FormName = Mega Denfrota
+MegaStone = MEGASTONE
+Type1 = GRASS
+Type2 = STEEL
+Abilities = STAMINA
+HiddenAbility = STAMINA
+BaseStats = 80,100,123,80,122,120
 #-------------------------------
 [METALYNX,1]
 FormName = Mega Metalynx

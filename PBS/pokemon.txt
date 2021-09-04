@@ -27138,6 +27138,83 @@ Shape = 10
 Kind = Barrier Reef
 Pokedex = Toxapex is its primary prey. Because of this, Corsola have formed a symbiotic relationship with Snaelstrom, maintaining its shell while also avoiding predation.
 Evolutions = 
+# See the documentation on the wiki to learn how to edit this file.
+#------------------------------- 
+[1529]
+Name = Chapebaya
+InternalName = CHAPEBAYA
+Type1 = GRASS
+BaseStats = 45,49,49,45,65,65
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 64
+EffortPoints = 0,0,0,0,1,0
+Rareness = 45
+Happiness = 70
+Abilities = OVERGROW,FRUITRITION
+HiddenAbility = FLUFFY,PHOTOTROPH
+Moves = 
+EggMoves = 
+Compatibility = Grass
+StepsToHatch = 5120
+Height = 0.7
+Weight = 6.9
+Color = Green
+Shape = 1
+Habitat = Forest
+Kind = Peach
+Pokedex = Chapebaya sleeps at the top of peach trees, and jumps down when it wakes up. You may be hit by one falling.
+Evolutions = DENPECHA,Level,16
+#-------------------------------
+[1530]
+Name = Denpecha 
+InternalName = DENPECHA
+Type1 = GRASS
+BaseStats = 60,62,63,60,80,80
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 142
+EffortPoints = 0,0,0,0,1,1
+Rareness = 45
+Happiness = 70
+Abilities = OVERGROW,FRUITRITION
+HiddenAbility = WOODENGUARD,PHOTOTROPH
+Moves = 
+Compatibility = Grass
+StepsToHatch = 5120
+Height = 1.0
+Weight = 13.0
+Color = Green
+Shape = 10
+Habitat = Forest
+Kind = Peach Tree
+Pokedex = Although it is usually still, it can jump to move around in search of better soil.
+Evolutions = DENFROTA,Level,32
+#-------------------------------
+[1531]
+Name = Denfrota
+InternalName = DENFROTA
+Type1 = GRASS
+BaseStats = 80,82,83,80,100,100
+GenderRate = FemaleOneEighth
+GrowthRate = Parabolic
+BaseEXP = 236
+EffortPoints = 0,0,0,0,2,1
+Rareness = 45
+Happiness = 70
+Abilities = OVERGROW,STEELWORKER
+HiddenAbility = WOODENGUARD,PHOTOTROPH
+Moves = 
+Compatibility = Grass
+StepsToHatch = 5120
+Height = 2.0
+Weight = 100.0
+Color = Green
+Shape = 10
+Habitat = Forest
+Kind = Peach Tree
+Pokedex = Denfrota's hard trunk can resist cutting attacks. Scientists think it absorbs minerals from the soil.
+Evolutions = 
 #-------------------------------
 [2100]
 Name = Orchynx
