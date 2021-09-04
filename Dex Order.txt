@@ -3709,9 +3709,12 @@ Netop
 1527.	Type: Full (State, 25)
 1528.	Psicris
 Quartz
-1529.	Chapebaya
-1530.	Denpecha
-1531.	Denfrota, Mega Denfrota (Mega) - Stamina
+
+1529; 1530; 1531. Chapebaya-Denpecha-Denfrota [GRASS]
+
+Mega Denfrota [GRASS.STEEL]
+STAMINA
+
 1532.	Coalchu
 1533.	Rallama
 1534.	Roellma, Mega Roellma (Mega) - Flame Touch poison touch but fire
