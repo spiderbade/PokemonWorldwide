@@ -3719,9 +3719,15 @@ PHOTOTROPH
 Mega Denfrota [GRASS.STEEL]
 STAMINA
 
-1532.	Coalchu
-1533.	Rallama
-1534.	Roellma, Mega Roellma (Mega) - Flame Touch poison touch but fire
+1532; 1533; 1534. Coalchu-Rallama-Roellma [FIRE]
+BLAZE
+RUNAWAY-PICKUP
+CHEEKPOUCH
+FLAMEBODY
+
+Mega Roellma
+IGNITION
+
 1535.	Todad
 1536.	Shroad
 1537.	Bultoad, Mega Bultoad (Mega) - Adaptability
