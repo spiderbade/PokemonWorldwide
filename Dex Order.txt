@@ -3728,9 +3728,15 @@ FLAMEBODY
 Mega Roellma
 IGNITION
 
-1535.	Todad
-1536.	Shroad
-1537.	Bultoad, Mega Bultoad (Mega) - Adaptability
+1535; 1536; 1537. Todad-Shroad-Bultoad [WATER]
+TORRENT
+HEATPROOF
+WATERABSORB
+BEAMBLASTER
+
+Mega Bultoad
+PROTEAN
+
 1538.	Larvet
 1539.	Morfade
 1540.	Eyefly
