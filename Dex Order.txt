@@ -3879,15 +3879,34 @@ PROTEAN
 1677.	Mightdra 
 1678.	Zengredse 
 1679.	Wiami 
-1680.	Potac 
-1681.	Tubirato 
-1682.	Ogritato, Mega Ogritato (Mega) - Intimidate
-1683.	Lavlon
-1684.	Magbol 
-1685.	Canlava, Mega Canlava (Mega) - Mega Launcher
-1686.	Shelldan 
-1687.	Lickä
-1688.	Tongrito, Mega Tongrito (Mega) - Shell Armor
+
+1680; 1681; 1682. Potac-Tubirato-Ogritato [GRASS-GRASS.GROUND]
+OVERGROW
+OBLIVIOUS-MADMAN
+NATURALCURE
+MOUNTAINEER
+
+Mega Ogritato
+GRASSYSURGE
+
+1683; 1684; 1685. Lavlon-Magbol-Canlava [FIRE]
+BLAZE
+FLAMEBODY
+FIREABSORB-FLASHFIRE
+MEGALAUNCHER
+
+Mega Canlava [FIRE.STEEL]
+GUNSLINGER
+ 
+1686; 1687; 1688. Shelldan-Licka-Tongrito [WATER]
+TORRENT
+STICKYHOLD
+SHELLARMOR
+EVENTHORIZON
+
+Mega Tongrito
+SHARPCORAL
+
 1689.	Furbee 
 1690.	Morkibia 
 1691.	Kiwirawa 
