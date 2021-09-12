@@ -8,6 +8,7 @@ GolisopodUser for the following mon scripts!
 
 sprites
 
+baro - shit from quartz
 mjco - beta mon sprites
 dotifier
 zender1752
