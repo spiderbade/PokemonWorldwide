@@ -387,6 +387,13 @@ Weight = 5.9
 Type1 = FORBIDDEN
 Type2 = GHOST
 #-------------------------------
+[PIKOTTON,1]
+FormName = Mega Pikotton
+MegaStone = MEGASTONE
+BaseStats = 55,40,145,75,120,85
+Abilities = PIXILATE
+HiddenAbility = PIXILATE
+#-------------------------------
 [RAICHU,2]
 FormName = Mega Raichu
 MegaStone = MEGASTONE
@@ -405,6 +412,13 @@ Abilities = ELECTRICSURGE
 HiddenAbility = ELECTRICSURGE
 MegaMessage = 1
 Pokedex = The power flowing through it gives it delusions of grandeur. Gigant Raichu may try to roar, but everyone can still tell it's a squeak.
+#-------------------------------
+[HODACHU,1]
+FormName = Mega Hodachu
+MegaStone = MEGASTONE
+BaseStats = 60,90,60,170,120,85
+Abilities = ELECTRICSURGE
+HiddenAbility = ELECTRICSURGE
 #-------------------------------
 [SANDSLASH,1]
 FormName = Mega Sandslash
@@ -2260,6 +2274,17 @@ Height = 2.5
 Weight = 130.3
 Pokedex = The yellow patterns it bears are old scars. The energy from Mega Evolution runs through them, causing it sharp pain and suffering.
 #-------------------------------
+[SHARPEDO,2]
+FormName = Shargashunk
+Type1 = SHADOW
+Type2 = STEEL
+Abilities = POISONTOUCH
+HiddenAbility = POISONTOUCH
+WildItemCommon = ZOMBIEVIRUS
+WildItemUncommon = ZOMBIEVIRUS
+WildItemRare = ZOMBIEVIRUS
+Pokedex = An unknown pathogen puppets Shargashunk, and its new legs, by producing gasses.
+#-------------------------------
 [CAMERUPT,1]
 FormName = Mega Camerupt
 MegaStone = MEGASTONE
@@ -2647,6 +2672,16 @@ BaseStats = 76,134,101,101,118,104
 Abilities = SCRAPPY
 HiddenAbility = SCRAPPY
 Pokedex = Mega Infernape's hand glows with an awesome power. This burning grip tells it to defeat you!
+#-------------------------------
+[PIPLUP,1]
+FormName = Piplup's 7th Evolution
+MegaStone = OBLIVIONSHARD
+Type1 = GLITCH
+Type2 = FORBIDDEN
+BaseStats = 53,151,131,140,161,134
+Abilities = FIGHTINGPOWER
+HiddenAbility = FIGHTINGPOWER
+MegaMessage = 2
 #-------------------------------
 [EMPOLEON,1]
 FormName = Mega Empoleon
@@ -4251,6 +4286,44 @@ Type2 = STEEL
 Abilities = STAMINA
 HiddenAbility = STAMINA
 BaseStats = 80,100,123,80,122,120
+#-------------------------------
+[ROELLAMA,1]
+FormName = Mega Roellma
+MegaStone = MEGASTONE
+BaseStats = 78,130,111,100,130,85
+Abilities = IGNITION
+HiddenAbility = IGNITION
+#-------------------------------
+[BULTOAD,1]
+FormName = Mega Bultoad
+MegaStone = MEGASTONE
+BaseStats = 79,103,120,78,135,115
+Abilities = PROTEAN
+HiddenAbility = PROTEAN
+#-------------------------------
+[OGRITATO,1]
+FormName = Mega Ogritato
+Type1 = GRASS
+MegaStone = MEGASTONE
+BaseStats = 80,117,110,80,118,120
+Abilities = GRASSYSURGE
+HiddenAbility = GRASSYSURGE
+#-------------------------------
+[CANLAVA,1]
+FormName = Mega Canlava
+MegaStone = MEGASTONE
+Type1 = FIRE
+Type2 = STEEL
+BaseStats = 85,145,89,132,90,89
+Abilities = GUNSLINGER
+HiddenAbility = GUNSLINGER
+#-------------------------------
+[TONGRITO,1]
+FormName = Mega Tongrito
+MegaStone = MEGASTONE
+BaseStats = 78,150,103,116,84,103
+Abilities = SHARPCORAL
+HiddenAbility = SHARPCORAL
 #-------------------------------
 [METALYNX,1]
 FormName = Mega Metalynx
