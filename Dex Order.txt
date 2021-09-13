@@ -4003,15 +4003,34 @@ SHARPCORAL
 1777.	Vivaczo 
 1778.	Shaddire 
 1779.	Mothatura
-1780.	Seegg 
-1781.	Flowaby 
-1782.	Jardino, Mega Jardino (Mega) - Grass/Dragon, Unaware
-1783.	Firegg 
-1784.	Embaby 
-1785.	Tyradino, Mega Tyradino (Mega) - Fire/Dragon, Oblivious
-1786.	Aquegg 
-1787.	Ornaby 
-1788.	Oceadino, Mega Oceadino (Mega) - Water/Dragon, Own Tempo
+
+1780; 1781; 1782. Seegg-Flowaby-Jardino [GRASS]
+OVERGROW
+SHELLARMOR-TANGLEDFEET
+SHELLARMOR-PHOTOTROPH
+SHELLARMOR-GORILLATACTICS
+
+Mega Jardino [GRASS.DRAGON]
+UNAWARE
+
+1783; 1784; 1785. Firegg-Embaby-Tyradino [FIRE]
+BLAZE
+SHELLARMOR-SAVAGE
+SHELLARMOR-ABSOLUTION
+SHELLARMOR-DRAGONSMAW
+
+Mega Tyradino [FIRE.DRAGON]
+OBLIVIOUS
+
+1786; 1787; 1788. Aquegg-Ornaby-Oceadino [WATER]
+TORRENT
+SHELLARMOR-SWIFTSWIM
+SHELLARMOR-DRIZZLE
+SHELLARMOR-AVIAN
+
+Mega Oceadino [WATER.DRAGON]
+OWNTEMPO
+
 1789.	Sever 
 1790.	Ayewiraz 
 1791.	Squirrti 
