@@ -6020,7 +6020,7 @@ Xenoverse
 3655.	Xeno Roserade
 3656.	Xeno Mareanie
 3657.	Xeno Toxapex
-3658.	Xeno Mewtwo
+3658.	Xeno Mewtwo https://xenoverse-per-aspera-ad-astra.fandom.com/it/wiki/Xenodex
 Other
 3660.	Cottonpillar
 3661.	Coldoon
