@@ -877,7 +877,7 @@ AIRCONTROL
 Mega Aerodactyl
 TOUGHCLAWS
 
-446; 143. Munchlax-Snorlax
+446; 143. Munchlax-Snorlax [NORMAL]
 EXTREMEOMNIVORE-IMMUNITY
 THICKFAT
 GLUTTONY
@@ -1020,7 +1020,18 @@ TRACE
 Mega Unown
 WONDERGUARD
 
-202. Wobbuffet, Mega Wobbuffet , Wobbuffet BREAK 
+360; 202. Wynaut-Wobbuffet [PSYCHIC]
+SHADOWTAG
+PRISMGUARD
+TELEPATHY
+RESOLUTE
+
+Mega Wobbuffet [PSYCHIC.FIGHTING]
+PUREPOWER
+
+Wobbuffet BREAK [PSYCHIC.ELECTRIC]
+MAGICBOUNCE
+
 203. Girafarig, Mega Girafarig 
 204. Pineco
 205. Forretress
@@ -1458,8 +1469,6 @@ FOREWARN
 
 Mega Absol
 MAGICBOUNCE
-
-360. Wynaut
 
 361; 362; 478. Snorunt-Glalie:Froslass [ICE-ICE:ICE.GHOST]
 INNERFOCUS-INNERFOCUS:SNOWCLOAK
