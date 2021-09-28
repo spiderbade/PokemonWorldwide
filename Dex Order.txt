@@ -877,7 +877,24 @@ AIRCONTROL
 Mega Aerodactyl
 TOUGHCLAWS
 
-143. Snorlax, Mega, Infested, Gigant
+446; 143. Munchlax-Snorlax
+EXTREMEOMNIVORE-IMMUNITY
+THICKFAT
+GLUTTONY
+COMATOSE
+
+Upchuklax [NORMAL.SHADOW]
+INNARDSOUT
+
+Mega Snorlax
+POISONHEAL
+
+Gigant Snorlax
+ADAPTABILITY
+
+Gorelax [NORMAL.SHADOW]
+INNARDSOUT
+
 144. Articuno
 145. Zapdos
 146. Moltres
