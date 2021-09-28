@@ -723,8 +723,36 @@ IronReaper [STEEL.SHADOW]
 BEASTBOOST
 
 124. Jynx, Mega Jynx , Eye-eye , Delta Jynx (Natural)
-125. Electabuzz, Mega Electabuzz , Electabugs 
-126. Magmar, Mega Magmar , Miasmar 
+
+239; 125; 466. Elekid-Electabuzz-Electivire [ELECTRIC]
+STATIC-MOTORDRIVE
+BATTERY-TRANSISTOR
+LIGHTNINGROD
+VITALSPIRIT
+
+Electabugs [BUG.SHADOW]
+SWARM
+
+Electivirmin [BUG.SHADOW]
+TANGLINGHAIR
+
+Mega Electivire [ELECTRIC.FIRE]
+FLUFFY
+
+240; 126; 467. Magby-Magmar-Magmortar [FIRE]
+FLAMEBODY-FIREABSORB
+THICKFAT
+BURNINGSPIRIT
+VITALSPIRIT
+
+Miasmar [GHOST.SHADOW]
+SPIRITCALL
+
+Miasmortar [GHOST.SHADOW]
+BURNINGSPIRIT
+
+Mega Magmortar 
+MEGALAUNCHER
 
 127. Pinsir [BUG]
 HYPERCUTTER
@@ -1090,8 +1118,7 @@ Mega Smeargle [NORMAL.GHOST]
 PRANKSTER
 
 238. Smoochum, Nychum 
-239. Elekid, Darkid 
-240. Magby
+
 241. Miltank, Mega Miltank 
 242. Blissey, Mega Blissey  - Donor passive wish/healing wish on switch ¼ 
 243. Raikou
@@ -1874,8 +1901,6 @@ SNOWWARNING
 461. Weavile, Mega Weavile  - Adaptability
 463. Lickilicky
 464. Rhyperior, Mega Rhyperior  - Mold Breaker
-466. Electivire, Mega Electivire[m] , Electiverm 
-467. Magmortar, Mega Magmortar[n] , Miasmortar 
 468. Togekiss
 469. Yanmega, Mega Yanmega , Yanmega BREAK 
 472. Gliscor, Mega Gliscor  - Poison Heal
