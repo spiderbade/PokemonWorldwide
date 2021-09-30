@@ -458,3 +458,4 @@
 445,KILN,Kiln,"Sharply ups Defense when hit by a Fire-type move."
 456,FIREABSORB,Fire Absorb,"Restores HP if hit by a Fire-type move."
 457,EXPLOSIVEGAS,Explosive Gas,"Inflammatory moves cause explosions, hurting the user."
+458,RAMMINGSPEED,Ramming Speed,"Damage dealt increases with speed, up to a 30% increase."

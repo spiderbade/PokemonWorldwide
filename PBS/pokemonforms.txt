@@ -8,7 +8,6 @@ HiddenAbility = MERCILESS
 WildItemCommon = ZOMBIEVIRUS
 WildItemUncommon = ZOMBIEVIRUS
 WildItemRare = ZOMBIEVIRUS
-Evolutions = IVYSAUR,None,
 Color = Black
 Pokedex = An infestation has turned Bulbasaur into a vicious, cold-hearted predator. It preys mercilessly on grasses and leaves.
 #-------------------------------
@@ -1193,8 +1192,8 @@ MegaStone = MEGASTONE
 Type1 = FIGHTING
 Type2 = ROCK
 BaseStats = 50,230,120,30,15,110
-Abilities = GORILLATACTICS
-HiddenAbility = GORILLATACTICS
+Abilities = ROCKHEAD
+HiddenAbility = ROCKHEAD
 Pokedex = Its mindset has narrowed to the point where all it can think of is hitting the target as hard as it can.
 #-------------------------------
 [WEEZING,1]
@@ -1403,6 +1402,86 @@ Pokedex = GrimReaper's shadowy soul hungers for others. It viciously rejects att
 FormName = Jynx δ
 Type1 = ICE
 #-------------------------------
+[ELECTABUZZ,1]
+FormName = Electabugs
+Type1 = BUG
+Type2 = SHADOW
+Abilities = SWARM
+HiddenAbility = SWARM
+WildItemCommon = ZOMBIEVIRUS
+WildItemUncommon = ZOMBIEVIRUS
+WildItemRare = ZOMBIEVIRUS
+Color = Black
+Pokedex = It is disturbing to look at. Electabugs's fur is writhing with lice and nematodes.
+#-------------------------------
+[ELECTABUZZ,2]
+FormName = Mega Electabuzz
+MegaStone = MEGASTONE
+BaseStats = 65,93,117,105,95,115
+Abilities = VOLTABSORB
+HiddenAbility = VOLTABSORB
+#-------------------------------
+[ELECTIVIRE,1]
+FormName = Electivirmin
+BaseStats = 75,123,85,95,95,67
+Type1 = BUG
+Type2 = SHADOW
+Abilities = TANGLINGHAIR
+HiddenAbility = TANGLINGHAIR
+WildItemCommon = ZOMBIEVIRUS
+WildItemUncommon = ZOMBIEVIRUS
+WildItemRare = ZOMBIEVIRUS
+Pokedex = Electricity excites the worms growing from its skin, causing them to wriggle and entagle Electivirmin's foes.
+#-------------------------------
+[ELECTIVIRE,2]
+FormName = Mega Electivire
+BaseStats = 75,123,127,95,105,115
+Type1 = ELECTRIC
+Type2 = FIRE
+Abilities = FLUFFY
+HiddenAbility = FLUFFY
+MegaStone = MEGASTONE
+#-------------------------------
+[MAGMAR,1]
+FormName = Miasmar
+Type1 = GHOST
+Type2 = SHADOW
+Abilities = SPIRITCALL
+HiddenAbility = SPIRITCALL
+WildItemCommon = ZOMBIEVIRUS
+WildItemUncommon = ZOMBIEVIRUS
+WildItemRare = ZOMBIEVIRUS
+Color = Blue
+Pokedex = The fire around it burns the soul. Its blank eyes stare into the abyss - what they see is unknown.
+#-------------------------------
+[MAGMAR,2]
+FormName = Mega Magmar
+Type1 = FIRE
+Type2 = DRAGON
+MegaStone = MEGASTONE
+BaseStats = 65,95,107,113,110,95
+Abilities = IGNITION
+HiddenAbility = IGNITION
+#-------------------------------
+[MAGMORTAR,1]
+FormName = Miasmortar
+BaseStats = 75,95,95,83,125,67
+Type1 = GHOST
+Type2 = SHADOW
+Abilities = BURNINGSPIRIT
+HiddenAbility = BURNINGSPIRIT
+WildItemCommon = ZOMBIEVIRUS
+WildItemUncommon = ZOMBIEVIRUS
+WildItemRare = ZOMBIEVIRUS
+Pokedex = If one is killed by a Miasmortar, their soul does not arrive in the netherworld - at least not intact.
+#-------------------------------
+[MAGMORTAR,2]
+FormName = Mega Magmortar
+BaseStats = 75,95,107,53,215,95
+Abilities = SHARPSTRIKER
+HiddenAbility = SHARPSTRIKER
+MegaStone = MEGASTONE
+#-------------------------------
 [PINSIR,1]
 FormName = Mega Pinsir
 MegaStone = MEGASTONE
@@ -1597,7 +1676,7 @@ Height = 2.1
 Weight = 79.0
 Pokedex = When it Mega Evolves, it becomes more vicious than ever before. Some say that's because its excess of power is causing it pain.
 #-------------------------------
-[SNORLAX,1]
+[SNORLAX,2]
 FormName = Mega Snorlax
 MegaStone = MEGASTONE
 UnmegaForm = 0
@@ -1608,7 +1687,16 @@ Height = 2.6
 Weight = 740
 Pokedex = Mega Evolution has caused its appetite to balloon. Its opponents risk becoming a tasty treat for it.
 #-------------------------------
-[SNORLAX,2]
+[MUNCHLAX,1]
+FormName = Upchuklax
+Type1 = NORMAL
+Type2 = SHADOW
+BaseStats = 135,85,40,5,40,85
+Abilities = INNARDSOUT
+HiddenAbility = INNARDSOUT
+Pokedex = Its guts can be seen in the back of its throat, jiggling as it moves.
+#-------------------------------
+[SNORLAX,1]
 FormName = Gorelax
 Type1 = NORMAL
 Type2 = SHADOW
@@ -1841,6 +1929,26 @@ BaseStats = 48,50,56,100,112,70
 Abilities = WONDERGUARD
 HiddenAbility = WONDERGUARD
 Pokedex = The energy coming from it has attracted a swarm of its fellows. Mega Unown could be described as a gestalt entity.
+#-------------------------------
+[WOBBUFFET,1]
+FormName = Mega Wobbuffet
+MegaStone = MEGASTONE
+BaseStats = 190,63,118,13,33,88
+Abilities = PUREPOWER
+HiddenAbility = PUREPOWER
+Type1 = PSYCHIC
+Type2 = FIGHTING
+#-------------------------------
+[WOBBUFFET,2]
+FormName = BREAK Wobbuffet
+Type1 = PSYCHIC
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 190,52,20,71,52,20
 #-------------------------------
 [SCIZOR,1]
 FormName = Mega Scizor
@@ -4324,6 +4432,33 @@ MegaStone = MEGASTONE
 BaseStats = 78,150,103,116,84,103
 Abilities = SHARPCORAL
 HiddenAbility = SHARPCORAL
+#-------------------------------
+[JARDINO,1]
+FormName = Mega Jardino
+MegaStone = MEGASTONE
+Type1 = GRASS
+Type2 = DRAGON
+BaseStats = 70,110,75,145,145,85
+Abilities = UNAWARE
+HiddenAbility = UNAWARE
+#-------------------------------
+[TYRADINO,1]
+FormName = Mega Tyradino
+MegaStone = MEGASTONE
+Type1 = FIRE
+Type2 = DRAGON
+BaseStats = 80,160,80,100,130,80
+Abilities = OBLIVIOUS
+HiddenAbility = OBLIVIOUS
+#-------------------------------
+[OCEADINO,1]
+FormName = Mega Oceadino
+Type1 = WATER
+Type2 = DRAGON
+MegaStone = MEGASTONE
+BaseStats = 100,150,110,70,95,110
+Abilities = OWNTEMPO
+HiddenAbility = OWNTEMPO
 #-------------------------------
 [METALYNX,1]
 FormName = Mega Metalynx
