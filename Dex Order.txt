@@ -1346,7 +1346,7 @@ GALVANIZE
 Mega Manectric
 INTIMIDATE
 
-311; 312. Plusle:Minun-Minusle [ELECTRIC]
+311; 312; 6168. Plusle:Minun-Minusle [ELECTRIC]
 PLUS:MINUS-POWERSPOT
 STATIC-TRANSISTOR
 MAGNETPULL
@@ -6273,7 +6273,7 @@ Fusion Generation
 
 Fusions - that can be naturally found in the wild
 
-Nonmon
+Nonmon (9000)
 
 1Cat
 2Smilodon
@@ -6523,7 +6523,7 @@ CACTUAREFFECTS
 244blackfrost
 245pyrojsck
 
-Fusions
+Fusions (6000)
 1. Eeveesaur
 2. Leafusaur
 3. Charvee
@@ -6691,7 +6691,6 @@ Fusions
 165. Hauntrode
 166. Drillett
 167. Drilltrio
-168. Minusle
 169. Manectales
 170. Arbitar
 171. Kakunin
