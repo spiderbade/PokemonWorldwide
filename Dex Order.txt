@@ -4516,8 +4516,16 @@ DRIZZLE
 2175.	S51-A
 2176.	Paraudio
 2177.	Paraboom
-2178.	Flager
-2179.	Inflagetah
+
+2178; 2179. Flager-Inflagetah [FIRE]
+BLAZE
+FLASHFIRE-ACCELERATION
+SPEEDBOOST
+POUNCE
+
+Mega Inflagetah
+ACCELERATION
+
 2180.	Chimical
 2181.	Chimaconda
 2182.	Tikiki
