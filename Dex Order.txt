@@ -6107,9 +6107,19 @@ Other
 3664.	Marinoga
 3665.	Robo Groudon
 3666.	Robo Kyogre
-3667.	Electrath
-3668.	Elekit
-3669.	Darkit
+
+3668; 3669; 3667. Elekit:Darkit-Electrath [ELECTRIC:DARK-ELECTRIC.DARK]
+STATIC
+SUPERCELL
+DEGENERATE
+VOLTABSORB
+
+Mega Electrath
+DEGENERATE
+
+BREAK Electrath
+MAGICBOUNCE
+
 3670.	Drilla
 3671.	Beeeeee
 3672.	Panstati
