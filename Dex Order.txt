@@ -1784,7 +1784,15 @@ Swarm Combee
 Mega Vespiquen [BUG.POISON]
 INFILTRATOR
 
-417. Pachirisu
+417. Pachirisu [ELECTRIC]
+RUNAWAY
+PICKUP
+VOLTABSORB
+CHEEKPOUCH
+
+Mega Pachirisu [ELECTRIC.FAIRY]
+EXTREMEOMNIVORE
+
 418. Buizel
 419. Floatzel
 
