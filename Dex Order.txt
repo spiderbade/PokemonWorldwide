@@ -2290,7 +2290,14 @@ Winter Sawsbuck
 Mega Sawsbuck [GRASS]
 WOODENGUARD
 
-587. Emolga
+587. Emolga [ELECTRIC.FLYING]
+STATIC
+GLUTTONY
+MOTORDRIVE
+LIGHTNINGROD
+
+Mega Emolga 
+AIRCONTROL
 
 588; 589. Karrablast-Escavalier [BUG-BUG.STEEL]
 SWARM
