@@ -2967,7 +2967,16 @@ TOUGHCLAWS
 774. Minior, Core Minior (Auto)
 775. Komala
 776. Turtonator
-777. Togedemaru
+
+777. Togedemaru [ELECTRIC.STEEL]
+IRONBARBS
+LIGHTNINGROD
+STURDY
+THICKFAT
+
+Mega Togedemaru
+SERENEGRACE
+
 778. Mimikyu, Busted Mimikyu (Auto), True Mimikyu (State)
 779. Bruxish
 780. Drampa
