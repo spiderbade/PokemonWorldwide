@@ -189,10 +189,10 @@ PIXILATE
 SANDVEIL
 ROUGHSKIN-IRONBARBS
 SANDRUSH
-SUPERLUCK
+SHARPEDGE
 
 Mega Sandslash [GROUND.STEEL]
-SHARPEDGE
+SUPERLUCK
 
 29; 30; 31. Nidorin-Nidorina-Nidoqueen [POISON-POISON.GROUND]
 POISONPOINT
@@ -3181,8 +3181,15 @@ ADAPTABILITY
 BREAK Invamause [DARK.ELECTRIC]
 MAGICBOUNCE
 
-902. Snowshrew
-903. Snowslash
+902; 903. Snowshrew-Snowslash [ICE.STEEL]
+SNOWCLOAK
+ROUGHSKIN-IRONBARBS
+SLUSHRUSH
+SHARPEDGE
+
+Mega Snowslash
+SUPERLUCK
+
 904. Arpix [babiriberry
 905. Santales, Mega Santales  - Aura Veil, Santales BREAK  [babiriberry
 906. Wiglett[hold metalpowder
