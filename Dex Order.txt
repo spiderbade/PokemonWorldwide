@@ -3130,7 +3130,22 @@ DRIZZLE
 874. Stonjourner
 875. Eiscue, Busted Eiscue (Auto)
 876. Indeedee
-877. Morpeko, Hangry Morpeko (Auto) [hasty mint holder
+
+877. Morpeko [ELECTRIC.DARK]
+HUNGERSWITCH
+GLUTTONY
+CHEEKPOUCH
+THICKFAT
+
+Hangry Morpeko
+HUNGERSWITCH
+GLUTTONY
+CHEEKPOUCH
+ANGERPOINT
+
+Mega Morpeko
+ENRAGE
+
 878. Cufant [holds lagging tail
 879. Copperajah[holds lagging tail
 880. Ornithozolt
