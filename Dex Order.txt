@@ -993,8 +993,37 @@ Mega Ampharos [ELECTRIC.DRAGON]
 MOLDBREAKER
 
 182. Bellossom
-183. Marill, Graveill  {Delta}
-184. Azumarill, Mega Azumarill[i] , Azombarill, delta water steel
+
+298; 183; 184. Azurill-Marill-Azumarill [NORMAL.FAIRY-WATER.FAIRY]
+THICKFAT
+HUGEPOWER
+SAPSIPPER
+UNIONIZED
+
+Aborill [FAIRY.SHADOW]
+GOOEY
+
+Delta Azuril [NORMAL]
+
+Delta-2 Azurill [NORMAL.STEEL]
+
+Graveil [FAIRY.SHADOW]
+GOOEY
+
+Delta Marill [WATER]
+
+Delta-2 Mairll [WATER.STEEL]
+
+Azombarill [FAIRY.SHADOW]
+GOOEY
+
+Delta Azumarill [WATER]
+
+Delta-2 Azumarill [WATER.STEEL]
+
+Mega Azumarill
+HUGEPOWER
+
 185. Sudowoodo, Mega Sudowoodo 
 187. Hoppip
 188. Skiploom
@@ -1284,7 +1313,6 @@ STURDY
 295. Exploud
 296. Makuhita
 297. Hariyama
-298. Azurill, Aborill 
 299. Nosepass
 300. Skitty
 301. Delcatty
