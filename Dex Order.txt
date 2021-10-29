@@ -2287,8 +2287,16 @@ POISONHEAL
 
 570. Zorua
 571. Zoroark, Mega Zoroark  - Trace, Zoroark BREAK 
-572. Minccino
-573. Cinccino
+
+572; 573. Minccino-Cinccino [NORMAL]
+CUTECHARM
+TECHNICIAN
+SKILLLINK
+PICKUP-FLUFFY
+
+Mega Cinccino
+SKILLLINK
+
 574. Gothita
 575. Gothorita
 576. Gothitelle, Mega Gothitelle 
