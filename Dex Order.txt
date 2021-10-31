@@ -3013,7 +3013,23 @@ THICKFAT
 Mega Togedemaru
 SERENEGRACE
 
-778. Mimikyu, Busted Mimikyu (Auto), True Mimikyu (State)
+778. Mimikyu [GHOST.FAIRY]
+DISGUISE
+ANGERPOINT
+CUTECHARM
+TRANSISTOR
+
+Busted Mimikyu
+
+True Mimikyu
+CURSEDBODY
+TRANSISTOR
+ABSOLUTELYTERRIFYING
+SHADOWSYNERGY
+
+Mega Mimikyu [SHADOW.FAIRY]
+ETHEREALSHROUD
+
 779. Bruxish
 780. Drampa
 781. Dhelmise
