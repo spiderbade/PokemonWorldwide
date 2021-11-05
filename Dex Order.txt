@@ -1472,8 +1472,15 @@ BLADEMASTER
 338. Solrock, Mega Solrock  - Rock/Solar, Drought
 339. Barboach
 340. Whiscash, Gigant Whiscash 
-341. Corphish
-342. Crawdaunt, Mega Crawdaunt 
+
+341; 342. Corphish-Crawdaunt [WATER-WATER.DARK]
+HYPERCUTTER
+SHELLARMOR
+ADAPTABILITY
+EXTREMEOMNIVORE
+
+Mega Crawdaunt
+ADAPTABILITY
 
 343; 344. Baltoy-Claydol [GROUND.PSYCHIC]
 LEVITATE
