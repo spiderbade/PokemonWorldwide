@@ -6655,7 +6655,8 @@ CACTUAREFFECTS
 241Antispiral {gurren lagan
 243Jsckfrost
 244blackfrost
-245pyrojsck
+245pyrojack
+246Metroid
 
 Fusions (6000)
 1. Eeveesaur
