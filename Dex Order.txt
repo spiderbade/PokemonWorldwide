@@ -2755,8 +2755,15 @@ DOWNLOAD
 Gigant Aegislash
 FILTER
 
-682. Spritzee
-683. Aromatisse
+682; 683. Spritzee-Aromatisse [FAIRY]
+HEALER
+CUTECHARM-STENCH
+AROMAVEIL
+REGENERATOR
+
+Mega Aromatisse [FAIRY.POISON]
+POISONTOUCH
+
 684. Swirlix
 685. Slurpuff
 686. Inkay
