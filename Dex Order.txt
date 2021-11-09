@@ -942,9 +942,30 @@ INNARDSOUT
 144. Articuno
 145. Zapdos
 146. Moltres
-147. Dratini, delta electric
-148. Dragonair, delta electric
-149. Dragonite, Mega Dragonite , Gigant Dragonite, Delta grass, Delta-2 electric/steel
+
+147; 148; 149. Dratini-Dragonair-Dragonite [DRAGON-DRAGON.FLYING]
+SHEDSKIN-INNERFOCUS
+SWIFTSWIM
+MARVELSCALE-MULTISCALE
+DRAGONSHIFT
+
+Delta Dratini-Dragonair-Dragonite [ELECTRIC-ELECTRIC.STEEL]
+SHEDSKIN-INNERFOCUS
+SWIFTSWIM-LEVITATE
+MARVELSCALE-MULTISCALE
+DRAGONSMAW
+
+Delta-2 Dratini-Dragonair-Dragonite [GRASS.WATER-GRASS]
+SHEDSKIN-STEADFAST
+SWIFTSWIM-LEVITATE
+MARVELSCALE
+DRAGONSMAW
+
+Mega Dragonite
+TOUGHCLAWS
+
+Gigant Dragonite [DRAGON.WATER]
+DELTASTREAM
 
 GSC
 
