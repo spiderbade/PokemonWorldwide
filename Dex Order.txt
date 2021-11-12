@@ -2466,14 +2466,11 @@ SANDSTREAM
 630. Mandibuzz, Mega Mandibuzz , Mandibuzz BREAK 
 631. Heatmor
 632. Durant
-633. Deino
-634. Zweilous
-635. Hydreigon, Mega Hydreigon  - Disenchant, Hydreigon BREAK 
 
 633; 634; 635. Deino-Zweilous-Hydreigon [DARK.DRAGON]
 HUSTLE-LEVITATE
 BERSERK
-DARKAURA
+INTIMIDATE
 SPECTRALJAWS
 
 Mega Hydreigon
