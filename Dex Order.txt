@@ -2469,6 +2469,19 @@ SANDSTREAM
 633. Deino
 634. Zweilous
 635. Hydreigon, Mega Hydreigon  - Disenchant, Hydreigon BREAK 
+
+633; 634; 635. Deino-Zweilous-Hydreigon [DARK.DRAGON]
+HUSTLE-LEVITATE
+BERSERK
+DARKAURA
+SPECTRALJAWS
+
+Mega Hydreigon
+DISENCHANT
+
+BREAK Hydreigon [DRAGON.ELECTRIC]
+MAGICBOUNCE
+
 636. Larvesta
 637. Volcarona
 638. Cobalion
