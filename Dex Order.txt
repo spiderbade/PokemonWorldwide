@@ -3024,7 +3024,19 @@ DISCONCERT
 743. Ribombee
 744. Rockruff
 745. Lycanroc, Midnight Lycanroc (Natural), Dusk Lycanroc (Natural)
-746. Wishiwashi, School Wishiwashi (Auto)
+
+746. Wishiwashi [WATER]
+SCHOOLING
+SWIFTSWIM
+SMALLTARGET
+STREAMLINE
+
+School Wishiwashi
+SCHOOLING
+
+Mega Wishiwashi
+LEARNEAN
+
 747. Mareanie
 748. Toxapex, MEga Corrosion
 749. Mudbray
