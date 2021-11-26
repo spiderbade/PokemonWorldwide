@@ -201,7 +201,7 @@ FormName = Mega Butterfree
 MegaStone = MEGASTONE
 Type1 = BUG
 Type2 = PSYCHIC
-BaseStats = 60,44,55,101,150,85
+BaseStats = 60,15,50,145,145,80
 Abilities = SIMPLE
 HiddenAbility = SIMPLE
 Weight = 44
@@ -425,8 +425,8 @@ MegaStone = MEGASTONE
 Type1 = GROUND
 Type2 = STEEL
 BaseStats = 75,100,160,105,35,75
-Abilities = SHARPEDGE
-HiddenAbility = SHARPEDGE
+Abilities = SUPERLUCK
+HiddenAbility = SUPERLUCK
 Pokedex = It is a master blade-user. Mega Sandslash will find the chinks in its opponent's armor and target them with ruthless efficiency.
 #-------------------------------
 [NIDORINA,1]
@@ -1223,6 +1223,13 @@ HiddenAbility = FILTER
 Pokedex = Mega Choaking can run on its own power almost idefinitely. Research is being conducted into using something similar as a power source for space travel.
 BaseStats = 65,100,120,50,155,100
 #-------------------------------
+[RHYPERIOR,1]
+FormName = Mega Rhyperior
+MegaStone = MEGASTONE
+Abilities = MOLDBREAKER
+HiddenAbility = MOLDBREAKER
+BaseStats = 115,180,130,90,60,60
+#-------------------------------
 [TANGELA,1]
 FormName = Tangela δ
 Type1 = BUG
@@ -1402,6 +1409,14 @@ Pokedex = GrimReaper's shadowy soul hungers for others. It viciously rejects att
 FormName = Jynx δ
 Type1 = ICE
 #-------------------------------
+[ELEKID,1]
+FormName = Darkid
+Type1 = BUG
+Type2 = SHADOW
+Abilities = SWARM
+HiddenAbility = SWARM
+Pokedex = It is said that Darkid's very presence is anathema to computer systems.
+#-------------------------------
 [ELECTABUZZ,1]
 FormName = Electabugs
 Type1 = BUG
@@ -1478,8 +1493,8 @@ Pokedex = If one is killed by a Miasmortar, their soul does not arrive in the ne
 [MAGMORTAR,2]
 FormName = Mega Magmortar
 BaseStats = 75,95,107,53,215,95
-Abilities = SHARPSTRIKER
-HiddenAbility = SHARPSTRIKER
+Abilities = GUNSLINGER
+HiddenAbility = GUNSLINGER
 MegaStone = MEGASTONE
 #-------------------------------
 [PINSIR,1]
@@ -1522,8 +1537,8 @@ MegaStone = MEGASTONE
 Type1 = WATER
 Type2 = ICE
 BaseStats = 130,125,140,75,70,95
-Abilities = REFRIGERATE
-HiddenAbility = REFRIGERATE
+Abilities = GLACIALIZE
+HiddenAbility = GLACIALIZE
 Pokedex = Its shell is said to be impenetrable to all but the hottest flames. Unfamiliar Pokémon that approach it risk being frozen alive
 #-------------------------------
 [LAPRAS,2]
@@ -1717,9 +1732,71 @@ Weight = 740
 MegaMessage = 1
 Pokedex = Terrifyingly strong, this Pokémon is the size of a mountain - and moves about as much as one as well.
 #-------------------------------
-[DRAGONITE,2]
+[DRATINI,1]
+FormName = Dratini δ
+Type1 = ELECTRIC
+Abilities = SHEDSKIN,SWIFTSWIM
+HiddenAbility = MARVELSCALE,DRAGONARMOR
+#-------------------------------
+[DRAGONAIR,1]
+FormName = Dragonair δ
+Type1 = ELECTRIC
+Abilities = SHEDSKIN,SWIFTSWIM
+HiddenAbility = MARVELSCALE,DRAGONARMOR
+#-------------------------------
+[DRAGONITE,1]
 FormName = Dragonite δ
-Type2 = DRAGON
+Type1 = ELECTRIC
+Type2 = STEEL
+Abilities = INNERFOCUS,LEVITATE
+HiddenAbility = MULTISCALE,DRAGONARMOR
+#-------------------------------
+[DRATINI,2]
+FormName = Dratini δ2
+Type1 = GRASS
+Type2 = WATER
+Abilities = SHEDSKIN,SWIFTSWIM
+HiddenAbility = MARVELSCALE,DRAGONARMOR
+#-------------------------------
+[DRAGONAIR,2]
+FormName = Dragonair δ2
+Type1 = GRASS
+Type2 = WATER
+Abilities = SHEDSKIN,SWIFTSWIM
+HiddenAbility = MARVELSCALE,DRAGONARMOR
+#-------------------------------
+[DRAGONITE,2]
+FormName = Dragonite δ2
+Type1 = GRASS
+Abilities = STEADFAST,LEVITATE
+HiddenAbility = LONGEVITY,DRAGONARMOR
+#-------------------------------
+[DRATINI,3]
+FormName = Dratini Pre-δ3
+#-------------------------------
+[DRAGONAIR,3]
+FormName = Dragonair Pre-δ3
+#-------------------------------
+[DRAGONITE,3]
+FormName = Dragonite δ3
+Type1 = DRAGON
+#-------------------------------
+[DRAGONITE,4]
+FormName = Mega Dragonite
+MegaStone = MEGASTONE
+BaseStats = 91,164,110,91,122,122
+Abilities = TOUGHCLAWS
+HiddenAbility = TOUGHCLAWS
+#-------------------------------
+[DRAGONITE,5]
+FormName = Gigant Dragonite
+MegaStone = WISHINGSTAR
+Type1 = DRAGON
+Type2 = WATER
+BaseStats = 91,114,160,91,122,122
+Abilities = DELTASTREAM
+HiddenAbility = DELTASTREAM
+MegaMessage = 1
 #-------------------------------
 [MEWTWO,1]
 FormName = Mega Mewtwo
@@ -1826,6 +1903,63 @@ BaseStats = 90,95,105,45,165,110
 Abilities = MOLDBREAKER
 HiddenAbility = MOLDBREAKER
 Pokedex = Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.
+#-------------------------------
+[AZURILL,1]
+FormName = Aborill
+Type1 = FAIRY
+Type2 = SHADOW
+Abilities = GOOEY
+HiddenAbility = GOOEY
+Pokedex = Aborill is known to be a parasite, being found on the hides of whales.
+#-------------------------------
+[AZURILL,2]
+FormName = Azurill δ
+Type1 = NORMAL
+#-------------------------------
+[AZURILL,3]
+FormName = Azurill δ2
+Type1 = NORMAL
+Type2 = STEEL
+#-------------------------------
+[MARILL,1]
+FormName = Graveil
+Type1 = FAIRY
+Type2 = SHADOW
+Abilities = GOOEY
+HiddenAbility = GOOEY
+Pokedex = Graveil is said to be the product of a Drifloon consuming a Marill whole.
+#-------------------------------
+[MARILL,2]
+FormName = Marill δ
+Type1 = WATER
+#-------------------------------
+[MARILL,3]
+FormName = Marill δ2
+Type1 = WATER
+Type2 = STEEL
+#-------------------------------
+[AZUMARILL,1]
+FormName = Azombarill
+Type1 = FAIRY
+Type2 = SHADOW
+Abilities = GOOEY
+HiddenAbility = GOOEY
+Pokedex = When touched, it has a disgusting rubbery feel. Azombarill sometimes lets out bubbles of hydrogen gas.
+#-------------------------------
+[AZUMARILL,2]
+FormName = Azumarill δ
+Type1 = WATER
+#-------------------------------
+[AZUMARILL,3]
+FormName = Azumarill δ2
+Type1 = WATER
+Type2 = STEEL
+#-------------------------------
+[AZUMARILL,4]
+FormName = Mega Azumarill
+Abilities = HUGEPOWER
+HiddenAbility = HUGEPOWER
+BaseStats = 100,90,85,90,60,95
 #-------------------------------
 [QUAGSIRE,1]
 FormName = Mega Quagsire
@@ -1992,7 +2126,7 @@ Color = Green
 Evolutions = HOUNDOOM,None,
 Pokedex = The lack of a head removes a significant amount of its problem-solving abilities. It is unable to convince its former fellows that it is indeed 'fine'.
 #-------------------------------
-[HOUNDOOM,1]
+[HOUNDOOM,2]
 FormName = Mega Houndoom
 MegaStone = MEGASTONE
 BaseStats = 75,90,90,115,140,90
@@ -2002,7 +2136,7 @@ Height = 1.9
 Weight = 49.5
 Pokedex = Its red claws and the tips of its tail are melting from high internal temperatures that are painful to Houndoom itself.
 #-------------------------------
-[HOUNDOOM,2]
+[HOUNDOOM,1]
 FormName = Headoom
 Type1 = DARK
 Type2 = SHADOW
@@ -2351,6 +2485,27 @@ Height = 1.8
 Weight = 44.0
 Pokedex = Too much electricity has built up in its body, irritating Manectric. Its explosive speed looks like that of a lightning bolt.
 #-------------------------------
+[PLUSLE,1]
+FormName = Mega Plusle
+MegaStone = MEGASTONE
+BaseStats = 60,50,40,135,145,75
+Abilities = GALVANIZE
+HiddenAbility = GALVANIZE
+#-------------------------------
+[MINUN,1]
+FormName = Mega Minun
+MegaStone = MEGASTONE
+BaseStats = 60,50,40,145,135,75
+Abilities = GALVANIZE
+HiddenAbility = GALVANIZE
+#-------------------------------
+[MINUSLE,1]
+FormName = Mega Minusle
+MegaStone = MEGASTONE
+BaseStats = 60,45,45,135,145,75
+Abilities = PERFECTMATCH
+HiddenAbility = PERFECTMATCH
+#-------------------------------
 [SWALOT,1]
 FormName = Mega Swalot
 MegaStone = MEGASTONE
@@ -2442,6 +2597,13 @@ BaseStats = 73,100,100,85,100,100
 Abilities = BLADEMASTER
 HiddenAbility = BLADEMASTER
 Pokedex = Mega Seviper has studied its mortal enemy and learned their arts, in order to insult as it injures.
+#-------------------------------
+[CRAWDAUNT,1]
+FormName = Mega Crawdaunt
+MegaStone = MEGASTONE
+BaseStats = 63,145,95,80,100,85
+Abilities = ADAPTABILITY
+HiddenAbility = ADAPTABILITY
 #-------------------------------
 [CLAYDOL,1]
 FormName = Mega Claydol
@@ -2918,6 +3080,15 @@ BaseStats = 70,100,130,44,100,130
 Abilities = INFILTRATOR
 HiddenAbility = INFILTRATOR
 Pokedex = Mega Vespiquen can hardly be seen behind the swarm of Combee it commands. They pour their energy into her to increase her power.
+#-------------------------------
+[PACHIRISU,1]
+FormName = Mega Pachirisu
+MegaStone = MEGASTONE
+Type1 = ELECTRIC
+Type2 = FAIRY
+Abilities = EXTREMEOMNIVORE
+HiddenAbility = EXTREMEOMNIVORE
+BaseStats = 60,45,110,95,75,110
 #-------------------------------
 [CHERRIM,1]
 FormName = Sunshine Form
@@ -3419,6 +3590,12 @@ Abilities = POISONHEAL
 HiddenAbility = POISONHEAL
 Pokedex = Rift Garbodor slowly absorbs toxins to fuel itself. Its general appetite seems lower, though.
 #-------------------------------
+[CINCCINO,1]
+FormName = Mega Cinccino
+Abilities = SKILLLINK
+HiddenAbility = SKILLLINK
+BaseStats = 75,165,70,125,65,70
+#-------------------------------
 [DEERLING,1]
 FormName = Summer Form
 Color = Green
@@ -3449,6 +3626,13 @@ BaseStats = 80,130,80,140,65,80
 Abilities = WOODENGUARD
 HiddenAbility = WOODENGUARD
 Pokedex = Mega Sawsbuck's antlers bloom with resplendent flowers. Its a wonder how it can keep its head aloft.
+#-------------------------------
+[EMOLGA,1]
+FormName = Mega Emolga
+MegaStone = MEGASTONE
+BaseStats = 55,85,60,103,115,110
+Abilities = AIRCONTROL
+HiddenAbility = AIRCONTROL
 #-------------------------------
 [ESCAVALIER,1]
 FormName = Mega Escavalier
@@ -3555,6 +3739,23 @@ BaseStats = 109,86,104,32,131,109
 Abilities = WATERABSORB
 HiddenAbility = WATERABSORB
 Pokedex = As it lies in wait, it absorbs water, waiting for just the right moment to use it to knock prey out of the air.
+#-------------------------------
+[HYDREIGON,1]
+FormName = Mega Hydreigon
+MegaStone = MEGASTONE
+Abilities = DISENCHANT
+HiddenAbility = DISENCHANT
+BaseStats = 92,155,100,68,195,90
+#-------------------------------
+[HYDREIGON,2]
+Type1 = DRAGON
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 92,135,30,158,155,30
 #-------------------------------
 [TORNADUS,1]
 FormName = Therian Forme
@@ -3996,6 +4197,15 @@ HiddenAbility = FILTER
 MegaMessage = 1
 Pokedex = Its shield has grown to encompass its entire body. Despite this, it seems as agile as ever.
 #-------------------------------
+[AROMATISSE,1]
+FormName = Mega Aromatisse
+Type1 = FAIRY
+Type2 = POISON
+BaseStats = 101,107,155,21,76,102
+MegaStone = MEGASTONE
+Abilities = POISONTOUCH
+HiddenAbility = POISONTOUCH
+#-------------------------------
 [CLAWITZER,1]
 FormName = Mega Clawitzer
 Type1 = WATER
@@ -4025,6 +4235,12 @@ Type2 = ELECTRIC
 BaseStats = 71,102,30,117,149,31
 Abilities = MAGICBOUNCE
 HiddenAbility = MAGICBOUNCE
+#-------------------------------
+[DEDENNE,1]
+FormName = Mega Dedenne
+BaseStats = 67,62,123,101,81,97
+Abilities = BATTERY
+HiddenAbility = BATTERY
 #-------------------------------
 [CARBINK,1]
 FormName = BREAK Carbink
@@ -4257,6 +4473,21 @@ Abilities = DISCONCERT
 HiddenAbility = DISCONCERT
 Pokedex = Its movements flow into each other as though endlessly planned. Mega Oricorio can lull its opponents to sleep in spite of their vigilance.
 #-------------------------------
+[WISHIWASHI,1]
+FormName = Schooling Form
+BaseStats = 45,140,130,30,140,135
+Abilities = SCHOOLING
+HiddenAbility = SCHOOLING
+Pokedex = Many Wishiwashi come together to form a construct of great power. It acts like an apex predator - the school construct almost seems to have a mind of its own. 
+#-------------------------------
+[WISHIWASHI,2]
+FormName = Mega Wishiwashi
+BaseStats = 45,150,135,105,150,135
+Abilities = LEARNEAN
+HiddenAbility = LEARNEAN
+MegaStone = MEGASTONE
+UnmegaForm = 0
+#-------------------------------
 [GOLISOPOD,1]
 FormName = Mega Golisopod
 MegaStone = MEGASTONE
@@ -4264,6 +4495,32 @@ BaseStats = 75,155,205,40,60,95
 Abilities = TOUGHCLAWS
 HiddenAbility = TOUGHCLAWS
 Pokedex = Golisopod's new power has imbued it with confidence. Observers might describe its new battle style as flamboyant and showy.
+#-------------------------------
+[TOGEDEMARU,1]
+FormName = Mega Togedemaru
+MegaStone = MEGASTONE
+BaseStats = 65,108,103,126,50,93
+Abilities = SERENEGRACE
+HiddenAbility = SERENEGRACE
+#-------------------------------
+[MIMIKYU,1]
+FormName = Busted
+#-------------------------------
+[MIMIKYU,2]
+FormName = True
+BaseStats = 55,100,30,126,30,135
+Abilities = CURSEDBODY,TRANSISTOR
+HiddenAbility = ABSOLUTELYTERRIFYING,SHADOWSYNERGY
+Pokedex = It is too amorphous and horrible to describe properly. However, it is still a Pokémon - please show it love and care.
+#-------------------------------
+[MIMIKYU,3]
+FormName = Mega Mimikyu
+MegaStone = MEGASTONE
+BaseStats = 55,120,95,96,105,105
+Abilities = ETHEREALSHROUD
+HiddenAbility = ETHEREALSHROUD
+Type1 = SHADOW
+Type2 = FAIRY
 #-------------------------------
 [SOLGALEO,1]
 FormName = Radiant Sun Solgaleo
@@ -4362,6 +4619,44 @@ Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
 MegaMessage = 1
 Pokedex = It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
+#-------------------------------
+[MORPEKO,1]
+FormName = Hangry Forme
+Abilities = HUNGERSWITCH,GLUTTONY
+HiddenAbility = CHEEKPOUCH,ANGERPOINT
+#-------------------------------
+[MORPEKO,2]
+FormName = Mega Morpeko
+MegaStone = MEGASTONE
+BaseStats = 58,95,108,85,82,108
+Abilities = INFURIATE
+HiddenAbility = INFURIATE
+#-------------------------------
+[INVAMAUSE,1]
+FormName = Mega Invamause
+MegaStone = MEGASTONE
+BaseStats = 75,121,90,87,40,100
+Abilities = ADAPTABILITY
+HiddenAbility = ADAPTABILITY
+Pokedex = Invamause uses its newfound power to gnaw its way through enemy strongholds. 
+#-------------------------------
+[INVAMAUSE,2]
+FormName = BREAK Invamause
+Type1 = DARK
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 75,97,23,125,66,28
+#-------------------------------
+[SNOWSLASH,1]
+FormName = Mega Snowslash
+MegaStone = MEGASTONE
+BaseStats = 75,130,140,105,25,105
+Abilities = SUPERLUCK
+HiddenAbility = SUPERLUCK
 #-------------------------------
 [CARIBOLT,1]
 FormName = Mega Caribolt
@@ -4481,6 +4776,13 @@ Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
 BaseStats = 95,90,95,110,135,105
 #-------------------------------
+[INFLAGETAH,1]
+FormName = Mega Inflagetah
+MegaStone = MEGASTONE
+Abilities = ACCELERATE
+HiddenAbility = ACCELERATE
+BaseStats = 85,145,80,175,80,90
+#-------------------------------
 [DIRTREEM,1]
 FormName = Mega Dirtreem
 MegaStone = MEGASTONE
@@ -4518,25 +4820,6 @@ Pokedex = Mega Smoxilon aims to float like a Beautifly, sting like a Beedrill. I
 [BLOBBOS,1]
 Abilities = ICEFACE
 HiddenAbility = ICEFACE
-#-------------------------------
-[INVAMAUSE,1]
-FormName = Mega Invamause
-MegaStone = MEGASTONE
-BaseStats = 75,121,90,87,40,100
-Abilities = ADAPTABILITY
-HiddenAbility = ADAPTABILITY
-Pokedex = Invamause uses its newfound power to gnaw its way through enemy strongholds. 
-#-------------------------------
-[INVAMAUSE,2]
-FormName = BREAK Invamause
-Type1 = DARK
-Type2 = ELECTRIC
-Abilities = MAGICBOUNCE
-HiddenAbility = MAGICBOUNCE
-WildItemCommon = CELLBATTERY
-WildItemUncommon = CELLBATTERY
-WildItemRare = CELLBATTERY
-BaseStats = 75,97,23,125,66,28
 #-------------------------------
 [BLOBBOS,2]
 FormName = Mega Blobbos
@@ -4614,3 +4897,26 @@ BaseStats = 101,120,121,121,136,121
 Abilities = MIRRORARMOR
 HiddenAbility = MIRRORARMOR
 Pokedex = It considers itself the greatest wizard in the universe. Mega Narwhiz refuses to engage in romance.
+#-------------------------------
+[ELECTRATH,1]
+FormName = Shrouded Electrath
+Abilities = FOGSHROUDON
+HiddenAbility = FOGSHROUDON
+#-------------------------------
+[ELECTRATH,2]
+FormName = Mega Electrath
+MegaStone = MEGASTONE
+Abilities = DEGENERATE
+HiddenAbility = DEGENERATE
+BaseStats = 110,130,75,115,130,75
+#-------------------------------
+[ELECTRATH,3]
+FormName = BREAK Electrath
+Type1 = DARK
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 110,108,24,161,108,24
