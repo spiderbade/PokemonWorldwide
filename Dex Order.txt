@@ -1505,6 +1505,384 @@ PROTEAN
 Mega Deoxys [PSYCHIC.GLITCH]
 RECOILPOWER
 
+387; 388; 389. Turtwig-Grotle-Torterra [GRASS-GRASS.GROUND]
+OVERGROW
+STALL
+SHELLARMOR
+PHOTOTROPH
+
+Mega Torterra
+ANALYTIC
+
+Gigant Torterra
+GREENTHUMB
+
+390; 391; 392. Chimchar-Monferno-Infernape [FIRE-FIRE.FIGHTING]
+BLAZE
+STUFFCHEEKS
+IRONFIST
+MARTIALARTIST
+
+Mega Infernape
+SCRAPPY
+
+393; 394; 395. Piplup-Prinplup-Empoleon [WATER-WATER.STEEL]
+TORRENT
+AVIAN
+DEFIANT
+SLUSHRUSH
+
+Mega Empoleon
+ICYVEINS
+
+BREAK Empoleon
+MAGICBOUNCE
+
+Delta Empoleon [WATER.ICE]
+TORRENT
+AVIAN
+DEFIANT
+STEELWORKER
+
+401; 402. Kricketot-Kricketune [BUG]
+SHEDSKIN-SWARM
+SOUNDBOOST-AMPLIFIER
+RUNAWAY-TECHNICIAN
+SHARPEDGE
+
+Mega Kricketune [BUG.NORMAL]
+ATHENIAN
+
+403; 404; 405. Shinx-Luxio-Luxray [ELECTRIC]
+CUTECHARM-INTIMIDATE
+STATIC-ENERGIZATE
+RIVALRY-PLUS-RIVALRY
+GUTS
+
+Mega Luxray [ELECTRIC.NUCLEAR]
+ATOMIZE
+
+BREAK Luxray
+MAGICBOUNCE
+
+412; 413; 414. Burmy-Wormadam:Mothim [BUG-BUG.GRASS:BUG.FLYING]
+SHEDSKIN-ANTICIPATION:SWARM
+REBUILD-REBUILD:HONEYGATHER
+OVERCOAT-OVERCOAT:TINTEDLENS
+DISGUISE-FLUFFY:HARVEST
+
+Sandy Burmy
+
+Trash Burmy
+
+Revealed Burmy
+SHEDSKIN
+RECOILPOWER
+SAPSIPPER
+EFFECTSPORE
+
+Infested Burmy [BUG.SHADOW]
+TRUANT
+LAZY
+
+Sandy Wormadam [BUG.GROUND]
+
+Trash Wormadam [BUG.STEEL]
+
+Revealed Wormadam [BUG]
+SHEDSKIN
+RECOILPOWER
+SAPSIPPER
+EFFECTSPORE
+
+Mega Wormadam [BUG.ROCK]
+LEADSKIN
+
+Mega Mothim [BUG.ELECTRIC]
+MOODY
+
+415; 416. Combee-Vespiquen [BUG.FLYING]
+HONEYGATHER
+COMPOUNDEYES-PRESSURE
+HUSTLE-UNNERVE
+SCHOOLING-QUEENLYMAJESTY
+
+Swarm Combee
+SCHOOLING
+
+Mega Vespiquen [BUG.POISON]
+INFILTRATOR
+
+417. Pachirisu [ELECTRIC]
+RUNAWAY
+PICKUP
+VOLTABSORB
+CHEEKPOUCH
+
+Mega Pachirisu [ELECTRIC.FAIRY]
+EXTREMEOMNIVORE
+
+420; 421. Cherubi-Cherrim [GRASS]
+CHLOROPHYLL-FLOWERGIFT
+POISONTOUCH
+PHOTOTROPH
+VENOMOUS
+
+Sunshine Cherrim
+
+Mega Cherrim [GRASS.FIRE]
+UNLEAFED
+
+442; 443. Shellos-Gastrodon [WATER-WATER.GROUND]
+STICKYHOLD
+STORMDRAIN
+SANDFORCE
+GOOEY
+
+East Sea Shellos
+
+East Sea Gastrodon
+
+Mega Gastrodon [BUG.GROUND]
+WATERABSORB
+
+427; 428. Buneary-Lopunny [NORMAL]
+RUNAWAY-CUTECHARM
+KLUTZ
+LIMBER
+POUNCE-STRIKER
+
+Mega Lopunny [NORMAL.FIGHTING]
+SCRAPPY
+
+441. Chatot [NORMAL.FLYING]
+KEENEYE
+TANGLEDFEET
+AMPLIFIER
+VOICETUNING
+
+Mega Chatot
+BOOMBOX
+
+443; 444; 445. Gible-Gabite-Garchomp [DRAGON.GROUND]
+SANDVEIL
+ROUGHSKIN
+STRONGJAW
+SANDSPIT-SANDRUSH
+
+Mega Garchomp
+SANDFORCE
+
+447-448. Riolu-Lucario [FIGHTING-FIGHTING.STEEL]
+STEADFAST
+INNERFOCUS
+PRANKSTER-JUSTIFIED
+TENACIOUS-WEAKARMOR
+
+Mega Lucario
+ADAPTABILITY
+
+449; 450. Hippopotas-Hippowdon [GROUND]
+SANDSTREAM
+STRONGJAW
+SANDFORCE
+SAPSIPPER
+
+Mega Hippowdon
+SEDIMENTATE
+
+Rift Hippowdon [GROUND.POISON]
+UNFLINCHING
+
+455. Carnivine [GRASS]
+LEVITATE
+INSECTOVORE
+SUCTIONCUPS
+TANGLINGHAIR
+
+Mega Carnivine [GRASS.POISON]
+ADAPTABILITY
+
+Rift Carnivine [GRASS.DRAGON]
+THICKFAT
+
+456; 457. Finneon-Lumineon [WATER]
+SWIFTSWIM
+STORMDRAIN
+WATERVEIL
+ILLUMINATE-DISCONCERT
+
+Mega Lumineon [WATER.BUG]
+INTIMIDATE
+
+459; 460. Snover-Abomasnow [GRASS.ICE]
+SNOWWARNING
+SOUNDPROOF
+WINTERJOY
+WOODENGUARD
+
+Mega Abomasnow
+SNOWWARNING
+
+479. Rotom [ELECTRIC.GHOST]
+LEVITATE
+SURGESURFER
+FLUIDFORM
+ELECTRICSURGE
+
+Heat Rotom [ELECTRIC.FIRE]
+
+Wash Rotom [ELECTRIC.WATER]
+
+Fan Rotom [ELECTRIC.FLYING]
+
+Mow Rotom [ELECTRIC.GRASS]
+
+Dex Rotom [ELECTRIC]
+
+Call Rotom [ELECTRIC.PSYCHIC]
+
+Drone Rotom [ELECTRIC.BUG]
+
+Plush Rotom [ELECTRIC.NORMAL]
+
+Rock-Em-Sock-Em Rotom [ELECTRIC.FIGHTING]
+
+Dart Rotom [ELECTRIC.POISON]
+
+Drill Rotom [ELECTRIC.GROUND]
+
+Sonic Rotom [ELECTRIC.ROCK]
+
+Tank Rotom [ELECTRIC.STEEL]
+
+Bulb Rotom [ELECTRIC.DARK]
+
+Brush Rotom [ELECTRIC.FAIRY]
+
+Apollo Rotom [ELECTRIC.PSYCHIC]
+
+Parker Rotom [ELECTRIC.DRAGON]
+
+Crash Rotom [ELECTRIC.GLITCH]
+
+Bird Rotom [ELECTRIC.BIRD]
+
+Nano Rotom [ELECTRIC.999]
+
+Artifact Rotom [ELECTRIC.FORBIDDEN]
+
+Pylon Rotom [ELECTRIC.SHADOW]
+
+Fission Rotom [ELECTRIC.NUCLEAR]
+
+Mega Rotom [ELECTRIC]
+PROTEAN
+
+483. Dialga [STEEL.DRAGON] LEGENDARY
+PRESSURE
+PICKUP
+TELEPATHY
+SUDDENLY
+
+Origin Dialga
+LEVITATE
+
+484. Palkia [WATER.DRAGON] LEGENDARY
+PRESSURE
+WATERBUBBLE
+TELEPATHY
+STREAMLINE
+
+Origin Palkia
+LEVITATE
+
+486. Regigigas [NORMAL] LEGENDARY
+SLOWSTART
+NORMALIZE
+POWEROVERWHELMING
+CLEARBODY
+
+Crown Regigigas
+HUGEPOWER
+
+487. Giratina [GHOST.DRAGON] LEGENDARY
+DREADSPACE
+UNSEENFIST
+TELEPATHY
+SHADOWTAG
+
+Origin Giratina 
+LEVITATE
+
+492. Shaymin [GRASS] LEGENDARY
+NATURALCURE
+SOLARPOWER
+SERENEGRACE
+FLOWERVEIL
+
+Sky Form Shaymin [GRASS.FLYING]
+
+Mega Shaymin [GRASS.FAIRY]
+PIXILATE
+
+493. Arceus [NORMAL] LEGENDARY
+MULTITYPE
+ADAPTABILITY
+PROTEAN
+ANCIENTPRESENCE
+
+Arceus-Fighting [FIGHTING]
+
+Arceus-Flying [FLYING]
+
+Arceus-Poison [POISON]
+
+Arceus-Ground [GROUND]
+
+Arceus-Rock [ROCK]
+
+Arceus-Bug [BUG]
+
+Arceus-Ghost [GHOST]
+
+Arceus-Steel [STEEL]
+
+Arceus-Fire [FIRE]
+
+Arceus-Water [WATER]
+
+Arceus-Grass [GRASS]
+
+Arceus-Electric [ELECTRIC]
+
+Arceus-Psychic [PSYCHIC]
+
+Arceus-Ice [ICE]
+
+Arceus-Dragon [DRAGON]
+
+Arceus-Dark [DARK]
+
+Arceus-Fairy [FAIRY]
+
+Arceus-Nuclear [NUCLEAR}
+
+Arceus-Shadow [SHADOW]
+
+Arceus-Glitch [GLITCH]
+
+Arceus-999 [999]
+
+Arceus-Bird [BIRD]
+
+Arceus-Forbidden [FORBIDDEN]
+
+Arceus-Untyped [UNTYPED]
+
+Origin Arceus [UNTYPED]
+WONDERGUARD
+
 N90. Cactuar [CACTUAR]
 CACTUAREFFECTS
 
@@ -1693,3 +2071,53 @@ UNIMPLEMENTED
 378. Regice
 379. Registeel
 385. Jirachi, Mega Jirachi 
+396. Starly
+397. Staravia
+398. Staraptor, Mega Staraptor  - Fighting/Flying, Tough Claws
+399. Bidoof
+400. Bibarel
+406. Budew
+407. Roserade
+408. Cranidos
+409. Rampardos [rock head]
+410. Shieldon
+411. Bastiodon
+418. Buizel
+419. Floatzel
+424. Ambipom
+425. Drifloon
+426. Drifblim
+429. Mismagius
+430. Honchkrow, Mega Honchkrow[l] , Warlokrow 
+431. Glameow
+432. Purugly
+433. Chingling
+434. Stunky
+435. Skuntank
+436. Bronzor
+437. Bronzong, Mega Bronzong  - Unaware, Bronzong BREAK 
+438. Bonsly
+440. Happiny
+442. Spiritomb, Mega Spiritomb (Bond)
+451. Skorupi
+452. Drapion
+453. Croagunk
+454. Toxicroak
+458. Mantyke, Pattern Variants (9)
+461. Weavile, Mega Weavile  - Adaptability
+463. Lickilicky
+468. Togekiss
+469. Yanmega, Mega Yanmega , Yanmega BREAK 
+472. Gliscor, Mega Gliscor  - Poison Heal
+473. Mamoswine adaptability
+474. Porygon-Z
+476. Probopass
+477. Dusknoir, Mega Dusknoir  - Unflinching
+480. Uxie
+481. Mesprit
+482. Azelf
+485. Heatran, Condensed Heatran  - Levitate
+488. Cresselia
+489. Phione
+490. Manaphy
+491. Darkrai
