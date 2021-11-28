@@ -2443,3 +2443,120 @@ CACTUAREFFECTS
 489. Phione
 490. Manaphy
 491. Darkrai
+494. Victini
+504. Patrat
+505. Watchog
+506. Lillipup
+507. Herdier
+508. Stoutland
+509. Purrloin
+510. Liepard
+511. Pansage
+512. Simisage
+513. Pansear
+514. Simisear
+515. Panpour
+516. Simipour
+517. Munna
+518. Musharna
+519. Pidove
+520. Tranquill
+521. Unfezant
+522. Blitzle
+523. Zebstrika, Mega Zebstrika 
+524. Roggenrola
+525. Boldore
+526. Gigalith
+527. Woobat
+528. Swoobat
+529. Drilbur
+530. Excadrill, Mega Excadrill  - Filter
+532. Timburr
+533. Gurrdur
+534. Conkeldurr
+535. Tympole
+536. Palpitoad
+537. Seismitoad
+538. Throh
+539. Sawk
+540. Sewaddle
+541. Swadloon
+542. Leavanny
+543. Venipede
+544. Whirlipede
+545. Scolipede
+546. Cottonee {Delta}
+547. Whimsicott
+548. Petilil
+549. Lilligant
+551. Sandil
+552. Krokorok
+553. Krookodile
+556. Maractus
+557. Dwebble
+558. Crustle
+559. Scraggy
+560. Scrafty
+562. Yamask
+563. Cofagrigus
+564. Tirtouga
+565. Carracosta
+566. Archen
+567. Archeops
+570. Zorua
+571. Zoroark, Mega Zoroark  - Trace, Zoroark BREAK 
+574. Gothita
+575. Gothorita
+576. Gothitelle, Mega Gothitelle 
+577. Solosis
+578. Duosion
+579. Reuniclus, Mega Reuniclus 
+580. Ducklett
+581. Swanna
+582. Vanillite
+583. Vanillish
+584. Vanilluxe
+590. Foongus
+591. Amoonguss impostor
+594. Alomomola
+597. Ferroseed
+598. Ferrothorn, Code: Drifio (Dimensional Rift/Pulse Ferrothorn)
+599. Klink
+600. Klang
+601. Klinklang
+602. Tynamo
+603. Eelektrik
+604. Eelektross
+605. Elgyem
+606. Beheeyem, Mega Beheeyem , Beheeyem BREAK 
+610. Axew
+611. Fraxure
+612. Haxorus, Mega Haxorus  - Dragon/Steel, Shed Skin
+613. Cubchoo
+614. Beartic
+615. Cryogonal, Mega Cryogonal 
+616. Shelmet
+617. Accelgor
+618. Stunfisk, Mega
+619. Mienfoo
+620. Mienshao
+621. Druddigon
+624. Pawniard
+625. Bisharp, Mega Bisharp 
+626. Bouffalant
+627. Rufflet
+628. Braviary, galewings
+629. Vullaby
+630. Mandibuzz, Mega Mandibuzz , Mandibuzz BREAK 
+631. Heatmor
+632. Durant
+636. Larvesta
+637. Volcarona
+638. Cobalion
+639. Terrakion
+640. Virizion
+659. Bunnelby
+660. Diggersby
+661. Fletchling
+662. Fletchinder
+663. Talonflame, Mega Talonflame , Talonflame BREAK 
