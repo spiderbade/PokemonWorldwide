@@ -311,6 +311,7 @@
 ,HYPERCUTTER,Hyper Cutter,"Attack can't be lowered."
 ,BIGPECKS,Big Pecks,"Defense can't be lowered."
 ,DAUNTLESS,Dauntless,"Special attack can't be lowered."
+,CURIOUSMEDICINE,Curious Medicine,"Resets allied stat stages to zero."
 ,WATERCOMPACTION,Water Compaction,"Water moves raise defense."
 ,LEVINSKIN,Levin Skin,"Electric moves raise attack."
 ,CRYSTALCASE,Crystal Case,"Fire moves sharply raise special attack but hurt more."
