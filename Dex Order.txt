@@ -237,7 +237,7 @@ VICTORYSTAR
 Mega Clefairy [FAIRY.PSYCHIC]
 MOODY
 
-Mega Clefable [FAIRY.GHOST
+Mega Clefable [FAIRY.GHOST]
 PRANKSTER
 
 41; 42; 169. Zubat-Golbat-Crobat [POISON.FLYING]
