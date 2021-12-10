@@ -943,6 +943,24 @@ SNAPPY
 Mega Feraligatr
 DARKSOUL
 
+175; 176; 468. Togepi-Togetic-Togekiss [FAIRY-FAIRY.FLYING]
+HUSTLE-FRIENDGUARD
+SERENEGRACE
+SUPERLUCK
+WEAKARMOR-SHIELDDUST-REGALIA
+
+Delta Togepi-Togetic-Togekiss [NORMAL-NORMAL.FLYING]
+HUSTLE
+SERENEGRACE
+SUPERLUCK
+SHELLARMOR-FRIENDGUARD-AERILATE
+
+Mega Togetic [FAIRY.FLYING]
+FILTER
+
+Mega Togekiss [FLYING]
+SERENEGRACE
+
 179; 180; 181. Mareep-Flaaffy-Ampharos [ELECTRIC]
 STATIC
 PLUS
@@ -3042,8 +3060,6 @@ CACTUAREFFECTS
 171. Lanturn - Mega Lanturn {solar dual}
 172. Pichu, Spiky-Eared
 174. Igglybuff
-175. Togepi
-176. Togetic
 177. Natu
 178. Xatu
 182. Bellossom
@@ -3196,7 +3212,6 @@ CACTUAREFFECTS
 458. Mantyke, Pattern Variants (9)
 461. Weavile, Mega Weavile  - Adaptability
 463. Lickilicky
-468. Togekiss
 469. Yanmega, Mega Yanmega , Yanmega BREAK 
 472. Gliscor, Mega Gliscor  - Poison Heal
 473. Mamoswine adaptability
