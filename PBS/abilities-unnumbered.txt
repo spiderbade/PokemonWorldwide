@@ -7,6 +7,7 @@
 ,DIZZY,Dizzy,"Contact lowers accuracy."
 ,DISCONCERT,Disconcert,"Lowers foe's accuracy when sent out."
 ,SMALLTARGET,Small Target,"Raises evasion."
+,EVASIONBOOST,Evasion Boost,"Raises evasion each turn."
 ,FLUIDFORM,Fluid Form,"Raises evasion when sent out."
 ,ANTICIPATION,Anticipation,"Raise evasion if the foe has a super effective move."
 ,FOREWARN,Forewarn,"Reveals the foe's strong attack."

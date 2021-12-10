@@ -495,6 +495,42 @@ WildItemUncommon = CELLBATTERY
 WildItemRare = CELLBATTERY
 BaseStats = 81,130,26,126,113,29
 #-------------------------------
+[CLEFFA,1]
+FormName = Cleffa δ
+Type1 = NORMAL
+Abilities = CUTECHARM,MAGICGUARD
+HiddenAbility = FRIENDGUARD,VICTORYSTAR
+#-------------------------------
+[CLEFAIRY,1]
+FormName = Clefairy δ
+Type1 = NORMAL
+Abilities = CUTECHARM,MAGICGUARD
+HiddenAbility = FRIENDGUARD,VICTORYSTAR
+#-------------------------------
+[CLEFABLE,1]
+FormName = Clefable δ
+Type1 = NORMAL
+Abilities = CUTECHARM,MAGICGUARD
+HiddenAbility = UNAWARE,VICTORYSTAR
+#-------------------------------
+[CLEFAIRY,2]
+FormName = Mega Clefairy
+MegaStone = MEGASTONE
+Type1 = FAIRY
+Type2 = PSYCHIC
+BaseStats = 70,55,98,45,60,95
+Abilities = MOODY
+HiddenAbility = MOODY
+#-------------------------------
+[CLEFABLE,2]
+FormName = Mega Clefable
+MegaStone = MEGASTONE
+Type1 = FAIRY
+Type2 = GHOST
+BaseStats = 95,80,83,110,125,90
+Abilities = PRANKSTER
+HiddenAbility = PRANKSTER
+#-------------------------------
 [PARAS,1]
 FormName = Shorn Paras
 Type1 = BUG

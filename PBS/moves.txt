@@ -1093,7 +1093,7 @@
 1087,PIXELBARRAGE,Pixel Barrage,0C0,25,GLITCH,Physical,85,15,0,Other,0,bef,"The user tosses dead pixels at the target. This hits two to five times."
 1088,DEFRAGBOMB,Defrag Bomb,050,100,GLITCH,Special,70,5,100,NearOther,0,abefn,"The user defrags the target's data, wiping changes to their stats."
 1089,FATALEXCEPTIONZEROE,FatalException0E,070,1,GLITCH,Special,30,5,0,AllFoes,0,be,"The user P̷̪̙̙͈͇̘͐́͗̕̚Ŗ̷̡͎̩̤͈̼̖̭͙̞̱̥̌̆̉͐̈̆̅̉́̀͊̚̕͠ͅĔ̸̞̲͔̟̺͇͖̘͓͚͙̐̆͒́̑̎͒͋̚͝ͅS̴̨̧͍̹̬͙̼̦͈̱̺̹̼̀́͒̄͒̈́̓̕͠ͅŞ̶̘̦̼͔̗̲͉͈̤͉͙̙̮̤͊̅̉̀͊͘͝Ą̷̢̛̘̹̥͇̣̰͖͚̞͓̗͓̜͛̊͑̎̈̈̄̍̈́́̈͂͠Ṅ̴̢͙͓̅̏̚Ý̵̛͕̜̝̞͉̙̜͔̭̓̓̍̒͛̅͘̚͜͜͝͝Ķ̸͖͚͙̝̺̰̗̫͙̩͋̓̊̃͒͌̐̃̏̚͘Ę̶̝̘̔̊̈́̿͋͠͝Y̷͙̝͈̿̿̐͒͝T̷̨͈͝Ǫ̵̈́̄̆͌̀̍́̄̊̓̚͝C̷̤̼͉̜̱͎̚Ǫ̴͉̙̝̣͔̺̩͙̪̀N̵͙͉̣͙͍̯̟͓̺̮̝͆͂̾̏̇̆ͅT̴̯̬͍̜̱̼̪̱̘̐̔̕I̴̡̞͕͓̯̹͖̝̳͕̲̻̥̊̒̏̕͜N̵̛̛͎̖̝̩̘̐̀̉̈́̅́̎̊̌̽͜͠U̴̱̫̻̠̰̪̽̾̍͆̆͐͊͑̑̍͒̚͝E̶̹̘͈͈̪̯̙̘̠̽́̎͊̊̎͗͆̑̀̓̎̕̚͝."
-1090,DOLLARSIGN,$,109,85,GLITCH,Physical,100,20,0,NearOther,0,abefk,"The user lunges, injecting the target with a viral glitch. The target will generates credits."
+1090,DOLLARSIGN,$,109,85,GLITCH,Physical,100,20,0,NearOther,0,abefk,"The user lunges, injecting the target with a viral glitch. The target will generate kromer."
 1091,YOTTAFLARE,YottaFlare,282,1,GLITCH,Special,0,1,0,AllNearOthers,5,,"The ultimate pinnacle of the Flare techniques. Ends reality in an instant."
 1092,THOUARTI,Thou Art I,283,0,GLITCH,Status,70,10,0,NearOther,0,,"The target transforms into a copy of the user right down to having the same move set."
 1093,CHEATSABER,Cheat Saber,0C2,150,GLITCH,Physical,90,5,0,NearOther,0,abefp,"The user charges at the target, wildly swinging a g̶̢͚̫̈́̚ț̶̢̨̭͕̺̭̦̈͂̕͝͝ṱ̸͚̑̿̓̈́̓̋͌̽̚͘͝l̶̰̗̱̪̤̟̙̞̱̹̑͑̌̅̅͋͒̾̈́̓̕͝ṯ̴̡̛͍͚̼̩͈̫͓̑͋͊́̎̔̈́͆́̋̈́c̴̡̝͍̥̯̠͈͓̖̰̟̯̯̞͛̄ḩ̶̥̫͐̎͊͐̅̌̚̚y̴̛͈̺̲̮̲̠̺̮͇̝͇̩̗̣̟͗̎̈̽͛̈̚ blade. The user must rest on the next turn."
