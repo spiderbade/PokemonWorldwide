@@ -222,6 +222,24 @@ MOXIE
 BREAK Nidoking [POISON.ELECTRIC]
 MAGICBOUNCE
 
+173; 35; 36. Cleffa-Clefairy-Clefable [FAIRY]
+CUTECHARM
+MAGICGUARD
+FRIENDGUARD-UNAWARE
+SMALLTARGET-BRAINIAC
+
+Delta Cleffa-Clefairy-Clefable [NORMAL]
+CUTECHARM
+MAGICGUARD
+FRIENDGUARD-UNAWARE
+VICTORYSTAR
+
+Mega Clefairy [FAIRY.PSYCHIC]
+MOODY
+
+Mega Clefable [FAIRY.GHOST
+PRANKSTER
+
 41; 42; 169. Zubat-Golbat-Crobat [POISON.FLYING]
 INNERFOCUS
 BLEEDER
@@ -2963,8 +2981,6 @@ CACTUAREFFECTS
 
 [[UNIMPLEMENTED]]
 
-35. Clefairy, Mega Clefairy 
-36. Clefable, Mega Clefable 
 37. Vulpix
 38. Ninetales, Mega Ninetales  - Aura Veil auto-lightscreen-reflect, Ninetales BREAK 
 39. Jigglypuff, Gigant Jigglypuff  {DElta}
@@ -3025,7 +3041,6 @@ CACTUAREFFECTS
 170. Chinchou
 171. Lanturn - Mega Lanturn {solar dual}
 172. Pichu, Spiky-Eared
-173. Cleffa {Delta}
 174. Igglybuff
 175. Togepi
 176. Togetic
