@@ -943,6 +943,15 @@ SNAPPY
 Mega Feraligatr
 DARKSOUL
 
+161; 162. Sentret-Furret [NORMAL]
+RUNAWAY-RATTLED
+KEENEYE-LIMBER
+FRISK
+THICKFAT-STREAMLINE
+
+Mega Furret
+FURCOAT
+
 175; 176; 468. Togepi-Togetic-Togekiss [FAIRY-FAIRY.FLYING]
 HUSTLE-FRIENDGUARD
 SERENEGRACE
@@ -3048,8 +3057,6 @@ CACTUAREFFECTS
 144. Articuno
 145. Zapdos
 146. Moltres
-161. Sentret
-162. Furret
 163. Hoothoot
 164. Noctowl, Mega Noctowl , Noctowl BREAK 
 165. Ledyba
