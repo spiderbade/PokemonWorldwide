@@ -369,6 +369,18 @@ MOLDBREAKER
 Rift Machamp [FORBIDDEN.FIGHTING]
 HYPEBEAST
 
+72; 73. Tentacool-Tentacruel [WATER.POISON]
+CLEARBODY
+LIQUIDOOZE
+RAINDISH-MERCILESS
+POISONTOUCH
+
+Mega Tentacruel
+UNIONIZED
+
+Gigant Tentacruel
+DRIZZLE
+
 74; 75; 76. Geodude-Graveler-Golem [ROCK.GROUND]
 ROCKHEAD
 STURDY
@@ -3028,8 +3040,6 @@ CACTUAREFFECTS
 69. Bellsprout
 70. Weepinbell
 71. Victreebel
-72. Tentacool
-73. Tentacruel, Mega Tentacruel , Gigant Tentacruel 
 77. Ponyta
 78. Rapidash
 83. Farfetch’d
