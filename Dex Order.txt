@@ -2332,6 +2332,18 @@ DAZZLING
 Mega Vivillon [BUG.FAIRY]
 FLASHFIRE
 
+667; 668. Litleo-Pyroar [FIRE.NORMAL]
+RIVALRY-INTIMIDATE
+UNNERVE
+MOXIE
+POUNCE-FLASHFIRE
+
+Mega Pyroar
+TOUGHCLAWS
+
+BREAK Pyroar [FIRE.ELECTRIC]
+MAGICBOUNCE
+
 669; 670; 671. Flabébé-Floette-Florges [FAIRY]
 FLOWERVEIL
 FLORAL
@@ -3360,8 +3372,6 @@ CACTUAREFFECTS
 661. Fletchling
 662. Fletchinder
 663. Talonflame, Mega Talonflame , Talonflame BREAK 
-667. Litleo
-668. Pyroar, Mega Pyroar , Pyroar BREAK 
 669. Flabébé, Graphical variants (4)
 670. Floette, Graphical variants (4), Eternal
 671. Florges, Graphical variants (4), Mega, BREAK
