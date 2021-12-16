@@ -1083,6 +1083,15 @@ PUREPOWER
 Wobbuffet BREAK [PSYCHIC.ELECTRIC]
 MAGICBOUNCE
 
+203. Girafarig [NORMAL.PSYCHIC]
+INNERFOCUS
+EARLYBIRD
+SAPSIPPER
+MULTISTRIKE
+
+Mega Girafarig [DARK.PSYCHIC]
+STRONGJAW
+
 206; 2121. Dunsparce-Dunseraph [NORMAL-DRAGON.FLYING]
 SERENEGRACE
 RUNAWAY-CLOUDNINE
@@ -3109,7 +3118,6 @@ CACTUAREFFECTS
 191. Sunkern
 192. Sunflora, Mega Sunflora  - fire/ignition
 193. Yanma
-203. Girafarig, Mega Girafarig 
 204. Pineco
 205. Forretress
 207. Gligar
