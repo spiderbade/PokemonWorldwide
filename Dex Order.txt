@@ -1083,6 +1083,15 @@ PUREPOWER
 Wobbuffet BREAK [PSYCHIC.ELECTRIC]
 MAGICBOUNCE
 
+206; 2121. Dunsparce-Dunseraph [NORMAL-DRAGON.FLYING]
+SERENEGRACE
+RUNAWAY-CLOUDNINE
+RATTLED-GALEWINGS
+LONGEVITY
+
+Mega Dunseraph
+DELTASTREAM
+
 225. Delibird [ICE.FLYING]
 VITALSPIRIT
 HUSTLE
@@ -3103,7 +3112,6 @@ CACTUAREFFECTS
 203. Girafarig, Mega Girafarig 
 204. Pineco
 205. Forretress
-206. Dunsparce
 207. Gligar
 209. Snubbull
 210. Granbull
@@ -4729,7 +4737,6 @@ Uranium
 2118.	Terlard
 2119.	Tonemy
 2120.	Tofurang
-2121.	Dunseraph
 2122.	Fortog
 2123.	Folerog
 2124.	Blubelrog
