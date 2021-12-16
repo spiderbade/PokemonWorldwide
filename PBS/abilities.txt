@@ -1,4 +1,4 @@
-﻿1,VICTORYSTAR,Victory Star,"Raises team's accuracy a bit."
+1,VICTORYSTAR,Victory Star,"Raises team's accuracy a bit."
 2,COMPOUNDEYES,Compound Eyes,"Raises accuracy."
 3,ILLUMINATE,Illuminate,"Raises accuracy when sent out."
 4,STALWART,Stalwart,"Moves can't be redirected."
