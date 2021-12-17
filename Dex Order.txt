@@ -297,6 +297,18 @@ TECHNICIAN
 DARKENING
 POUNCE
 
+54; 55. Psyduck-Golduck [WATER]
+DAMP
+CLOUDNINE
+SWIFTSWIM
+HEADACHE-MAXIFOCUS
+
+Mega Golduck [WATER.PSYCHIC]
+ILLUMINATE
+
+BREAK Golduck [WATER.ELECTRIC]
+MAGICBOUNCE
+
 60; 61; 62; 186. Poliwag-Poliwhirl-Poliwrath:Politoed [WATER-WATER.FIGHTING:WATER]
 WATERABSORB
 DISCONCERT-DISCONCERT:DAMP
@@ -3064,8 +3076,6 @@ CACTUAREFFECTS
 49. Venomoth
 50. Diglett
 51. Dugtrio
-54. Psyduck
-55. Golduck, Mega Golduck , Golduck BREAK 
 56. Mankey
 57. Primeape - Provocative (auto taunt)
 58. Growlithe
