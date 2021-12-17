@@ -702,6 +702,27 @@ REBUILD
 Mega Time
 EVENTHORIZON
 
+120; 121. Staryu-Starmie [WATER-WATER.PSYCHIC]
+ILLUMINATE
+NATURALCURE
+ANALYTIC
+REGENERATIVE-REGENERATOR
+
+Mega Staryu [PSYCHIC]
+VICTORYSTAR
+
+Delta Starmie [WATER.STEEL]
+ILLUMINATE
+NATURALCURE
+ANALYTIC
+SHELLARMOR
+
+Mega Starmie
+HOLYGUARD
+
+BREAK Starmie [WATER.ELECTRIC]
+MAGICBOUNCE
+
 123; 212. Scyther-Scizor [BUG.FLYING-BUG.STEEL]
 SWARM
 TECHNICIAN
@@ -1000,6 +1021,24 @@ POWERSPOT
 Mega Ledian [BUG.FIGHTING]
 PUREPOWER
 
+167; 168. Spinarak-Ariados [BUG.POISON]
+INSOMNIA
+SNIPER
+INTIMIDATE
+STICKYHOLD-ARENATRAP
+
+Mega Ariados
+MAGICBOUNCE
+
+170; 171. Chinchou-Lanturn [WATER.ELECTRIC]
+VOLTABSORB
+ILLUMINATE
+WATERABSORB
+ALLURING
+
+Mega Lanturn
+ATHENIAN
+
 175; 176; 468. Togepi-Togetic-Togekiss [FAIRY-FAIRY.FLYING]
 HUSTLE-FRIENDGUARD
 SERENEGRACE
@@ -1145,6 +1184,15 @@ MOUNTAINEER
 
 Mega Delibird
 THICKFAT
+
+222; 2163. Corsola-Corsoreef [WATER.ROCK]
+SLOWSTART-PHOTOTROPH
+NATURALCURE
+REGENERATOR
+SHELLARMOR-SHARPCORAL
+
+Mega Corsoreef
+DRYSKIN
 
 234. Stantler [NORMAL]
 INTIMIDATE
@@ -1412,6 +1460,18 @@ VENOMOUS
 
 Mega Seviper [POISON.DARK]
 BLADEMASTER
+
+339; 340. Barboach-Whiscash [WATER.GROUND]
+OBLIVIOUS
+ANTICIPATION
+HYDRATION
+SLIMEEXCRETION-WATERBUBBLE
+
+Mega Whiscash
+UNAWARE
+
+Gigant Whiscash
+HEAVYMETAL
 
 341; 342. Corphish-Crawdaunt [WATER-WATER.DARK]
 HYPERCUTTER
@@ -2147,7 +2207,7 @@ MULTISTRIKE
 
 607; 608; 609. Litwick-Lampent-Chandelure
 FLASHFIRE
-FLAMEBODY
+ALLURING-FLAMEBODY
 GOOEY-INFILTRATOR
 ILLUMINATE-SHADOWTAG
 
@@ -3119,8 +3179,6 @@ CACTUAREFFECTS
 117. Seadra
 118. Goldeen
 119. Seaking - FINKEKS CRYING, HORNCHADS CANT STOP WINNING
-120. Staryu
-121. Starmie, Mega Starmie  - Compound Eyes, Starmie BREAK , delta water steel
 124. Jynx, Mega Jynx , Eye-eye , Delta Jynx (Natural)
 128. Tauros, Mega Tauros 
 137. Porygon
@@ -3131,10 +3189,6 @@ CACTUAREFFECTS
 144. Articuno
 145. Zapdos
 146. Moltres
-167. Spinarak
-168. Ariados
-170. Chinchou
-171. Lanturn - Mega Lanturn {solar dual}
 172. Pichu, Spiky-Eared
 174. Igglybuff
 177. Natu
@@ -3163,7 +3217,6 @@ CACTUAREFFECTS
 219. Magcargo, Mega Magcargo , Infested
 220. Swinub
 221. Piloswine
-222. Corsola
 223. Remoraid
 224. Octillery
 226. Mantine
@@ -3230,8 +3283,6 @@ CACTUAREFFECTS
 332. Cacturne [technician], Mega Cacturne 
 337. Lunatone, Mega Lunatone  - Rock/Lunar, Shadow Tag
 338. Solrock, Mega Solrock  - Rock/Solar, Drought
-339. Barboach
-340. Whiscash, Gigant Whiscash 
 345. Lileep, delta dark 
 346. Cradily, delta dark steel
 347. Anorith, {Infested}, delta  tseel
@@ -4816,7 +4867,6 @@ Uranium
 2160.	Cocaran
 2161.	Cararalm
 2162.	Cocancer
-2163.	Corsoreef
 2164.	Tubjaw
 2165.	Tubareel
 2166.	Cassnail
