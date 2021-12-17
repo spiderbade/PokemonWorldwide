@@ -2869,6 +2869,25 @@ SHARPEDGE
 Mega Snowslash
 SUPERLUCK
 
+1203; 1202; 1204; 1205. Z ゥ-MissingNo.-Phantasmo:Phancero [GLITCH-BIRD.NORMAL-GHOST.GLITCH:GHOST.FLYING]
+ANALYTIC-ANALYTIC:KEENEYE
+GARBAGECODE-IRONFIST:GARBAGECODE
+CURSEDBODY
+DESTABILIZE-FLUIDFORM-AFTERMATH:EVASIONBOOST
+
+Yellow Z ゥ [NORMAL]
+
+Yellow MissingNo. [NORMAL.999]
+
+Mega MissingNo. [GLITCH]
+GLITCH
+
+Mega Phantasmo
+UNAVOIDABLE
+
+Mega Phancero [GHOST.BIRD]
+AVIAN
+
 1120; 1121; 1122. Fawnifer-Electrelk-Caribolt [GRASS-GRASS.ELECTRIC]
 OVERGROW
 HUSTLE-SHARPSTRIKER
@@ -3932,10 +3951,6 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 1200.	Miasmite
 1201.	Miasmaw
 Glitch
-1202.	MissingNo., MegaNo. (Mega) - Instant Refill no ohko means no lost health
-1203.	Z ゥ {C}
-1204.	Phantasmo, Mega Phantasmo (Mega) - Gorilla Tactics
-1205.	Phancero
 1206.	♀
 1207.	Hゥ
 1208.	AゥG
