@@ -777,6 +777,21 @@ Weight = 133.9
 Type1 = FORBIDDEN
 Type2 = FIGHTING
 #-------------------------------
+[TENTACRUEL,1]
+FormName = Mega Tentacruel
+MegaStone = MEGASTONE
+BaseStats = 80,80,135,90,100,130
+Abilities = UNIONIZED
+HiddenAbility = UNIONIZED
+#-------------------------------
+[TENTACRUEL,2]
+FormName = Gigant Tentacruel
+MegaStone = WISHINGSTAR
+MegaMessage = 1
+BaseStats = 80,100,130,90,80,135
+Abilities = DRIZZLE
+HiddenAbility = DRIZZLE
+#-------------------------------
 [GEODUDE,1]
 FormName = Geodude δ
 Type1 = ROCK
@@ -1009,7 +1024,14 @@ Abilities = SANDFORCE
 HiddenAbility = SANDFORCE
 Height = 10.5
 Weight = 740.0
-Pokedex = It is almost impossible to bang up. Mega Steelix is almost synonymous with something being invulnerable.
+Pokedex = It is almost impossible to bang up. Mega Steelix is synonymous with something being invulnerable.
+#-------------------------------
+[DIAMANDIX,1]
+FormName = Mega Diamandix
+MegaStone = MEGASTONE
+BaseStats = 125,160,205,101,14,115
+Abilities = MIRRORARMOR
+HiddenAbility = MIRRORARMOR
 #-------------------------------
 [HYPNO,1]
 FormName = Mega Hypno
@@ -1440,6 +1462,25 @@ BaseStats = 70,120,60,64,121,60
 Abilities = WANDERINGSPIRIT
 HiddenAbility = WANDERINGSPIRIT
 Pokedex = GrimReaper's shadowy soul hungers for others. It viciously rejects attempts to cure it.
+#-------------------------------
+[SCIZOR,1]
+FormName = Mega Scizor
+MegaStone = MEGASTONE
+BaseStats = 70,150,140,65,100,75
+Abilities = TECHNICIAN
+HiddenAbility = TECHNICIAN
+Height = 2.0
+Weight = 125.0
+Pokedex = It's better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear.
+#-------------------------------
+[SCIZOR,2]
+FormName = IronReaper
+Type1 = STEEL
+Type2 = SHADOW
+BaseStats = 70,104,100,22,104,100
+Abilities = BEASTBOOST
+HiddenAbility = BEASTBOOST
+Pokedex = IronReaper's carapace is impenetrable to mortal weapons. It can Bullet Punch a target from miles away.
 #-------------------------------
 [JYNX,3]
 FormName = Jynx δ
@@ -1902,6 +1943,13 @@ Abilities = IGNITION
 HiddenAbility = IGNITION
 Pokedex = Mega Typhlosion is built to dash through tight spaces and crowds. Its flames keep enemies at bay. 
 #-------------------------------
+[FURRET,1]
+FormName = Mega Furret
+MegaStone = MEGASTONE
+BaseStats = 85,86,74,90,45,125
+Abilities = FURCOAT
+HiddenAbility = FURCOAT
+#-------------------------------
 [CROBAT,1]
 FormName = Mega Crobat
 MegaStone = MEGASTONE
@@ -1939,6 +1987,41 @@ BaseStats = 90,95,105,45,165,110
 Abilities = MOLDBREAKER
 HiddenAbility = MOLDBREAKER
 Pokedex = Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.
+#-------------------------------
+[TOGEPI,1]
+FormName = Togepi δ
+Type1 = NORMAL
+Abilities = HUSTLE,SERENEGRACE
+HiddenAbility = SUPERLUCK,SHELLARMOR
+#-------------------------------
+[TOGETIC,1]
+FormName = Togetic δ
+Type1 = NORMAL
+Type2 = FLYING
+Abilities = HUSTLE,SERENEGRACE
+HiddenAbility = SUPERLUCK,FRIENDGUARD
+#-------------------------------
+[TOGEKISS,1]
+FormName = Togekiss δ
+Type1 = NORMAL
+Type2 = FLYING
+Abilities = HUSTLE,SERENEGRACE
+HiddenAbility = SUPERLUCK,AERILATE
+#-------------------------------
+[TOGETIC,2]
+FormName = Mega Togetic
+MegaStone = MEGASTONE
+Abilities = FILTER
+HiddenAbility = FILTER
+BaseStats = 55,60,145,40,60,145
+#-------------------------------
+[TOGEKISS,2]
+FormName = Mega Togekiss
+MegaStone = MEGASTONE
+Type1 = FLYING
+Abilities = SERENEGRACE
+HiddenAbility = SERENEGRACE
+BaseStats = 85,65,125,80,165,125
 #-------------------------------
 [AZURILL,1]
 FormName = Aborill
@@ -2120,24 +2203,14 @@ WildItemUncommon = CELLBATTERY
 WildItemRare = CELLBATTERY
 BaseStats = 190,52,20,71,52,20
 #-------------------------------
-[SCIZOR,1]
-FormName = Mega Scizor
+[GIRAFARIG,1]
+FormName = Mega Girafarig
 MegaStone = MEGASTONE
-BaseStats = 70,150,140,65,100,75
-Abilities = TECHNICIAN
-HiddenAbility = TECHNICIAN
-Height = 2.0
-Weight = 125.0
-Pokedex = It's better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear.
-#-------------------------------
-[SCIZOR,2]
-FormName = IronReaper
-Type1 = STEEL
-Type2 = SHADOW
-BaseStats = 70,104,100,22,104,100
-Abilities = BEASTBOOST
-HiddenAbility = BEASTBOOST
-Pokedex = IronReaper's carapace is impenetrable to mortal weapons. It can Bullet Punch a target from miles away.
+Type1 = DARK
+Type2 = PSYCHIC
+BaseStats = 70,140,85,75,90,95
+Abilities = STRONGJAW
+HiddenAbility = STRONGJAW
 #-------------------------------
 [HERACROSS,1]
 FormName = Mega Heracross
@@ -2183,6 +2256,15 @@ WildItemUncommon = ZOMBIEVIRUS
 WildItemRare = ZOMBIEVIRUS
 Color = Green
 Pokedex = It is filled with an eternal hatred for those with intact heads. Fire spurts from the hole its brain stem once was.
+#-------------------------------
+[DUNSERAPH,1]
+FormName = Mega Dunseraph
+MegaStone = MEGASTONE
+BaseStats = 150,100,90,95,140,95
+Type1 = DRAGON
+Type2 = FLYING
+Abilities = AIRCONTROL
+HiddenAbility = AIRCONTROL
 #-------------------------------
 [DELIBIRD,1]
 FormName = Mega Delibird
@@ -4065,6 +4147,24 @@ BaseStats = 80,22,70,180,90,69
 Abilities = FLASHFIRE
 HiddenAbility = FLASHFIRE
 Pokedex = Mega Vivillon's is said to draw power from the underworld. Its legs have grown spindly, but its mind has expanded with forbidden knowledge.
+#-------------------------------
+[PYROAR,1]
+FormName = Mega Pyroar
+Abilities = TOUGHCLAWS
+HiddenAbility = TOUGHCLAWS
+MegaStone = MEGASTONE
+BaseStats = 86,148,82,116,109,66
+#-------------------------------
+[PYROAR,2]
+FormName = BREAK Pyroar
+Type1 = FIRE
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 86,90,24,130,131,22
 #-------------------------------
 [FLABEBE,1]
 FormName = Yellow Flower
