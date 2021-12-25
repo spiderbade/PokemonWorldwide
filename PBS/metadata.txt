@@ -457,3 +457,12 @@ ShowArea = true
 [081]
 # Poké Mart
 MapPosition = 8,6,14
+ShowArea = true
+#-------------------------------
+[082]
+# Poké Center
+MapPosition = 8,6,14
+Outdoor = false
+Environment = None
+HealingSpot = 2,9,14
+ShowArea = true

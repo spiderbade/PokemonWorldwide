@@ -1,1209 +1,1150 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-1149,ELITEFOUR_Megan,Elite Four,100
-1150,WINGULL,Wingull
-0,POKEMONTRAINER_Lucas,Pokémon Trainer,100,bgm,,intro
-1,POKEMONTRAINER_Dawn,Champion,100,Dawn
-2,POKEMONTRAINER_Barry,Pokémon Trainer,100,Barry
-3,POKEMONTRAINER_Ethan,Champion,100,Ethan
-4,POKEMONTRAINER_Lyra,Pokémon Trainer,100,Lyra
-5,POKEMONTRAINER_Kris,Gym Leader,100,Kris
-6,POKEMONTRAINER_Silver,Junior Professor,100,Silver
-7,POKEMONTRAINER_Blue,Battle Legend,100,Blue
-8,POKEMONTRAINER_Red,Pokémon Master,100,Red
-9,POKEMONTRAINER_Leaf,Pokémon Trainer,100,Leaf
-10,POKEMONTRAINER_LeafGreen,Pokémon Trainer,100,Green
-11,POKEMONTRAINER_Yellow,Pokémon Trainer,100,Yellow
-12,POKEMONTRAINER_May,Professor,100,May
-217,POKEMONTRAINER_Brendan,Champion,100,Brendan
-1072,POKEMONTRAINER_BrendanEmerald,Champion,100,Brendan
-1073,YOUNGSTER_Joey,Ace Trainer,100,Joey
-13,POKEMONTRAINER_Wally,Champion,100,Wally
-14,POKEMONTRAINER_WallyEmerald,Champion,100,Emerald
-15,POKEMONTRAINER_Jyu,Champion,100,Jyu
-16,POKEMONTRAINER_Keksandra,Memer,100,Keksandra
-17,POKEMONTRAINER_Edgie,Edgelord,100,Edgie
-18,POKEMONTRAINER_Chase,Youngster,100,Chase
-19,POKEMONTRAINER_Elaine,Lass,100,Elaine
-20,POKEMONTRAINER_Trace,Rising Star,100,Trace
-21,POKEMONTRAINER_Hopkins,Jump-Battler,100,Hopkins
-698,POKEMONTRAINER_Wes,Pokémon Trainer,100,Wes
-699,POKEMONTRAINER_Michael,Michael,100,Michael
-700,POKEMONTRAINER_Todd,Photographer,100,Todd
-701,POKEMONTRAINER_Hilbert,Pokémon Trainer,100,Hilbert
-702,POKEMONTRAINER_Nate,Champion,100,Nate
-703,POKEMONTRAINER_Hilda,Champion,100,Hilda
-704,POKEMONTRAINER_Rosa,Pokémon Trainer,100,Rosa
-705,POKEMONTRAINER_Bianca,Pokémon Trainer,100,Bianca
-706,POKEMONTRAINER_Cheren,Gym Leader,100,Cheren
-707,POKEMONTRAINER_Hugh,Pokémon Trainer,100,Hugh
-708,POKEMONTRAINER_Elio,Champion,100,Elio
-709,POKEMONTRAINER_Selene,Pokémon Trainer,100,Selene
-710,POKEMONTRAINER_ElioUltra,Pokémon Trainer,100,Elio
-711,POKEMONTRAINER_SeleneUltra,Champion,100,Selene
-712,POKEMONTRAINER_Calem,Pokémon Trainer,100
-713,POKEMONTRAINER_Serena,Champion,100
-715,POKEMONTRAINER_Victor,Pokémon Trainer,100
-716,POKEMONTRAINER_Gloria,Champion,100
-717,POKEMONTRAINER_Beeatrice,Pokémon Trainer,100
-718,POKEMONTRAINER_UselessTradeBoi,Reidy,100
-719,POKEMONTRAINER_Scottie,Pokémon Trainer,100
-720,POKEMONTRAINER_Bettie,Pokémon Trainer,100
-721,POKEMONTRAINER_Hero,Hero,100
-722,POKEMONTRAINER_Heroine,Heroine,100
-723,POKEMONTRAINER_Gao,Pokémon Trainer,100
-724,POKEMONTRAINER_Gaoko,Pokémon Trainer,100
-725,POKEMONRANGER_Lunick,Pokémon Ranger,100
-726,POKEMONRANGER_Solana,Pokémon Ranger,100
-727,POKEMONRANGER_Kellyn,100
-728,POKEMONRANGER_Kate,100
-729,POKEMONRANGER_Ben,100
-730,POKEMONRANGER_Summer,100
-731,CARDBATTLER_Mark,Player,100
-732,CARDBATTLER_Mint,Player,100
-733,GAMEFREAK_TypingAdventurem,GAME FREAK,100
-734,GAMEFREAK_TypingAdventuref,GAME FREAK,100
-735,AGENT_Lucy,Secret Agent,100
-736,INSPECTOR_Tim,Inspector,100
-737,BATTRIO_HotBloodedm,Player,100
-738,BATTRIO_Coolm,Player,100
-739,BATTRIO_Glassesm,Player,100
-740,BATTRIO_Naughtym,Player,100
-741,BATTRIO_Fashionablem,Player,100
-742,BATTRIO_HotBloodedf,Player,100
-743,BATTRIO_Coolf,Player,100
-744,BATTRIO_Glassesf,Player,100
-745,BATTRIO_Naughtyf,Player,100
-746,BATTRIO_Fashionablef,Player,100
-747,POKEMONTRAINER_Shauna,Pokémon Trainer,100
-748,POKEMONTRAINER_Tierno,Pokémon Trainer,100
-749,POKEMONTRAINER_Trevor,Pokémon Trainer,100
-750,POKEMONTRAINER_Hau,Pokémon Trainer,100,Hau
-751,POKEMONTRAINER_Gladion,Pokémon Trainer,100
-752,POKEMONTRAINER_Hop,Pokémon Trainer,100
-753,POKEMONTRAINER_Bede,Pokémon Trainer,100
-754,POKEMONTRAINER_Marnie,Pokémon Trainer,100
-755,POKEMONTRAINER_Klara,Pokémon Trainer,100
-756,POKEMONTRAINER_Avery,Pokémon Trainer,100
-757,CARDBATTLER_Ronald,Pokémon Trainer,100
-758,POKEMONTRAINER_Paulo,Pokémon Trainer,100
-759,POKEMONTRAINER_Camilla,Pokémon Trainer,100
-760,POKEMONRANGER_Keith,Pokémon Ranger,100
-761,POKEMONRANGER_Paul,Pokémon Trainer,100
-1095,POKEMONTRAINER_Alain,Pokémon Trainer,100
-763,POKEMONTRAINER_Trip,Pokémon Trainer,100
-764,POKEMONTRAINER_Cross,Pokémon Trainer,100
-765,POKEMONCOORDINATOR_Zoey,Coordinator,100
-766,POKEMONTRAINER_Solidad,Pokémon Trainer,100
-1108,POKEMONTRAINER_Harley,Pokémon Trainer,100
-1109,POKEMONTRAINER_Drew,Pokémon Trainer,100
-880,POKEMONTRAINER_NateRev,Pokémon Trainer,100
-881,POKEMONTRAINER_Cyndy,Sprout Trainer,100
-882,POKEMONTRAINER_Tommy,Pokémon Trainer,100
-883,POKEMONTRAINER_Daisy,New Star,100
-884,POKEMONTRAINER_Joel,Rookie,100
-885,POKEMONTRAINER_Natalie,Freshwoman,100
-159,POKEMONTRAINER_RedClassic,Pokémon Trainer,100
-160,POKEMONTRAINER_RedYoungster,Youngster,100
-161,POKEMONTRAINER_Ash,Pokémon Trainer,100
-1096,POKEMONTRAINER_Ritchie,Pokémon Trainer,100
-1042,POKEMONTRAINER_SerenaBobcut,Coordinator,100
-1043,INSPECTOR_TimMovie,Inspector,100
-1004,POKEMONTRAINER_Rusty,Pokémon Trainer,100
-1103,CURATOR_Lorenzo,Curator,100
-1104,POKEMONTRAINER_Bianca,Pokémon Trainer,100
-1118,POKEMONTRAINER_Ellie,Pokémon Trainer,100
-1142,POKEMONTRAINER_Duplica,Pokémon Trainer,100
-1143,SAMURAI,Samurai,100
-1144,POKEMONTRAINER_Joseph,Champion,100
-1145,POKEMONTRAINER_Rande,Pokémon Trainer,100
-#-------------------------------
-1138,RYUKI,Rock Star,100
-1140,LEADER_MistyFrlg,Gym Leader,100,Gym Leader
-1139,LEADER_SabrinaFrlg,Gym Leader,100,Gym Leader
-1141,LEADER_Clemont,Gym Leader,100,Gym Leader
-22,LEADER_Brock,Gym Leader,100,Gym Leader
-23,LEADER_Misty,Gym Leader,100,Gym Leader
-24,LEADER_Surge,Gym Leader,100,Gym Leader
-25,LEADER_Erika,Gym Leader,100,Gym Leader
-26,LEADER_Sabrina,Gym Leader,100,Gym Leader
-27,LEADER_Kary,Gym Leader,100,Gym Leader
-28,LEADER_Blaine,Gym Leader,100,Gym Leader
-29,LEADER_Agatha,Gym Leader,100,Gym Leader
-30,LEADER_Kiyo,Karate King,100,Gym Leader
-31,LEADER_Whitney,Gym Leader,100,Whitney,Gym Leader
-32,LEADER_Falkner,Gym Leader,100,Gym Leader
-33,LEADER_Bugsy,Gym Leader,100,Gym Leader
-34,LEADER_Morty,Gym Leader,100,Gym Leader
-35,LEADER_Jasmine,Gym Leader,100,Gym Leader
-36,LEADER_Clair,Gym Leader,100,Gym Leader
-1119,LEADER_Pryce,Gym Leader,100,Gym Leader
-37,LEADER_Chuck,Gym Leader,100,Gym Leader
-38,LEADER_Roxanne,Gym Leader,100,Gym Leader
-39,LEADER_Brawly,Gym Leader,100,Gym Leader
-40,LEADER_Maxie,Gym Leader,100,Gym Leader
-41,LEADER_Archie,Gym Leader,100,Gym Leader
-42,LEADER_MaxieArchie,Gym Leaders,100,Gym Leader
-43,LEADER_Norman,Gym Leader,100
-44,LEADER_Juan,Gym Leader,100
-45,LEADER_Tate,Gym Leader,100
-46,LEADER_Liza,Gym Leader,100
-47,LEADER_TateLiza,Gym Leaders,100
-48,LEADER_Roark,Gym Leader,100
-49,LEADER_Gardenia,Gym Leader,100
-50,LEADER_Maylene,Gym Leader,100
-51,LEADER_Wake,Gym Leader,100
-52,LEADER_Fantina,Gym Leader,100
-53,LEADER_Byron,Gym Leader,100
-54,LEADER_Candice,Gym Leader,100
-55,LEADER_Volkner,Gym Leader,100
-1085,LEADER_CrasherWake,Gym Leader,100
-56,LEADER_Cilan,Gym Leader,100
-57,LEADER_Chili,Gym Leader,100
-58,LEADER_Cress,Gym Leader,100
-59,LEADER_Lenora,Gym Leader,100
-60,LEADER_Burgh,Gym Leader,100
-61,LEADER_Drayden,Gym Leader,100
-62,LEADER_Clay,Gym Leader,100
-63,LEADER_Elesa,Gym Leader,100
-1063,LEADER_ElesaBW2,Gym Leader,100
-64,LEADER_Skyla,Gym Leader,100
-65,LEADER_Brycen,Gym Leader,100
-66,LEADER_Grant,Gym Leader,100
-67,LEADER_Korrina,Gym Leader,100
-68,LEADER_Ramos,Gym Leader,100
-69,LEADER_Olympia,Gym Leader,100
-70,LEADER_Wulfric,Gym Leader,100
-71,LEADER_Malva,Gym Leader,100
-72,LEADER_Shen,Gym Leader,100
-73,LEADER_Angelo,Gym Leader,100
-74,LEADER_Aldrin,Gym Leader,100
-75,LEADER_Schmidt,Gym Leader,100
-76,LEADER_Igor,Gym Leader,100
-77,LEADER_Cap,Gym Leader,100
-78,LEADER_Doug,Gym Leader,100
-79,LEADER_Opal,Gym Leader,100
-1116,LEADER_Bea,Gym Leader,100
-1117,LEADER_Allister,Gym Leader,100
-80,LEADER_Melony,Gym Leader,100
-81,LEADER_Cissy,Gym Leader,100
-82,LEADER_Danny,Gym Leader,100
-83,LEADER_Rudy,Gym Leader,100
-84,LEADER_Luana,Gym Leader,100
-85,LEADER_Justy,Gym Leader,100
-86,LEADER_Lee,Gym Leader,100
-87,LEADER_Tumblrita,Gym Leader,100
-88,LEADER_Guy,Gym Leader,100
-89,LEADER_Snoop,Gym Leader,100
-90,LEADER_Freddie,Gym Leader,100
-91,LEADER_Kanye,Gym Leader,100
-92,LEADER_Polk,Gym Leader,100
-93,LEADER_Darude,Gym Leader,100
-94,LEADER_Bavi,Gym Leader,100
-95,LEADER_Coldsteel,Gym Leader,100
-96,LEADER_Darkholme,Gym Leader,100
-97,LEADER_Nomel,Gym Leader,100
-98,LEADER_Bro,Gym Leader,100
-99,LEADER_NomelBro,Gym Leaders,100
-100,LEADER_Broly,Gym Leader,100,Broly,,OH-FIVE
-1058,LEADER_Roxie,Gym Leader,100
-1059,LEADER_Marlon,Gym Leader,100
-1082,LEADER_Wattson,Gym Leader,100
-1083,LEADER_Winona,Gym Leader,100
-#-------------------------------
-218,DEEPKING_Agnol,Deep King,100
-802,ARENALEADER_Arth,Arena Leader,100
-803,ARENALEADER_Athey,Arena Leader,100
-804,ARENALEADER_Loko,Arena Leader,100
-805,ARENALEADER_Norus,Arena Leader,100
-806,ARENALEADER_Renson,Arena Leader,100
-807,ARENALEADER_Shobon,Arena Leader,100
-808,ARENALEADER_Trinch,Arena Leader,100
-809,ARENALEADER_Vander,Arena Leader,100
-810,ARENALEADER_Zentin,Arena Leader,100
-830,MASTER_Somek,Mt. Battle Master,100
-831,MASTER_Infin,Mt. Battle Master,100
-832,MASTER_Inity,Mt. Battle Master,100
-837,PREGYMLEADER_Justy,PreGym Leader,100
-920,LEADERINTRAINING,Leader-in-Training,100
-#-------------------------------
-889,COLOSSEUMLEADER_Taylor,Colosseum Leader,100
-890,COLOSSEUMLEADER_Marina,Colosseum Leader,100
-891,COLOSSEUMLEADER_Rosie,Colosseum Leader,100
-892,COLOSSEUMLEADER_Voldon,Colosseum Leader,100
-893,COLOSSEUMLEADER_Terell,Colosseum Leader,100
-894,COLOSSEUMLEADER_Dusty,Colosseum Leader,100
-895,COLOSSEUMMASTER_Joe,Colosseum Master,100
-896,COLOSSEUMMASTER_Sashay,Colosseum Master,100
-897,COLOSSEUMMASTER_Kruger,Colosseum Master,100
-898,POKETOPIAMASTER_Mysterial,Pokétopia Master,100
-#-------------------------------
-101,BRAIN_Noland,Factory Head,100
-102,BRAIN_Greta,Arena Tycoon,100
-103,BRAIN_Tucker,Dome Ace,100
-104,BRAIN_Lucy,Pike Queen,100
-105,BRAIN_Spenser,Palace Maven,100
-106,BRAIN_Brandon,Pyramid King,100
-107,BRAIN_Anabel,Salon Maiden,100
-108,BRAIN_Palmer,Tower Tycoon,100
-109,BRAIN_Thorton,Factory Head,100
-110,BRAIN_Dahlia,Arcade Star,100
-111,BRAIN_Darach,Castle Valet,100
-112,BRAIN_Argenta,Hall Matron,100
-#-------------------------------
-967,SUBWAYBOSS_Ingo,Subway Boss,100
-968,SUBWAYBOSS_Emmet,Subway Boss,100
-969,SUBWAYBOSSES,Subway Bosses,100
-970,BOSSTRAINER_Benga,Boss Trainer,100
-#-------------------------------
-113,KAHUNA_Hala,Kahuna,100
-114,KAHUNA_Olivia,Kahuna,100
-115,KAHUNA_Nanu,Kahuna,100
-116,KAHUNA_Sofu,Kahuna,100
-1051,TRIALCAPTAIN_Kiawe,Trial Captain,100
-1052,TRIALCAPTAIN_Ilima,Trial Captain,100
-1053,TRIALCAPTAIN_Lana,Trial Captain,100
-1054,TRIALCAPTAIN_Mallow,Trial Captain,100
-1055,TRIALCAPTAIN_Sophocles,Trial Captain,100
-1056,TRIALCAPTAIN_Acerola,Trial Captain,100
-1057,TRIALCAPTAIN_Mina,Painter,100
-#-------------------------------
-117,ELITEFOUR_Karen,Elite Four,100,Elite Four
-118,ELITEFOUR_Koga,Elite Four,100,Elite Four
-119,ELITEFOUR_Bruno,Elite Four,100,Elite Four
-120,ELITEFOUR_Lorelei,Elite Four,100,Elite Four
-121,ELITEFOUR_Will,Elite Four,100,Elite Four
-122,ELITEFOUR_Phoebe,Elite Four,100,Elite Four
-123,ELITEFOUR_Flannery,Elite Four,100,Elite Four
-124,ELITEFOUR_Glacia,Elite Four,100,Elite Four
-125,ELITEFOUR_Sidney,Elite Four,100,Elite Four
-126,ELITEFOUR_Drake,Elite Four,100,Elite Four
-127,ELITEFOUR_Aaron,Elite Four,100,Elite Four
-128,ELITEFOUR_Bertha,Elite Four,100,Elite Four
-129,ELITEFOUR_Flint,Elite Four,100,Elite Four
-130,ELITEFOUR_Lucian,Elite Four,100,Elite Four
-131,ELITEFOUR_Grimsley,Elite Four,100,Elite Four
-132,ELITEFOUR_Marshal,Elite Four,100,Elite Four
-133,ELITEFOUR_Caitlin,Elite Four,100,Elite Four
-134,ELITEFOUR_Drasna,Elite Four,100,Elite Four
-135,ELITEFOUR_Wikstrom,Elite Four,100,Elite Four
-136,ELITEFOUR_Bendova,Elite Four,100,Elite Four
-137,ELITEFOUR_Ginosaji,Elite Four,100,Elite Four
-138,ELITEFOUR_Tyrone,Elite Four,100,Elite Four
-139,ELITEFOUR_Saxton,Elite Four,100,Elite Four
-#-------------------------------
-140,CHAMPION_Ihyoko,Champion,100
-141,CHAMPION_Lance,Champion,100,Lance
-142,ELITEFOUR_Lance,Elite Four,100,Elite Four
-143,CHAMPION_Wallace,Champion,100
-144,CHAMPION_Steven,Champion,100
-145,CHAMPION_Cynthia,Champion,100,Cynthia
-146,CHAMPION_Alder,Champion,100
-147,CHAMPION_Diantha,Champion,100
-148,CHAMPION_Leon,Champion,100
-149,CHAMPION_Peony,Champion,100
-150,CHAMPION_Mustard,Champion,100
-151,CHAMPION_Drake,Champion,100
-152,CHAMPION_Janine,Champion,100
-576,DOJOMATRON,Dojo Matron,100
-#-------------------------------
-168,INSPECTOR_Looker,Inspector,100
-580,PRIVATEYE_DPPt,Private Eye,100
-581,OFFICER_GSC,Officer,100
-582,OFFICER_BW,Officer,100
-583,OFFICER_SM,Officer,100
-584,OFFICER_SWSH,Officer,100
-1097,OFFICER_Jenny,Officer,100
-#-------------------------------
-153,POKEMONTRAINER_Cheryl,Pokémon Trainer,100
-154,POKEMONTRAINER_Riley,Aura Master,100
-155,POKEMONTRAINER_Marley,Pokémon Trainer,100
-156,POKEMONTRAINER_Buck,Pokémon Trainer,100
-157,POKEMONTRAINER_Mira,Pokémon Trainer,100
-158,POKEMONTRAINER_Sonia,Pokémon Trainer,100
-162,POKEMANIAC_Bill,Pokémaniac,100
-163,SECRETBASEEXPERT_Aarune,Secret Base Expert,100
-164,LOREKEEPER_Zinnia,Lorekeeper,100
-165,ACETRAINER_Cal,Ace Trainer,100
-166,CREATOR_Thundaga,Creator,100
-167,PRESIDENT_Silph,President,100
-169,GAMEFREAK,GAME FREAK,100
-959,GAMEFREAK_BWMorimoto,GAME FREAK,100
-960,GAMEFREAK_Nishino,GAME FREAK,100
-961,GAMEFREAK_SMMorimoto,GAME FREAK,100
-962,GAMEFFREAK_Iawo,GAME FREAK,100
-963,GAMEFREAK_SWSHMorimoto,GAME FREAK,100
-670,SILPHCHIEF,Chief,100
-846,POKEMONTRAINER_Carrie,Pokémon Trainer,100
-1060,LASS_Lillie,Lass,100
-1061,PRESIDENT_Stone,President,100
-1062,LASS_Sonia,Lass,100
-#-------------------------------
-297,ACEDUO,Ace Duo,100
-298,ACETRAINER_RGBYm,Ace Trainer,100
-299,ACETRAINER_RGBYf,Ace Trainer,100
-300,ACETRAINER_GSCm,Ace Trainer,100
-301,ACETRAINER_GSCf,Ace Trainer,100
-302,ACETRAINER_RSEm,Ace Trainer,100
-303,ACETRAINER_RSEf,Ace Trainer,100
-304,ACETRAINER_FRLGm,Ace Trainer,100
-305,ACETRAINER_FRLGf,Ace Trainer,100
-306,ACETRAINER_DPPtm,Ace Trainer,100
-307,ACETRAINER_DPPtf,Ace Trainer,100
-308,ACETRAINER_DPPtms,Ace Trainer,100
-309,ACETRAINER_DPPtfs,Ace Trainer,100
-310,ACETRAINER_HGSSm,Ace Trainer,100
-311,ACETRAINER_HGSSf,Ace Trainer,100
-312,ACETRAINER_BWm,Ace Trainer,100
-313,ACETRAINER_BWf,Ace Trainer,100
-314,ACETRAINER_XYm,Ace Trainer,100
-315,ACETRAINER_XYf,ACe Trainer,100
-316,ACETRAINER_SMm,Ace Trainer,100
-317,ACETRAINER_SMf,Ace Trainer,100
-318,MASTERTRAINER_LetsGo,Coach Trainer,100
-319,COOLCOUPLE,Cool Couple,100
-320,ACETRAINER_Clover,Ace Trainer,100
-364,DOUBLETEAM,Double Team,100
-1064,LONEWOLF,Lone Wolf,100
-945,TOMBOY,Tomboy,100
-#-------------------------------
-887,CHALLENGER,Challenger,100
-1006,GYMCHALLENGER_Yue,Normal Specialist,100
-1007,GYMCHALLENGER_Polaire,Bug Specialist,100
-1008,GYMCHALLENGER_Deneb,Fighting Specialist,100
-1009,GYMCHALLENGER_Icla,Poison Specialist,100
-1010,GYMCHALLENGER_Pia,Grass Specialist,100
-1011,GYMCHALLENGER_Corvin,Electric Specialist,100
-1012,GYMCHALLENGER_Kent,Flying Specialist,100
-1013,GYMCHALLENGER_Vega,Water Specialist,100
-1014,GYMCHALLENGER_Wei,Ghost Specialist,100
-1015,GYMCHALLENGER_Izar,Ice Specialist,100
-1016,GYMCHALLENGER_Terry,Dragon Specialist,100
-1017,GYMCHALLENGER_Theemin,Steel Specialist,100
-1018,GYMCHALLENGER_Cher,Rock Specialist,100
-1019,GYMCHALLENGER_Dunne,Ground Specialist,100
-1020,GYMCHALLENGER_Phoebus,Fire Specialist,100
-#-------------------------------
-1021,GYMTRAINER_Grassm,Grass Trainer,100
-1022,GYMTRAINER_Grassf,Grass Trainer,100
-1023,GYMTRAINER_Water,Water Trainer,100
-1024,GYMTRAINER_Firem,Fire Trainer,100
-1025,GYMTRAINER_Firef,Fire Trainer,100
-1026,GYMTRAINER_Ghostm,Ghost Trainer,100
-1027,GYMTRAINER_Ghostf,Ghost Trainer,100
-1028,GYMTRAINER_Fairy,Fairy Trainer,100
-1029,GYMTRAINER_Rockm,Rock Trainer,100
-1030,GYMTRAINER_Rockf,Rock Trainer,100
-1031,GYMTRAINER_Icem,Ice Trainer,100
-1032,GYMTRAINER_Icef,Ice Trainer,100
-1033,GYMTRAINER_Darkm,Dark Trainer,100
-1034,GYMTRAINER_Darkf,Dark Trainer,100
-1035,GYMTRAINER_AcemDragon,Ace Trainer,100
-1036,GYMTRAINER_AcefDragon,Ace Trainer,100
-1065,GYMTRAINER_Iris,Dragon Trainer,100
-1037,LEAGUESTAFFm,League Staff,100
-1038,LEAGUESTAFFf,League Staff,100
-#------------------------------
-823,TRICKMASTER,Trick Master,100
-170,TRAINERBROS,Trainer Bros.,100
-171,FALLER,Faller,100
-172,SAIYAN_Gohan,Saiyan,100
-714,POKEMONTRAINER_Reyna,Champion,100,Reyna
-173,INVADER,Invader,100
-174,XENOBUGG,Xenobugg,100
-194,KARTENVOY,Kartenvoy,100
-1107,SAMURAI,Samurai,100
-188,SHELL_Cyrus,Shell,100
-1086,GALACTIC_Mars,Team Galactic,100
-1087,GALACTIC_Jupiter,Team Galactic,100
-1088,GALACTIC_Saturn,Team Galactic,100
-1089,GALACTIC_Charon,Team Galactic,100
-189,TEAMPLASMA_Ghetsis,100
-1114,GALACTICGRUNTm,Galactic Grunt,100
-1115,GALACTICGRUNTf,Galactic Grunt,100
-1098,CARETAKER_Concordia,Caretaker,100
-1099,CARETAKER_Anthea,Caretaker,100
-1100,N,Team Plasma,100
-845,POKEMONTRAINER_N,Team Plasma King,100
-190,MYSTERIOUS_Lawrence,Mysterious,100
-1120,LUSAMINE,Scientist,100
-1121,TEAMFLARE,Team Flare,100
-191,COLLECTOR_Lawrence,Collector,100
-192,HOLILAN,Holilan,100
-193,HOLILAN_Professor,Professor,100
-195,POKEMONTRAINER_Fire,Champion,100
-385,COLLECTOR_RSE,Collector,100
-386,COLLECTOR_SM,Collector,100
-545,MIDGET,Midget,100
-546,SKELETON,Skeleton,100
-547,SHADE,Shade,100
-548,MISTERROR,Misterror,100
-762,POKEMONTRAINER_Tobias,Pokémon Trainer,100
-829,HUNTERj,Hunter,100
-836,MYTHTRAINER,Myth Trainer,100
-946,MONSTERHUNTER,Monster Hunter,100
-1003,COORDINATOR_Lisia,Coordinator,100
-1045,DIGIDESTINED_Tai,Digidestined,100
-1046,BATTLEBRAWLER_Dan,Battle Brawler,100
-1047,DUELIST_Yugi,Duelist,100
-1048,POKEMONTRAINER_Goh,Professor's Assistant,100
-1049,ROBOTMASTER_StrikeMan,Robot Master,100
-1050,SLAYERCANDIDATE_Baam,Slayer Candidate,100
-1067,ULTRA_Phyco,Ultra Recon Squad,100
-1068,ULTRA_Zossie,Ultra Recon Squad,100
-1069,ULTRA_Soliera,Ultra Recon Squad,,100
-1070,ULTRA_Dulse,Ultra Recon Squad,,100
-1071,ULTRARECONSQUAD,Ultra Recon Squad,100
-#-------------------------------
-1135,BONNIE,Schoolkid,100
-1136,MAX,Schoolkid,100
-1137,JIMGAI,Gym Guy,100
-#-------------------------------
-212,ALAKAZAM,Alakazam,100
-1122,MACHOKE,Machoke,100
-1123,HITMONCHAN,Hitmonchan,100
-1124,MRMIME,Mime,100
-213,HYPNO,Hypno,100
-1125,GENGAR,Gengar,100
-1126,SABLEYE,Sableye,100
-1127,GARDEVOIR,Gardevoir,100
-1128,LUCARIO,Lucario,100
-1129,CONKELDURR,Conkeldurr,100
-1130,GOLURK,Golurk,100
-1131,TSAREENA,Tsareena,100
-211,ORANGURU,Oranguru,100
-214,MEWTWO,Mewtwo,100
-1132,DEOXYS,Deoxys,100
-1133,PHEROMOSA,Pheromosa,100
-1134,GARBODOR,Garbodor,100
-210,AYYLAMO,Ayylamo,100
-216,ARCEUS,Arceus,100
-#-------------------------------
-196,POKEMONTRAINER_Rey,Pokémon Trainer,100
-197,POKEMONTRAINER_RedTwitch,Champion,100
-198,POKEMONTRAINER_AJ,Pokemon Trainer,100
-199,POKEMONTRAINER_Evan,Pokemon Trainer,100
-200,POKEMONTRAINER_Baba,Maginka,100
-201,POKEMONTRAINER_Alice,Pokemon Trainer,100
-202,POKEMONTRAINER_A,Pokemon Trainer,100
-203,POKEMONTRAINER_Napoleon,Pokemon Trainer,100
-204,POKEMONTRAINER_Ao,Pokemon Trainer,100
-205,POKEMONTRAINER_Jimmy,Pokemon Trainer,100
-206,POKEMONTRAINER_LilD,Pokemon Trainer,100
-207,POKEMONTRAINER_Pepe,Pokemon Trainer,100
-208,POKEMONTRAINER_Nigel,Pokemon Trainer,100
-209,PLANESWALKER_Kay,Planeswalker,100
-#-------------------------------
-614,SOCIALITE_DPPt,Socialite,100
-615,SOCIALITE_BW,Socialite,100
-616,MADAME_XY,Madame,100
-617,MADAME_SM,Madame,100
-618,MADAME_SWSH,Madame,100
-619,BARONESS,Baroness,100
-620,VISCOUNTESS,Viscountess,100
-621,COUNTESS,Countess,100
-622,MARCHIONESS,Marchioness,100
-623,DUCHESS,Duchess,100
-821,MATRON,Matron,100
-#-------------------------------
-585,PRINCE_Lear,Prince,100
-586,GENTLEMAN_RGBY,Gentleman,100
-587,GENTLEMAN_RSE,Gentleman,100
-588,GENTLEMAN_FRLG,Gentleman,100
-589,GENTLEMAN_HGSS,Gentleman,100
-590,GENTLEMAN_BW,Gentleman,100
-591,GENTLEMAN_SM,Gentleman,100
-592,GENTLEMAN_SWSH,Gentleman,100
-595,MONSIEUR,Monsieur,100
-609,BARON,Baron,100
-610,VISCOUNT,Viscount,100
-611,EARL,Earl,100
-612,MARQUIS,Marquis,100
-613,DUKE,Duke,100
-#-------------------------------
-568,MERCHANT,Merchant,100
-990,OWNER,Owner,100
-860,MAID,Maid,100
-1005,CAFEMASTER,Café Master,100
-874,WAITER,Waiter,100
-875,WAITRESS_DPPt,Waitress,100
-876,WAITRESS_BW,Waitress,100
-877,WAITRESS_SWSH,Waitress,100
-878,GARCON,Garçon,100
-952,BAKER,Baker,100
-953,JANITOR,Janitor,100
-985,BUTLER,Butler,100
-986,CHEF,Chef,100
-987,COOK_SM,Cook,100
-988,COOK_SWSH,Cook,100
-989,GARDENER,Gardener,100
-1001,PROPRIETER,Proprieter,100
-336,BELLEPA,Belle & Pa,100
-337,RANCHER,Rancher,100
-338,COWGIRL,Cowgirl,100
-596,DRIVER,Driver,100
-597,DRIVERs,Driver,100
-598,DRIVERss,Driver,100
-1044,CABBIE,Cabbie,100
-1041,POSTMAN,Postman,100
-#-------------------------------
-624,FURISODEGIRL_Choleric,Furisode Girl,100
-625,FURISODEGIRL_Melancholic,Furisode Girl,100
-626,FURISODEGIRL_Phlegmatic,Furisode Girl,100
-627,FURISODEGIRL_Sanguine,Furisode Girl,100
-628,CHATELAINE_Nita,Chatelaine,100
-629,CHATELAINE_Evelyn,Chatelaine,100
-630,CHATELAINE_Dana,Chatelaine,100
-631,CHATELAINE_Morgan,Chatelaine,100
-#-------------------------------
-599,RICHBOY_RSE,Rich Boy,100
-600,RICHBOY_DPPt,Rich Boy,100
-601,RICHBOY_BW,Rich Boy,100
-602,RICHBOY_XY,Rich Boy,100
-603,LADY_RSE,Lady,100
-604,LADY_FRLG,Lady,100
-605,LADY_DPPt,Lady,100
-606,LADY_BW,Lady,100
-607,LADY_XY,Lady,100
-608,LADY_ORAS,Lady,100
-#------------------------------
-175,PROFESSOR_Kukui,Professor,100
-176,PROFESSOR_Eusine,Professor,100
-177,PROFESSOR_Oak,Professor,100
-178,PROFESSOR_Elm,Professor,100
-179,PROFESSOR_Birch,Professor,100
-180,PROFESSOR_Rowan,Professor,100
-181,PROFESSOR_Juniper,Professor,100
-182,PROFESSOR_Junioniper,Professor,100
-183,PROFESSOR_Sycamore,Professor,100
-184,PROFESSOR_Magnolia,Professor,100
-185,PROFESSOR_Burnet,Professor,100
-186,PROFESSOR_Cara,Professor,100
-1081,PROFESSOR_Sycamore,Professor,100
-1084,PROFESSOR_Ivy,Professor,100
-1146,PROFESSOR_Stump,Professor,100
-1147,CHAMPION_Peri,Peri,100
-1148,KARMAADMIN_Kymmi,Karma Admin,100
-#------------------------------
-187,BOSS_Giovanni,Boss,100
-245,ROCKET_RBY,Rocket Brother,100
-246,ROCKET_JessieJames,Team Rocket Trio,100
-1076,ROCKET_HGSSm,Rocket Grunt,100
-1077,ROCKET_HGSSf,Rocket Grunt,100
-247,ROCKET_GSCm,Rocket Grunt,100
-248,ROCKET_GSCf,Rocket Grunt,100
-249,ROCKET_FRLGf,Rocket Grunt,100
-250,ROCKET_LetsGom,Rocket Grunt,100
-251,ROCKET_LetsGof,Rocket Grunt,100
-252,ROCKET_GOm,Rocket Grunt,100
-253,ROCKET_GOf,Rocket Grunt,100
-254,ROCKET_Rainbowm,Rocket Grunt,100
-255,ROCKET_Rainbowf,Rocket Grunt,100
-256,ROCKET_Sierra,Admin,100
-257,ROCKET_Arlo,Admin,100
-258,ROCKET_Cliff,Admin,100
-259,ROCKET_Ariana,Admin,100
-260,ROCKET_Petrel,Admin,100
-261,ROCKET_Proton,Admin,100
-262,ROCKET_Archer,Admin,100
-263,ROCKET_Sird,Beast,100
-264,ROCKET_Attila,Admin,100
-265,ROCKET_Hun,Admin,100
-266,ROCKET_Orm,Beast,100
-267,ROCKET_Carr,Beast,100
-268,ROCKET_ButchCassidy,Rocket Duo,100
-269,ROCKET_Zager,Dr.,100
-270,ROCKET_Christopher,Pawn,100
-271,ROCKET_Domino,Admin,100
-272,ROCKET_Matori,Admin,100
-273,ROCKET_Gideon,Dr.,100
-274,ROCKET_Gozu,Admin,100
-275,ROCKET_Vicious,Marauder,100
-276,ROCKET_Jubei,Rocket Grunt,100
-277,ROCKET_Madame,Boss,100
-278,ROCKET_Mondo,Rocket Grunt,100
-279,ROCKET_Pierce,Admin,100
-280,ROCKET_Ken,Elite Grunt,100
-281,ROCKET_Al,Elite Grunt,100
-282,ROCKET_Harry,Elite Grunt,100
-283,ROCKET_Scout,Scout,100
-284,ROCKET_Chermaine,Admin,100
-285,ROCKET_Sebastian,Admin,100
-286,ROCKET_Viper,Admin,100
-287,ROCKET_Wendy,Admin,100
-296,ROCKET_Carl,Admin,100
-1101,MERC_Annie,Merc,100
-1102,MERC_Oakley,Merc,100
-848,PLASMASAGE_Gorm,Plasma Sage,100
-1090,PLASMASAGE_Ryoku,Plasma Sage,100
-1091,PLASMASAGE_Bronius,Plasma Sage,100
-1092,PLASMASAGE_Giallo,Plasma Sage,100
-1093,PLASMASAGE_Rood,Plasma Sage,100
-1094,PLASMASAGE_Zinzolin,Plasma Sage,100
-849,SHADOWTRIAD,Shadow Triad,100
-850,DICTATOR_Ghetsis,Dictator,100
-1110,PLASMA_Gruntm,Plasma,100
-1111,PLASMA_Gruntf,Plasma,100
-1112,PLASMA_Neom,Plasma,100
-1113,PLASMA_Neof,Plasma,100
-#-------------------------------
-544,BOUNCER,Bouncer,100
-564,IMMMIGRANT,Immigrant,100
-569,BURGLAR_GSC,Burglar,100
-570,BURGLAR_FRLG,Burglar,100
-571,BURGLAR_HGSS,Burglar,100
-579,GAMBLER_FRLG,Gambler,100
-818,CHASERm,Chaser,100
-819,CHASERf,Chaser,100
-820,PRCSOLDIER,P.R.C. Soldier,100
-827,HUNTERm,Hunter,100
-828,HUNTERf,Hunter,100
-835,SPY,Spy,100
-840,ROGUE,Rogue,100
-842,SHADYGUY,Shady Guy,100
-857,THUG,Thug,100
-858,WANDERER,Wanderer,100
-939,TRAVELINGGUY,Traveling Guy,100
-940,TRAVELINGLADY,Traveling Lady,100
-#-------------------------------
-227,CUEBALL_RGBY,Cue Ball,100
-228,BIKER_RGBY,Biker,100
-229,BIKER_FRLG,Biker,100
-230,BIKER_HGSS,Biker,100
-231,BIKER_BW,Biker,100
-324,BIKER_Clover,Biker,100
-375,CUEBALL_FRLG,Cue Ball,100
-376,ROUGHNECK_DPPt,Roughneck,100
-377,ROUGHNECK_BW,Roughneck,100
-378,HOOLIGANS_BikerRoughneck,Hooligans,100
-379,PUNKGUY_XY,Punk Guy,100
-380,PUNKGUY_SM,Punk Guy,100
-381,PUNKGIRL_XY,Punk Girl,100
-382,PUNKGIRL_SM,Punk Girl,100
-383,PUNKGIRL_Masters,Punk Girl,100
-433,PUNKCOUPLE,Punk Couple,100
-434,PUNKPAIR,Punk Pair,100
-838,RIDERm,Rider,100
-839,RIDERf,Rider,100
-841,ROLLERBOY,Roller Boy,100
-964,MOTORCYCLIST,Motorcyclist,100
-991,ROLLERSKATERm,Roller Skater,100
-992,ROLLERSKATERf,Roller Skater,100
-995,DELINQUENT,Delinquent,100
-996,STREETTHUG_ORAS,Street Thug,100
-997,STREETTHUG_Masters,Street Thug,100
-998,FAREPRINCE,Fare Prince,100
-#-------------------------------
-543,BARAFAG,Burly Man,100
-549,FUCKING,Soldier,100
-550,FUCKING_LJackson,Samuel,100
-551,LIFTER,Lifter,100
-565,TERRORIST,Immigrant,100
-814,BODYBUILDERm,Bodybuilder,100
-815,BODYBUILDERf,Bodybuilder,100
-816,BODYBUILDERb,Bodybuilder,100
-817,BODYBUILDERh,Bodybuilder,100
-#-------------------------------
-538,SUPERNERD_RGBY,Super Nerd,100
-539,SUPERNERD_FRLG,Super Nerd,100
-540,SUPERNERD_HGSS,Super Nerd,100
-541,SUPERNERD_LetsGo,100
-542,NECKBEARD,Neckbeard,100
-555,NEET,NEET,100
-556,FURRY,Furry,100
-557,FETISHISTS,Enthusiasts,100
-558,WEEB,Weeb,100
-559,GAMER,Gamer,100
-561,STONER,Stoner,100
-562,METHCOOKERS,Pharmacists,100
-563,MEMER,Memer,100
-843,SIMTRAINER,Sim Trainer,100
-#-------------------------------
-403,MEDICALTEAM,Medical Team,100
-404,DOCTOR_BW,Doctor,100
-405,DOCTOR_SWSHm,Doctor,100
-406,DOCTOR_SWSHf,Doctor,100
-407,NURSE_BW,Nurse,100
-408,NURSE_Joy,Nurse,100
-409,NURSE_Clover,Nurse,100
-410,SCIENTIST_FRLG,Scientist,100
-411,SCIENTIST_DPPt,Scientist,100
-412,SCIENTIST_HGSS,Scientist,100
-413,SCIENTIST_BWm,Scientist,100
-414,SCIENTIST_BWf,Scientist,100
-415,SCIENTIST_XYm,Scientist,100
-416,SCIENTIST_XYf,Scientist,100
-417,SCIENTIST_SM,Scientist,100
-560,ENGINEER,Engineer,100
-566,THEORIST,Theorist,100
-695,TEACHER_GSC,Teacher,100
-696,TEACHER_HGSS,Teacher,100
-697,TEACHER_SM,Teacher,100
-780,POKEMONBREEDER_RSEm,Pokémon Breeder,100
-781,POKEMONBREEDER_RSEf,Pokémon Breeder,100
-782,POKEMONBREEDER_FRLG,Pokémon Breeder,100
-783,POKEMONBREEDER_DPPtm,Pokémon Breeder,100
-784,POKEMONBREEDER_DPPTf,Pokémon Breeder,100
-785,POKEMONBREEDER_BWm,Pokémon Breeder,100
-786,POKEMONBREEDER_BWf,Pokémon Breeder,100
-787,POKEMONBREEDER_XYm,Pokémon Breeder,100
-788,POKEMONBREEDER_XYf,Pokémon Breeder,100
-789,POKEMONBREEDER_SMm,Pokémon Breeder,100
-790,POKEMONBREEDER_SMf,Pokémon Breeder,100
-791,POKEMONBREEDER_SWSHm,Pokémon Breeder,100
-792,POKEMONBREEDER_SWSHf,Pokémon Breeder,100
-793,RUINMANIAC_RSE,Ruin Maniac,100
-794,RUINMANIAC_FRLG,Ruin Maniac,100
-795,RUINMANIAC_DPPt,Ruin Maniac,100
-833,SCIENTIST_Lovrina,Scientist,100
-834,SCIENTIST_Kaminko,Scientist,100
-847,SCIENTIST_Colress,Scientist,100
-854,KAMINKOAIDE,Scientist Aide,100
-901,ELECTRIFYINGGUY,Electrifying Guy,100
-902,SHOCKINGGIRL,Shocking Girl,100
-903,FUTUREGIRL,Future Girl,100
-915,HIGHTECHMANIAC,High-Tech Maniac,100
-934,SCIFIMANIAC,Sci-Fi Maniac,100
-935,STEELSPIRIT,Steel Spirit,100
-965,NURSERYAIDE,Nursery Aide,100
-#-------------------------------
-219,BEAUTY_RGBY,Beauty,100
-220,BEAUTY_GSC,Beauty,100
-221,BEAUTY_RSE,Beauty,100
-222,BEAUTY_DPPt,Beauty,100
-223,BEAUTY_BW,Beauty,100
-224,BEAUTY_XY,Beauty,100
-225,BEAUTY_SM,Beauty,100
-226,BEAUTY_SWSH,Beauty,100
-321,BEAUTY_Clover,Beauty,100
-384,BEAUTY_Masters,Beauty,100
-1105,BEAUTY_FRLG,Beauty,100
-899,COOLBEAUTY,Cool Beauty,100
-#-------------------------------
-232,BIRDKEEPER_RGBY,Bird Keeper,100
-233,BIRDKEEPER_RSE,Bird Keeper,100
-234,BIRDKEEPER_FRLG,Bird Keeper,100
-235,BIRDKEEPER_DPPt,Bird Keeper,100
-236,BIRDKEEPER_ORAS,Bird Keeper,100
-237,BIRDKEEPER_LetsGo,Bird Keeper,100
-323,BIRDKEEPER_Clover,Bird Keeper,100
-#-------------------------------
-238,BLACKBELT_RGBY,Black Belt,100
-239,BLACKBELT_FRLG,Black Belt,100
-240,BLACKBELT_HGSS,Black Belt,100
-241,BLACKBELT_BW,Black Belt,100
-242,BLACKBELT_XY,Black Belt,100
-243,BLACKBELT_SM,Black Belt,100
-244,BLACKBELT_SWSH,Black Belt,100
-288,BATTLEGIRL_FRLG,Battle Girl,100
-289,BATTLEGIRL_RSE,Battle Girl,100
-360,CRUSHGIRL_FRLG,Battle Girl,100
-290,BATTLEGIRL_DPPt,Battle Girl,100
-291,BATTLEGIRL_BW,Battle Girl,100
-292,BATTLEGIRL_XY,Battle Girl,100
-293,CRUSHKIN_BlackbeltBattlegirl,Crush Kin,100
-294,KARATEFAMILY_BlackbeltPreschooler,Karate Family,100
-295,CAPOEIRACOUPLE_BlackbeltDancer,Capoeira Couple,100
-322,BLACKBELT_Clover,Black Belt,100
-359,SPARRINGPARTNERS_BlackbeltBlackbelt,Sparring Partners,100
-577,DOJOSTUDENT_SWSHm,Dojo Student,100
-578,DOJOSTUDENT_SWSHf,Dojo Student,100
-#-------------------------------
-325,ARTISTFAMILY,Artist Family,100
-326,ARTIST_DPPt,Artist,100
-327,ARTIST_BW,Artist,100
-328,ARTIST_XYm,Artist,100
-329,ARTIST_XYf,Artist,100
-330,ARTIST_SWSH,Artist,100
-554,PAINTER,Painter,100
-660,HARLEQUIN,Harlequin,100
-661,JUGGLER,Juggler,100
-844,STREETPERFORMER,Street Performer,100
-866,CLOWN,Clown,100
-971,ACTOR,Actor,100
-972,ACTRESS,Actress,100
-973,ALISTACTOR,A-List Actor,100
-974,BIGSTAR,Big Star,100
-975,CELEBRITY,Celebrity,100
-976,CHICACTRESS,Chic Actress,100
-977,CHILDSTAR,Child Star,100
-978,COMEDIAN,Comedian,100
-979,FINEACTOR,Fine Actor,100
-980,SUITACTOR,Suit Actor,100
-981,UNIQUESTAR,Unique Star,100
-982,VETERANSTAR_Masachika,Veteran Star,100
-983,VETERANSTAR_Peter,Veteran Star,100
-984,VETERANSTAR_JJ,Veteran Star,100
-#-------------------------------
-348,DANCER_BW,Dancer,100
-349,DANCER_SM,Dancer,100
-350,DANCER_SWSH,Dancer,100
-418,MUSICCREW,Music Crew,100
-419,MUSICIAN_SWSH,Musician,100
-659,MUSICIAN_BW,Musician,100
-552,ROCKER_RGBY,Rocker,100
-593,ROCKER_FRLG,Rocker,100
-594,ROCKER_LetsGo,ROCKER,100
-553,GUITARIST_GSC,Guitarist,100
-679,GUITARIST_RSE,Guitarist,100
-680,GUITARIST_DPPt,Guitarist,100
-681,GUITARIST_BW,Guitarist,100
-879,IDOL,Idol,100
-1040,MODEL,Model,100
-#-------------------------------
-351,COLLEAGUES,Colleagues,100
-352,CLERK_BWt,Clerk,100
-353,CLERK_BWs,Clerk,100
-354,CLERK_BWf,Clerk,100
-355,CLERK_SMm,Salaryman,100
-356,CLERK_SMf,Salarywoman,100
-357,CLERK_SWSHm,Businessman,100
-358,CLERK_SWSHf,Office Lady,100
-658,DANCINGFAMILY_SalarywomanPreschooler,Dancing Family,100
-#-------------------------------
-361,DARINGCOUPLE_RailstaffBeauty,Daring Couple,100
-362,RAILSTAFF_BW,Rail Staff,100
-363,RAILSTAFF_SWSH,Rail Staff,100
-905,HARDHEADEDGIRL,Hardheaded Girl,100
-906,WORKER_DPPt,Worker,100
-907,WORKER_BW,Worker,100
-908,WORKER_BWs,Worker,100
-909,WORKER_XY,Worker,100
-910,WORKER_XYs,Worker,100
-911,WORKER_SM,Worker,100
-912,WORKER_SWSHm,Worker,100
-913,WORKER_SWSHf,Worker,100
-914,WORKER_Colosseum,Worker,100
-#-------------------------------
-368,HONEYMOONERS_XY,Honeymooners,100
-369,HONEYMOONERS_SM,Honeymooners,100
-370,TOURISTm,Tourist,100
-371,TOURISTf,Tourist,100
-372,TOURISTfs,Tourist,100
-373,SIGHTSEERm,Sightseer,100
-374,SIGHTSEERf,Sightseer,100
-451,YOUNGCOUPLE_RSE,Young Couple,100
-452,YOUNGCOUPLE_FRLG,Young Couple,100
-453,YOUNGCOUPLE_DPPt,Young Couple,100
-454,YOUNGCOUPLE_ORAS,Young Couple,100
-483,TOURISTCOUPLE,Tourist Couple,100
-484,TOURISTCOUPLEs,Tourist Couple,100
-904,GIRLINLOVE,Girl in Love,100
-922,MATURECOUPLE,Mature Couple,100
-923,MAYDECEMBERCOUPLE,May-December Couple,100
-928,PASSIONATEMAN,Passionate Man,100
-929,PASSIONATERIDER,Passionate Rider,100
-930,YOUTHFULCOUPLE,Youthful Couple,100
-#-------------------------------
-387,INTERVIEWERS_RSE,Interviewers,100
-388,INTERVIEWERS_DPPt,Interviewers,100
-389,INTERVIEWERS_ORAS,Interviewers,100
-390,INTERVIEWERS_SWSH,Interviewers,100
-856,NEWSCASTER,Newscaster,100
-861,CAMERAMAN_DPPt,Cameraman,100
-862,CAMERAMAN_SWSH,Cameraman,100
-863,REPORTER_DPPt,Reporter,100
-864,REPORTER_SM,Reporter,100
-865,REPORTER_SWSH,Reporter,100
-#-------------------------------
-391,MASTERAPPRENTICE_AcetrainerVeteran,Master & Apprentice,100
-392,OLDCOUPLE,Old Couple,100
-393,SAGE,Sage,100
-394,EXPERTTRAINERm,Expert Trainer,100
-395,EXPERTTRAINERf,Expert Trainer,100
-396,VETERAN_DPPt,Veteran,100
-397,VETERAN_BWm,Veteran,100
-398,VETERAN_BWf,Veteran,100
-399,VETERAN_XYm,Veteran,100
-400,VETERAN_XYf,Veteran,100
-401,VETERAN_SMm,Veteran,100
-402,VETERAN_SMf,Veteran,100
-567,SMOGOON,Smogoon,100
-859,ELDER,Elder,100
-1002,ROTATIONFRUMP,Rotation Frump,100
-#-------------------------------
-339,BRAINSBRAWN_BlackbeltPsychic,Brains & Brawn,100
-340,PSYCHIC_FRLGm,Psychic,100
-341,PSYCHIC_FRLGf,Psychic,100
-342,PSYCHIC_GSC,Psychic,100
-343,PSYCHIC_DPPtm,Psychic,100
-344,PSYCHIC_DPPtf,Psychic,100
-345,PSYCHIC_BWm,Psychic,100
-346,PSYCHIC_BWf,Psychic,100
-347,PSYCHIC_XY,Psychic,100
-420,MYSTERIOUSSISTERS,Mysterious Sisters,100
-421,HEXMANIAC_RSE,Hex Maniac,100
-422,HEXMANIAC_XY,Hex Maniac,100
-423,CHANNELER,Channeler,100
-424,MEDIUM,Medium,100
-425,FAIRYTALEGIRL,Fairy Tale Girl,100
-900,CUTEMANIAC,Cute Maniac,100
-#-------------------------------
-426,POKEFANFAMILY,Poké Fan Family,100
-427,POKEFAN_RSEm,Poké Fan,100
-428,POKEFAN_RSEf,Poké Fan,100
-429,POKEFAN_BWm,Poké Fan,100
-430,POKEFAN_BWf,Poké Fan,100
-431,POKEFAN_XYm,Poké Fan,100
-432,POKEFAN_XYf,Poké Fan,100
-#-------------------------------
-435,RANGERS,Rangers,100
-436,RANGER_RSEm,Pokémon Ranger,100
-437,RANGER_RSEf,Pokémon Ranger,100
-438,RANGER_FRLGm,Pokémon Ranger,100
-439,RANGER_FRLGf,Pokémon Ranger,100
-440,RANGER_DPPtm,Pokémon Ranger,100
-441,RANGER_DPPtf,Pokémon Ranger,100
-442,RANGER_BWm,Pokémon Ranger,100
-443,RANGER_BWf,Pokémon Ranger,100
-444,RANGER_XYm,Pokémon Ranger,100
-445,RANGER_XYf,Pokémon Ranger,100
-#-------------------------------
-446,RISINGSTARDUO,Rising Star Duo,100
-447,RISINGSTAR_XYm,Rising Star,100
-448,RISINGSTAR_XYf,Rising Star,100
-449,RISINGSTAR_SMm,Rising Star,100
-450,RISINGSTAR_SMf,Rising Star,100
-#-------------------------------
-334,BACKERSm,Backers,100
-335,BACKERSf,Backers,100
-933,SASHAYFANCLUB,Fan Clubbers,100
-919,JOEGROUPIES,Groupies,100
-455,SISBRO_RSESwimmerTuber,Sis & Bro,100
-456,SISBRO_FRLGSwimmerTuber,Sis & Bro,100
-457,SISBRO_DPPtSwimmerTuber,Sis & Bro,100
-458,SISBRO_ORASSwimmerTuber,Sis & Bro,100
-459,SWIMMER_RGBY,Swimmer,100
-460,SWIMMER_GSCm,Swimmer,100
-461,SWIMMER_GSCf,Swimmer,100
-462,SWIMMER_RSEm,Swimmer,100
-463,SWIMMER_RSEf,Swimmer,100
-464,SWIMMER_DPPtm,Swimmer,100
-465,SWIMMER_DPPtf,Swimmer,100
-466,SWIMMER_FRLGf,Swimmer,100
-467,SWIMMER_BWf,Swimmer,100
-468,SWIMMER_XYm,Swimmer,100
-469,SWIMMER_XYf,Swimmer,100
-470,SWIMMER_ORASf,Swimmer,100
-471,SWIMMER_SMm,Swimmer,100
-472,SWIMMER_SMf,Swimmer,100
-473,SWIMMER_SMfs,Swimmer,100
-474,SWIMMER_SWSHm,Swimmer,100
-475,SWIMMER_SWSHf,Swimmer,100
-476,SWIMMERGIRLS,Swimmer Girls,100
-477,SWIMMERS,Swimmers,100
-478,TUBER_RSEm,Tuber,100
-479,TUBER_RSEf,Tuber,100
-480,TUBER_FRLG,Tuber,100
-481,TUBER_DPPtm,Tuber,100
-482,TUBER_DPPtf,Tuber,100
-1080,TUBER_FRLGm,Tuber,100
-331,ATHLETICSIBLINGS,Athletic Siblings,100
-332,YOUTHATHLETEm,Youth Athlete,100
-333,YOUTHATHLETEf,Youth Athlete,100
-796,TRIATHLETE_bm,Triathlete,100
-797,TRIATHLETE_bf,Triathlete,100
-798,TRIATHLETE_wm,Triathlete,100
-799,TRIATHLETE_wf,Triathlete,100
-800,TRIATHLETE_sm,Triathlete,100
-801,TRIATHLETE_sf,Triathlete,100
-811,ATHLETEm,Athlete,100
-812,ATHLETEf,Athlete,100
-867,CYCLIST_DPPtm,Cyclist,100
-868,CYCLIST_DPPtf,Cyclist,100
-869,CYCLIST_BWm,Cyclist,100
-870,CYCLIST_BWf,Cyclist
-871,JOGGER,Jogger,100
-937,SWIMMINCCHAMP,Swimming Champ,100
-938,SWIMMINGCLUBMEMBER,Swimming Club Member,100
-365,GOLFBUDDIES,Golf Buddies,100
-366,GOLFERm,Golfer,100
-367,GOLFERf,Golfer,100
-947,TENNISPLAYER,Smasher,100
-948,BASKETBALLPLAYER,Hoopster,100
-949,BASEBALLPLAYER,Infielder,100
-950,FOOTBALLPLAYER,Linebacker,100
-951,SOCCERPLAYER,Striker,100
-954,BACKPACKER_BWm,Backpacker,100
-955,BACKPACKER_BWf,Backpacker,100
-956,BACKPACKER_XY,Backpacker,100
-957,BACKPACKER_SM,Backpacker,100
-958,BACKPACKER_SWSH,Backpacker,100
-993,SKYTRAINERm,Sky Trainer,100
-994,SKYTRAINERf,Sky Trainer,100
-999,FREEDIVER,Free Diver,100
-1000,SCUBADIVER,Scuba Diver,100
-1106,BASEBALLPLAYER,Batter,100
-#-------------------------------
-485,TEAMMATES,Sr. & Jr.,100
-486,LASS_GSC,Lass,100
-487,LASS_RSE,Lass,100
-488,LASS_FRLG,Lass,100
-489,LASS_DPPt,Lass,100
-490,LASS_HGSS,Lass,100
-491,LASS_BW,Lass,100
-492,LASS_XY,Lass,100
-493,LASS_ORAS,Lass,100
-494,LASS_SM,Lass,100
-495,LASS_LetsGo,Lass,100
-496,LASS_SWSH,Lass,100
-501,LASS_Clover,Lass,100
-1078,LASS_CloverVivian,Lass,100
-#-------------------------------
-500,YOUNGSTERS,Youngsters,100
-497,YOUNGSTER_RGBY,Youngster,100
-498,YOUNGSTER_RSE,Youngster,100
-499,YOUNGSTER_Clover,Youngster,100
-502,YOUNGSTER_FRLG,Youngster,100
-503,YOUNGSTER_DPPt,Youngster,100
-504,YOUNGSTER_HGSS,Youngster,100
-505,YOUNGSTER_BW,Youngster,100
-506,YOUNGSTER_XY,Youngster,100
-507,YOUNGSTER_SM,Youngster,100
-508,YOUNGSTER_SWSH,Youngster,100
-509,YOUNGSTER_Masters,Youngster,100
-924,MUDDYBOY,Muddy Boy,100
-925,NEWSTAR,New Star,100
-936,STUBBORNBOY,Stubborn Boy,100
-#-------------------------------
-510,TWINS_GSC,Twins,100
-511,TWINS_RSE,Twins,100
-512,TWINS_FRLG,Twins,100
-513,TWINS_DPPt,Twins,100
-514,TWINS_HGSS,Twins,100
-515,TWINS_BW,Twins,100
-516,TWINS_XY,Twins,100
-517,TWINS_SM,Twins,100
-518,PRESCHOOLER_BWm,Preschooler,100
-519,PRESCHOOLER_BWf,Preschooler,100
-520,PRESCHOOLER_XYm,Preschooler,100
-521,PRESCHOOLER_XYf,Preschooler,100
-522,PRESCHOOLER_SMm,Preschooler,100
-523,PRESCHOOLER_SMf,Preschooler,100
-524,SCHOOLBOY_XY,Schoolboy,100
-525,SCHOOLBOY_SWSH,Schoolboy,100
-526,SCHOOLGIRL_XY,Schoolgirl,100
-527,SCHOOLGIRL_SWSH,Schoolgirl,100
-528,SCHOOLKID_RGBY,Schoolkid,100
-529,SCHOOLKID_RSEm,Schoolkid,100
-530,SCHOOLKID_RSEf,Schoolkid,100
-531,SCHOOLKID_DPPtm,Schoolkid,100
-532,SCHOOLKID_DPPtf,Schoolkid,100
-533,SCHOOLKID_HGSS,Schoolkid,100
-534,SCHOOLKID_BWm,Schoolkid,100
-535,SCHOOLKID_BWf,Schoolkid,100
-536,SCHOOLKID_ORASm,Schoolkid,100
-537,SCHOOLKID_ORASf,Schoolkid,100
-888,CLOSESIBLINGS,Close Siblings,100
-941,THREEBROTHERS,Three Brothers,100
-942,THREESISTERS,Three Sisters,100
-943,TWINBROTHERS,Twin Brothers,100
-944,TWINSISTERS,Twin Sisters,100
-#-------------------------------
-572,BUGCATCHER_RGBYGSC,Bug Catcher,100
-573,BUGCATCHER_RSE,Bug Catcher,100
-574,BUGCATCHER_DPPt,Bug Catcher,100
-575,BUGMANIAC_RSE,Bug Maniac,100
-886,BUGCATCHINGMAN,Bug-Catching Man,100
-1074,BUGCATCHER_FRLG,Bug Catcher,100
-#-------------------------------
-1075,FISHERMAN_DPPt,Fisherman,100
-632,FISHERMAN_RGBY,Fisherman,100
-633,FISHERMAN_GSC,Fisherman,100
-634,FISHERMAN_FRLG,Fisherman,100
-635,FISHERMAN_BW,Fisherman,100
-636,FISHERMAN_XY,Fisherman,100
-637,FISHERMAN_SM,Fisherman,100
-638,FISHERMAN_LetsGo,Fisherman,100
-639,FISHERMAN_SWSH,Fisherman,100
-#-------------------------------
-640,HIKER_RSE,Hiker,100
-641,HIKER_FRLG,Hiker,100
-642,HIKER_DPPt,Hiker,100
-643,HIKER_BW,Hiker,100
-644,HIKER_SM,Hiker,100
-645,HIKER_SWSH,Hiker,100
-916,HIKINGCLUBMEMBER,Hiking Club Member,100
-917,HIKINGGIRL,Hiking Girl,100
-918,ICYGUY,Icy Guy,100
-#-------------------------------
-674,SNOWBOARDER_GSC,Boarder,100
-675,SNOWBOARDER_HGSS,Boarder,100
-676,FIREBREATHER_GSC,Firebreather,100
-677,FIREBREATHER_HGSS,Firebreather,100
-678,FEMENIST_Clover,Firebreather,100
-692,SKIER_DPPtm,Skier,100
-693,SKIER_DPPtf,Skier,100
-694,SKIER_HGSS,Skier,100
-771,KINDLER,Kindler,100
-#-------------------------------
-646,CAMPER_RGBY,Camper,100
-647,CAMPER_GSC,Camper,100
-648,CAMPER_RSE,Camper,100
-649,CAMPER_FRLG,Camper,100
-650,CAMPER_DPPt,Camper,100
-651,CAMPER_LetsGo,Camper,100
-652,PICNICKER_RGBY,Picnicker,100
-653,PICNICKER_GSC,Picnicker,100
-654,PICNICKER_RSE,Picnicker,100
-655,PICNICKER_FRLG,Picnicker,100
-656,PICNICKER_DPPt,Picnicker,100
-657,PICNICKER_LetsGo,Picnicker,100
-931,PICNICGIRL,Picnic Girl,100
-#-------------------------------
-662,POKEMANIAC_RGBY,Poké Maniac,100
-663,POKEMANIAC_RSE,Poké Maniac,100
-664,POKEMANIAC_FRLG,Poké Maniac,100
-665,POKEMANIAC_HGSS,Poké Maniac,100
-666,POKEMANIAC_LetsGo,Poké Maniac,100
-872,POKEKIDm,Poké Kid,100
-873,POKEKIDf,Poké Kid,100
-1066,PIKACHUFAN,Pikachu Fan,100
-#-------------------------------
-667,SAILOR_RGBY,Sailor,100
-668,SAILOR_RSE,Sailor,100
-669,SAILOR_FRLG,Sailor,100
-855,NAVIGATOR,Navigator,100
-966,PILOT,Pilot,100
-#-------------------------------
-671,TAMER_RGBY,Tamer,100
-672,TAMER_FRLG,Tamer,100
-673,TAMER_LetsGo,Tamer,100
-769,DRAGONTAMER_RSE,Dragon Tamer,100
-770,DRAGONTAMER_DPPt,Dragon Tamer,100
-#-------------------------------
-682,KIMONOGIRL,Kimono Girl,100
-683,EEVEELUTIONIST_Polly,Wild Whirlpool,100
-684,EEVEELUTIONIST_Chad,Firebreather,100
-685,EEVEELUTIONIST_Jane,Tyrant Lass,100
-686,EEVEELUTIONIST_Ishaan,Psychic,100
-687,EEVEELUTIONIST_Braiden,Immortal,100
-688,EEVEELUTIONIST_Rea,Absolute Zero,100
-689,EEVEELUTIONIST_Linnea,World Beauty,100
-690,EEVEELUTIONIST_Sakura,Fairy Queen,100
-691,EEVEELUTIONIST_Kagetora,Eevee User,100
-#-------------------------------
-1079,AROMALADY_NPC,Aroma Lady,100
-767,AROMALADY_FRLG,Aroma Lady,100
-768,AROMALADY_DPPt,Aroma Lady,100
-777,PARASOLLADY_RSE,Parasol Lady,100
-778,PARASOLLADY_DPPt,Parasol Lady,100
-779,PARASOLLADY_BW,Parasol Lady,100
-#-------------------------------
-772,NINJABOY_RSE,Ninja Boy,100
-773,NINJABOY_DPPt,Ninja Boy,100
-774,NINJA,Ninja,100
-775,COPYCAT_Duplica,Copycat,100
-776,COPYCAT_Doctor,Dr.,100
-932,POISONTONGUEBOY,Poison Tongue Boy,100
-#-------------------------------
-813,BANDANAGUY,Bandana Guy,100
-824,GLASSESMAN,Glasses Man,100
-825,BALLGUY,Ball Guy,100
-826,GUY,Guy,100
-851,CASUALDUDE,Casual Dude,100
-852,CASUALGUY,Casual Guy,100
-822,FUNOLDMAN,Fun Old Man,100
-853,CURMUDGEON,Curmudgeon,100
-926,ORDINARYGUY,Ordinary Guy,100
-927,ORDINARYLADY,Ordinary Lady,100
+0,POKEMONTRAINER_Lucas,Pokémon Trainer,100,bgm,,intro,Mixed,,
+1,POKEMONTRAINER_Dawn,Champion,100,Dawn,,,Mixed,,
+2,POKEMONTRAINER_Barry,Pokémon Trainer,100,Barry,,,Mixed,,
+3,POKEMONTRAINER_Ethan,Champion,100,Ethan,,,Mixed,,
+4,POKEMONTRAINER_Lyra,Pokémon Trainer,100,Lyra,,,Mixed,,
+5,POKEMONTRAINER_Kris,Gym Leader,100,Kris,,,Mixed,,
+6,POKEMONTRAINER_Silver,Junior Professor,100,Silver,,,Mixed,,
+7,POKEMONTRAINER_Blue,Battle Legend,100,Blue,,,Mixed,,
+8,POKEMONTRAINER_Red,Pokémon Master,100,Red,,,Mixed,,
+9,POKEMONTRAINER_Leaf,Pokémon Trainer,100,Leaf,,,Mixed,,
+10,POKEMONTRAINER_LeafGreen,Pokémon Trainer,100,Green,,,Mixed,,
+11,POKEMONTRAINER_Yellow,Pokémon Trainer,100,Yellow,,,Mixed,,
+12,POKEMONTRAINER_May,Professor,100,May,,,Mixed,,
+13,POKEMONTRAINER_Wally,Champion,100,Wally,,,Mixed,,
+14,POKEMONTRAINER_WallyEmerald,Champion,100,Emerald,,,Mixed,,
+15,POKEMONTRAINER_Jyu,Champion,100,Jyu,,,Mixed,,
+16,POKEMONTRAINER_Keksandra,Memer,100,Keksandra,,,Mixed,,
+17,POKEMONTRAINER_Edgie,Edgelord,100,Edgie,,,Mixed,,
+18,POKEMONTRAINER_Chase,Youngster,100,Chase,,,Mixed,,
+19,POKEMONTRAINER_Elaine,Lass,100,Elaine,,,Mixed,,
+20,POKEMONTRAINER_Trace,Rising Star,100,Trace,,,Mixed,,
+21,POKEMONTRAINER_Hopkins,Jump-Battler,100,Hopkins,,,Mixed,,
+22,LEADER_Brock,Gym Leader,100,Gym Leader,,,Mixed,,
+23,LEADER_Misty,Gym Leader,100,Gym Leader,,,Mixed,,
+24,LEADER_Surge,Gym Leader,100,Gym Leader,,,Mixed,,
+25,LEADER_Erika,Gym Leader,100,Gym Leader,,,Mixed,,
+26,LEADER_Sabrina,Gym Leader,100,Gym Leader,,,Mixed,,
+27,LEADER_Kary,Gym Leader,100,Gym Leader,,,Mixed,,
+28,LEADER_Blaine,Gym Leader,100,Gym Leader,,,Mixed,,
+29,LEADER_Agatha,Gym Leader,100,Gym Leader,,,Mixed,,
+30,LEADER_Kiyo,Karate King,100,Gym Leader,,,Mixed,,
+31,LEADER_Whitney,Gym Leader,100,Whitney,Gym Leader,,Mixed,,
+32,LEADER_Falkner,Gym Leader,100,Gym Leader,,,Mixed,,
+33,LEADER_Bugsy,Gym Leader,100,Gym Leader,,,Mixed,,
+34,LEADER_Morty,Gym Leader,100,Gym Leader,,,Mixed,,
+35,LEADER_Jasmine,Gym Leader,100,Gym Leader,,,Mixed,,
+36,LEADER_Clair,Gym Leader,100,Gym Leader,,,Mixed,,
+37,LEADER_Chuck,Gym Leader,100,Gym Leader,,,Mixed,,
+38,LEADER_Roxanne,Gym Leader,100,Gym Leader,,,Mixed,,
+39,LEADER_Brawly,Gym Leader,100,Gym Leader,,,Mixed,,
+40,LEADER_Maxie,Gym Leader,100,Gym Leader,,,Mixed,,
+41,LEADER_Archie,Gym Leader,100,Gym Leader,,,Mixed,,
+42,LEADER_MaxieArchie,Gym Leaders,100,Gym Leader,,,Mixed,,
+43,LEADER_Norman,Gym Leader,100,,,,Mixed,,
+44,LEADER_Juan,Gym Leader,100,,,,Mixed,,
+45,LEADER_Tate,Gym Leader,100,,,,Mixed,,
+46,LEADER_Liza,Gym Leader,100,,,,Mixed,,
+47,LEADER_TateLiza,Gym Leaders,100,,,,Mixed,,
+48,LEADER_Roark,Gym Leader,100,,,,Mixed,,
+49,LEADER_Gardenia,Gym Leader,100,,,,Mixed,,
+50,LEADER_Maylene,Gym Leader,100,,,,Mixed,,
+51,LEADER_Wake,Gym Leader,100,,,,Mixed,,
+52,LEADER_Fantina,Gym Leader,100,,,,Mixed,,
+53,LEADER_Byron,Gym Leader,100,,,,Mixed,,
+54,LEADER_Candice,Gym Leader,100,,,,Mixed,,
+55,LEADER_Volkner,Gym Leader,100,,,,Mixed,,
+56,LEADER_Cilan,Gym Leader,100,,,,Mixed,,
+57,LEADER_Chili,Gym Leader,100,,,,Mixed,,
+58,LEADER_Cress,Gym Leader,100,,,,Mixed,,
+59,LEADER_Lenora,Gym Leader,100,,,,Mixed,,
+60,LEADER_Burgh,Gym Leader,100,,,,Mixed,,
+61,LEADER_Drayden,Gym Leader,100,,,,Mixed,,
+62,LEADER_Clay,Gym Leader,100,,,,Mixed,,
+63,LEADER_Elesa,Gym Leader,100,,,,Mixed,,
+64,LEADER_Skyla,Gym Leader,100,,,,Mixed,,
+65,LEADER_Brycen,Gym Leader,100,,,,Mixed,,
+66,LEADER_Grant,Gym Leader,100,,,,Mixed,,
+67,LEADER_Korrina,Gym Leader,100,,,,Mixed,,
+68,LEADER_Ramos,Gym Leader,100,,,,Mixed,,
+69,LEADER_Olympia,Gym Leader,100,,,,Mixed,,
+70,LEADER_Wulfric,Gym Leader,100,,,,Mixed,,
+71,LEADER_Malva,Gym Leader,100,,,,Mixed,,
+72,LEADER_Shen,Gym Leader,100,,,,Mixed,,
+73,LEADER_Angelo,Gym Leader,100,,,,Mixed,,
+74,LEADER_Aldrin,Gym Leader,100,,,,Mixed,,
+75,LEADER_Schmidt,Gym Leader,100,,,,Mixed,,
+76,LEADER_Igor,Gym Leader,100,,,,Mixed,,
+77,LEADER_Cap,Gym Leader,100,,,,Mixed,,
+78,LEADER_Doug,Gym Leader,100,,,,Mixed,,
+79,LEADER_Opal,Gym Leader,100,,,,Mixed,,
+80,LEADER_Melony,Gym Leader,100,,,,Mixed,,
+81,LEADER_Cissy,Gym Leader,100,,,,Mixed,,
+82,LEADER_Danny,Gym Leader,100,,,,Mixed,,
+83,LEADER_Rudy,Gym Leader,100,,,,Mixed,,
+84,LEADER_Luana,Gym Leader,100,,,,Mixed,,
+85,LEADER_Justy,Gym Leader,100,,,,Mixed,,
+86,LEADER_Lee,Gym Leader,100,,,,Mixed,,
+87,LEADER_Tumblrita,Gym Leader,100,,,,Mixed,,
+88,LEADER_Guy,Gym Leader,100,,,,Mixed,,
+89,LEADER_Snoop,Gym Leader,100,,,,Mixed,,
+90,LEADER_Freddie,Gym Leader,100,,,,Mixed,,
+91,LEADER_Kanye,Gym Leader,100,,,,Mixed,,
+92,LEADER_Polk,Gym Leader,100,,,,Mixed,,
+93,LEADER_Darude,Gym Leader,100,,,,Mixed,,
+94,LEADER_Bavi,Gym Leader,100,,,,Mixed,,
+95,LEADER_Coldsteel,Gym Leader,100,,,,Mixed,,
+96,LEADER_Darkholme,Gym Leader,100,,,,Mixed,,
+97,LEADER_Nomel,Gym Leader,100,,,,Mixed,,
+98,LEADER_Bro,Gym Leader,100,,,,Mixed,,
+99,LEADER_NomelBro,Gym Leaders,100,,,,Mixed,,
+100,LEADER_Broly,Gym Leader,100,Broly,,OH-FIVE,Mixed,,
+101,BRAIN_Noland,Factory Head,100,,,,Mixed,,
+102,BRAIN_Greta,Arena Tycoon,100,,,,Mixed,,
+103,BRAIN_Tucker,Dome Ace,100,,,,Mixed,,
+104,BRAIN_Lucy,Pike Queen,100,,,,Mixed,,
+105,BRAIN_Spenser,Palace Maven,100,,,,Mixed,,
+106,BRAIN_Brandon,Pyramid King,100,,,,Mixed,,
+107,BRAIN_Anabel,Salon Maiden,100,,,,Mixed,,
+108,BRAIN_Palmer,Tower Tycoon,100,,,,Mixed,,
+109,BRAIN_Thorton,Factory Head,100,,,,Mixed,,
+110,BRAIN_Dahlia,Arcade Star,100,,,,Mixed,,
+111,BRAIN_Darach,Castle Valet,100,,,,Mixed,,
+112,BRAIN_Argenta,Hall Matron,100,,,,Mixed,,
+113,KAHUNA_Hala,Kahuna,100,,,,Mixed,,
+114,KAHUNA_Olivia,Kahuna,100,,,,Mixed,,
+115,KAHUNA_Nanu,Kahuna,100,,,,Mixed,,
+116,KAHUNA_Sofu,Kahuna,100,,,,Mixed,,
+117,ELITEFOUR_Karen,Elite Four,100,Elite Four,,,Mixed,,
+118,ELITEFOUR_Koga,Elite Four,100,Elite Four,,,Mixed,,
+119,ELITEFOUR_Bruno,Elite Four,100,Elite Four,,,Mixed,,
+120,ELITEFOUR_Lorelei,Elite Four,100,Elite Four,,,Mixed,,
+121,ELITEFOUR_Will,Elite Four,100,Elite Four,,,Mixed,,
+122,ELITEFOUR_Phoebe,Elite Four,100,Elite Four,,,Mixed,,
+123,ELITEFOUR_Flannery,Elite Four,100,Elite Four,,,Mixed,,
+124,ELITEFOUR_Glacia,Elite Four,100,Elite Four,,,Mixed,,
+125,ELITEFOUR_Sidney,Elite Four,100,Elite Four,,,Mixed,,
+126,ELITEFOUR_Drake,Elite Four,100,Elite Four,,,Mixed,,
+127,ELITEFOUR_Aaron,Elite Four,100,Elite Four,,,Mixed,,
+128,ELITEFOUR_Bertha,Elite Four,100,Elite Four,,,Mixed,,
+129,ELITEFOUR_Flint,Elite Four,100,Elite Four,,,Mixed,,
+130,ELITEFOUR_Lucian,Elite Four,100,Elite Four,,,Mixed,,
+131,ELITEFOUR_Grimsley,Elite Four,100,Elite Four,,,Mixed,,
+132,ELITEFOUR_Marshal,Elite Four,100,Elite Four,,,Mixed,,
+133,ELITEFOUR_Caitlin,Elite Four,100,Elite Four,,,Mixed,,
+134,ELITEFOUR_Drasna,Elite Four,100,Elite Four,,,Mixed,,
+135,ELITEFOUR_Wikstrom,Elite Four,100,Elite Four,,,Mixed,,
+136,ELITEFOUR_Bendova,Elite Four,100,Elite Four,,,Mixed,,
+137,ELITEFOUR_Ginosaji,Elite Four,100,Elite Four,,,Mixed,,
+138,ELITEFOUR_Tyrone,Elite Four,100,Elite Four,,,Mixed,,
+139,ELITEFOUR_Saxton,Elite Four,100,Elite Four,,,Mixed,,
+140,CHAMPION_Ihyoko,Champion,100,,,,Mixed,,
+141,CHAMPION_Lance,Champion,100,Lance,,,Mixed,,
+142,ELITEFOUR_Lance,Elite Four,100,Elite Four,,,Mixed,,
+143,CHAMPION_Wallace,Champion,100,,,,Mixed,,
+144,CHAMPION_Steven,Champion,100,,,,Mixed,,
+145,CHAMPION_Cynthia,Champion,100,Cynthia,,,Mixed,,
+146,CHAMPION_Alder,Champion,100,,,,Mixed,,
+147,CHAMPION_Diantha,Champion,100,,,,Mixed,,
+148,CHAMPION_Leon,Champion,100,,,,Mixed,,
+149,CHAMPION_Peony,Champion,100,,,,Mixed,,
+150,CHAMPION_Mustard,Champion,100,,,,Mixed,,
+151,CHAMPION_Drake,Champion,100,,,,Mixed,,
+152,CHAMPION_Janine,Champion,100,,,,Mixed,,
+153,POKEMONTRAINER_Cheryl,Pokémon Trainer,100,,,,Mixed,,
+154,POKEMONTRAINER_Riley,Aura Master,100,,,,Mixed,,
+155,POKEMONTRAINER_Marley,Pokémon Trainer,100,,,,Mixed,,
+156,POKEMONTRAINER_Buck,Pokémon Trainer,100,,,,Mixed,,
+157,POKEMONTRAINER_Mira,Pokémon Trainer,100,,,,Mixed,,
+158,POKEMONTRAINER_Sonia,Pokémon Trainer,100,,,,Mixed,,
+159,POKEMONTRAINER_RedClassic,Pokémon Trainer,100,,,,Mixed,,
+160,POKEMONTRAINER_RedYoungster,Youngster,100,,,,Mixed,,
+161,POKEMONTRAINER_Ash,Pokémon Trainer,100,,,,Mixed,,
+162,POKEMANIAC_Bill,Pokémaniac,100,,,,Mixed,,
+163,SECRETBASEEXPERT_Aarune,Secret Base Expert,100,,,,Mixed,,
+164,LOREKEEPER_Zinnia,Lorekeeper,100,,,,Mixed,,
+165,ACETRAINER_Cal,Ace Trainer,100,,,,Mixed,,
+166,CREATOR_Thundaga,Creator,100,,,,Mixed,,
+167,PRESIDENT_Silph,President,100,,,,Mixed,,
+168,INSPECTOR_Looker,Inspector,100,,,,Mixed,,
+169,GAMEFREAK,GAME FREAK,100,,,,Mixed,,
+170,TRAINERBROS,Trainer Bros.,100,,,,Mixed,,
+171,FALLER,Faller,100,,,,Mixed,,
+172,SAIYAN_Gohan,Saiyan,100,,,,Mixed,,
+173,INVADER,Invader,100,,,,Mixed,,
+174,XENOBUGG,Xenobugg,100,,,,Mixed,,
+175,PROFESSOR_Kukui,Professor,100,,,,Mixed,,
+176,PROFESSOR_Eusine,Professor,100,,,,Mixed,,
+177,PROFESSOR_Oak,Professor,100,,,,Mixed,,
+178,PROFESSOR_Elm,Professor,100,,,,Mixed,,
+179,PROFESSOR_Birch,Professor,100,,,,Mixed,,
+180,PROFESSOR_Rowan,Professor,100,,,,Mixed,,
+181,PROFESSOR_Juniper,Professor,100,,,,Mixed,,
+182,PROFESSOR_Junioniper,Professor,100,,,,Mixed,,
+183,PROFESSOR_Sycamore,Professor,100,,,,Mixed,,
+184,PROFESSOR_Magnolia,Professor,100,,,,Mixed,,
+185,PROFESSOR_Burnet,Professor,100,,,,Mixed,,
+186,PROFESSOR_Cara,Professor,100,,,,Mixed,,
+187,BOSS_Giovanni,Boss,100,,,,Mixed,,
+188,SHELL_Cyrus,Shell,100,,,,Mixed,,
+189,TEAMPLASMA_Ghetsis,100,0,,,,Mixed,,
+190,MYSTERIOUS_Lawrence,Mysterious,100,,,,Mixed,,
+191,COLLECTOR_Lawrence,Collector,100,,,,Mixed,,
+192,HOLILAN,Holilan,100,,,,Mixed,,
+193,HOLILAN_Professor,Professor,100,,,,Mixed,,
+194,KARTENVOY,Kartenvoy,100,,,,Mixed,,
+195,POKEMONTRAINER_Fire,Champion,100,,,,Mixed,,
+196,POKEMONTRAINER_Rey,Pokémon Trainer,100,,,,Mixed,,
+197,POKEMONTRAINER_RedTwitch,Champion,100,,,,Mixed,,
+198,POKEMONTRAINER_AJ,Pokemon Trainer,100,,,,Mixed,,
+199,POKEMONTRAINER_Evan,Pokemon Trainer,100,,,,Mixed,,
+200,POKEMONTRAINER_Baba,Maginka,100,,,,Mixed,,
+201,POKEMONTRAINER_Alice,Pokemon Trainer,100,,,,Mixed,,
+202,POKEMONTRAINER_A,Pokemon Trainer,100,,,,Mixed,,
+203,POKEMONTRAINER_Napoleon,Pokemon Trainer,100,,,,Mixed,,
+204,POKEMONTRAINER_Ao,Pokemon Trainer,100,,,,Mixed,,
+205,POKEMONTRAINER_Jimmy,Pokemon Trainer,100,,,,Mixed,,
+206,POKEMONTRAINER_LilD,Pokemon Trainer,100,,,,Mixed,,
+207,POKEMONTRAINER_Pepe,Pokemon Trainer,100,,,,Mixed,,
+208,POKEMONTRAINER_Nigel,Pokemon Trainer,100,,,,Mixed,,
+209,PLANESWALKER_Kay,Planeswalker,100,,,,Mixed,,
+210,AYYLAMO,Ayylamo,100,,,,Mixed,,
+211,ORANGURU,Oranguru,100,,,,Mixed,,
+212,ALAKAZAM,Alakazam,100,,,,Mixed,,
+213,HYPNO,Hypno,100,,,,Mixed,,
+214,MEWTWO,Mewtwo,100,,,,Mixed,,
+216,ARCEUS,Arceus,100,,,,Mixed,,
+217,POKEMONTRAINER_Brendan,Champion,100,Brendan,,,Mixed,,
+218,DEEPKING_Agnol,Deep King,100,,,,Mixed,,
+219,BEAUTY_RGBY,Beauty,100,,,,Mixed,,
+220,BEAUTY_GSC,Beauty,100,,,,Mixed,,
+221,BEAUTY_RSE,Beauty,100,,,,Mixed,,
+222,BEAUTY_DPPt,Beauty,100,,,,Mixed,,
+223,BEAUTY_BW,Beauty,100,,,,Mixed,,
+224,BEAUTY_XY,Beauty,100,,,,Mixed,,
+225,BEAUTY_SM,Beauty,100,,,,Mixed,,
+226,BEAUTY_SWSH,Beauty,100,,,,Mixed,,
+227,CUEBALL_RGBY,Cue Ball,100,,,,Mixed,,
+228,BIKER_RGBY,Biker,100,,,,Mixed,,
+229,BIKER_FRLG,Biker,100,,,,Mixed,,
+230,BIKER_HGSS,Biker,100,,,,Mixed,,
+231,BIKER_BW,Biker,100,,,,Mixed,,
+232,BIRDKEEPER_RGBY,Bird Keeper,100,,,,Mixed,,
+233,BIRDKEEPER_RSE,Bird Keeper,100,,,,Mixed,,
+234,BIRDKEEPER_FRLG,Bird Keeper,100,,,,Mixed,,
+235,BIRDKEEPER_DPPt,Bird Keeper,100,,,,Mixed,,
+236,BIRDKEEPER_ORAS,Bird Keeper,100,,,,Mixed,,
+237,BIRDKEEPER_LetsGo,Bird Keeper,100,,,,Mixed,,
+238,BLACKBELT_RGBY,Black Belt,100,,,,Mixed,,
+239,BLACKBELT_FRLG,Black Belt,100,,,,Mixed,,
+240,BLACKBELT_HGSS,Black Belt,100,,,,Mixed,,
+241,BLACKBELT_BW,Black Belt,100,,,,Mixed,,
+242,BLACKBELT_XY,Black Belt,100,,,,Mixed,,
+243,BLACKBELT_SM,Black Belt,100,,,,Mixed,,
+244,BLACKBELT_SWSH,Black Belt,100,,,,Mixed,,
+245,ROCKET_RBY,Rocket Brother,100,,,,Mixed,,
+246,ROCKET_JessieJames,Team Rocket Trio,100,,,,Mixed,,
+247,ROCKET_GSCm,Rocket Grunt,100,,,,Mixed,,
+248,ROCKET_GSCf,Rocket Grunt,100,,,,Mixed,,
+249,ROCKET_FRLGf,Rocket Grunt,100,,,,Mixed,,
+250,ROCKET_LetsGom,Rocket Grunt,100,,,,Mixed,,
+251,ROCKET_LetsGof,Rocket Grunt,100,,,,Mixed,,
+252,ROCKET_GOm,Rocket Grunt,100,,,,Mixed,,
+253,ROCKET_GOf,Rocket Grunt,100,,,,Mixed,,
+254,ROCKET_Rainbowm,Rocket Grunt,100,,,,Mixed,,
+255,ROCKET_Rainbowf,Rocket Grunt,100,,,,Mixed,,
+256,ROCKET_Sierra,Admin,100,,,,Mixed,,
+257,ROCKET_Arlo,Admin,100,,,,Mixed,,
+258,ROCKET_Cliff,Admin,100,,,,Mixed,,
+259,ROCKET_Ariana,Admin,100,,,,Mixed,,
+260,ROCKET_Petrel,Admin,100,,,,Mixed,,
+261,ROCKET_Proton,Admin,100,,,,Mixed,,
+262,ROCKET_Archer,Admin,100,,,,Mixed,,
+263,ROCKET_Sird,Beast,100,,,,Mixed,,
+264,ROCKET_Attila,Admin,100,,,,Mixed,,
+265,ROCKET_Hun,Admin,100,,,,Mixed,,
+266,ROCKET_Orm,Beast,100,,,,Mixed,,
+267,ROCKET_Carr,Beast,100,,,,Mixed,,
+268,ROCKET_ButchCassidy,Rocket Duo,100,,,,Mixed,,
+269,ROCKET_Zager,Dr.,100,,,,Mixed,,
+270,ROCKET_Christopher,Pawn,100,,,,Mixed,,
+271,ROCKET_Domino,Admin,100,,,,Mixed,,
+272,ROCKET_Matori,Admin,100,,,,Mixed,,
+273,ROCKET_Gideon,Dr.,100,,,,Mixed,,
+274,ROCKET_Gozu,Admin,100,,,,Mixed,,
+275,ROCKET_Vicious,Marauder,100,,,,Mixed,,
+276,ROCKET_Jubei,Rocket Grunt,100,,,,Mixed,,
+277,ROCKET_Madame,Boss,100,,,,Mixed,,
+278,ROCKET_Mondo,Rocket Grunt,100,,,,Mixed,,
+279,ROCKET_Pierce,Admin,100,,,,Mixed,,
+280,ROCKET_Ken,Elite Grunt,100,,,,Mixed,,
+281,ROCKET_Al,Elite Grunt,100,,,,Mixed,,
+282,ROCKET_Harry,Elite Grunt,100,,,,Mixed,,
+283,ROCKET_Scout,Scout,100,,,,Mixed,,
+284,ROCKET_Chermaine,Admin,100,,,,Mixed,,
+285,ROCKET_Sebastian,Admin,100,,,,Mixed,,
+286,ROCKET_Viper,Admin,100,,,,Mixed,,
+287,ROCKET_Wendy,Admin,100,,,,Mixed,,
+288,BATTLEGIRL_FRLG,Battle Girl,100,,,,Mixed,,
+289,BATTLEGIRL_RSE,Battle Girl,100,,,,Mixed,,
+290,BATTLEGIRL_DPPt,Battle Girl,100,,,,Mixed,,
+291,BATTLEGIRL_BW,Battle Girl,100,,,,Mixed,,
+292,BATTLEGIRL_XY,Battle Girl,100,,,,Mixed,,
+293,CRUSHKIN_BlackbeltBattlegirl,Crush Kin,100,,,,Mixed,,
+294,KARATEFAMILY_BlackbeltPreschooler,Karate Family,100,,,,Mixed,,
+295,CAPOEIRACOUPLE_BlackbeltDancer,Capoeira Couple,100,,,,Mixed,,
+296,ROCKET_Carl,Admin,100,,,,Mixed,,
+297,ACEDUO,Ace Duo,100,,,,Mixed,,
+298,ACETRAINER_RGBYm,Ace Trainer,100,,,,Mixed,,
+299,ACETRAINER_RGBYf,Ace Trainer,100,,,,Mixed,,
+300,ACETRAINER_GSCm,Ace Trainer,100,,,,Mixed,,
+301,ACETRAINER_GSCf,Ace Trainer,100,,,,Mixed,,
+302,ACETRAINER_RSEm,Ace Trainer,100,,,,Mixed,,
+303,ACETRAINER_RSEf,Ace Trainer,100,,,,Mixed,,
+304,ACETRAINER_FRLGm,Ace Trainer,100,,,,Mixed,,
+305,ACETRAINER_FRLGf,Ace Trainer,100,,,,Mixed,,
+306,ACETRAINER_DPPtm,Ace Trainer,100,,,,Mixed,,
+307,ACETRAINER_DPPtf,Ace Trainer,100,,,,Mixed,,
+308,ACETRAINER_DPPtms,Ace Trainer,100,,,,Mixed,,
+309,ACETRAINER_DPPtfs,Ace Trainer,100,,,,Mixed,,
+310,ACETRAINER_HGSSm,Ace Trainer,100,,,,Mixed,,
+311,ACETRAINER_HGSSf,Ace Trainer,100,,,,Mixed,,
+312,ACETRAINER_BWm,Ace Trainer,100,,,,Mixed,,
+313,ACETRAINER_BWf,Ace Trainer,100,,,,Mixed,,
+314,ACETRAINER_XYm,Ace Trainer,100,,,,Mixed,,
+315,ACETRAINER_XYf,ACe Trainer,100,,,,Mixed,,
+316,ACETRAINER_SMm,Ace Trainer,100,,,,Mixed,,
+317,ACETRAINER_SMf,Ace Trainer,100,,,,Mixed,,
+318,MASTERTRAINER_LetsGo,Coach Trainer,100,,,,Mixed,,
+319,COOLCOUPLE,Cool Couple,100,,,,Mixed,,
+320,ACETRAINER_Clover,Ace Trainer,100,,,,Mixed,,
+321,BEAUTY_Clover,Beauty,100,,,,Mixed,,
+322,BLACKBELT_Clover,Black Belt,100,,,,Mixed,,
+323,BIRDKEEPER_Clover,Bird Keeper,100,,,,Mixed,,
+324,BIKER_Clover,Biker,100,,,,Mixed,,
+325,ARTISTFAMILY,Artist Family,100,,,,Mixed,,
+326,ARTIST_DPPt,Artist,100,,,,Mixed,,
+327,ARTIST_BW,Artist,100,,,,Mixed,,
+328,ARTIST_XYm,Artist,100,,,,Mixed,,
+329,ARTIST_XYf,Artist,100,,,,Mixed,,
+330,ARTIST_SWSH,Artist,100,,,,Mixed,,
+331,ATHLETICSIBLINGS,Athletic Siblings,100,,,,Mixed,,
+332,YOUTHATHLETEm,Youth Athlete,100,,,,Mixed,,
+333,YOUTHATHLETEf,Youth Athlete,100,,,,Mixed,,
+334,BACKERSm,Backers,100,,,,Mixed,,
+335,BACKERSf,Backers,100,,,,Mixed,,
+336,BELLEPA,Belle & Pa,100,,,,Mixed,,
+337,RANCHER,Rancher,100,,,,Mixed,,
+338,COWGIRL,Cowgirl,100,,,,Mixed,,
+339,BRAINSBRAWN_BlackbeltPsychic,Brains & Brawn,100,,,,Mixed,,
+340,PSYCHIC_FRLGm,Psychic,100,,,,Mixed,,
+341,PSYCHIC_FRLGf,Psychic,100,,,,Mixed,,
+342,PSYCHIC_GSC,Psychic,100,,,,Mixed,,
+343,PSYCHIC_DPPtm,Psychic,100,,,,Mixed,,
+344,PSYCHIC_DPPtf,Psychic,100,,,,Mixed,,
+345,PSYCHIC_BWm,Psychic,100,,,,Mixed,,
+346,PSYCHIC_BWf,Psychic,100,,,,Mixed,,
+347,PSYCHIC_XY,Psychic,100,,,,Mixed,,
+348,DANCER_BW,Dancer,100,,,,Mixed,,
+349,DANCER_SM,Dancer,100,,,,Mixed,,
+350,DANCER_SWSH,Dancer,100,,,,Mixed,,
+351,COLLEAGUES,Colleagues,100,,,,Mixed,,
+352,CLERK_BWt,Clerk,100,,,,Mixed,,
+353,CLERK_BWs,Clerk,100,,,,Mixed,,
+354,CLERK_BWf,Clerk,100,,,,Mixed,,
+355,CLERK_SMm,Salaryman,100,,,,Mixed,,
+356,CLERK_SMf,Salarywoman,100,,,,Mixed,,
+357,CLERK_SWSHm,Businessman,100,,,,Mixed,,
+358,CLERK_SWSHf,Office Lady,100,,,,Mixed,,
+359,SPARRINGPARTNERS_BlackbeltBlackbelt,Sparring Partners,100,,,,Mixed,,
+360,CRUSHGIRL_FRLG,Battle Girl,100,,,,Mixed,,
+361,DARINGCOUPLE_RailstaffBeauty,Daring Couple,100,,,,Mixed,,
+362,RAILSTAFF_BW,Rail Staff,100,,,,Mixed,,
+363,RAILSTAFF_SWSH,Rail Staff,100,,,,Mixed,,
+364,DOUBLETEAM,Double Team,100,,,,Mixed,,
+365,GOLFBUDDIES,Golf Buddies,100,,,,Mixed,,
+366,GOLFERm,Golfer,100,,,,Mixed,,
+367,GOLFERf,Golfer,100,,,,Mixed,,
+368,HONEYMOONERS_XY,Honeymooners,100,,,,Mixed,,
+369,HONEYMOONERS_SM,Honeymooners,100,,,,Mixed,,
+370,TOURISTm,Tourist,100,,,,Mixed,,
+371,TOURISTf,Tourist,100,,,,Mixed,,
+372,TOURISTfs,Tourist,100,,,,Mixed,,
+373,SIGHTSEERm,Sightseer,100,,,,Mixed,,
+374,SIGHTSEERf,Sightseer,100,,,,Mixed,,
+375,CUEBALL_FRLG,Cue Ball,100,,,,Mixed,,
+376,ROUGHNECK_DPPt,Roughneck,100,,,,Mixed,,
+377,ROUGHNECK_BW,Roughneck,100,,,,Mixed,,
+378,HOOLIGANS_BikerRoughneck,Hooligans,100,,,,Mixed,,
+379,PUNKGUY_XY,Punk Guy,100,,,,Mixed,,
+380,PUNKGUY_SM,Punk Guy,100,,,,Mixed,,
+381,PUNKGIRL_XY,Punk Girl,100,,,,Mixed,,
+382,PUNKGIRL_SM,Punk Girl,100,,,,Mixed,,
+383,PUNKGIRL_Masters,Punk Girl,100,,,,Mixed,,
+384,BEAUTY_Masters,Beauty,100,,,,Mixed,,
+385,COLLECTOR_RSE,Collector,100,,,,Mixed,,
+386,COLLECTOR_SM,Collector,100,,,,Mixed,,
+387,INTERVIEWERS_RSE,Interviewers,100,,,,Mixed,,
+388,INTERVIEWERS_DPPt,Interviewers,100,,,,Mixed,,
+389,INTERVIEWERS_ORAS,Interviewers,100,,,,Mixed,,
+390,INTERVIEWERS_SWSH,Interviewers,100,,,,Mixed,,
+391,MASTERAPPRENTICE_AcetrainerVeteran,Master & Apprentice,100,,,,Mixed,,
+392,OLDCOUPLE,Old Couple,100,,,,Mixed,,
+393,SAGE,Sage,100,,,,Mixed,,
+394,EXPERTTRAINERm,Expert Trainer,100,,,,Mixed,,
+395,EXPERTTRAINERf,Expert Trainer,100,,,,Mixed,,
+396,VETERAN_DPPt,Veteran,100,,,,Mixed,,
+397,VETERAN_BWm,Veteran,100,,,,Mixed,,
+398,VETERAN_BWf,Veteran,100,,,,Mixed,,
+399,VETERAN_XYm,Veteran,100,,,,Mixed,,
+400,VETERAN_XYf,Veteran,100,,,,Mixed,,
+401,VETERAN_SMm,Veteran,100,,,,Mixed,,
+402,VETERAN_SMf,Veteran,100,,,,Mixed,,
+403,MEDICALTEAM,Medical Team,100,,,,Mixed,,
+404,DOCTOR_BW,Doctor,100,,,,Mixed,,
+405,DOCTOR_SWSHm,Doctor,100,,,,Mixed,,
+406,DOCTOR_SWSHf,Doctor,100,,,,Mixed,,
+407,NURSE_BW,Nurse,100,,,,Mixed,,
+408,NURSE_Joy,Nurse,100,,,,Mixed,,
+409,NURSE_Clover,Nurse,100,,,,Mixed,,
+410,SCIENTIST_FRLG,Scientist,100,,,,Mixed,,
+411,SCIENTIST_DPPt,Scientist,100,,,,Mixed,,
+412,SCIENTIST_HGSS,Scientist,100,,,,Mixed,,
+413,SCIENTIST_BWm,Scientist,100,,,,Mixed,,
+414,SCIENTIST_BWf,Scientist,100,,,,Mixed,,
+415,SCIENTIST_XYm,Scientist,100,,,,Mixed,,
+416,SCIENTIST_XYf,Scientist,100,,,,Mixed,,
+417,SCIENTIST_SM,Scientist,100,,,,Mixed,,
+418,MUSICCREW,Music Crew,100,,,,Mixed,,
+419,MUSICIAN_SWSH,Musician,100,,,,Mixed,,
+420,MYSTERIOUSSISTERS,Mysterious Sisters,100,,,,Mixed,,
+421,HEXMANIAC_RSE,Hex Maniac,100,,,,Mixed,,
+422,HEXMANIAC_XY,Hex Maniac,100,,,,Mixed,,
+423,CHANNELER,Channeler,100,,,,Mixed,,
+424,MEDIUM,Medium,100,,,,Mixed,,
+425,FAIRYTALEGIRL,Fairy Tale Girl,100,,,,Mixed,,
+426,POKEFANFAMILY,Poké Fan Family,100,,,,Mixed,,
+427,POKEFAN_RSEm,Poké Fan,100,,,,Mixed,,
+428,POKEFAN_RSEf,Poké Fan,100,,,,Mixed,,
+429,POKEFAN_BWm,Poké Fan,100,,,,Mixed,,
+430,POKEFAN_BWf,Poké Fan,100,,,,Mixed,,
+431,POKEFAN_XYm,Poké Fan,100,,,,Mixed,,
+432,POKEFAN_XYf,Poké Fan,100,,,,Mixed,,
+433,PUNKCOUPLE,Punk Couple,100,,,,Mixed,,
+434,PUNKPAIR,Punk Pair,100,,,,Mixed,,
+435,RANGERS,Rangers,100,,,,Mixed,,
+436,RANGER_RSEm,Pokémon Ranger,100,,,,Mixed,,
+437,RANGER_RSEf,Pokémon Ranger,100,,,,Mixed,,
+438,RANGER_FRLGm,Pokémon Ranger,100,,,,Mixed,,
+439,RANGER_FRLGf,Pokémon Ranger,100,,,,Mixed,,
+440,RANGER_DPPtm,Pokémon Ranger,100,,,,Mixed,,
+441,RANGER_DPPtf,Pokémon Ranger,100,,,,Mixed,,
+442,RANGER_BWm,Pokémon Ranger,100,,,,Mixed,,
+443,RANGER_BWf,Pokémon Ranger,100,,,,Mixed,,
+444,RANGER_XYm,Pokémon Ranger,100,,,,Mixed,,
+445,RANGER_XYf,Pokémon Ranger,100,,,,Mixed,,
+446,RISINGSTARDUO,Rising Star Duo,100,,,,Mixed,,
+447,RISINGSTAR_XYm,Rising Star,100,,,,Mixed,,
+448,RISINGSTAR_XYf,Rising Star,100,,,,Mixed,,
+449,RISINGSTAR_SMm,Rising Star,100,,,,Mixed,,
+450,RISINGSTAR_SMf,Rising Star,100,,,,Mixed,,
+451,YOUNGCOUPLE_RSE,Young Couple,100,,,,Mixed,,
+452,YOUNGCOUPLE_FRLG,Young Couple,100,,,,Mixed,,
+453,YOUNGCOUPLE_DPPt,Young Couple,100,,,,Mixed,,
+454,YOUNGCOUPLE_ORAS,Young Couple,100,,,,Mixed,,
+455,SISBRO_RSESwimmerTuber,Sis & Bro,100,,,,Mixed,,
+456,SISBRO_FRLGSwimmerTuber,Sis & Bro,100,,,,Mixed,,
+457,SISBRO_DPPtSwimmerTuber,Sis & Bro,100,,,,Mixed,,
+458,SISBRO_ORASSwimmerTuber,Sis & Bro,100,,,,Mixed,,
+459,SWIMMER_RGBY,Swimmer,100,,,,Mixed,,
+460,SWIMMER_GSCm,Swimmer,100,,,,Mixed,,
+461,SWIMMER_GSCf,Swimmer,100,,,,Mixed,,
+462,SWIMMER_RSEm,Swimmer,100,,,,Mixed,,
+463,SWIMMER_RSEf,Swimmer,100,,,,Mixed,,
+464,SWIMMER_DPPtm,Swimmer,100,,,,Mixed,,
+465,SWIMMER_DPPtf,Swimmer,100,,,,Mixed,,
+466,SWIMMER_FRLGf,Swimmer,100,,,,Mixed,,
+467,SWIMMER_BWf,Swimmer,100,,,,Mixed,,
+468,SWIMMER_XYm,Swimmer,100,,,,Mixed,,
+469,SWIMMER_XYf,Swimmer,100,,,,Mixed,,
+470,SWIMMER_ORASf,Swimmer,100,,,,Mixed,,
+471,SWIMMER_SMm,Swimmer,100,,,,Mixed,,
+472,SWIMMER_SMf,Swimmer,100,,,,Mixed,,
+473,SWIMMER_SMfs,Swimmer,100,,,,Mixed,,
+474,SWIMMER_SWSHm,Swimmer,100,,,,Mixed,,
+475,SWIMMER_SWSHf,Swimmer,100,,,,Mixed,,
+476,SWIMMERGIRLS,Swimmer Girls,100,,,,Mixed,,
+477,SWIMMERS,Swimmers,100,,,,Mixed,,
+478,TUBER_RSEm,Tuber,100,,,,Mixed,,
+479,TUBER_RSEf,Tuber,100,,,,Mixed,,
+480,TUBER_FRLG,Tuber,100,,,,Mixed,,
+481,TUBER_DPPtm,Tuber,100,,,,Mixed,,
+482,TUBER_DPPtf,Tuber,100,,,,Mixed,,
+483,TOURISTCOUPLE,Tourist Couple,100,,,,Mixed,,
+484,TOURISTCOUPLEs,Tourist Couple,100,,,,Mixed,,
+485,TEAMMATES,Sr. & Jr.,100,,,,Mixed,,
+486,LASS_GSC,Lass,100,,,,Mixed,,
+487,LASS_RSE,Lass,100,,,,Mixed,,
+488,LASS_FRLG,Lass,100,,,,Mixed,,
+489,LASS_DPPt,Lass,100,,,,Mixed,,
+490,LASS_HGSS,Lass,100,,,,Mixed,,
+491,LASS_BW,Lass,100,,,,Mixed,,
+492,LASS_XY,Lass,100,,,,Mixed,,
+493,LASS_ORAS,Lass,100,,,,Mixed,,
+494,LASS_SM,Lass,100,,,,Mixed,,
+495,LASS_LetsGo,Lass,100,,,,Mixed,,
+496,LASS_SWSH,Lass,100,,,,Mixed,,
+497,YOUNGSTER_RGBY,Youngster,100,,,,Mixed,,
+498,YOUNGSTER_RSE,Youngster,100,,,,Mixed,,
+499,YOUNGSTER_Clover,Youngster,100,,,,Mixed,,
+500,YOUNGSTERS,Youngsters,100,,,,Mixed,,
+501,LASS_Clover,Lass,100,,,,Mixed,,
+502,YOUNGSTER_FRLG,Youngster,100,,,,Mixed,,
+503,YOUNGSTER_DPPt,Youngster,100,,,,Mixed,,
+504,YOUNGSTER_HGSS,Youngster,100,,,,Mixed,,
+505,YOUNGSTER_BW,Youngster,100,,,,Mixed,,
+506,YOUNGSTER_XY,Youngster,100,,,,Mixed,,
+507,YOUNGSTER_SM,Youngster,100,,,,Mixed,,
+508,YOUNGSTER_SWSH,Youngster,100,,,,Mixed,,
+509,YOUNGSTER_Masters,Youngster,100,,,,Mixed,,
+510,TWINS_GSC,Twins,100,,,,Mixed,,
+511,TWINS_RSE,Twins,100,,,,Mixed,,
+512,TWINS_FRLG,Twins,100,,,,Mixed,,
+513,TWINS_DPPt,Twins,100,,,,Mixed,,
+514,TWINS_HGSS,Twins,100,,,,Mixed,,
+515,TWINS_BW,Twins,100,,,,Mixed,,
+516,TWINS_XY,Twins,100,,,,Mixed,,
+517,TWINS_SM,Twins,100,,,,Mixed,,
+518,PRESCHOOLER_BWm,Preschooler,100,,,,Mixed,,
+519,PRESCHOOLER_BWf,Preschooler,100,,,,Mixed,,
+520,PRESCHOOLER_XYm,Preschooler,100,,,,Mixed,,
+521,PRESCHOOLER_XYf,Preschooler,100,,,,Mixed,,
+522,PRESCHOOLER_SMm,Preschooler,100,,,,Mixed,,
+523,PRESCHOOLER_SMf,Preschooler,100,,,,Mixed,,
+524,SCHOOLBOY_XY,Schoolboy,100,,,,Mixed,,
+525,SCHOOLBOY_SWSH,Schoolboy,100,,,,Mixed,,
+526,SCHOOLGIRL_XY,Schoolgirl,100,,,,Mixed,,
+527,SCHOOLGIRL_SWSH,Schoolgirl,100,,,,Mixed,,
+528,SCHOOLKID_RGBY,Schoolkid,100,,,,Mixed,,
+529,SCHOOLKID_RSEm,Schoolkid,100,,,,Mixed,,
+530,SCHOOLKID_RSEf,Schoolkid,100,,,,Mixed,,
+531,SCHOOLKID_DPPtm,Schoolkid,100,,,,Mixed,,
+532,SCHOOLKID_DPPtf,Schoolkid,100,,,,Mixed,,
+533,SCHOOLKID_HGSS,Schoolkid,100,,,,Mixed,,
+534,SCHOOLKID_BWm,Schoolkid,100,,,,Mixed,,
+535,SCHOOLKID_BWf,Schoolkid,100,,,,Mixed,,
+536,SCHOOLKID_ORASm,Schoolkid,100,,,,Mixed,,
+537,SCHOOLKID_ORASf,Schoolkid,100,,,,Mixed,,
+538,SUPERNERD_RGBY,Super Nerd,100,,,,Mixed,,
+539,SUPERNERD_FRLG,Super Nerd,100,,,,Mixed,,
+540,SUPERNERD_HGSS,Super Nerd,100,,,,Mixed,,
+541,SUPERNERD_LetsGo,100,0,,,,Mixed,,
+542,NECKBEARD,Neckbeard,100,,,,Mixed,,
+543,BARAFAG,Burly Man,100,,,,Mixed,,
+544,BOUNCER,Bouncer,100,,,,Mixed,,
+545,MIDGET,Midget,100,,,,Mixed,,
+546,SKELETON,Skeleton,100,,,,Mixed,,
+547,SHADE,Shade,100,,,,Mixed,,
+548,MISTERROR,Misterror,100,,,,Mixed,,
+549,FUCKING,Soldier,100,,,,Mixed,,
+550,FUCKING_LJackson,Samuel,100,,,,Mixed,,
+551,LIFTER,Lifter,100,,,,Mixed,,
+552,ROCKER_RGBY,Rocker,100,,,,Mixed,,
+553,GUITARIST_GSC,Guitarist,100,,,,Mixed,,
+554,PAINTER,Painter,100,,,,Mixed,,
+555,NEET,NEET,100,,,,Mixed,,
+556,FURRY,Furry,100,,,,Mixed,,
+557,FETISHISTS,Enthusiasts,100,,,,Mixed,,
+558,WEEB,Weeb,100,,,,Mixed,,
+559,GAMER,Gamer,100,,,,Mixed,,
+560,ENGINEER,Engineer,100,,,,Mixed,,
+561,STONER,Stoner,100,,,,Mixed,,
+562,METHCOOKERS,Pharmacists,100,,,,Mixed,,
+563,MEMER,Memer,100,,,,Mixed,,
+564,IMMMIGRANT,Immigrant,100,,,,Mixed,,
+565,TERRORIST,Immigrant,100,,,,Mixed,,
+566,THEORIST,Theorist,100,,,,Mixed,,
+567,SMOGOON,Smogoon,100,,,,Mixed,,
+568,MERCHANT,Merchant,100,,,,Mixed,,
+569,BURGLAR_GSC,Burglar,100,,,,Mixed,,
+570,BURGLAR_FRLG,Burglar,100,,,,Mixed,,
+571,BURGLAR_HGSS,Burglar,100,,,,Mixed,,
+572,BUGCATCHER_RGBYGSC,Bug Catcher,100,,,,Mixed,,
+573,BUGCATCHER_RSE,Bug Catcher,100,,,,Mixed,,
+574,BUGCATCHER_DPPt,Bug Catcher,100,,,,Mixed,,
+575,BUGMANIAC_RSE,Bug Maniac,100,,,,Mixed,,
+576,DOJOMATRON,Dojo Matron,100,,,,Mixed,,
+577,DOJOSTUDENT_SWSHm,Dojo Student,100,,,,Mixed,,
+578,DOJOSTUDENT_SWSHf,Dojo Student,100,,,,Mixed,,
+579,GAMBLER_FRLG,Gambler,100,,,,Mixed,,
+580,PRIVATEYE_DPPt,Private Eye,100,,,,Mixed,,
+581,OFFICER_GSC,Officer,100,,,,Mixed,,
+582,OFFICER_BW,Officer,100,,,,Mixed,,
+583,OFFICER_SM,Officer,100,,,,Mixed,,
+584,OFFICER_SWSH,Officer,100,,,,Mixed,,
+585,PRINCE_Lear,Prince,100,,,,Mixed,,
+586,GENTLEMAN_RGBY,Gentleman,100,,,,Mixed,,
+587,GENTLEMAN_RSE,Gentleman,100,,,,Mixed,,
+588,GENTLEMAN_FRLG,Gentleman,100,,,,Mixed,,
+589,GENTLEMAN_HGSS,Gentleman,100,,,,Mixed,,
+590,GENTLEMAN_BW,Gentleman,100,,,,Mixed,,
+591,GENTLEMAN_SM,Gentleman,100,,,,Mixed,,
+592,GENTLEMAN_SWSH,Gentleman,100,,,,Mixed,,
+593,ROCKER_FRLG,Rocker,100,,,,Mixed,,
+594,ROCKER_LetsGo,ROCKER,100,,,,Mixed,,
+595,MONSIEUR,Monsieur,100,,,,Mixed,,
+596,DRIVER,Driver,100,,,,Mixed,,
+597,DRIVERs,Driver,100,,,,Mixed,,
+598,DRIVERss,Driver,100,,,,Mixed,,
+599,RICHBOY_RSE,Rich Boy,100,,,,Mixed,,
+600,RICHBOY_DPPt,Rich Boy,100,,,,Mixed,,
+601,RICHBOY_BW,Rich Boy,100,,,,Mixed,,
+602,RICHBOY_XY,Rich Boy,100,,,,Mixed,,
+603,LADY_RSE,Lady,100,,,,Mixed,,
+604,LADY_FRLG,Lady,100,,,,Mixed,,
+605,LADY_DPPt,Lady,100,,,,Mixed,,
+606,LADY_BW,Lady,100,,,,Mixed,,
+607,LADY_XY,Lady,100,,,,Mixed,,
+608,LADY_ORAS,Lady,100,,,,Mixed,,
+609,BARON,Baron,100,,,,Mixed,,
+610,VISCOUNT,Viscount,100,,,,Mixed,,
+611,EARL,Earl,100,,,,Mixed,,
+612,MARQUIS,Marquis,100,,,,Mixed,,
+613,DUKE,Duke,100,,,,Mixed,,
+614,SOCIALITE_DPPt,Socialite,100,,,,Mixed,,
+615,SOCIALITE_BW,Socialite,100,,,,Mixed,,
+616,MADAME_XY,Madame,100,,,,Mixed,,
+617,MADAME_SM,Madame,100,,,,Mixed,,
+618,MADAME_SWSH,Madame,100,,,,Mixed,,
+619,BARONESS,Baroness,100,,,,Mixed,,
+620,VISCOUNTESS,Viscountess,100,,,,Mixed,,
+621,COUNTESS,Countess,100,,,,Mixed,,
+622,MARCHIONESS,Marchioness,100,,,,Mixed,,
+623,DUCHESS,Duchess,100,,,,Mixed,,
+624,FURISODEGIRL_Choleric,Furisode Girl,100,,,,Mixed,,
+625,FURISODEGIRL_Melancholic,Furisode Girl,100,,,,Mixed,,
+626,FURISODEGIRL_Phlegmatic,Furisode Girl,100,,,,Mixed,,
+627,FURISODEGIRL_Sanguine,Furisode Girl,100,,,,Mixed,,
+628,CHATELAINE_Nita,Chatelaine,100,,,,Mixed,,
+629,CHATELAINE_Evelyn,Chatelaine,100,,,,Mixed,,
+630,CHATELAINE_Dana,Chatelaine,100,,,,Mixed,,
+631,CHATELAINE_Morgan,Chatelaine,100,,,,Mixed,,
+632,FISHERMAN_RGBY,Fisherman,100,,,,Mixed,,
+633,FISHERMAN_GSC,Fisherman,100,,,,Mixed,,
+634,FISHERMAN_FRLG,Fisherman,100,,,,Mixed,,
+635,FISHERMAN_BW,Fisherman,100,,,,Mixed,,
+636,FISHERMAN_XY,Fisherman,100,,,,Mixed,,
+637,FISHERMAN_SM,Fisherman,100,,,,Mixed,,
+638,FISHERMAN_LetsGo,Fisherman,100,,,,Mixed,,
+639,FISHERMAN_SWSH,Fisherman,100,,,,Mixed,,
+640,HIKER_RSE,Hiker,100,,,,Mixed,,
+641,HIKER_FRLG,Hiker,100,,,,Mixed,,
+642,HIKER_DPPt,Hiker,100,,,,Mixed,,
+643,HIKER_BW,Hiker,100,,,,Mixed,,
+644,HIKER_SM,Hiker,100,,,,Mixed,,
+645,HIKER_SWSH,Hiker,100,,,,Mixed,,
+646,CAMPER_RGBY,Camper,100,,,,Mixed,,
+647,CAMPER_GSC,Camper,100,,,,Mixed,,
+648,CAMPER_RSE,Camper,100,,,,Mixed,,
+649,CAMPER_FRLG,Camper,100,,,,Mixed,,
+650,CAMPER_DPPt,Camper,100,,,,Mixed,,
+651,CAMPER_LetsGo,Camper,100,,,,Mixed,,
+652,PICNICKER_RGBY,Picnicker,100,,,,Mixed,,
+653,PICNICKER_GSC,Picnicker,100,,,,Mixed,,
+654,PICNICKER_RSE,Picnicker,100,,,,Mixed,,
+655,PICNICKER_FRLG,Picnicker,100,,,,Mixed,,
+656,PICNICKER_DPPt,Picnicker,100,,,,Mixed,,
+657,PICNICKER_LetsGo,Picnicker,100,,,,Mixed,,
+658,DANCINGFAMILY_SalarywomanPreschooler,Dancing Family,100,,,,Mixed,,
+659,MUSICIAN_BW,Musician,100,,,,Mixed,,
+660,HARLEQUIN,Harlequin,100,,,,Mixed,,
+661,JUGGLER,Juggler,100,,,,Mixed,,
+662,POKEMANIAC_RGBY,Poké Maniac,100,,,,Mixed,,
+663,POKEMANIAC_RSE,Poké Maniac,100,,,,Mixed,,
+664,POKEMANIAC_FRLG,Poké Maniac,100,,,,Mixed,,
+665,POKEMANIAC_HGSS,Poké Maniac,100,,,,Mixed,,
+666,POKEMANIAC_LetsGo,Poké Maniac,100,,,,Mixed,,
+667,SAILOR_RGBY,Sailor,100,,,,Mixed,,
+668,SAILOR_RSE,Sailor,100,,,,Mixed,,
+669,SAILOR_FRLG,Sailor,100,,,,Mixed,,
+670,SILPHCHIEF,Chief,100,,,,Mixed,,
+671,TAMER_RGBY,Tamer,100,,,,Mixed,,
+672,TAMER_FRLG,Tamer,100,,,,Mixed,,
+673,TAMER_LetsGo,Tamer,100,,,,Mixed,,
+674,SNOWBOARDER_GSC,Boarder,100,,,,Mixed,,
+675,SNOWBOARDER_HGSS,Boarder,100,,,,Mixed,,
+676,FIREBREATHER_GSC,Firebreather,100,,,,Mixed,,
+677,FIREBREATHER_HGSS,Firebreather,100,,,,Mixed,,
+678,FEMENIST_Clover,Firebreather,100,,,,Mixed,,
+679,GUITARIST_RSE,Guitarist,100,,,,Mixed,,
+680,GUITARIST_DPPt,Guitarist,100,,,,Mixed,,
+681,GUITARIST_BW,Guitarist,100,,,,Mixed,,
+682,KIMONOGIRL,Kimono Girl,100,,,,Mixed,,
+683,EEVEELUTIONIST_Polly,Wild Whirlpool,100,,,,Mixed,,
+684,EEVEELUTIONIST_Chad,Firebreather,100,,,,Mixed,,
+685,EEVEELUTIONIST_Jane,Tyrant Lass,100,,,,Mixed,,
+686,EEVEELUTIONIST_Ishaan,Psychic,100,,,,Mixed,,
+687,EEVEELUTIONIST_Braiden,Immortal,100,,,,Mixed,,
+688,EEVEELUTIONIST_Rea,Absolute Zero,100,,,,Mixed,,
+689,EEVEELUTIONIST_Linnea,World Beauty,100,,,,Mixed,,
+690,EEVEELUTIONIST_Sakura,Fairy Queen,100,,,,Mixed,,
+691,EEVEELUTIONIST_Kagetora,Eevee User,100,,,,Mixed,,
+692,SKIER_DPPtm,Skier,100,,,,Mixed,,
+693,SKIER_DPPtf,Skier,100,,,,Mixed,,
+694,SKIER_HGSS,Skier,100,,,,Mixed,,
+695,TEACHER_GSC,Teacher,100,,,,Mixed,,
+696,TEACHER_HGSS,Teacher,100,,,,Mixed,,
+697,TEACHER_SM,Teacher,100,,,,Mixed,,
+698,POKEMONTRAINER_Wes,Pokémon Trainer,100,Wes,,,Mixed,,
+699,POKEMONTRAINER_Michael,Michael,100,Michael,,,Mixed,,
+700,POKEMONTRAINER_Todd,Photographer,100,Todd,,,Mixed,,
+701,POKEMONTRAINER_Hilbert,Pokémon Trainer,100,Hilbert,,,Mixed,,
+702,POKEMONTRAINER_Nate,Champion,100,Nate,,,Mixed,,
+703,POKEMONTRAINER_Hilda,Champion,100,Hilda,,,Mixed,,
+704,POKEMONTRAINER_Rosa,Pokémon Trainer,100,Rosa,,,Mixed,,
+705,POKEMONTRAINER_Bianca,Pokémon Trainer,100,Bianca,,,Mixed,,
+706,POKEMONTRAINER_Cheren,Gym Leader,100,Cheren,,,Mixed,,
+707,POKEMONTRAINER_Hugh,Pokémon Trainer,100,Hugh,,,Mixed,,
+708,POKEMONTRAINER_Elio,Champion,100,Elio,,,Mixed,,
+709,POKEMONTRAINER_Selene,Pokémon Trainer,100,Selene,,,Mixed,,
+710,POKEMONTRAINER_ElioUltra,Pokémon Trainer,100,Elio,,,Mixed,,
+711,POKEMONTRAINER_SeleneUltra,Champion,100,Selene,,,Mixed,,
+712,POKEMONTRAINER_Calem,Pokémon Trainer,100,,,,Mixed,,
+713,POKEMONTRAINER_Serena,Champion,100,,,,Mixed,,
+714,POKEMONTRAINER_Reyna,Champion,100,Reyna,,,Mixed,,
+715,POKEMONTRAINER_Victor,Pokémon Trainer,100,,,,Mixed,,
+716,POKEMONTRAINER_Gloria,Champion,100,,,,Mixed,,
+717,POKEMONTRAINER_Beeatrice,Pokémon Trainer,100,,,,Mixed,,
+718,POKEMONTRAINER_UselessTradeBoi,Reidy,100,,,,Mixed,,
+719,POKEMONTRAINER_Scottie,Pokémon Trainer,100,,,,Mixed,,
+720,POKEMONTRAINER_Bettie,Pokémon Trainer,100,,,,Mixed,,
+721,POKEMONTRAINER_Hero,Hero,100,,,,Mixed,,
+722,POKEMONTRAINER_Heroine,Heroine,100,,,,Mixed,,
+723,POKEMONTRAINER_Gao,Pokémon Trainer,100,,,,Mixed,,
+724,POKEMONTRAINER_Gaoko,Pokémon Trainer,100,,,,Mixed,,
+725,POKEMONRANGER_Lunick,Pokémon Ranger,100,,,,Mixed,,
+726,POKEMONRANGER_Solana,Pokémon Ranger,100,,,,Mixed,,
+727,POKEMONRANGER_Kellyn,100,0,,,,Mixed,,
+728,POKEMONRANGER_Kate,100,0,,,,Mixed,,
+729,POKEMONRANGER_Ben,100,0,,,,Mixed,,
+730,POKEMONRANGER_Summer,100,0,,,,Mixed,,
+731,CARDBATTLER_Mark,Player,100,,,,Mixed,,
+732,CARDBATTLER_Mint,Player,100,,,,Mixed,,
+733,GAMEFREAK_TypingAdventurem,GAME FREAK,100,,,,Mixed,,
+734,GAMEFREAK_TypingAdventuref,GAME FREAK,100,,,,Mixed,,
+735,AGENT_Lucy,Secret Agent,100,,,,Mixed,,
+736,INSPECTOR_Tim,Inspector,100,,,,Mixed,,
+737,BATTRIO_HotBloodedm,Player,100,,,,Mixed,,
+738,BATTRIO_Coolm,Player,100,,,,Mixed,,
+739,BATTRIO_Glassesm,Player,100,,,,Mixed,,
+740,BATTRIO_Naughtym,Player,100,,,,Mixed,,
+741,BATTRIO_Fashionablem,Player,100,,,,Mixed,,
+742,BATTRIO_HotBloodedf,Player,100,,,,Mixed,,
+743,BATTRIO_Coolf,Player,100,,,,Mixed,,
+744,BATTRIO_Glassesf,Player,100,,,,Mixed,,
+745,BATTRIO_Naughtyf,Player,100,,,,Mixed,,
+746,BATTRIO_Fashionablef,Player,100,,,,Mixed,,
+747,POKEMONTRAINER_Shauna,Pokémon Trainer,100,,,,Mixed,,
+748,POKEMONTRAINER_Tierno,Pokémon Trainer,100,,,,Mixed,,
+749,POKEMONTRAINER_Trevor,Pokémon Trainer,100,,,,Mixed,,
+750,POKEMONTRAINER_Hau,Pokémon Trainer,100,Hau,,,Mixed,,
+751,POKEMONTRAINER_Gladion,Pokémon Trainer,100,,,,Mixed,,
+752,POKEMONTRAINER_Hop,Pokémon Trainer,100,,,,Mixed,,
+753,POKEMONTRAINER_Bede,Pokémon Trainer,100,,,,Mixed,,
+754,POKEMONTRAINER_Marnie,Pokémon Trainer,100,,,,Mixed,,
+755,POKEMONTRAINER_Klara,Pokémon Trainer,100,,,,Mixed,,
+756,POKEMONTRAINER_Avery,Pokémon Trainer,100,,,,Mixed,,
+757,CARDBATTLER_Ronald,Pokémon Trainer,100,,,,Mixed,,
+758,POKEMONTRAINER_Paulo,Pokémon Trainer,100,,,,Mixed,,
+759,POKEMONTRAINER_Camilla,Pokémon Trainer,100,,,,Mixed,,
+760,POKEMONRANGER_Keith,Pokémon Ranger,100,,,,Mixed,,
+761,POKEMONRANGER_Paul,Pokémon Trainer,100,,,,Mixed,,
+762,POKEMONTRAINER_Tobias,Pokémon Trainer,100,,,,Mixed,,
+763,POKEMONTRAINER_Trip,Pokémon Trainer,100,,,,Mixed,,
+764,POKEMONTRAINER_Cross,Pokémon Trainer,100,,,,Mixed,,
+765,POKEMONCOORDINATOR_Zoey,Coordinator,100,,,,Mixed,,
+766,POKEMONTRAINER_Solidad,Pokémon Trainer,100,,,,Mixed,,
+767,AROMALADY_FRLG,Aroma Lady,100,,,,Mixed,,
+768,AROMALADY_DPPt,Aroma Lady,100,,,,Mixed,,
+769,DRAGONTAMER_RSE,Dragon Tamer,100,,,,Mixed,,
+770,DRAGONTAMER_DPPt,Dragon Tamer,100,,,,Mixed,,
+771,KINDLER,Kindler,100,,,,Mixed,,
+772,NINJABOY_RSE,Ninja Boy,100,,,,Mixed,,
+773,NINJABOY_DPPt,Ninja Boy,100,,,,Mixed,,
+774,NINJA,Ninja,100,,,,Mixed,,
+775,COPYCAT_Duplica,Copycat,100,,,,Mixed,,
+776,COPYCAT_Doctor,Dr.,100,,,,Mixed,,
+777,PARASOLLADY_RSE,Parasol Lady,100,,,,Mixed,,
+778,PARASOLLADY_DPPt,Parasol Lady,100,,,,Mixed,,
+779,PARASOLLADY_BW,Parasol Lady,100,,,,Mixed,,
+780,POKEMONBREEDER_RSEm,Pokémon Breeder,100,,,,Mixed,,
+781,POKEMONBREEDER_RSEf,Pokémon Breeder,100,,,,Mixed,,
+782,POKEMONBREEDER_FRLG,Pokémon Breeder,100,,,,Mixed,,
+783,POKEMONBREEDER_DPPtm,Pokémon Breeder,100,,,,Mixed,,
+784,POKEMONBREEDER_DPPTf,Pokémon Breeder,100,,,,Mixed,,
+785,POKEMONBREEDER_BWm,Pokémon Breeder,100,,,,Mixed,,
+786,POKEMONBREEDER_BWf,Pokémon Breeder,100,,,,Mixed,,
+787,POKEMONBREEDER_XYm,Pokémon Breeder,100,,,,Mixed,,
+788,POKEMONBREEDER_XYf,Pokémon Breeder,100,,,,Mixed,,
+789,POKEMONBREEDER_SMm,Pokémon Breeder,100,,,,Mixed,,
+790,POKEMONBREEDER_SMf,Pokémon Breeder,100,,,,Mixed,,
+791,POKEMONBREEDER_SWSHm,Pokémon Breeder,100,,,,Mixed,,
+792,POKEMONBREEDER_SWSHf,Pokémon Breeder,100,,,,Mixed,,
+793,RUINMANIAC_RSE,Ruin Maniac,100,,,,Mixed,,
+794,RUINMANIAC_FRLG,Ruin Maniac,100,,,,Mixed,,
+795,RUINMANIAC_DPPt,Ruin Maniac,100,,,,Mixed,,
+796,TRIATHLETE_bm,Triathlete,100,,,,Mixed,,
+797,TRIATHLETE_bf,Triathlete,100,,,,Mixed,,
+798,TRIATHLETE_wm,Triathlete,100,,,,Mixed,,
+799,TRIATHLETE_wf,Triathlete,100,,,,Mixed,,
+800,TRIATHLETE_sm,Triathlete,100,,,,Mixed,,
+801,TRIATHLETE_sf,Triathlete,100,,,,Mixed,,
+802,ARENALEADER_Arth,Arena Leader,100,,,,Mixed,,
+803,ARENALEADER_Athey,Arena Leader,100,,,,Mixed,,
+804,ARENALEADER_Loko,Arena Leader,100,,,,Mixed,,
+805,ARENALEADER_Norus,Arena Leader,100,,,,Mixed,,
+806,ARENALEADER_Renson,Arena Leader,100,,,,Mixed,,
+807,ARENALEADER_Shobon,Arena Leader,100,,,,Mixed,,
+808,ARENALEADER_Trinch,Arena Leader,100,,,,Mixed,,
+809,ARENALEADER_Vander,Arena Leader,100,,,,Mixed,,
+810,ARENALEADER_Zentin,Arena Leader,100,,,,Mixed,,
+811,ATHLETEm,Athlete,100,,,,Mixed,,
+812,ATHLETEf,Athlete,100,,,,Mixed,,
+813,BANDANAGUY,Bandana Guy,100,,,,Mixed,,
+814,BODYBUILDERm,Bodybuilder,100,,,,Mixed,,
+815,BODYBUILDERf,Bodybuilder,100,,,,Mixed,,
+816,BODYBUILDERb,Bodybuilder,100,,,,Mixed,,
+817,BODYBUILDERh,Bodybuilder,100,,,,Mixed,,
+818,CHASERm,Chaser,100,,,,Mixed,,
+819,CHASERf,Chaser,100,,,,Mixed,,
+820,PRCSOLDIER,P.R.C. Soldier,100,,,,Mixed,,
+821,MATRON,Matron,100,,,,Mixed,,
+822,FUNOLDMAN,Fun Old Man,100,,,,Mixed,,
+823,TRICKMASTER,Trick Master,100,,,,Mixed,,
+824,GLASSESMAN,Glasses Man,100,,,,Mixed,,
+825,BALLGUY,Ball Guy,100,,,,Mixed,,
+826,GUY,Guy,100,,,,Mixed,,
+827,HUNTERm,Hunter,100,,,,Mixed,,
+828,HUNTERf,Hunter,100,,,,Mixed,,
+829,HUNTERj,Hunter,100,,,,Mixed,,
+830,MASTER_Somek,Mt. Battle Master,100,,,,Mixed,,
+831,MASTER_Infin,Mt. Battle Master,100,,,,Mixed,,
+832,MASTER_Inity,Mt. Battle Master,100,,,,Mixed,,
+833,SCIENTIST_Lovrina,Scientist,100,,,,Mixed,,
+834,SCIENTIST_Kaminko,Scientist,100,,,,Mixed,,
+835,SPY,Spy,100,,,,Mixed,,
+836,MYTHTRAINER,Myth Trainer,100,,,,Mixed,,
+837,PREGYMLEADER_Justy,PreGym Leader,100,,,,Mixed,,
+838,RIDERm,Rider,100,,,,Mixed,,
+839,RIDERf,Rider,100,,,,Mixed,,
+840,ROGUE,Rogue,100,,,,Mixed,,
+841,ROLLERBOY,Roller Boy,100,,,,Mixed,,
+842,SHADYGUY,Shady Guy,100,,,,Mixed,,
+843,SIMTRAINER,Sim Trainer,100,,,,Mixed,,
+844,STREETPERFORMER,Street Performer,100,,,,Mixed,,
+845,POKEMONTRAINER_N,Team Plasma King,100,,,,Mixed,,
+846,POKEMONTRAINER_Carrie,Pokémon Trainer,100,,,,Mixed,,
+847,SCIENTIST_Colress,Scientist,100,,,,Mixed,,
+848,PLASMASAGE_Gorm,Plasma Sage,100,,,,Mixed,,
+849,SHADOWTRIAD,Shadow Triad,100,,,,Mixed,,
+850,DICTATOR_Ghetsis,Dictator,100,,,,Mixed,,
+851,CASUALDUDE,Casual Dude,100,,,,Mixed,,
+852,CASUALGUY,Casual Guy,100,,,,Mixed,,
+853,CURMUDGEON,Curmudgeon,100,,,,Mixed,,
+854,KAMINKOAIDE,Scientist Aide,100,,,,Mixed,,
+855,NAVIGATOR,Navigator,100,,,,Mixed,,
+856,NEWSCASTER,Newscaster,100,,,,Mixed,,
+857,THUG,Thug,100,,,,Mixed,,
+858,WANDERER,Wanderer,100,,,,Mixed,,
+859,ELDER,Elder,100,,,,Mixed,,
+860,MAID,Maid,100,,,,Mixed,,
+861,CAMERAMAN_DPPt,Cameraman,100,,,,Mixed,,
+862,CAMERAMAN_SWSH,Cameraman,100,,,,Mixed,,
+863,REPORTER_DPPt,Reporter,100,,,,Mixed,,
+864,REPORTER_SM,Reporter,100,,,,Mixed,,
+865,REPORTER_SWSH,Reporter,100,,,,Mixed,,
+866,CLOWN,Clown,100,,,,Mixed,,
+867,CYCLIST_DPPtm,Cyclist,100,,,,Mixed,,
+868,CYCLIST_DPPtf,Cyclist,100,,,,Mixed,,
+869,CYCLIST_BWm,Cyclist,100,,,,Mixed,,
+870,CYCLIST_BWf,Cyclist,0,,,,Mixed,,
+871,JOGGER,Jogger,100,,,,Mixed,,
+872,POKEKIDm,Poké Kid,100,,,,Mixed,,
+873,POKEKIDf,Poké Kid,100,,,,Mixed,,
+874,WAITER,Waiter,100,,,,Mixed,,
+875,WAITRESS_DPPt,Waitress,100,,,,Mixed,,
+876,WAITRESS_BW,Waitress,100,,,,Mixed,,
+877,WAITRESS_SWSH,Waitress,100,,,,Mixed,,
+878,GARCON,Garçon,100,,,,Mixed,,
+879,IDOL,Idol,100,,,,Mixed,,
+880,POKEMONTRAINER_NateRev,Pokémon Trainer,100,,,,Mixed,,
+881,POKEMONTRAINER_Cyndy,Sprout Trainer,100,,,,Mixed,,
+882,POKEMONTRAINER_Tommy,Pokémon Trainer,100,,,,Mixed,,
+883,POKEMONTRAINER_Daisy,New Star,100,,,,Mixed,,
+884,POKEMONTRAINER_Joel,Rookie,100,,,,Mixed,,
+885,POKEMONTRAINER_Natalie,Freshwoman,100,,,,Mixed,,
+886,BUGCATCHINGMAN,Bug-Catching Man,100,,,,Mixed,,
+887,CHALLENGER,Challenger,100,,,,Mixed,,
+888,CLOSESIBLINGS,Close Siblings,100,,,,Mixed,,
+889,COLOSSEUMLEADER_Taylor,Colosseum Leader,100,,,,Mixed,,
+890,COLOSSEUMLEADER_Marina,Colosseum Leader,100,,,,Mixed,,
+891,COLOSSEUMLEADER_Rosie,Colosseum Leader,100,,,,Mixed,,
+892,COLOSSEUMLEADER_Voldon,Colosseum Leader,100,,,,Mixed,,
+893,COLOSSEUMLEADER_Terell,Colosseum Leader,100,,,,Mixed,,
+894,COLOSSEUMLEADER_Dusty,Colosseum Leader,100,,,,Mixed,,
+895,COLOSSEUMMASTER_Joe,Colosseum Master,100,,,,Mixed,,
+896,COLOSSEUMMASTER_Sashay,Colosseum Master,100,,,,Mixed,,
+897,COLOSSEUMMASTER_Kruger,Colosseum Master,100,,,,Mixed,,
+898,POKETOPIAMASTER_Mysterial,Pokétopia Master,100,,,,Mixed,,
+899,COOLBEAUTY,Cool Beauty,100,,,,Mixed,,
+900,CUTEMANIAC,Cute Maniac,100,,,,Mixed,,
+901,ELECTRIFYINGGUY,Electrifying Guy,100,,,,Mixed,,
+902,SHOCKINGGIRL,Shocking Girl,100,,,,Mixed,,
+903,FUTUREGIRL,Future Girl,100,,,,Mixed,,
+904,GIRLINLOVE,Girl in Love,100,,,,Mixed,,
+905,HARDHEADEDGIRL,Hardheaded Girl,100,,,,Mixed,,
+906,WORKER_DPPt,Worker,100,,,,Mixed,,
+907,WORKER_BW,Worker,100,,,,Mixed,,
+908,WORKER_BWs,Worker,100,,,,Mixed,,
+909,WORKER_XY,Worker,100,,,,Mixed,,
+910,WORKER_XYs,Worker,100,,,,Mixed,,
+911,WORKER_SM,Worker,100,,,,Mixed,,
+912,WORKER_SWSHm,Worker,100,,,,Mixed,,
+913,WORKER_SWSHf,Worker,100,,,,Mixed,,
+914,WORKER_Colosseum,Worker,100,,,,Mixed,,
+915,HIGHTECHMANIAC,High-Tech Maniac,100,,,,Mixed,,
+916,HIKINGCLUBMEMBER,Hiking Club Member,100,,,,Mixed,,
+917,HIKINGGIRL,Hiking Girl,100,,,,Mixed,,
+918,ICYGUY,Icy Guy,100,,,,Mixed,,
+919,JOEGROUPIES,Groupies,100,,,,Mixed,,
+920,LEADERINTRAINING,Leader-in-Training,100,,,,Mixed,,
+922,MATURECOUPLE,Mature Couple,100,,,,Mixed,,
+923,MAYDECEMBERCOUPLE,May-December Couple,100,,,,Mixed,,
+924,MUDDYBOY,Muddy Boy,100,,,,Mixed,,
+925,NEWSTAR,New Star,100,,,,Mixed,,
+926,ORDINARYGUY,Ordinary Guy,100,,,,Mixed,,
+927,ORDINARYLADY,Ordinary Lady,100,,,,Mixed,,
+928,PASSIONATEMAN,Passionate Man,100,,,,Mixed,,
+929,PASSIONATERIDER,Passionate Rider,100,,,,Mixed,,
+930,YOUTHFULCOUPLE,Youthful Couple,100,,,,Mixed,,
+931,PICNICGIRL,Picnic Girl,100,,,,Mixed,,
+932,POISONTONGUEBOY,Poison Tongue Boy,100,,,,Mixed,,
+933,SASHAYFANCLUB,Fan Clubbers,100,,,,Mixed,,
+934,SCIFIMANIAC,Sci-Fi Maniac,100,,,,Mixed,,
+935,STEELSPIRIT,Steel Spirit,100,,,,Mixed,,
+936,STUBBORNBOY,Stubborn Boy,100,,,,Mixed,,
+937,SWIMMINCCHAMP,Swimming Champ,100,,,,Mixed,,
+938,SWIMMINGCLUBMEMBER,Swimming Club Member,100,,,,Mixed,,
+939,TRAVELINGGUY,Traveling Guy,100,,,,Mixed,,
+940,TRAVELINGLADY,Traveling Lady,100,,,,Mixed,,
+941,THREEBROTHERS,Three Brothers,100,,,,Mixed,,
+942,THREESISTERS,Three Sisters,100,,,,Mixed,,
+943,TWINBROTHERS,Twin Brothers,100,,,,Mixed,,
+944,TWINSISTERS,Twin Sisters,100,,,,Mixed,,
+945,TOMBOY,Tomboy,100,,,,Mixed,,
+946,MONSTERHUNTER,Monster Hunter,100,,,,Mixed,,
+947,TENNISPLAYER,Smasher,100,,,,Mixed,,
+948,BASKETBALLPLAYER,Hoopster,100,,,,Mixed,,
+949,BASEBALLPLAYER,Infielder,100,,,,Mixed,,
+950,FOOTBALLPLAYER,Linebacker,100,,,,Mixed,,
+951,SOCCERPLAYER,Striker,100,,,,Mixed,,
+952,BAKER,Baker,100,,,,Mixed,,
+953,JANITOR,Janitor,100,,,,Mixed,,
+954,BACKPACKER_BWm,Backpacker,100,,,,Mixed,,
+955,BACKPACKER_BWf,Backpacker,100,,,,Mixed,,
+956,BACKPACKER_XY,Backpacker,100,,,,Mixed,,
+957,BACKPACKER_SM,Backpacker,100,,,,Mixed,,
+958,BACKPACKER_SWSH,Backpacker,100,,,,Mixed,,
+959,GAMEFREAK_BWMorimoto,GAME FREAK,100,,,,Mixed,,
+960,GAMEFREAK_Nishino,GAME FREAK,100,,,,Mixed,,
+961,GAMEFREAK_SMMorimoto,GAME FREAK,100,,,,Mixed,,
+962,GAMEFFREAK_Iawo,GAME FREAK,100,,,,Mixed,,
+963,GAMEFREAK_SWSHMorimoto,GAME FREAK,100,,,,Mixed,,
+964,MOTORCYCLIST,Motorcyclist,100,,,,Mixed,,
+965,NURSERYAIDE,Nursery Aide,100,,,,Mixed,,
+966,PILOT,Pilot,100,,,,Mixed,,
+967,SUBWAYBOSS_Ingo,Subway Boss,100,,,,Mixed,,
+968,SUBWAYBOSS_Emmet,Subway Boss,100,,,,Mixed,,
+969,SUBWAYBOSSES,Subway Bosses,100,,,,Mixed,,
+970,BOSSTRAINER_Benga,Boss Trainer,100,,,,Mixed,,
+971,ACTOR,Actor,100,,,,Mixed,,
+972,ACTRESS,Actress,100,,,,Mixed,,
+973,ALISTACTOR,A-List Actor,100,,,,Mixed,,
+974,BIGSTAR,Big Star,100,,,,Mixed,,
+975,CELEBRITY,Celebrity,100,,,,Mixed,,
+976,CHICACTRESS,Chic Actress,100,,,,Mixed,,
+977,CHILDSTAR,Child Star,100,,,,Mixed,,
+978,COMEDIAN,Comedian,100,,,,Mixed,,
+979,FINEACTOR,Fine Actor,100,,,,Mixed,,
+980,SUITACTOR,Suit Actor,100,,,,Mixed,,
+981,UNIQUESTAR,Unique Star,100,,,,Mixed,,
+982,VETERANSTAR_Masachika,Veteran Star,100,,,,Mixed,,
+983,VETERANSTAR_Peter,Veteran Star,100,,,,Mixed,,
+984,VETERANSTAR_JJ,Veteran Star,100,,,,Mixed,,
+985,BUTLER,Butler,100,,,,Mixed,,
+986,CHEF,Chef,100,,,,Mixed,,
+987,COOK_SM,Cook,100,,,,Mixed,,
+988,COOK_SWSH,Cook,100,,,,Mixed,,
+989,GARDENER,Gardener,100,,,,Mixed,,
+990,OWNER,Owner,100,,,,Mixed,,
+991,ROLLERSKATERm,Roller Skater,100,,,,Mixed,,
+992,ROLLERSKATERf,Roller Skater,100,,,,Mixed,,
+993,SKYTRAINERm,Sky Trainer,100,,,,Mixed,,
+994,SKYTRAINERf,Sky Trainer,100,,,,Mixed,,
+995,DELINQUENT,Delinquent,100,,,,Mixed,,
+996,STREETTHUG_ORAS,Street Thug,100,,,,Mixed,,
+997,STREETTHUG_Masters,Street Thug,100,,,,Mixed,,
+998,FAREPRINCE,Fare Prince,100,,,,Mixed,,
+999,FREEDIVER,Free Diver,100,,,,Mixed,,
+1000,SCUBADIVER,Scuba Diver,100,,,,Mixed,,
+1001,PROPRIETER,Proprieter,100,,,,Mixed,,
+1002,ROTATIONFRUMP,Rotation Frump,100,,,,Mixed,,
+1003,COORDINATOR_Lisia,Coordinator,100,,,,Mixed,,
+1004,POKEMONTRAINER_Rusty,Pokémon Trainer,100,,,,Mixed,,
+1005,CAFEMASTER,Café Master,100,,,,Mixed,,
+1006,GYMCHALLENGER_Yue,Normal Specialist,100,,,,Mixed,,
+1007,GYMCHALLENGER_Polaire,Bug Specialist,100,,,,Mixed,,
+1008,GYMCHALLENGER_Deneb,Fighting Specialist,100,,,,Mixed,,
+1009,GYMCHALLENGER_Icla,Poison Specialist,100,,,,Mixed,,
+1010,GYMCHALLENGER_Pia,Grass Specialist,100,,,,Mixed,,
+1011,GYMCHALLENGER_Corvin,Electric Specialist,100,,,,Mixed,,
+1012,GYMCHALLENGER_Kent,Flying Specialist,100,,,,Mixed,,
+1013,GYMCHALLENGER_Vega,Water Specialist,100,,,,Mixed,,
+1014,GYMCHALLENGER_Wei,Ghost Specialist,100,,,,Mixed,,
+1015,GYMCHALLENGER_Izar,Ice Specialist,100,,,,Mixed,,
+1016,GYMCHALLENGER_Terry,Dragon Specialist,100,,,,Mixed,,
+1017,GYMCHALLENGER_Theemin,Steel Specialist,100,,,,Mixed,,
+1018,GYMCHALLENGER_Cher,Rock Specialist,100,,,,Mixed,,
+1019,GYMCHALLENGER_Dunne,Ground Specialist,100,,,,Mixed,,
+1020,GYMCHALLENGER_Phoebus,Fire Specialist,100,,,,Mixed,,
+1021,GYMTRAINER_Grassm,Grass Trainer,100,,,,Mixed,,
+1022,GYMTRAINER_Grassf,Grass Trainer,100,,,,Mixed,,
+1023,GYMTRAINER_Water,Water Trainer,100,,,,Mixed,,
+1024,GYMTRAINER_Firem,Fire Trainer,100,,,,Mixed,,
+1025,GYMTRAINER_Firef,Fire Trainer,100,,,,Mixed,,
+1026,GYMTRAINER_Ghostm,Ghost Trainer,100,,,,Mixed,,
+1027,GYMTRAINER_Ghostf,Ghost Trainer,100,,,,Mixed,,
+1028,GYMTRAINER_Fairy,Fairy Trainer,100,,,,Mixed,,
+1029,GYMTRAINER_Rockm,Rock Trainer,100,,,,Mixed,,
+1030,GYMTRAINER_Rockf,Rock Trainer,100,,,,Mixed,,
+1031,GYMTRAINER_Icem,Ice Trainer,100,,,,Mixed,,
+1032,GYMTRAINER_Icef,Ice Trainer,100,,,,Mixed,,
+1033,GYMTRAINER_Darkm,Dark Trainer,100,,,,Mixed,,
+1034,GYMTRAINER_Darkf,Dark Trainer,100,,,,Mixed,,
+1035,GYMTRAINER_AcemDragon,Ace Trainer,100,,,,Mixed,,
+1036,GYMTRAINER_AcefDragon,Ace Trainer,100,,,,Mixed,,
+1037,LEAGUESTAFFm,League Staff,100,,,,Mixed,,
+1038,LEAGUESTAFFf,League Staff,100,,,,Mixed,,
+1040,MODEL,Model,100,,,,Mixed,,
+1041,POSTMAN,Postman,100,,,,Mixed,,
+1042,POKEMONTRAINER_SerenaBobcut,Coordinator,100,,,,Mixed,,
+1043,INSPECTOR_TimMovie,Inspector,100,,,,Mixed,,
+1044,CABBIE,Cabbie,100,,,,Mixed,,
+1045,DIGIDESTINED_Tai,Digidestined,100,,,,Mixed,,
+1046,BATTLEBRAWLER_Dan,Battle Brawler,100,,,,Mixed,,
+1047,DUELIST_Yugi,Duelist,100,,,,Mixed,,
+1048,POKEMONTRAINER_Goh,Professor's Assistant,100,,,,Mixed,,
+1049,ROBOTMASTER_StrikeMan,Robot Master,100,,,,Mixed,,
+1050,SLAYERCANDIDATE_Baam,Slayer Candidate,100,,,,Mixed,,
+1051,TRIALCAPTAIN_Kiawe,Trial Captain,100,,,,Mixed,,
+1052,TRIALCAPTAIN_Ilima,Trial Captain,100,,,,Mixed,,
+1053,TRIALCAPTAIN_Lana,Trial Captain,100,,,,Mixed,,
+1054,TRIALCAPTAIN_Mallow,Trial Captain,100,,,,Mixed,,
+1055,TRIALCAPTAIN_Sophocles,Trial Captain,100,,,,Mixed,,
+1056,TRIALCAPTAIN_Acerola,Trial Captain,100,,,,Mixed,,
+1057,TRIALCAPTAIN_Mina,Painter,100,,,,Mixed,,
+1058,LEADER_Roxie,Gym Leader,100,,,,Mixed,,
+1059,LEADER_Marlon,Gym Leader,100,,,,Mixed,,
+1060,LASS_Lillie,Lass,100,,,,Mixed,,
+1061,PRESIDENT_Stone,President,100,,,,Mixed,,
+1062,LASS_Sonia,Lass,100,,,,Mixed,,
+1063,LEADER_ElesaBW2,Gym Leader,100,,,,Mixed,,
+1064,LONEWOLF,Lone Wolf,100,,,,Mixed,,
+1065,GYMTRAINER_Iris,Dragon Trainer,100,,,,Mixed,,
+1066,PIKACHUFAN,Pikachu Fan,100,,,,Mixed,,
+1067,ULTRA_Phyco,Ultra Recon Squad,100,,,,Mixed,,
+1068,ULTRA_Zossie,Ultra Recon Squad,100,,,,Mixed,,
+1069,ULTRA_Soliera,Ultra Recon Squad,0,100,,,Mixed,,
+1070,ULTRA_Dulse,Ultra Recon Squad,0,100,,,Mixed,,
+1071,ULTRARECONSQUAD,Ultra Recon Squad,100,,,,Mixed,,
+1072,POKEMONTRAINER_BrendanEmerald,Champion,100,Brendan,,,Mixed,,
+1073,YOUNGSTER_Joey,Ace Trainer,100,Joey,,,Mixed,,
+1074,BUGCATCHER_FRLG,Bug Catcher,100,,,,Mixed,,
+1075,FISHERMAN_DPPt,Fisherman,100,,,,Mixed,,
+1076,ROCKET_HGSSm,Rocket Grunt,100,,,,Mixed,,
+1077,ROCKET_HGSSf,Rocket Grunt,100,,,,Mixed,,
+1078,LASS_CloverVivian,Lass,100,,,,Mixed,,
+1079,AROMALADY_NPC,Aroma Lady,100,,,,Mixed,,
+1080,TUBER_FRLGm,Tuber,100,,,,Mixed,,
+1081,PROFESSOR_Sycamore,Professor,100,,,,Mixed,,
+1082,LEADER_Wattson,Gym Leader,100,,,,Mixed,,
+1083,LEADER_Winona,Gym Leader,100,,,,Mixed,,
+1084,PROFESSOR_Ivy,Professor,100,,,,Mixed,,
+1085,LEADER_CrasherWake,Gym Leader,100,,,,Mixed,,
+1086,GALACTIC_Mars,Team Galactic,100,,,,Mixed,,
+1087,GALACTIC_Jupiter,Team Galactic,100,,,,Mixed,,
+1088,GALACTIC_Saturn,Team Galactic,100,,,,Mixed,,
+1089,GALACTIC_Charon,Team Galactic,100,,,,Mixed,,
+1090,PLASMASAGE_Ryoku,Plasma Sage,100,,,,Mixed,,
+1091,PLASMASAGE_Bronius,Plasma Sage,100,,,,Mixed,,
+1092,PLASMASAGE_Giallo,Plasma Sage,100,,,,Mixed,,
+1093,PLASMASAGE_Rood,Plasma Sage,100,,,,Mixed,,
+1094,PLASMASAGE_Zinzolin,Plasma Sage,100,,,,Mixed,,
+1095,POKEMONTRAINER_Alain,Pokémon Trainer,100,,,,Mixed,,
+1096,POKEMONTRAINER_Ritchie,Pokémon Trainer,100,,,,Mixed,,
+1097,OFFICER_Jenny,Officer,100,,,,Mixed,,
+1098,CARETAKER_Concordia,Caretaker,100,,,,Mixed,,
+1099,CARETAKER_Anthea,Caretaker,100,,,,Mixed,,
+1100,N,Team Plasma,100,,,,Mixed,,
+1101,MERC_Annie,Merc,100,,,,Mixed,,
+1102,MERC_Oakley,Merc,100,,,,Mixed,,
+1103,CURATOR_Lorenzo,Curator,100,,,,Mixed,,
+1104,POKEMONTRAINER_Bianca,Pokémon Trainer,100,,,,Mixed,,
+1105,BEAUTY_FRLG,Beauty,100,,,,Mixed,,
+1106,BASEBALLPLAYER,Batter,100,,,,Mixed,,
+1107,SAMURAI,Samurai,100,,,,Mixed,,
+1108,POKEMONTRAINER_Harley,Pokémon Trainer,100,,,,Mixed,,
+1109,POKEMONTRAINER_Drew,Pokémon Trainer,100,,,,Mixed,,
+1110,PLASMA_Gruntm,Plasma,100,,,,Mixed,,
+1111,PLASMA_Gruntf,Plasma,100,,,,Mixed,,
+1112,PLASMA_Neom,Plasma,100,,,,Mixed,,
+1113,PLASMA_Neof,Plasma,100,,,,Mixed,,
+1114,GALACTICGRUNTm,Galactic Grunt,100,,,,Mixed,,
+1115,GALACTICGRUNTf,Galactic Grunt,100,,,,Mixed,,
+1116,LEADER_Bea,Gym Leader,100,,,,Mixed,,
+1117,LEADER_Allister,Gym Leader,100,,,,Mixed,,
+1118,POKEMONTRAINER_Ellie,Pokémon Trainer,100,,,,Mixed,,
+1119,LEADER_Pryce,Gym Leader,100,Gym Leader,,,Mixed,,
+1120,LUSAMINE,Scientist,100,,,,Mixed,,
+1121,TEAMFLARE,Team Flare,100,,,,Mixed,,
+1122,MACHOKE,Machoke,100,,,,Mixed,,
+1123,HITMONCHAN,Hitmonchan,100,,,,Mixed,,
+1124,MRMIME,Mime,100,,,,Mixed,,
+1125,GENGAR,Gengar,100,,,,Mixed,,
+1126,SABLEYE,Sableye,100,,,,Mixed,,
+1127,GARDEVOIR,Gardevoir,100,,,,Mixed,,
+1128,LUCARIO,Lucario,100,,,,Mixed,,
+1129,CONKELDURR,Conkeldurr,100,,,,Mixed,,
+1130,GOLURK,Golurk,100,,,,Mixed,,
+1131,TSAREENA,Tsareena,100,,,,Mixed,,
+1132,DEOXYS,Deoxys,100,,,,Mixed,,
+1133,PHEROMOSA,Pheromosa,100,,,,Mixed,,
+1134,GARBODOR,Garbodor,100,,,,Mixed,,
+1135,BONNIE,Schoolkid,100,,,,Mixed,,
+1136,MAX,Schoolkid,100,,,,Mixed,,
+1137,JIMGAI,Gym Guy,100,,,,Mixed,,
+1138,RYUKI,Rock Star,100,,,,Mixed,,
+1139,LEADER_SabrinaFrlg,Gym Leader,100,Gym Leader,,,Mixed,,
+1140,LEADER_MistyFrlg,Gym Leader,100,Gym Leader,,,Mixed,,
+1141,LEADER_Clemont,Gym Leader,100,Gym Leader,,,Mixed,,
+1142,POKEMONTRAINER_Duplica,Pokémon Trainer,100,,,,Mixed,,
+1143,SAMURAI,Samurai,100,,,,Mixed,,
+1144,POKEMONTRAINER_Joseph,Champion,100,,,,Mixed,,
+1145,POKEMONTRAINER_Rande,Pokémon Trainer,100,,,,Mixed,,
+1146,PROFESSOR_Stump,Professor,100,,,,Mixed,,
+1147,CHAMPION_Peri,Peri,100,,,,Mixed,,
+1148,KARMAADMIN_Kymmi,Karma Admin,100,,,,Mixed,,
+1149,ELITEFOUR_Megan,Elite Four,100,,,,Mixed,,
+1150,WINGULL,Wingull,0,,,,Mixed,,

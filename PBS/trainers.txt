@@ -1,1 +1,89 @@
-﻿
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEMONTRAINER_Red,Red,0]
+LoseText = "...!"
+Pokemon = PICHU,5
+    Name = Mousey
+    Form = 2
+    Gender = male
+    Shiny = yes
+    Moves = THUNDERSHOCK,TAILWHIP,IRONTAIL,ELECTRICTERRAIN
+    Ability = 2
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+    Ball = 15
+#-------------------------------
+[POKEMONTRAINER_Red,Red,1]
+LoseText = "!!!"
+Pokemon = MISSINGNO,100
+	Form = 1
+	Gender = male
+	Ability = 3
+	Item = FOCUSSASH
+	IV = 31,31,31,31,31,31
+	EV = 252,0,0,4,0,252
+	Nature = QUIET
+	Happiness = 255
+	Ball = 25
+	Moves = STEALTHROCK,DIGITALLACERATION,GLITCHSHIELD,PHYSICALATTACK
+Pokemon = ESPEON,100
+	Gender = male
+	Ability = 2
+	Item = LEFTOVERS
+	IV = 31,31,31,31,31,31
+	EV = 252,0,0,0,252,4
+	Nature = SERIOUS
+	Happiness = 255
+	Ball = 11
+	Moves = STOREDPOWER,BATONPASS,CALMMIND,SHIMMERSHOT
+Pokemon = PIKACHU,100
+	Gender = male
+	Ability = 2
+	Item = LIGHTBALL
+	IV = 31,31,31,31,31,31
+	EV = 4,0,0,252,252,0
+	Nature = RASH
+	Happiness = 255
+	Ball = 0
+	Moves = OVERENERGIZE,VOLTSWITCH,NASTYPLOT,SURF
+Pokemon = LAPRAS,100
+	Gender = male
+	Ability = 3
+	Item = CHOICESPECS
+	IV = 31,31,31,31,31,31
+	EV = 4,0,252,0,0,252
+	Nature = MODEST
+	Happiness = 250
+	Ball = 0
+	Moves = SING,PERISHSONG,FREEZEDRY,HYPERVOICE
+Pokemon = CHARIZARD,100
+	Gender = male
+	Ability = 3
+	Item = HEAVYDUTYBOOTS
+	IV = 31,31,31,31,31,31
+	EV = 0,252,0,252,0,4
+	Nature = ADAMANT
+	Happiness = 250
+	Ball = 0
+	Moves = DRAGONDANCE,THUNDERPUNCH,EARTHQUAKE,FIREPUNCH
+Pokemon = SNORLAX,100
+	Gender = male
+	Ability = 3
+	Item = LEFTOVERS
+	IV = 31,31,31,31,31,31
+	EV = 252,252,4,0,0,0
+	Nature = RELAXED
+	Happiness = 250
+	Ball = 19
+	Moves = CURSE,BODYPRESS,SLACKOFF,DARKESTLARIAT
+#-------------------------------
+[FISHERMAN_DPPt,Arnold,0]
+LoseText = "Whuh oh."
+	Pokemon = TENTACOOL,13
+	Gender = female
+	Ability = 1
+	Item = ORANBERRY
+	Nature = JOLLY
+	Ball = 5
+	Happiness = 110
+	Moves = CONSTRICT,BUBBLE,ACID,ABSORB,

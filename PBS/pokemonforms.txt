@@ -352,8 +352,8 @@ HiddenAbility = RECOILPOWER,TRANSISTOR
 [PICHU,2]
 FormName = Spiky-Eared
 BattlerEnemyX = 3
-Abilities = SMALLTARGET
-HiddenAbility = SMALLTARGET
+Abilities = STATIC,CUTECHARM
+HiddenAbility = RECOILPOWER,SMALLTARGET
 Evolutions = PIKACHU,None,
 #-------------------------------
 [PIKACHU,2]
@@ -590,6 +590,26 @@ FormName = Persian δ
 Type1 = DARK
 Abilities = LIMBER,TECHNICIAN
 HiddenAbility = DARKENING,POUNCE
+#-------------------------------
+[GOLDUCK,1]
+FormName = Mega Golduck
+MegaStone = MEGASTONE
+BaseStats = 80,82,93,95,135,115
+Abilities = ILLUMINATE
+HiddenAbility = ILLUMINATE
+Type1 = WATER
+Type2 = PSYCHIC
+#-------------------------------
+[GOLDUCK,2]
+FormName = BREAK Golduck
+Type1 = WATER
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 80,109,26,163,122,26
 #-------------------------------
 [POLIWAG,1]
 FormName = Polihag
@@ -1446,6 +1466,39 @@ Abilities = EVENTHORIZON
 HiddenAbility = EVENTHORIZON
 Pokedex = Time's power has exploded into a dramatic aura. Those near it feel themselves slow down.
 #-------------------------------
+[STARYU,1]
+FormName = Mega Staryu
+MegaStone = MEGASTONE
+BaseStats = 30,45,55,85,70,55
+Type1 = PSYCHIC
+Abilities = VICTORYSTAR
+HiddenAbility = VICTORYSTAR
+#-------------------------------
+[STARMIE,1]
+FormName = Starmie δ
+Type1 = WATER
+Type2 = STEEL
+Abilities = ILLUMINATE,NATURALCURE
+HiddenAbility = ANALYTIC,SHELLARMOR
+#-------------------------------
+[STARMIE,2]
+FormName = Mega Starmie
+MegaStone = MEGASTONE
+Abilities = HOLYGUARD
+HiddenAbility = HOLYGUARD
+BaseStats = 60,75,105,135,140,105
+#-------------------------------
+[STARMIE,3]
+FormName = BREAK Starmie
+Type1 = WATER
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 60,100,85,115,125,24
+#-------------------------------
 [SCYTHER,1]
 FormName = Mega Scyther
 MegaStone = MEGASTONE
@@ -1950,6 +2003,42 @@ BaseStats = 85,86,74,90,45,125
 Abilities = FURCOAT
 HiddenAbility = FURCOAT
 #-------------------------------
+[NOCTOWL,1]
+FormName = Mega Noctowl
+MegaStone = MEGASTONE
+BaseStats = 100,70,110,70,96,106
+Type1 = PSYCHIC
+Type2 = FLYING
+Abilities = SHADOWTAG
+HiddenAbility = SHADOWTAG
+#-------------------------------
+[NOCTOWL,2]
+FormName = BREAK Noctowl
+Type1 = FLYING
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 100,82,16,104,118,32
+#-------------------------------
+[LEDIAN,1]
+FormName = Mega Ledian
+MegaStone = MEGASTONE
+BaseStats = 55,125,80,105,25,100
+Type1 = BUG
+Type2 = FIGHTING
+Abilities = PUREPOWER
+HiddenAbility = PUREPOWER
+#-------------------------------
+[ARIADOS,1]
+FormName = Mega Ariados
+BaseStats = 70,90,80,90,60,110
+MegaStone = MEGASTONE
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+#-------------------------------
 [CROBAT,1]
 FormName = Mega Crobat
 MegaStone = MEGASTONE
@@ -1987,6 +2076,13 @@ BaseStats = 90,95,105,45,165,110
 Abilities = MOLDBREAKER
 HiddenAbility = MOLDBREAKER
 Pokedex = Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.
+#-------------------------------
+[LANTURN,1]
+FormName = Mega Lanturn
+MegaStone = MEGASTONE
+BaseStats = 125,58,88,87,126,76
+Abilities = ATHENIAN
+HiddenAbility = ATHENIAN
 #-------------------------------
 [TOGEPI,1]
 FormName = Togepi δ
@@ -2275,6 +2371,13 @@ BaseStats = 45,60,90,75,70,90
 Abilities = THICKFAT
 HiddenAbility = THICKFAT
 Pokedex = Mega Delibird can fly surprisingly fast for its rotund build. It relaxes floating on water, its bold color repelling most predators. 
+#-------------------------------
+[CORSOREEF,1]
+FormName = Mega Corsoreef
+MegaStone = MEGASTONE
+BaseStats = 90,67,145,26,67,145
+Abilities = DRYSKIN
+HiddenAbility = DRYSKIN
 #-------------------------------
 [STANTLER,1]
 FormName = Mega Stantler
@@ -2715,6 +2818,21 @@ BaseStats = 73,100,100,85,100,100
 Abilities = BLADEMASTER
 HiddenAbility = BLADEMASTER
 Pokedex = Mega Seviper has studied its mortal enemy and learned their arts, in order to insult as it injures.
+#-------------------------------
+[WHISCASH,1]
+FormName = Mega Whiscash
+MegaStone = MEGASTONE
+BaseStats = 110,128,83,60,116,81
+Abilities = UNAWARE
+HiddenAbility = UNAWARE
+#-------------------------------
+[WHISCASH,2]
+FormName = Gigant Whiscash
+MegaStone = WISHINGSTAR
+MegaMessage = 1
+BaseStats = 110,116,83,60,128,81
+Abilities = HEAVYMETAL
+HiddenAbility = HEAVYMETAL
 #-------------------------------
 [CRAWDAUNT,1]
 FormName = Mega Crawdaunt
@@ -4793,6 +4911,53 @@ MegaStone = MEGASTONE
 BaseStats = 75,130,140,105,25,105
 Abilities = SUPERLUCK
 HiddenAbility = SUPERLUCK
+#-------------------------------
+[ZU,1]
+FormName = Yellow Z-u
+Type1 = NORMAL
+BaseStats = 65,70,60,115,65,60
+WildItemCommon = LIGHTBALL
+WildItemUncommon = LIGHTBALL
+WildItemRare = LIGHTBALL
+Color = Yellow
+Height = 7.06
+Weight = 467.9
+#-------------------------------
+[MISSINGNO,1]
+FormName = Yellow MissingNo.
+Type1 = NORMAL
+Type2 = NINE
+BaseStats = 178,19,11,1,23,255
+WildItemCommon = LIGHTBALL
+WildItemUncommon = LIGHTBALL
+WildItemRare = LIGHTBALL
+Height = 3.3
+Weight = 1590.8
+Color = Yellow
+#-------------------------------
+[MISSINGNO,2]
+FormName = Mega MissingNo.
+BaseStats = 33,156,135,29,1,205
+Type1 = GLITCH
+MegaStone = MEGASTONE
+Abilities = GLITCH
+HiddenAbility = GLITCH
+#-------------------------------
+[PHANTASMO,1]
+FormName = Mega Phantasmo
+BaseStats = 118,237,102,138,35,120
+MegaStone = MEGASTONE
+Abilities = UNAVOIDABLE
+HiddenAbility = UNAVOIDABLE
+#-------------------------------
+[PHANCERO,1]
+FormName = Mega Phancero
+BaseStats = 178,187,77,128,85,95
+MegaStone = MEGASTONE
+Abilities = AVIAN
+HiddenAbility = AVIAN
+Type1 = GHOST
+Type2 = BIRD
 #-------------------------------
 [CARIBOLT,1]
 FormName = Mega Caribolt

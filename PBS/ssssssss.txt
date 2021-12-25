@@ -1,0 +1,65 @@
+#-------------------------------
+[]
+Name=
+InternalName=
+Type1=
+Type2=
+BaseStats=
+GenderRate=
+GrowthRate=
+BaseEXP=
+EffortPoints=
+Rareness=
+Happiness=
+Abilities=
+Moves=
+Compatibility=
+StepsToHatch=
+Height=
+Weight=
+Color=
+Shape=
+Kind=
+Pokedex=
+WildItemUncommon=
+Evolutions=
+
+Black
+Blue
+Brown
+Gray
+Green
+Pink
+Purple
+Red
+White
+Yellow
+
+#-------------------------------
+[]
+FormName=
+BaseStats=
+Ability=
+Pokedex=
+Evolutions=IVYSAUR,Item,KEYCARD
+
+#-------------------------------
+[class]
+[name]
+[number of pokemon]
+[species],[level],[held item],[move1],[move2],[move3],[move4],[ability],[gender],[form],[shiny],[nature],[iv],[happiness],[nickname],[unused],[ball type]
+
+
+[id],[internal name],[name],[function code],[power],[type],[phys or spec],[accuracy],[pp],[additional effect chance],[target],[priority],[tags],[description]
+
+Ultra Utopia
+
+A world where Dialga and Palkia unmade the concept of spirit. Life goes on, but all who live are as aware of their surroundings as a lobotomy patient, behaving more like machines than people. You may find the alternate incarnations of Lucas and Dawn here. He is a stay-at-home child who is constantly reading books with seemingly no purpose for learning, while she is the "champion" who sends challengers away with an almost routine level of consistency. Even those who battle Dawn have no drive to do so, they just do it because it's their "function".
+Defeating the alternate Dawn in battle may break the cycle that is life in this universe, as she seems to regain some sense of who she is, and resolves to find you and defeat you herself one day. But you cannot change the world, only a handful of people. Unless, that is, you bring a Giratina from your own universe to the Ultra Utopia's Spear Pillar, allowing it to free Dialga and Palkia so they can return existence to the way it was.
+
+But is it your place as an interloper, fiddling with that which has become the natural order, to do such a thing?
+(I'm a little iffy on this one tbh)
+another way of looking at the Ultra Utopia is that the mini-arc contained within it is sort of like an adventure story with a happy ending, whereas pretty much every other place you visit is either A) doing just fine on its own, B) already fucked beyond saving, or C) made worse by your intervention
+Ultra Dystopia
+
+A world where Ghetsis succeeded in his quest to make everyone release their Pokémon into the wild except himself. He used Reshiram, Zekrom, and Kyurem to destroy all Poké Balls and methods of making more, creating a global empire with himself at the top. People will be shocked to see that a trainer such as you, having access to Pokémon at your command, still exists. In one village, a scripted encounter occurs where Ghetsis is paraded through it by Team Plasma, seemingly keeping an eye on the inhabitants, only to notice you and furiously challenge you to battle.

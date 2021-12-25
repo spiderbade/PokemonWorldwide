@@ -185,7 +185,7 @@
 183,DARKGEM,Dark Gem,Dark Gems,1,200,"A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move only once.",0,0,10,
 184,STEELGEM,Steel Gem,Steel Gems,1,200,"A gem with an essence of steel. When held, it strengthens the power of a Steel-type move only once.",0,0,10,
 185,NORMALGEM,Normal Gem,Normal Gems,1,200,"A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once.",0,0,10,
-186,LIGHTBALL,Light Ball,Light Balls,1,1000,"An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.",0,0,0,
+186,LIGHTBALL,Light Ball,Light Balls,1,1000,"An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.",5,0,0,
 187,LUCKYPUNCH,Lucky Punch,Lucky Punches,1,1000,"An item to be held by Chansey. It is a pair of gloves that boosts Chansey's critical-hit ratio.",0,0,0,
 188,METALPOWDER,Metal Powder,Metal Powders,1,1000,"An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat.",0,0,0,
 189,QUICKPOWDER,Quick Powder,Quick Powders,1,1000,"An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.",0,0,0,
