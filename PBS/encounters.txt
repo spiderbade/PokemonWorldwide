@@ -69,3 +69,5 @@ SuperRod
     CHINCHOU,5,10
     CORSOLA,5,10
     RELICANTH,5,10
+#-------------------------------
+085 # Cinnabar Island
