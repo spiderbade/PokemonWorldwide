@@ -79,11 +79,92 @@ Pokemon = SNORLAX,100
 #-------------------------------
 [FISHERMAN_DPPt,Arnold,0]
 LoseText = "Whuh oh."
-	Pokemon = TENTACOOL,13
+Pokemon = TENTACOOL,13
 	Gender = female
 	Ability = 1
 	Item = ORANBERRY
 	Nature = JOLLY
 	Ball = 5
 	Happiness = 110
-	Moves = CONSTRICT,BUBBLE,ACID,ABSORB,
+	Moves = CONSTRICT,BUBBLE,ACID,ABSORB
+#-------------------------------
+[SWIMMER_RSEf,Ariel,0]
+LoseText = "Washed out!"
+Pokemon = STARYU,5
+	Gender = female
+	Ability = 0
+	Ball = 0
+	Moves = HARDEN,CAMOUFLAGE,WATERGUN,TACKLE
+Pokemon = GOLDEEN,8
+	Name = Goldie
+	Gender = female
+	Ability = 0
+	Ball = 6
+	Moves = HORNATTACK,SUPERSONIC,WATERSPORT,PECK
+#-------------------------------
+[HIKER_RSE,Ford,0]
+Items = POTION,FULLHEAL
+LoseText = "You're too good for me!"
+Pokemon = MACHOP,9
+	Name = Brock
+	Gender = male
+	Ability = 2
+	Ball = 36
+	Moves = FORESIGHT,KARATECHOP,ROCKSMASH,REFRESH
+#-------------------------------
+[SWIMMER_RSEm,Seth,0]
+Items = BURNHEAL,POTION
+LoseText = "Hang ten bruh!"
+Pokemon = REMORAID,6
+	Gender = female
+	Ability = 0
+	Ball = 18
+	Moves = LOCKON,WATERGUN,SONICBOOM,SPLASH
+Pokemon = WOOPER,9
+	Gender = male
+	Ability = 3
+	Ball = 6
+	Moves = MUDSHOT,MUDSPORT,TAILWHIP,PUNCHOUT
+#-------------------------------
+[SWIMMER_FRLGf,Nikki,0]
+LoseText = "How could you beat my seals?!"
+Pokemon = SEEL,5
+	Gender = female
+	Ability = 1
+	Ball = 1
+	Moves = HEADBUTT,GROWL,WATERSPORT,SURF
+Pokemon = SEEL,7
+	Gender = male
+	Ability = 2
+	Ball = 6
+	Moves = HEADBUTT,GROWL,WATERSPORT,WATERPULSE
+Pokemon = SEEL,9
+	Gender = male
+	Shiny = yes
+	Ability = 3
+	Ball = 11
+	Moves = HEADBUTT,BELLYDRUM,WATERSPORT,IRONTAIL
+Pokemon = POPPLIO,11
+	Gender = female
+	Ability = 0
+	Ball = 10
+	Moves = CHARM,DISARMINGVOICE,GROWL,WATERGUN
+#-------------------------------
+[SAILOR_RSE,Moon,0]
+Items = ANTIDOTE
+LoseText = "Kyaaa!"
+Pokemon = LUNATONE,7
+	Gender = male
+	Ability = 0
+	Ball = 12
+	Moves = PSYSHOCK,POWERGEM,TACKLE,ROCKTHROW
+Pokemon = STEENEE,18
+	Gender = female
+	Ability = 1
+	Ball = 20
+	Moves = RAPIDSPIN,PLAYNICE,RAZORLEAF,DOUBLESLAP
+Pokemon = CLOUCAT,11
+	Gender = female
+	Ability = 1
+	Ball = 1
+	Moves = SNARL,GUST,BLOPPYBOP,SLASH

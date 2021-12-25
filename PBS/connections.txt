@@ -28,3 +28,5 @@
 80,North,34,84,South,0
 # Route 21 (80) - Pallet Town (2)
 80,North,6,2,South,0
+# Route 21 (80) - Cinnabar Island (85)
+80,South,0,85,North,6

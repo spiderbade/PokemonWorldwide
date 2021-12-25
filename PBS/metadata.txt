@@ -466,3 +466,13 @@ Outdoor = false
 Environment = None
 HealingSpot = 2,9,14
 ShowArea = true
+#-------------------------------
+[085]
+# Cinnabar Island
+BattleBack = 
+Weather = Sunny,50
+Bicycle = true
+MapPosition = 8,6,18
+Outdoor = true
+Environment = Sand
+ShowArea = true
