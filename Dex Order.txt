@@ -246,8 +246,14 @@ TELEPATHY
 DROUGHT
 BRAINIAC
 
+Mega Vulpix
+ADAPTABILITY
+
 Mega Ninetales [FIRE.PSYCHIC]
 AURAVEIL
+
+BREAK Ninetales [FIRE.ELECTRIC]
+MAGICBOUNCE
 
 41; 42; 169. Zubat-Golbat-Crobat [POISON.FLYING]
 INNERFOCUS
@@ -2980,6 +2986,18 @@ SHARPEDGE
 Mega Snowslash
 SUPERLUCK
 
+904; 905. Arpix-Santales [ICE-ICE.FAIRY]
+SNOWCLOAK
+FREEZINGWINDS
+SNOWWARNING
+BERSERK
+
+Mega Arpix
+ADAPTABILITY
+
+Mega Santales
+AURAVEIL
+
 1203; 1202; 1204; 1205. Z-u-MissingNo.-Phantasmo:Phancero [GLITCH-BIRD.NORMAL-GHOST.GLITCH:GHOST.FLYING]
 ANALYTIC-ANALYTIC:KEENEYE
 GARBAGECODE-IRONFIST:GARBAGECODE
@@ -3752,8 +3770,6 @@ CACTUAREFFECTS
 896. Glastrier
 897. Spectrier
 898. Calyrex
-904. Arpix [babiriberry
-905. Santales, Mega Santales  - Aura Veil, Santales BREAK  [babiriberry
 906. Wiglett[hold metalpowder
 907. Dugtoupé [hold metalpowder
 908. Sneekit
