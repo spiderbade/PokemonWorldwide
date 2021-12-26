@@ -702,6 +702,18 @@ GRASSYSURGE
 PULSE Tangrowth [GRASS.POISON]
 FILTER
 
+116; 117; 230. Horsea-Seadra-Kingdra [WATER-WATER.DRAGON]
+POISONPOINT
+SNIPER
+DAMP
+INFILTRATOR
+
+Mega Seadra [WATER.POISON]
+SWIFTSWIM
+
+Mega Kingdra
+STORMBRINGER
+
 188; 119. Goldeen-Seaking [WATER]
 SHARPEDGE
 WATERVEIL
@@ -1612,6 +1624,15 @@ REFRIGERATE
 
 Mega Froslass
 DEEPFREEZE
+
+369. Relicanth [WATER.ROCK]
+LONGEVITY
+ROCKHEAD
+STURDY
+SHELLARMOR
+
+Mega Relicanth
+FILTER
 
 371; 372; 373. Bagon-Shelgon-Salamence [DRAGON-DRAGON.FLYING]
 ROCKHEAD-INTIMIDATE
@@ -3245,8 +3266,6 @@ CACTUAREFFECTS
 85. Dodrio
 108. Lickitung
 113. Chansey
-116. Horsea
-117. Seadra
 124. Jynx, Mega Jynx , Eye-eye , Delta Jynx (Natural)
 128. Tauros, Mega Tauros 
 137. Porygon
@@ -3288,7 +3307,6 @@ CACTUAREFFECTS
 227. Skarmory
 228. Houndour, Infested
 229. Houndoom, Mega, Infested
-230. Kingdra
 231. Phanpy
 232. Donphan, Mega Donphan  - Ground/Fighting, Scrappy
 233. Porygon2
@@ -3363,8 +3381,8 @@ CACTUAREFFECTS
 366. Clamperl
 367. Huntail
 368. Gorebyss
-369. Relicanth
-370. Luvdisc377. Regirock
+370. Luvdisc
+377. Regirock
 378. Regice
 379. Registeel
 385. Jirachi, Mega Jirachi 
