@@ -471,6 +471,15 @@ ATOMIZE
 PULSE Muk
 PROTEAN
 
+90; 91. Shellder-Cloyster [WATER-WATER.ICE]
+SHELLARMOR
+SKILLLINK
+OVERCOAT
+STURDY
+
+Mega Cloyster
+SKILLLINK
+
 92; 93; 94. Gastly-Haunter-Gengar [GHOST.POISON]
 LEVITATE
 CURSEDBODY
@@ -3190,8 +3199,6 @@ CACTUAREFFECTS
 85. Dodrio
 86. Seel
 87. Dewgong
-90. Shellder
-91. Cloyster
 108. Lickitung
 113. Chansey
 116. Horsea
