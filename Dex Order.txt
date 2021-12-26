@@ -240,6 +240,15 @@ MOODY
 Mega Clefable [FAIRY.GHOST]
 PRANKSTER
 
+37; 38. Vulpix-Ninetales [FIRE]
+FLASHFIRE
+TELEPATHY
+DROUGHT
+BRAINIAC
+
+Mega Ninetales [FIRE.PSYCHIC]
+AURAVEIL
+
 41; 42; 169. Zubat-Golbat-Crobat [POISON.FLYING]
 INNERFOCUS
 BLEEDER
@@ -323,6 +332,15 @@ ILLUMINATE
 
 BREAK Golduck [WATER.ELECTRIC]
 MAGICBOUNCE
+
+58; 59. Growlithe-Arcanine
+INTIMIDATE
+FLASHFIRE
+JUSTIFIED
+DEFIANT
+
+Mega Arcanine [FIRE.ELECTRIC]
+LEVITATE
 
 60; 61; 62; 186. Poliwag-Poliwhirl-Poliwrath:Politoed [WATER-WATER.FIGHTING:WATER]
 WATERABSORB
@@ -3246,8 +3264,6 @@ CACTUAREFFECTS
 
 [[UNIMPLEMENTED]]
 
-37. Vulpix
-38. Ninetales, Mega Ninetales  - Aura Veil auto-lightscreen-reflect, Ninetales BREAK 
 39. Jigglypuff, Gigant Jigglypuff  {DElta}
 40. Wigglytuff, Mega Wigglytuff  - Omniamorous non-gender based attraction
 48. Venonant
@@ -3256,8 +3272,6 @@ CACTUAREFFECTS
 51. Dugtrio
 56. Mankey
 57. Primeape - Provocative (auto taunt)
-58. Growlithe
-59. Arcanine, Mega Arcanine  - Fire/Solar, Levitate, Arcanine BREAK 
 69. Bellsprout
 70. Weepinbell
 71. Victreebel
