@@ -1257,6 +1257,18 @@ LONGEVITY
 Mega Dunseraph
 AIRCONTROL
 
+211; 1043; 2888. Qwilfish-Numfish:Qwilshark [WATER.POISON-WATER.ELECTRIC:WATER.POISON]
+POISONPOINT-BATTERY:ANGERPOINT
+VENOMOUS-AFTERMATH:DARKSOUL
+INTIMIDATE
+IRONBARBS-IRONBARBS:MERCILESS
+
+Mega Numfish
+PRESSURE
+
+Mega Qwilshark
+MOXIE
+
 218; 219. Slugma-Magcargo [FIRE-FIRE.ROCK]
 MAGMAARMOR-WATERCOMPACTION
 FLAMEBODY
@@ -3307,7 +3319,6 @@ CACTUAREFFECTS
 207. Gligar
 209. Snubbull
 210. Granbull
-211. Qwilfish
 213. Shuckle
 214. Heracross, Mega Heracross 
 215. Sneasel
@@ -3878,7 +3889,6 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 1040.	Xollit
 1041.	Haneei
 1042.	Cacufish
-1043.	Numfish
 1044.	Prochu
 1045.	Golppy
 1046.	Gloflote
@@ -5652,7 +5662,6 @@ Snakewood
 2885.	Amonster
 2886.	Gigawolf
 2887.	Galactimon
-2888.	Qwilshark
 2889.	Dragoone
 2890.	Roclobster
 2891.	Vigourian
