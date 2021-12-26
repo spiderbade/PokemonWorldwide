@@ -12,7 +12,7 @@
 12,ANTICIPATION,Anticipation,"Raise evasion if the foe has a super effective move."
 13,FOREWARN,Forewarn,"Reveals the foe's strong attack."
 14,TANGLEDFEET,Tangled Feet,"Raises evasion when confused."
-15,SNOWCLOAK,Snow Cloak,"Raises evasion in snow."
+15,SNOWCLOAK,Snow Cloak,"Raises evasion in hail."
 16,SANDVEIL,Sand Veil,"Raises evasion in sandstorm."
 17,TELEPATHY,Telepathy,"Avoids allies' attacks."
 18,ACCELERATE,Accelerate,"Raises the power of moves with priority."
