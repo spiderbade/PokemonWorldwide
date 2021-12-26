@@ -258,6 +258,21 @@ SAPSIPPER
 LEVITATE
 VAMPIRIC
 
+43; 44; 45; 182. Oddish-Gloom-Vileplume:Bellossom [GRASS.POISON-GRASS.POISON:GRASS]
+CHLOROPHYLL
+LIQUIDOOZE-LIQUIDOOZE:SWEETVEIL
+HELIOPHOBIA-STENCH-EFFECTSPORE:HEALER
+RUNAWAY-DANCER
+
+Mega Gloom
+DUSTSCATTER
+
+Mega Vileplume
+ALLURING
+
+Mega Bellossom
+FLOWERGIFT
+
 1052; 46; 47; 3687. Para-Paras-Parasect:Parano [BUG.GRASS-BUG.GRASS:BUG.GROUND]
 EFFECTSPORE-EFFECTSPORE:UNLEAFED
 POISONPOINT-DRYSKIN-DRYSKIN:INSECTAFFINITY
@@ -452,6 +467,15 @@ CLEARBODY
 
 PULSE Magnezone
 LEVITATE
+
+86; 87. Seel-Dewgong [WATER-WATER.ICE]
+THICKFAT
+HYDRATION
+ICEBODY
+WATERLOVER
+
+Mega Dewgong
+LIGHTNINGROD
 
 88; 89. Grimer-Muk [POISON]
 STENCH
@@ -3178,9 +3202,6 @@ CACTUAREFFECTS
 38. Ninetales, Mega Ninetales  - Aura Veil auto-lightscreen-reflect, Ninetales BREAK 
 39. Jigglypuff, Gigant Jigglypuff  {DElta}
 40. Wigglytuff, Mega Wigglytuff  - Omniamorous non-gender based attraction
-43. Oddish
-44. Gloom
-45. Vileplume
 48. Venonant
 49. Venomoth
 50. Diglett
@@ -3197,8 +3218,6 @@ CACTUAREFFECTS
 83. Farfetch’d
 84. Doduo
 85. Dodrio
-86. Seel
-87. Dewgong
 108. Lickitung
 113. Chansey
 116. Horsea
@@ -3219,7 +3238,6 @@ CACTUAREFFECTS
 174. Igglybuff
 177. Natu
 178. Xatu
-182. Bellossom
 185. Sudowoodo, Mega Sudowoodo 
 187. Hoppip
 188. Skiploom
