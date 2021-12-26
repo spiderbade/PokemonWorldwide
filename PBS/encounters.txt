@@ -72,7 +72,7 @@ SuperRod
 #-------------------------------
 085 # Cinnabar Island
 25,10,10
-Land (12)
+Land
     PIDGEY,5,13
     RATTATA,5,13
     PONYTA,5,13
@@ -82,10 +82,25 @@ Land (12)
     DITTO,5,13
     PSYDUCK,5,13
     MAGBY,5,13
-    VOLTORB,5,13
+    SLOWPOKE,5,13
     SHELLDER,5,13
     MAGMAR,15,25
-Water (5)
-OldRod (2)
+Water
+    MAGIKARP,5,13
+    KRABBY,5,13
+    GRIMER,5,13
+    TENTACOOL,5,13
+    SEEL,5,13
+OldRod
+    MAGIKARP,5,13
+    GOLDEEN,5,13
 GoodRod (3)
-SuperRod (5)
+    POLIWAG,5,13
+    GOLDEEN,5,13
+    SHELLDER,5,13
+SuperRod
+    STARYU,5,13
+    FEEBAS,5,13
+    HORSEA,5,13
+    SLOWPOKE,5,13
+    CHINCHOU,5,13
