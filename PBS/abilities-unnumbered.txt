@@ -68,6 +68,7 @@
 ,AURABREAK,Aura Break,"Inverts the effect of Aura abilities."
 ,DARKAURA,Dark Aura,"An aura that boosts Dark-type moves."
 ,FAIRYAURA,Fairy Aura,"An aura that boosts Fairy-type moves."
+,AURAVEIL,Aura Veil,"Activates Aurora Veil when sent out."
 ,SCREENCLEANER,Screen Cleaner,"Removes screens from battle."
 ,INVERSION,Inversion,"Inverts the type chart."
 ,SPEEDSWAP,Speed Swap,"Reverses the speed of Pokémon in battle."
