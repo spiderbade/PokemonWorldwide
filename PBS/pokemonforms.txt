@@ -1,4 +1,4 @@
-﻿#-------------------------------
+#-------------------------------
 [BULBASAUR,1]
 FormName = Boilbasaur
 Type1 = SHADOW
@@ -531,6 +531,27 @@ BaseStats = 95,80,83,110,125,90
 Abilities = PRANKSTER
 HiddenAbility = PRANKSTER
 #-------------------------------
+[GLOOM,1]
+FormName = Mega Gloom
+MegaStone = MEGASTONE
+Abilities = DUSTSCATTER
+HiddenAbility = DUSTSCATTER
+BaseStats = 60,65,70,120,85,95
+#-------------------------------
+[VILEPLUME,1]
+FormName = Mega Vileplume
+MegaStone = MEGASTONE
+Abilities = ALLURING
+HiddenAbility = ALLURING
+BaseStats = 75,85,115,50,115,150
+#-------------------------------
+[BELLOSSOM,1]
+FormName = Mega Bellossom
+MegaStone = MEGASTONE
+Abilities = FLOWERGIFT
+HiddenAbility = FLOWERGIFT
+BaseStats = 75,110,100,90,110,105
+#-------------------------------
 [PARAS,1]
 FormName = Shorn Paras
 Type1 = BUG
@@ -610,6 +631,21 @@ WildItemCommon = CELLBATTERY
 WildItemUncommon = CELLBATTERY
 WildItemRare = CELLBATTERY
 BaseStats = 80,109,26,163,122,26
+#-------------------------------
+[GROWLITHE,1]
+FormName = Mega Growlithe
+MegaStone = MEGASTONE
+Abilities = STRONGJAW
+HiddenAbility = STRONGJAW
+BaseStats = 55,70,95,110,70,50
+#-------------------------------
+[ARCANINE,1]
+FormName = Mega Arcanine
+Type1 = FIRE
+Type2 = ELECTRIC
+BaseStats = 90,130,120,95,100,120
+Abilities = LEVITATE
+HiddenAbility = LEVITATE
 #-------------------------------
 [POLIWAG,1]
 FormName = Polihag
@@ -855,6 +891,14 @@ Abilities = CONTRARY
 HiddenAbility = CONTRARY
 Pokedex = As they fight, they continue to grow stronger and faster. They do run out of energy eventually, though.
 #-------------------------------
+[RAPIDASH,1]
+FormName = Mega Rapidash
+Abilities = MAGICGUARD
+HiddenAbility = MAGICGUARD
+BaseStats = 65,105,95,110,120,105
+Type1 = FIRE
+Type2 = FLYING
+#-------------------------------
 [SLOWBRO,1]
 FormName = Mega Slowbro
 MegaStone = MEGASTONE
@@ -980,6 +1024,34 @@ Abilities = PROTEAN
 HiddenAbility = PROTEAN
 MegaMessage = 3
 Pokedex = Muk's amorphous abilities are fully unleashed. Part of its body transforms to augment whatever attack it is about to use.
+#-------------------------------
+[DEWGONG,1]
+FormName = Mega Dewgong
+MegaStone = MEGASTONE
+BaseStats = 90,90,90,80,125,100
+Abilities = LIGHTNINGROD
+HiddenAbility = LIGHTNINGROD
+#-------------------------------
+[SHELLDER,1]
+FormName = Mega Shellder
+MegaStone = MEGASTONE
+Abilities = TENACIOUS
+HiddenAbility = TENACIOUS
+BaseStats = 30,65,100,40,65,105
+#-------------------------------
+[CLOYSTER,1]
+FormName = Mega Cloyster 
+MegaStone = MEGASTONE
+Abilities = SKILLLINK
+HiddenAbility = SKILLLINK
+BaseStats = 50,155,180,60,85,95
+#-------------------------------
+[SHELLATCH,1]
+FormName = Mega Shellatch
+MegaStone = MEGASTONE
+Abilities = VAMPIRIC
+HiddenAbility = VAMPIRIC
+BaseStats = 50,90,180,30,95,180
 #-------------------------------
 [HAUNTER,1]
 FormName = Mega Haunter
@@ -1353,6 +1425,29 @@ HiddenAbility = FILTER
 BaseStats = 100,70,235,10,70,150
 MegaMessage = 3
 Pokedex = Its mechanically augmented body causes its vines to spread out of control. They grow faster than they can be cut. 
+#-------------------------------
+[SEADRA,1]
+FormName = Mega Seadra
+MegaStone = MEGASTONE
+Abilities = SWIFTSWIM
+HiddenAbility = SWIFTSWIM
+BaseStats = 55,95,95,115,95,85
+Type1 = WATER
+Type2 = POISON
+#-------------------------------
+[KINGDRA,1]
+FormName = Mega Kingdra
+MegaStone = MEGASTONE
+Abilities = STORMBRINGER
+HiddenAbility = STORMBRINGER
+BaseStats = 75,135,100,95,135,100
+#-------------------------------
+[SEAKING,1]
+FormName = Mega Seaking
+Abilities = DAZZLING
+HiddenAbility = DAZZLING
+MegaStone = MEGASTONE
+BaseStats = 80,110,115,70,65,110
 #-------------------------------
 [MIMEJR,1]
 Type1 = PSYCHIC
@@ -2039,6 +2134,33 @@ MegaStone = MEGASTONE
 Abilities = MAGICBOUNCE
 HiddenAbility = MAGICBOUNCE
 #-------------------------------
+[VULPIX,1]
+FormName = Mega Vulpix
+MegaStone = MEGASTONE
+BaseStats = 38,61,40,125,70,65
+Abilities = ADAPTABILITY
+HiddenAbility = ADAPTABILITY
+#-------------------------------
+[NINETALES,1]
+FormName = Mega Ninetales
+Type1 = FIRE
+Type2 = PSYCHIC
+BaseStats = 73,81,125,100,101,125
+MegaStone = MEGASTONE
+Abilities = AURAVEIL
+HiddenAbility = AURAVEIL
+#-------------------------------
+[NINETALES,2]
+FormName = BREAK Ninetales
+Type1 = FIRE
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 73,109,25,150,114,34
+#-------------------------------
 [CROBAT,1]
 FormName = Mega Crobat
 MegaStone = MEGASTONE
@@ -2371,6 +2493,14 @@ BaseStats = 45,60,90,75,70,90
 Abilities = THICKFAT
 HiddenAbility = THICKFAT
 Pokedex = Mega Delibird can fly surprisingly fast for its rotund build. It relaxes floating on water, its bold color repelling most predators. 
+#-------------------------------
+[MAGCARGO,1]
+FormName = Mega Magcargo
+MegaStone = MEGASTONE
+Type1 = ROCK
+Abilities = SHELLARMOR
+HiddenAbility = SHELLARMOR
+BaseStats = 60,60,170,30,100,110
 #-------------------------------
 [CORSOREEF,1]
 FormName = Mega Corsoreef
@@ -2944,6 +3074,13 @@ HiddenAbility = AERILATE
 Height = 1.8
 Weight = 112.6
 Pokedex = The power of Mega Evolution drives it out of control. It may even turn on its own trainer if it isn't treated with respect.
+#-------------------------------
+[RELICANTH,1]
+FormName = Mega Relicanth
+MegaStone = MEGASTONE
+BaseStats = 100,130,140,55,55,95
+Abilities = FILTER
+HiddenAbility = FILTER
 #-------------------------------
 [BAGON,1]
 FormName = Bagon δ
