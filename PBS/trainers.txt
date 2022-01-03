@@ -111,6 +111,7 @@ Pokemon = MACHOP,9
 	Ability = 2
 	Ball = 36
 	Moves = FORESIGHT,KARATECHOP,ROCKSMASH,REFRESH
+	Name = Ruggedy
 #-------------------------------
 [SWIMMER_RSEm,Seth,0]
 Items = BURNHEAL,POTION
@@ -120,6 +121,7 @@ Pokemon = REMORAID,6
 	Ability = 0
 	Ball = 18
 	Moves = LOCKON,WATERGUN,SONICBOOM,SPLASH
+	Name = Glock
 Pokemon = WOOPER,9
 	Gender = male
 	Ability = 3
@@ -149,6 +151,7 @@ Pokemon = POPPLIO,11
 	Ability = 0
 	Ball = 10
 	Moves = CHARM,DISARMINGVOICE,GROWL,WATERGUN
+	Name = Seal
 #-------------------------------
 [SAILOR_RSE,Moon,0]
 Items = ANTIDOTE
@@ -158,13 +161,189 @@ Pokemon = LUNATONE,7
 	Ability = 0
 	Ball = 12
 	Moves = PSYSHOCK,POWERGEM,TACKLE,ROCKTHROW
+	Name = Serenity
 Pokemon = STEENEE,18
 	Gender = female
 	Ability = 1
 	Ball = 20
 	Moves = RAPIDSPIN,PLAYNICE,RAZORLEAF,DOUBLESLAP
+	Name = Minako
 Pokemon = CLOUCAT,11
 	Gender = female
 	Ability = 1
 	Ball = 1
 	Moves = SNARL,GUST,BLOPPYBOP,SLASH
+	Name = Luna
+#-------------------------------
+[POKEMONTRAINER_Elaine,Elaine,0]
+Items = POTION
+LoseText = "Dude! Awesome!"
+Pokemon = EEVEE,15
+	Name = VEEVEE
+	Moves = PARTNERVOLLEY,HELPINGHAND,POUND,BABYDOLLEYES
+	Item = EVIOLITE
+	Gender = female
+	Ability = 1
+	Happiness = 255
+	IV = 31,31,31,31,31,31
+	Ball = 10
+#-------------------------------
+[POKEMONTRAINER_Chase,Chase,0]
+Pokemon = PIKACHU,15
+LoseText = "... Wait, Pikachu can evolve?!"
+	Moves = PARTNERPAPOW,QUICKATTACK,SWEETKISS,TAILWHIP
+	Item = LIGHTBALL
+	Name = Pika
+	Ability = 1
+	Happiness = 255
+	IV = 31,31,31,31,31,31
+	Ball = 36
+	Gender = male
+#-------------------------------
+[SCIENTIST_FRLG,Yusuke,0]
+LoseText = "Curses!"
+Items = SUPERPOTION
+Pokemon = PORYGON,13
+	Item = SITRUSBERRY
+	Moves = THUNDERBOLT,PSYBEAM,TACKLE,CONVERSION
+	Ability = 0
+	Ball = 1
+	Gender = female
+Pokemon = MAGMAR,14
+	Moves = EMBER,FEINTATTACK,SMOG,SMOKESCREEN
+	Ability = 2
+	Ball = 3
+	Gender = female
+Pokemon = CHARMELEON,16
+	Moves = EMBER,CRUNCH,BEATUP,GROWL
+	Ability = 3
+	Ball = 7
+	Gender = male
+#-------------------------------
+[ACETRAINER_FRLGf,Lisa,0]
+Items = FULLRESTORE,FULLHEAL
+LoseText = "How...?"
+Pokemon = SMOGAROBEN,16
+	IV = 31,31,31,31,31,31
+	Item = EVIOLITE
+	Ability = 2
+	Moves = STEALTHROCK,NEUROTOX,TAUNT,POISONGAS
+	Ball = 11
+	Gender = male
+	Name = Lead
+Pokemon = IVYSAUR,16
+	IV = 31,31,31,31,31,31
+	Item = BLACKSLUDGE
+	Ability = 3
+	Moves = SLEEPPOWDER,VINEWHIP,LEECHSEED,DIG
+	Ball = 15
+	Gender = female
+	Name = Tankard
+Pokemon = DUNSPARCE,20
+	IV = 31,31,31,31,31,31
+	Item = SCOPELENS
+	Ability = 0
+	Moves = HEADBUTT,PURSUIT,MUDSLAP,PAINSPLIT
+	Ball = 12
+	Gender = male
+	Name = Tech
+Pokemon = VOLTORB,13
+	IV = 31,31,31,31,31,31
+	Item = CHOICESCARF
+	Ability = 3
+	Moves = RISINGVOLTAGE,RIOTSHIELD,MISTYEXPLOSION,SELFDESTRUCT
+	Ball = 29
+	Gender = male
+	Name = Wallbreak
+Pokemon = SLOWPOKE,14
+	IV = 31,31,31,31,31,31
+	Item = LEFTOVERS
+	Ability = 3
+	Moves = BELLYDRUM,ZENHEADBUTT,RAZORSHELL,SIMPLEBEAM
+	Ball = 14
+	Gender = male
+	Name = Big Belly
+#-------------------------------
+[SWIMMER_FRLGf,Nicole,0]
+Items = POTION
+LoseText = "If I had a dragon, I would have won."
+Pokemon = MARILL,15
+	Ball = 20
+	Ability = 3
+	Gender = female
+	Moves = HEAVYPUNCH,BUBBLEBEAM,ROLLOUT,DEFENSECURL
+	Name = Pikablu
+#-------------------------------
+[SWIMMER_RSEm,Pedro,0]
+LoseText = "Whoo! If only I had some alfalfa to follow that with."
+Pokemon = RATTATA,14
+	Gender = male
+	Ball = 0
+	Ability = 1
+	Moves = TACKLE,BITE,TAILWHIP,ICEBEAM
+	Name = Rupert
+Pokemon = CHINCHOU,12
+	Gender = male
+	Ball = 1
+	Ability = 1
+	Moves = THUNDERWAVE,WHIRLPOOL,ASTONISH,SUPERSONIC
+	Name = Pee Wee Harris
+#-------------------------------
+[SWIMMER_RSEm,Sheldon,0]
+LoseText = "Welp."
+Pokemon = SHELLDER,13
+	Ball = 5
+	Item = ORANBERRY
+	Ability = 2
+	IV = 21,1,1,1,1,1
+	Gender = female
+	Moves = ICICLESPEAR,BITE,SUPERSONIC,BUBBLE
+Pokemon = CLAMPERL,14
+	Ball = 12
+	Ability = 0
+	Gender = female
+	Moves = CLAMP,WATERGUN,WHIRLPOOL,POWERGEM
+	Item = PEARL
+Pokemon = SLUGMA,13
+	Ball = 11
+	Ability = 3
+	Gender = male
+	Moves = LAVAPOOL,ROCKTHROW,EMBER,SMOG
+	Item = CHARCOAL
+	Name = Fry-Cook
+#-------------------------------
+[TUBER_FRLG,Suzuki,0]
+LoseText = "Nevermind, you're scarier than the ocean."
+Pokemon = HORSEA,12
+	Item = ORANBERRY
+	Ball = 0
+	Ability = 0
+	Moves = POISONSTING,TWISTER,INK,BUBBLE
+	Name = Horsey
+#-------------------------------
+[FISHERMAN_DPPt,Haru,0]
+LoseText = "Good game!"
+Pokemon = MAGIKARP,5
+	Item = ORANBERRY
+	Ball = 0
+	Ability = 0
+	Moves = SPLASH,TACKLE,SHIMMERSHOT,AQUAJET
+	Gender = male
+Pokemon = MAGIKARP,5
+	Item = CHOICEBAND
+	Ball = 0
+	Ability = 1
+	Moves = FLIPTURN,SPLASH,TACKLE,FISHIOUSREND
+	Gender = male
+Pokemon = MAGIKARP,5
+	Item = LIFEORB
+	Ball = 1
+	Ability = 2
+	Moves = SPLASH,TACKLE,BOUNCE,SURF
+	Gender = female
+Pokemon = MAGIKARP,5
+	Item = ORANBERRY
+	Ball = 5
+	Ability = 3
+	Moves = SPLASH,TACKLE,DRAGONRAGE,JAWLOCK
+	Gender = male

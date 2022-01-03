@@ -594,7 +594,7 @@
 662,EXODLEG2,Right Leg of the Forbidden One,Right Legs,8,0,"A forbidden right leg sealed by magic. Whosoever breaks this seal shall know infinite power.",0,0,0
 663,EXODARM1,Left Arm of the Forbidden One,Left Arms,8,0,"A forbidden left arm sealed by magic. Whosoever breaks this seal shall know infinite power.",0,0,0
 664,EXODARM2,Right Arm of the Forbidden One,Right Arms,8,0,"A forbidden right arm sealed by magic. Whosoever breaks this seal shall know infinite power.",0,0,0
-665,BERSERKGENE,Berserk Gene,Berserk Genes,7,0,"An unstable gene that boosts attack but causes confusion.",0,0,7,
+665,BERSERKGENE,Berserk Gene,Berserk Genes,7,2000,"An unstable gene that boosts attack but causes confusion.",0,0,7,
 666,HEAVYDUTYBOOTS,Heavy-Duty Boots,Heavy-Duty Boots,1,2100,"These boots prevent the effects of traps set on the battlefield.",0,0,0,
 1061,BLUNDERPOLICY,Blunder Policy,Blunder Policies,1,4000,"Raises Speed sharply when a Pokémon misses with a move because of accuracy.",0,0,0,
 1062,ROOMSERVICE,Room Service,Room Services,1,4000,"An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.",0,0,0,

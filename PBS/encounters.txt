@@ -94,7 +94,7 @@ Water
 OldRod
     MAGIKARP,5,13
     GOLDEEN,5,13
-GoodRod (3)
+GoodRod
     POLIWAG,5,13
     GOLDEEN,5,13
     SHELLDER,5,13

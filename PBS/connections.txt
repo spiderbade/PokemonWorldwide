@@ -18,15 +18,85 @@
 21,East,0,23,West,1
 # Ingido Plateau (35) - Route 4 (39)
 35,West,11,39,East,0
+# Crimson Town (93) - crimson-border-north (104)
+93,North,0,104,South,0
+# route-20-west-border-south (94) - crimson-border-north (104)
+94,East,0,104,West,54
+# route-20-west-border-north (96) - crimson-border-north (104)
+96,East,0,104,West,4
+# Route 20 West (91) - crimson-border-north (104)
+91,East,0,104,West,19
+# route-20-west-border-south (94) - Crimson Town (93)
+94,East,0,93,West,39
+# route-20-west-border-north (96) - Crimson Town (93)
+96,East,11,93,West,0
+# Route 20 West (91) - Crimson Town (93)
+91,East,0,93,West,4
+# crimson-border-south (103) - Crimson Town (93)
+103,North,0,93,South,0
+# pallet-border-west (83) - Route 50 (88)
+83,South,54,88,North,0
+# cinnabar-border-west (89) - Route 50 (88)
+89,North,66,88,South,0
+# pallet-border-east (84) - Route 50 (88)
+84,South,6,88,North,0
+# Pallet Town (2) - Route 50 (88)
+2,South,34,88,North,0
+# Cinnabar Island (85) - Route 50 (88)
+85,North,46,88,South,0
+# Route 21 (80) - Route 50 (88)
+80,East,0,88,West,0
 # Pallet Town (2) - pallet-border-west (83)
 2,West,0,83,East,0
 # Route 21 (80) - pallet-border-west (83)
 80,North,0,83,South,14
+# Route 49 (87) - pallet-border-west (83)
+87,North,6,83,South,0
+# cinnabar-border-south (90) - route-20-west-border-south (94)
+90,East,0,94,West,9
+# Cinnabar Island (85) - route-20-west-border-south (94)
+85,East,41,94,West,0
+# Route 20 West (91) - route-20-west-border-south (94)
+91,South,0,94,North,0
+# crimson-border-south (103) - route-20-west-border-south (94)
+103,West,0,94,East,6
+# cinnabar-border-south (90) - cinnabar-border-west (89)
+90,West,0,89,East,50
+# Cinnabar Island (85) - cinnabar-border-west (89)
+85,West,0,89,East,0
+# Route 21 (80) - cinnabar-border-west (89)
+80,South,0,89,North,26
+# Route 49 (87) - cinnabar-border-west (89)
+87,South,0,89,North,6
 # Pallet Town (2) - pallet-border-east (84)
 2,East,0,84,West,0
 # Route 21 (80) - pallet-border-east (84)
 80,North,34,84,South,0
+# Route 49 (87) - pallet-border-east (84)
+87,North,54,84,South,0
 # Route 21 (80) - Pallet Town (2)
 80,North,6,2,South,0
+# Route 49 (87) - Pallet Town (2)
+87,North,26,2,South,0
+# route-20-west-border-north (96) - cinnabar-border-south (90)
+96,West,59,90,East,0
+# Cinnabar Island (85) - cinnabar-border-south (90)
+85,South,0,90,North,0
+# Route 20 West (91) - cinnabar-border-south (90)
+91,West,44,90,East,0
+# Cinnabar Island (85) - route-20-west-border-north (96)
+85,East,0,96,West,9
+# Route 20 West (91) - route-20-west-border-north (96)
+91,North,0,96,South,0
+# crimson-border-south (103) - route-20-west-border-north (96)
+103,West,0,96,East,56
+# Route 20 West (91) - Cinnabar Island (85)
+91,West,0,85,East,6
 # Route 21 (80) - Cinnabar Island (85)
 80,South,0,85,North,6
+# Route 49 (87) - Cinnabar Island (85)
+87,South,14,85,North,0
+# crimson-border-south (103) - Route 20 West (91)
+103,West,0,91,East,41
+# Route 49 (87) - Route 21 (80)
+87,East,0,80,West,0

@@ -37,3 +37,4 @@ Name = Kanto
 Filename = mapRegion8.png
 Point = 6,14,Pallet Town,,002,009,014,
 Point = 6,18,Cinnabar Island,Cinnabar Volcano,085,021,029,
+Point = 11,18,Crimson Town,Seafoam Island,093,021,027,

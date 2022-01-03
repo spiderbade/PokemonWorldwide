@@ -476,3 +476,71 @@ MapPosition = 8,6,18
 Outdoor = true
 Environment = Sand
 ShowArea = true
+#-------------------------------
+[086]
+# Poké Center
+MapPosition = 8,6,18
+ShowArea = true
+#-------------------------------
+[087]
+# Route 49
+Weather = Rain,10
+Bicycle = true
+MapPosition = 8,5,16
+Outdoor = true
+Environment = MovingWater
+ShowArea = true
+#-------------------------------
+[088]
+# Route 50
+Weather = Rain,10
+Bicycle = true
+MapPosition = 8,8,16
+Outdoor = true
+Environment = MovingWater
+ShowArea = true
+#-------------------------------
+[091]
+# Route 20 West
+Weather = Sunny,20
+Bicycle = true
+MapPosition = 8,9,18
+Outdoor = true
+Environment = Sand
+ShowArea = true
+#-------------------------------
+[093]
+# Crimson Town
+Weather = Sunny,20
+Bicycle = true
+MapPosition = 8,11,18
+Outdoor = true
+Environment = Sand
+ShowArea = true
+#-------------------------------
+[098]
+# Old Lady House
+MapPosition = 8,11,18
+Outdoor = false
+#-------------------------------
+[099]
+# Old Man House
+MapPosition = 8,11,18
+Outdoor = false
+#-------------------------------
+[100]
+# Fisherman House
+MapPosition = 8,11,18
+Outdoor = false
+#-------------------------------
+[101]
+# Poké Center
+MapPosition = 8,11,18
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[102]
+# Poké Mart
+MapPosition = 8,11,18
+Outdoor = false
+ShowArea = true
