@@ -3028,6 +3028,15 @@ STEADFAST
 Mega Sockfish
 GUTS
 
+1032; 1033; 1034. Driblizard-Droplius-Siguana [WATER]
+TORRENT
+STICKYHOLD
+HYDRATION
+MARVELSCALE
+
+Mega Siguana
+WATERLOVER
+
 1203; 1202; 1204; 1205. Z-u-MissingNo.-Phantasmo:Phancero [GLITCH-BIRD.NORMAL-GHOST.GLITCH:GHOST.FLYING]
 ANALYTIC-ANALYTIC:KEENEYE
 GARBAGECODE-IRONFIST:GARBAGECODE
@@ -3920,9 +3929,6 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 1029.	Cuburn
 1030.	Bearlaze
 1031.	Dynabear
-1032.	Aqusu
-1033.	Aquane
-1034.	Aqueria
 1035.	Hoohoo
 1036.	Vulbin
 1037.	Pugnabuck
