@@ -1302,6 +1302,15 @@ SHELLARMOR-SHARPCORAL
 Mega Corsoreef
 DRYSKIN
 
+223; 224. Remoraid-Octillery [WATER}
+SNIPER
+SUCTIONCUPS
+GUNSLINGER
+MOODY
+
+Mega Octillery [WATER.STEEL]
+GUNSLINGER
+
 225. Delibird [ICE.FLYING]
 VITALSPIRIT
 HUSTLE
@@ -3356,8 +3365,6 @@ CACTUAREFFECTS
 217. Ursaring
 220. Swinub
 221. Piloswine
-223. Remoraid
-224. Octillery
 226. Mantine
 227. Skarmory
 228. Houndour, Infested
