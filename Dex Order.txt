@@ -306,6 +306,15 @@ TINTEDLENS
 Mega Parano
 MOLDBREAKER
 
+50; 51. Diglett-Dugtrio [GROUND]
+SANDVEIL
+ARENATRAP
+SANDFORCE
+SMALLTARGET
+
+Mega Dugtrio [GROUND.NINE]
+MULTISTRIKE
+
 52; 53. Meowth-Persian [NORMAL]
 PICKUP-LIMBER
 TECHNICIAN
@@ -3337,8 +3346,6 @@ CACTUAREFFECTS
 40. Wigglytuff, Mega Wigglytuff  - Omniamorous non-gender based attraction
 48. Venonant
 49. Venomoth
-50. Diglett
-51. Dugtrio
 56. Mankey
 57. Primeape - Provocative (auto taunt)
 69. Bellsprout
