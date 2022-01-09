@@ -3028,6 +3028,15 @@ AURAVEIL
 BREAK Santales [ICE.ELECTRIC]
 MAGICBOUNCE
 
+906; 907. Wiglett-Dugtoupe [GROUND.STEEL]
+SANDVEIL
+TANGLINGHAIR
+SANDFORCE
+WATERCOMPACTION
+
+Mega Dugtoupe
+MULTISTRIKE
+
 990; 991. Cheep-Sockfish [WATER.FLYING-WATER.FIGHTING]
 SWIFTSWIM-RIVALRY
 DARKSOUL
@@ -3814,8 +3823,6 @@ CACTUAREFFECTS
 896. Glastrier
 897. Spectrier
 898. Calyrex
-906. Wiglett[hold metalpowder
-907. Dugtoupé [hold metalpowder
 908. Sneekit
 909. Aristocat
 910. Giode [holds thunderstone
