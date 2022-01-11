@@ -3046,6 +3046,15 @@ STEADFAST
 Mega Sockfish
 GUTS
 
+994. Crocky [ROCK.POISON]
+KEENEYE
+TANGLINGHAIR
+SNAPPY
+DIRTY
+
+Mega Crocky [ROCK.GHOST]
+SHADOWSYNERGY
+
 1032; 1033; 1034. Driblizard-Droplius-Siguana [WATER]
 TORRENT
 STICKYHOLD
@@ -3905,7 +3914,6 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 989. Flowish
 992. Cacstack
 993. Ehop
-994. Crocky
 995. Jagg
 996. Kobat
 997. Zuduck
