@@ -3055,6 +3055,15 @@ SNAPPY
 Mega Crocky [ROCK.GHOST]
 SHADOWSYNERGY
 
+1013; 1014. Orthostone-Pendraken [WATER.ROCK]
+SHELLARMOR-MULTISTRIKE
+HARDROCK
+SUCTIONCUPS-SLIMEEXCRETION
+VENOMOUS
+
+Mega Pendraken [WATER.POISON]
+TACTICIAN
+
 1032; 1033; 1034. Driblizard-Droplius-Siguana [WATER]
 TORRENT
 STICKYHOLD
@@ -3932,8 +3941,6 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 1010. Sumowog
 1011.	Sanados
 1012.	Trampel
-1013.	Orthostone
-1014.	Pendraken
 1015.	Drillacle
 1016.	Meta-Tyranitar
 1017.	Meta-Tyranitar 2
