@@ -3064,6 +3064,15 @@ SHELLARMOR-MULTISTRIKE
 Mega Pendraken [WATER.POISON]
 TACTICIAN
 
+1020; 1021. Decilla-Gyaoon [NORMAL.ROCK]
+SHELLARMOR
+WIMPOUT-MULTISCALE
+ROCKHEAD
+GUTS
+
+Mega Gyaoon [DRAGON.ROCK]
+STRONGJAW
+
 1032; 1033; 1034. Driblizard-Droplius-Siguana [WATER]
 TORRENT
 STICKYHOLD
@@ -3955,8 +3964,6 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 1017.	Meta-Tyranitar 2
 1018.	Xylodos
 1019.	Longoar
-1020.	Decilla
-1021.	Gyaoon
 1022.	Godzillante
 1023.	Skullzala
 1024.	Gorrilaimo
