@@ -2370,6 +2370,15 @@ SOULHEART
 Rift Chandelure
 PROTEAN
 
+615. Cryogonal [ICE]
+LEVITATE
+DEEPFREEZE
+ICEBODY
+SLEET
+
+Mega Cryogonal [ICE.STEEL]
+CLEARBODY
+
 622; 623. Golett-Golurk [GROUND.GHOST]
 IRONFIST
 KLUTZ
@@ -3677,7 +3686,6 @@ CACTUAREFFECTS
 612. Haxorus, Mega Haxorus  - Dragon/Steel, Shed Skin
 613. Cubchoo
 614. Beartic
-615. Cryogonal, Mega Cryogonal 
 616. Shelmet
 617. Accelgor
 618. Stunfisk, Mega
