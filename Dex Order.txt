@@ -2253,7 +2253,6 @@ Mega Audino [NORMAL.FAIRY]
 HEALER
 
 550. Basculin [WATER]
-
 RECKLESS
 ROCKHEAD
 ADAPTABILITY
@@ -3429,6 +3428,13 @@ DEGENERATE
 
 BREAK Electrath
 MAGICBOUNCE
+
+3882; 3883. Howlithe-Vulkanine [FIRE.ROCK]
+idk 
+
+Mega Howlithe
+
+Mega Vulkanine
 
 N90. Cactuar [CACTUAR]
 CACTUAREFFECTS
@@ -6686,24 +6692,38 @@ Other
 3784. raindrop1 egg
 3875. raindrop2 swablu
 3876. raindrop3 phoenix
-
-tsurigu https://virovac.tumblr.com/post/672501088455376896/aviculor-beardycarrot-back-in-the-summer-of
-
-https://bogleech.tumblr.com/post/672521189400379392/i-was-up-late-last-night-working-on-gen-one
-
-
-Hisuian mons legends arcues
-3882
-
-ground voltorb and electrode mines
-Annectencha
-wyrdeer
-basculegion
-sinnoh growlithe
-sinnoh braviary??
+3877. Tsurigu https://virovac.tumblr.com/post/672501088455376896/aviculor-beardycarrot-back-in-the-summer-of
+3878. https://bogleech.tumblr.com/post/672521189400379392/i-was-up-late-last-night-working-on-gen-one
+3879.
+3880.
+3881. Lemureon
+3882. Incepteon
+3883. Annectencha 
+LEGENDS ARCEUS
+3884. h-voltorb
+3885. h-electrode
+3886. ground-type voltorb
+3887. ground-type electrode
+3888. typhlosion
+qwilfish
+qwilfish evo
 kleavor
-lemureon
-incepteon
+sneasel
+weavile
+ursaring
+wyrdeer
+samurott
+lilligant
+basculin
+basculegion
+zorua
+zoroark
+braviary
+h-sligoo
+h-goodra
+h-avalugg
+h-decidueye
+whore landorus
 
 Clover+
 . Ethigator
