@@ -1041,6 +1041,33 @@ POISONHEAL
 Gigant Snorlax
 ADAPTABILITY
 
+144. Articuno [ICE.FLYING]
+PRESSURE
+SNOWCLOAK
+SNOWWARNING
+PRISMARMOR
+
+Mega Articuno
+SLEET
+
+145. Zapdos [ELECTRIC.FLYING]
+PRESSURE
+STATIC
+SHOCKING
+VOLTABSORB
+
+Mega Zapdos
+STORMBRINGER
+
+146. Moltres [FIRE.FLYING]
+PRESSURE
+FLAMEBODY
+DROUGHT
+FLASHFIRE
+
+Mega Moltres
+DESOLATELAND
+
 Gorelax [NORMAL.SHADOW]
 INNARDSOUT
 147; 148; 149. Dratini-Dragonair-Dragonite [DRAGON-DRAGON.FLYING]
@@ -3462,9 +3489,6 @@ CACTUAREFFECTS
 139. Omastar, Mega Omastar , Omastar BREAK 
 140. Kabuto
 141. Kabutops, Mega Kabutops 
-144. Articuno
-145. Zapdos
-146. Moltres
 172. Pichu, Spiky-Eared
 174. Igglybuff
 177. Natu
