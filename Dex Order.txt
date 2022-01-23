@@ -1320,6 +1320,15 @@ PRESSURE
 Mega Qwilshark
 MOXIE
 
+213. Shuckle [BUG.ROCK]
+STURDY
+GLUTTONY
+CONTRARY
+HOLYGUARD
+
+Mega Shuckle
+REBUILD
+
 215; 461. Sneasel-Weavile [DARK.ICE]
 INNERFOCUS
 KEENEYE-PRESSURE
@@ -3515,7 +3524,6 @@ CACTUAREFFECTS
 207. Gligar
 209. Snubbull
 210. Granbull
-213. Shuckle
 214. Heracross, Mega Heracross 
 216. Teddiursa
 217. Ursaring
