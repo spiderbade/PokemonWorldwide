@@ -3205,7 +3205,7 @@ UNAVOIDABLE
 Mega Phancero [GHOST.BIRD]
 AVIAN
 
-1211; 3884. Tripe-ThretrainerpokeP [NORMAL-GLITCH.NORMAL]
+1211; 3908. Tripe-ThretrainerpokeP [NORMAL-GLITCH.NORMAL]
 
 
 Mega ThretrainerpokeP
@@ -6737,25 +6737,25 @@ LEGENDS ARCEUS
 3886. ground-type voltorb
 3887. ground-type electrode
 3888. typhlosion
-qwilfish
-qwilfish evo
-kleavor
-sneasel
-weavile
-ursaring
-wyrdeer
-samurott
-lilligant
-basculin
-basculegion
-zorua
-zoroark
-braviary
-h-sligoo
-h-goodra
-h-avalugg
-h-decidueye
-whore landorus
+3889 qwilfish
+3890 qwilfish evo
+91kleavor
+92sneasel
+93weavile
+94ursaring
+95wyrdeer
+96samurott
+97lilligant
+98basculin
+99basculegion
+3900zorua
+3901zoroark
+02braviary
+03h-sligoo
+04h-goodra
+05h-avalugg
+06h-decidueye
+07whore landorus
 
 Clover+
 . Ethigator
