@@ -580,6 +580,15 @@ Abilities = MOLDBREAKER
 HiddenAbility = MOLDBREAKER
 Pokedex = Mega Parano attacks with an incredible fury, like it is trying to turn its target inside-out. Little can withstand a prolonged assault.
 #-------------------------------
+[DUGTRIO,1]
+FormName = Mega Dugtrio
+MegaStone = MEGASTONE
+BaseStats = 35,155,50,125,90,70
+Abilities = LEARNEAN
+HiddenAbility = LEARNEAN
+Type1 = GROUND
+Type2 = NINE
+#-------------------------------
 [MEOWTH,1]
 FormName = Gigant Meowth
 MegaStone = WISHINGSTAR
@@ -1957,6 +1966,27 @@ Weight = 740
 MegaMessage = 1
 Pokedex = Terrifyingly strong, this Pokémon is the size of a mountain - and moves about as much as one as well.
 #-------------------------------
+[ARTICUNO,1]
+FormName = Mega Articuno
+MegaStone = MEGASTONE
+Abilities = SLEET
+HiddenAbility = SLEET
+BaseStats = 90,90,145,95,110,150
+#-------------------------------
+[ZAPDOS,1]
+FormName = Mega Zapdos
+MegaStone = MEGASTONE
+Abilities = STORMBRINGER
+HiddenAbility = STORMBRINGER
+BaseStats = 90,110,95,100,185,110
+#-------------------------------
+[MOLTRES,1]
+FormName = Mega Moltres
+MegaStone = MEGASTONE
+Abilities = DESOLATELAND
+HiddenAbility = DESOLATELAND
+BaseStats = 90,140,95,105,145,105
+#-------------------------------
 [DRATINI,1]
 FormName = Dratini δ
 Type1 = ELECTRIC
@@ -2241,6 +2271,13 @@ Abilities = SERENEGRACE
 HiddenAbility = SERENEGRACE
 BaseStats = 85,65,125,80,165,125
 #-------------------------------
+[XATU,1]
+FormName = Mega Xatu
+MegaStone = MEGASTONE
+BaseStats = 65,80,125,95,105,100
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+#-------------------------------
 [AZURILL,1]
 FormName = Aborill
 Type1 = FAIRY
@@ -2430,6 +2467,13 @@ BaseStats = 70,140,85,75,90,95
 Abilities = STRONGJAW
 HiddenAbility = STRONGJAW
 #-------------------------------
+[SHUCKLE,1]
+FormName = Mega Shuckle
+MegaStone = MEGASTONE
+BaseStats = 20,40,255,5,30,255
+Abilities = SHELLARMOR
+HiddenAbility = SHELLARMOR
+#-------------------------------
 [HERACROSS,1]
 FormName = Mega Heracross
 MegaStone = MEGASTONE
@@ -2484,6 +2528,15 @@ Type2 = FLYING
 Abilities = AIRCONTROL
 HiddenAbility = AIRCONTROL
 #-------------------------------
+[OCTILLERY,1]
+FormName = Mega Octillery 
+MegaStone = MEGASTONE
+BaseStats = 75,145,125,15,125,95
+Type1 = WATER
+Type2 = STEEL
+Abilities = GUNSLINGER
+HiddenAbility = GUNSLINGER
+#-------------------------------
 [DELIBIRD,1]
 FormName = Mega Delibird
 MegaStone = MEGASTONE
@@ -2493,6 +2546,20 @@ BaseStats = 45,60,90,75,70,90
 Abilities = THICKFAT
 HiddenAbility = THICKFAT
 Pokedex = Mega Delibird can fly surprisingly fast for its rotund build. It relaxes floating on water, its bold color repelling most predators. 
+#-------------------------------
+[NUMFISH,1]
+FormName = Mega Numfish
+MegaStone = MEGASTONE
+Abilities = PRESSURE
+HiddenAbility = PRESSURE
+BaseStats = 80,80,155,80,115,130
+#-------------------------------
+[QWILSHARK,1]
+FormName = Mega Qwilshark
+MegaStone = MEGASTONE
+Abilities = MOXIE
+HiddenAbility = MOXIE
+BaseStats = 80,190,80,110,95,85
 #-------------------------------
 [MAGCARGO,1]
 FormName = Mega Magcargo
@@ -4085,6 +4152,15 @@ Abilities = PROTEAN
 HiddenAbility = PROTEAN
 Pokedex = Its limbs rotate around a stationary core. They are melancholy, sometimes staring at the floor and mumbling.
 #-------------------------------
+[CRYOGONAL,1]
+FormName = Mega Cryogonal
+MegaStone = MEGASTONE
+BaseStats = 80,50,100,105,105,175
+Abilities = CLEARBODY
+HiddenAbility = CLEARBODY
+Type1 = ICE
+Type2 = STEEL
+#-------------------------------
 [GOLURK,1]
 FormName = Mega Golurk
 MegaStone = MEGASTONE
@@ -5049,6 +5125,105 @@ BaseStats = 75,130,140,105,25,105
 Abilities = SUPERLUCK
 HiddenAbility = SUPERLUCK
 #-------------------------------
+[ARPIX,1]
+FormName = Mega Arpix
+MegaStone = MEGASTONE
+BaseStats = 38,41,50,95,90,65
+Abilities = ADAPTABILITY
+HiddenAbility = ADAPTABILITY
+#-------------------------------
+[SANTALES,1]
+FormName = Mega Santales
+BaseStats = 73,67,135,109,111,110
+MegaStone = MEGASTONE
+Abilities = AURAVEIL
+HiddenAbility = AURAVEIL
+#-------------------------------
+[SANTALES,2]
+FormName = BREAK Santales
+Type1 = ICE
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+WildItemCommon = CELLBATTERY
+WildItemUncommon = CELLBATTERY
+WildItemRare = CELLBATTERY
+BaseStats = 73,100,25,159,114,34
+#-------------------------------
+[DUGTOUPE,1]
+FormName = Mega Dugtoupe
+MegaStone = MEGASTONE
+BaseStats = 35,120,125,121,54,70
+Abilities = MULTISTRIKE
+HiddenAbility = MULTISTRIKE
+#-------------------------------
+[SOCKFISH,1]
+FormName = Mega Sockfish
+BaseStats = 80,142,103,65,55,105
+MegaStone = MEGASTONE
+Abilities = GUTS
+HiddenAbility = GUTS
+#-------------------------------
+[CROCKY,1]
+FormName = Mega Crocky
+BaseStats = 74,135,93,80,135,107
+Type1 = ROCK
+Type2 = GHOST
+MegaStone = MEGASTONE
+Abilities = SHADOWSYNERGY
+HiddenAbility = SHADOWSYNERGY
+#-------------------------------
+[PENDRAKEN,1]
+FormName = Mega Pendraken
+BaseStats = 84,126,113,42,120,85
+Type1 = WATER
+Type2 = POISON
+Abilities = TACTICIAN
+HiddenAbility = TACTICIAN
+#-------------------------------
+[GYAOON,1]
+FormName = Mega Gyaoon
+BaseStats = 100,125,100,80,114,101
+Type1 = DRAGON
+Type2 = ROCK
+Abilities = LEADSKIN
+HiddenAbility = LEADSKIN
+#-------------------------------
+[SIGUANA,1]
+FormName = Mega Siguana
+BaseStats = 99,100,101,95,105,130
+Abilities = WATERLOVER
+HiddenAbility = WATERLOVER
+MegaStone = MEGASTONE
+#-------------------------------
+[MANBO,1]
+FormName = Mega Manbo
+Abilities = SMALLTARGET
+HiddenAbility = SMALLTARGET
+BaseStats = 45,20,100,45,65,130
+MegaStone = MEGASTONE
+#-------------------------------
+[SHARANCHOR,1]
+FormName = Mega Sharanchor
+Abilities = WEAPONSPROFICIENCY
+HiddenAbility = WEAPONSPROFICIENCY
+BaseStats = 90,210,50,95,85,30
+MegaStone = MEGASTONE
+#-------------------------------
+[DEEPCREEP,1]
+FormName = Mega Deepcreep
+Abilities = NOCTEM
+HiddenAbility = NOCTEM
+BaseStats = 90,164,80,65,51,110
+MegaStone = MEGASTONE
+#-------------------------------
+[SYCLANT,1]
+FormName = Mega Syclant
+BaseStats = 70,145,84,151,140,65
+Abilities = INTIMIDATE
+HiddenAbility = INTIMIDATE
+MegaStone = MEGASTONE
+#-------------------------------
 [ZU,1]
 FormName = Yellow Z-u
 Type1 = NORMAL
@@ -5095,6 +5270,13 @@ Abilities = AVIAN
 HiddenAbility = AVIAN
 Type1 = GHOST
 Type2 = BIRD
+#-------------------------------
+[XUXU,1]
+FormName = Mega Xu-xu
+BaseStats = 132,165,150,198,141,85
+Abilities = POWEROVERWHELMING
+HiddenAbility = POWEROVERWHELMING
+MegaStone = MEGASTONE
 #-------------------------------
 [CARIBOLT,1]
 FormName = Mega Caribolt
@@ -5255,6 +5437,20 @@ HiddenAbility = MOLDBREAKER
 BaseStats = 78,161,71,116,102,73
 Pokedex = Mega Smoxilon aims to float like a Beautifly, sting like a Beedrill. It achieves neither - rather, it hits like a TRUCK.
 #-------------------------------
+[TRIPSIUS,1]
+FormName = Mega Tripsius
+MegaStone = MEGASTONE
+Abilities = SKILLLINK
+HiddenAbility = SKILLLINK
+BaseStats = 88,131,131,131,131,131
+#-------------------------------
+[WHIZZARD,1]
+FormName = Mega Whizzard
+MegaStone = MEGASTONE
+Abilities = GALEWINGS
+HiddenAbility = GALEWINGS
+BaseStats = 75,142,40,117,131,68
+#-------------------------------
 [BLOBBOS,1]
 Abilities = ICEFACE
 HiddenAbility = ICEFACE
@@ -5372,3 +5568,26 @@ BaseStats = 55,185,30,154,45,35
 Abilities = NOCTEM
 HiddenAbility = NOCTEM
 MegaStone = MEGASTONE
+#-------------------------------
+[HOWLITHE,1]
+FormName = Mega Howlithe
+MegaStone = MEGASTONE
+Abilities = STRONGJAW
+HiddenAbility = STRONGJAW
+BaseStats = 55,70,95,110,70,50
+#-------------------------------
+[VULKANINE,1]
+FormName = Mega Vulkanine
+Type1 = FIRE
+Type2 = ELECTRIC
+BaseStats = 90,130,120,95,100,120
+Abilities = LEVITATE
+HiddenAbility = LEVITATE
+#-------------------------------
+[THRETRAINERPOKEP,1]
+FormName = Mega ThretrainerpokeP
+MegaStone = MEGASTONE
+BaseStats = 33,255,255,27,255,50
+Abilities = DESTABILIZE
+HiddenAbility = DESTABILIZE
+Type1 = GLITCH

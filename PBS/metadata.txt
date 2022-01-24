@@ -544,3 +544,57 @@ ShowArea = true
 MapPosition = 8,11,18
 Outdoor = false
 ShowArea = true
+#-------------------------------
+[105]
+# Route 21 Caverns
+Bicycle = true
+MapPosition = 8,6,16
+Outdoor = false
+Environment = Cave
+ShowArea = true
+#-------------------------------
+[109]
+# Crimson Gym
+SnapEdges = true
+Bicycle = true
+MapPosition = 8,11,18
+Outdoor = false
+Environment = Cave
+ShowArea = true
+#-------------------------------
+[110]
+# Seafoam Caverns
+SnapEdges = true
+Weather = Blizzard,100
+Bicycle = true
+Outdoor = false
+Environment = Ice
+ShowArea = true
+#-------------------------------
+[111]
+# Shell Island
+Weather = Rain,70
+Bicycle = true
+MapPosition = 8,3,18
+Outdoor = true
+Environment = Sand
+ShowArea = true
+#-------------------------------
+[114]
+# Cobalt Coast
+Weather = Storm,100
+Bicycle = true
+MapPosition = 8,3,18
+Outdoor = true
+Environment = Sand
+ShowArea = true
+#-------------------------------
+[119]
+# Cobalt Cave
+SnapEdges = false
+Bicycle = true
+MapPosition = 8,3,18
+DarkMap = true
+Outdoor = false
+Environment = Cave
+ShowArea = true

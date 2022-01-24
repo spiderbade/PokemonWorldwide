@@ -347,3 +347,150 @@ Pokemon = MAGIKARP,5
 	Ability = 3
 	Moves = SPLASH,TACKLE,DRAGONRAGE,JAWLOCK
 	Gender = male
+#-------------------------------
+[POKEMANIAC_FRLG,Wilbur,0]
+LoseText = "Damn it."
+Items = SUPERPOTION
+Pokemon = CHARMELEON,16
+	Ball = 0
+	Gender = female
+	Ability = 0
+Pokemon = GEODUDE,13
+	Ball = 1
+	Ability = 0
+	Gender = female
+#-------------------------------
+[HIKER_RSE,Sazaku,0]
+LoseText = "Oop."
+Pokemon = GEODUDE,10
+	Ball = 0
+	Gender = male
+	Ability = 1
+	Moves = ROCKPOLISH,ROLLOUT,MUDSPORT,CAMOUFLAGE
+Pokemon = GEODUDE,11
+	Ball = 11
+	Gender = male
+	Ability = 0
+	Moves = ROCKCLOCK,CAMOUFLAGE,KARATECHOP,DEFENSECURL
+Pokemon = GEODUDE,11
+	Gender = female
+	Ability = 0
+	Ball = 0
+	Moves = TACKLE,ROLLOUT,KARATECHOP,DEFENSECURL
+#-------------------------------
+[LEADER_Blaine,Blaine,0]
+LoseText = "You've burned me out!"
+Pokemon = SNEASEL,17
+	Gender = female
+	Ability = 2
+	Moves = TAUNT,FURYSWIPES,ICYWIND,PURSUIT
+	Item = SITRUSBERRY
+Pokemon = GROWLITHE,16
+	Gender = male
+	Ability = 1
+	Moves = EMBER,HOWL,BITE,RETURN
+	Item = EVIOLITE
+	Name = Growly
+Pokemon = ARPIX,17
+	Gender = male
+	Ability = 3
+	Moves = ICYWIND,CONFUSERAY,ICESHARD,BABYDOLLEYES
+	Item = NEVERMELTICE
+Pokemon = TORKOAL,20
+	Gender = male
+	Ball = 11
+	Ability = 1
+	Moves = OVERHEAT,RAPIDSPIN,SMOG,BODYPRESS
+	Item = LEFTOVERS
+	Name = Torque
+#-------------------------------
+[ACETRAINER_FRLGf,Alice,0]
+Items = HYPERPOTION,BURNHEAL
+LoseText = "UGH."
+Pokemon = SLUGMA,16
+	Gender = male
+	Ball = 1
+	Ability = 3
+	Moves = EARTHPOWER,HARDEN,ROCKTHROW,INCINERATE
+	Item = EVIOLITE
+	Name = SLUGMA BALLS
+#-------------------------------
+[ACETRAINER_FRLGm,Bob,0]
+Items = ORANBERRY
+LoseText = "Rip lol."
+Pokemon = DELIBIRD,14
+	Gender = female
+	Moves = RAPIDSPIN,PRESENT,ICESHARD,COUNTER
+	Item = ORANBERRY
+	Name = deliderp
+#-------------------------------
+[SUPERNERD_HGSS,Erik,0]
+Items = BURNHEAL
+LoseText = "B-bakana!"
+Pokemon = SNOWSHREW,13
+	Gender = female
+	Ability = 0
+	Moves = DIG,FURYCUTTER,RAPIDSPIN,ICEBALL
+	Name = IceShrew
+Pokemon = SNEASEL,14
+	Gender = male
+	Ability = 0
+	Moves = QUICKATTACK,FEINTATTACK,ICYWIND,LEER
+	Name = Sneeze
+#-------------------------------
+[SUPERNERD_FRLG,Avery,0]
+Items = POTION
+LoseText = "BLOBBI NO"
+Pokemon = CHARMANDER,13
+	Gender = female
+	Ability = 1
+	Moves = DRAGONBREATH,SCRATCH,EMBER,METALCLAW
+Pokemon = BLOBBOS,16
+	Moves = TRANSFORM,BLOPPYBOP,DEFENSECURL,REST
+	Ability = 1
+	Item = LEFTOVERS
+	Name = Blobbi
+#-------------------------------
+[SWIMMER_RSEf,Teal,0]
+LoseText = "Oops!"
+Items = XATTACK
+Pokemon = TENTACOOL,15
+	Gender = female
+	Ability = 0
+	Moves = WATERPULSE,ABSORB,ACID,SUPERSONIC
+	Ball = 6
+Pokemon = KABUTO,14
+	Gender = female
+	Ability = 1
+	Moves = SCRATCH,HARDEN,ABSORB,SMACKDOWN
+#-------------------------------
+[BEAUTY_RSE,Olivia,0]
+LoseText = "Oh dear!"
+Pokemon = SKITTY,16
+	Gender = female
+	Ability = 0
+	Ball = 21
+	Name = Skittles
+Pokemon = FURFROU,18
+	Form = 8
+	Ball = 10
+	Gender = female
+	Name = Kabuki
+Pokemon = BLOBBOS,23
+	Ability = 1
+	Ball = 13
+#-------------------------------
+[KIMONOGIRL,Jeanette,0]
+LoseText = "Oh darn!"
+Pokemon = BEEDRILL,14
+	Gender = female
+	Moves = TACKLE,TWINEEDLE,POISONSTING,HARDEN
+	Ability = 3
+Pokemon = SCYTHER,14
+	Moves = SWIFT,DOUBLETEAM,SLASH,QUICKATTACK
+	Gender = male
+	Ability = 0
+Pokemon = BELLSPROUT,16
+	Gender = female
+	Moves = SLAM,RAZORLEAF,GROWTH,VINEWHIP
+	Ability = 0

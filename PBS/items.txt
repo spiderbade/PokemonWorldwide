@@ -466,6 +466,8 @@
 543,WEAKNESSPOLICY,Weakness Policy,Weakness Policies,1,1000,"An item to be held by a Pokémon. The holder's Attack and Sp. Atk sharply increase if hit by a move it's weak to.",0,0,0,
 544,ADRENALINEORB,Adrenaline Orb,Adrenaline Orbs,1,300,"An item to be held by a Pokémon. It boosts Speed when intimidated. It can be used only once.",0,0,0,
 545,PIXIEPLATE,Pixie Plate,Pixie Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.",0,0,0,
+1104,NULLPLATE,Null Plate,Null Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Untyped moves.",0,0,0,
+1105,QMARKSGEM,Untyped Gem,Untyped Gems,1,200,"A gem with an essence of nothing. When held, it strengthens the power a no-type move only once.",0,0,10,
 546,FAIRYGEM,Fairy Gem,Fairy Gems,1,200,"A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move only once.",0,0,10,
 547,FIREMEMORY,Fire Memory,Fire Memories,1,1000,"A memory disc containing Fire-type data. It changes the holder's type if held by a certain Pokémon.",0,0,0,
 548,WATERMEMORY,Water Memory,Water Memories,1,1000,"A memory disc containing Water-type data. It changes the holder's type if held by a certain Pokémon.",0,0,0,
@@ -512,7 +514,8 @@
 587,BARBEDBALL,Barbed Ball,Barbed Balls,3,1000,"A somewhat different Poké Ball that deals some damage to Pokémon that escape it.",0,4,4
 588,CUTEBOW,Cute Bow,Cute Bows,1,1000,"An item to be held by a Pokémon. It is a fluffy bow that boosts the power of Fairy-type moves.",0,0,0,
 589,SHINYELIXIR,Shiny Elixir,Shiny Elixirs,2,9999,"An item to be drank by a Pokémon. It is said to change their color.",1,0,0
-590,AZUREFLUTE,Azure Flute,Azure Flutes,8,9999,"A flute that produces out echoing sounds that do not seem to be of this world. No one knows who made it.",0,0,6
+590,AZUREFLUTE,Azure Flute,Azure Flutes,8,0,"A flute that produces out echoing sounds that do not seem to be of this world. No one knows who made it.",0,0,6
+1107,MAGMASTONE,Magma Stone,Magma Stones,8,0,"A stone formed when boulders melted in intensely hot magma, then hardened. Magma remains sealed inside.",0,0,6
 592,JUNGLECROWN,Jungle Crown,Jungle Crowns,1,5000,"A mysterious crown that belongs to the king of the jungle.",1,0,7
 593,CHIPPEDPOT,Chipped Pot,Chipped Pots,1,5000,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be chipped, but tea poured from it is delicious.",1,0,7,
 594,CRACKEDPOT,Cracked Pot,Cracked Pots,1,5000,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious.",1,0,7,
@@ -614,6 +617,7 @@
 1076,BOOK,Book,Books,1,15,"A holy bible to be held by Caroline. It raises her Critical-hit ratio.",0,0,0,
 1077,TACO,Taco,Tacos,5,20,"It may be used or held by a Pokémon to heal the user's HP a little.",1,1,5,
 1091,PLATEFOSSIL,Plate Fossil,Plate Fossils,1,1000,"A fossil of an ancient aquatic Pokémon. It looks like armor plating.",0,0,8,
+1103,DRILLFOSSIL,Drill Fossil,Drill Fossils,1,1000,"A fossil of an ancient aquatic Pokémon. It looks like a drill.",0,0,8,
 #-------------------------------
 668,PLAINPLATE,Plain Plate,Plain Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Normal-type moves.",0,0,0,
 669,ATOMICPLATE,Atomic Plate,Atomic Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Nuclear-type moves.",0,0,0,
@@ -684,6 +688,7 @@
 721,FLYINIUM,Flynium,Flyniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,SUPERSONICSKYSTRIKE
 722,FORBINIUM,Forbinium,Forbiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,TABOOSTEAMROLL
 723,GROUNDIUM,Groundium,Groundiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,TECTONICRAGE
+1106,UNIUM,Unium,Uniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,QUESTION
 724,BIRDINIUM,Birdinium,Birdiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,TRICKYBIRDBOMB
 725,FAIRIUM,Fairium,Fairiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,TWINKLETACKLE
 726,NUCLINIUM,Nuclinium,Nucliniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,WITHERINGHALFLIFE

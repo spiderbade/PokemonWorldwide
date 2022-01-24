@@ -34,10 +34,24 @@
 91,East,0,93,West,4
 # crimson-border-south (103) - Crimson Town (93)
 103,North,0,93,South,0
+# cobalt border weast (116) - cobalt border east (115)
+116,East,60,115,West,0
+# worth cobalt (117) - cobalt border east (115)
+117,East,80,115,West,0
+# cinnabar-border-south (90) - cobalt border east (115)
+90,West,50,115,East,0
+# wouth cobalt (118) - cobalt border east (115)
+118,East,0,115,West,0
+# Cinnabar Island (85) - cobalt border east (115)
+85,West,100,115,East,0
+# Cobalt Coast (114) - cobalt border east (115)
+114,South,0,115,North,0
 # pallet-border-west (83) - Route 50 (88)
 83,South,54,88,North,0
+# Shell Island (111) - Route 50 (88)
+111,North,86,88,South,0
 # cinnabar-border-west (89) - Route 50 (88)
-89,North,66,88,South,0
+89,North,106,88,South,0
 # pallet-border-east (84) - Route 50 (88)
 84,South,6,88,North,0
 # Pallet Town (2) - Route 50 (88)
@@ -46,12 +60,6 @@
 85,North,46,88,South,0
 # Route 21 (80) - Route 50 (88)
 80,East,0,88,West,0
-# Pallet Town (2) - pallet-border-west (83)
-2,West,0,83,East,0
-# Route 21 (80) - pallet-border-west (83)
-80,North,0,83,South,14
-# Route 49 (87) - pallet-border-west (83)
-87,North,6,83,South,0
 # cinnabar-border-south (90) - route-20-west-border-south (94)
 90,East,0,94,West,9
 # Cinnabar Island (85) - route-20-west-border-south (94)
@@ -60,42 +68,88 @@
 91,South,0,94,North,0
 # crimson-border-south (103) - route-20-west-border-south (94)
 103,West,0,94,East,6
-# cinnabar-border-south (90) - cinnabar-border-west (89)
-90,West,0,89,East,50
-# Cinnabar Island (85) - cinnabar-border-west (89)
-85,West,0,89,East,0
+# Pallet Town (2) - pallet-border-west (83)
+2,West,0,83,East,0
+# Route 21 (80) - pallet-border-west (83)
+80,North,0,83,South,14
+# Route 49 (87) - pallet-border-west (83)
+87,North,6,83,South,0
+# Shell Island (111) - cobalt border weast (116)
+111,South,0,116,North,80
+# cinnabar-border-west (89) - cobalt border weast (116)
+89,West,40,116,East,0
+# worth cobalt (117) - cobalt border weast (116)
+117,South,0,116,North,40
+# wouth cobalt (118) - cobalt border weast (116)
+118,North,0,116,South,40
+# Cobalt Coast (114) - cobalt border weast (116)
+114,West,0,116,East,0
+# cinnabar-border-west (89) - Shell Island (111)
+89,East,0,111,West,0
+# shellislandn (112) - Shell Island (111)
+112,South,14,111,North,0
+# cinnabar-border-south (90) - Shell Island (111)
+90,West,0,111,East,50
+# Cinnabar Island (85) - Shell Island (111)
+85,West,0,111,East,0
+# Route 21 (80) - Shell Island (111)
+80,South,0,111,North,46
+# Cobalt Coast (114) - Shell Island (111)
+114,North,20,111,South,0
+# Route 49 (87) - Shell Island (111)
+87,South,0,111,North,26
+# worth cobalt (117) - cinnabar-border-west (89)
+117,East,0,89,West,20
+# shellislandn (112) - cinnabar-border-west (89)
+112,South,0,89,North,6
+# wouth cobalt (118) - cinnabar-border-west (89)
+118,East,0,89,West,100
 # Route 21 (80) - cinnabar-border-west (89)
-80,South,0,89,North,26
+80,South,0,89,North,66
+# Cobalt Coast (114) - cinnabar-border-west (89)
+114,North,0,89,South,0
 # Route 49 (87) - cinnabar-border-west (89)
-87,South,0,89,North,6
+87,South,0,89,North,46
+# Cobalt Coast (114) - worth cobalt (117)
+114,West,0,117,East,20
 # Pallet Town (2) - pallet-border-east (84)
 2,East,0,84,West,0
 # Route 21 (80) - pallet-border-east (84)
 80,North,34,84,South,0
 # Route 49 (87) - pallet-border-east (84)
 87,North,54,84,South,0
+# Cinnabar Island (85) - shellislandn (112)
+85,North,0,112,South,54
+# Route 49 (87) - shellislandn (112)
+87,West,65,112,East,0
+# Cinnabar Island (85) - cinnabar-border-south (90)
+85,South,0,90,North,0
+# route-20-west-border-north (96) - cinnabar-border-south (90)
+96,West,59,90,East,0
+# Route 20 West (91) - cinnabar-border-south (90)
+91,West,44,90,East,0
+# Cobalt Coast (114) - cinnabar-border-south (90)
+114,East,10,90,West,0
 # Route 21 (80) - Pallet Town (2)
 80,North,6,2,South,0
 # Route 49 (87) - Pallet Town (2)
 87,North,26,2,South,0
-# route-20-west-border-north (96) - cinnabar-border-south (90)
-96,West,59,90,East,0
-# Cinnabar Island (85) - cinnabar-border-south (90)
-85,South,0,90,North,0
-# Route 20 West (91) - cinnabar-border-south (90)
-91,West,44,90,East,0
-# Cinnabar Island (85) - route-20-west-border-north (96)
-85,East,0,96,West,9
-# Route 20 West (91) - route-20-west-border-north (96)
-91,North,0,96,South,0
-# crimson-border-south (103) - route-20-west-border-north (96)
-103,West,0,96,East,56
+# Cobalt Coast (114) - wouth cobalt (118)
+114,West,60,118,East,0
+# route-20-west-border-north (96) - Cinnabar Island (85)
+96,West,9,85,East,0
 # Route 20 West (91) - Cinnabar Island (85)
 91,West,0,85,East,6
 # Route 21 (80) - Cinnabar Island (85)
 80,South,0,85,North,6
+# Cobalt Coast (114) - Cinnabar Island (85)
+114,East,0,85,West,40
 # Route 49 (87) - Cinnabar Island (85)
 87,South,14,85,North,0
+# Route 20 West (91) - route-20-west-border-north (96)
+91,North,0,96,South,0
+# crimson-border-south (103) - route-20-west-border-north (96)
+103,West,0,96,East,56
 # crimson-border-south (103) - Route 20 West (91)
 103,West,0,91,East,41
 # Route 49 (87) - Route 21 (80)

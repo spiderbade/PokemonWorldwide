@@ -4,9 +4,5 @@ all pbs
 all non-map data
 
 MAPS TO DO
-
-003
-032
-080
-085
-086+
+004
+106+
