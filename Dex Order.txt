@@ -3385,6 +3385,15 @@ REGENERATOR
 Mega Smoxilon
 MOLDBREAKER
 
+2374; 2375; 2376. Singlets-Dubus-Tripsius [PSYCHIC.ELECTRIC]
+SKILLLINK
+ANALYTIC
+COMPETETIVE
+KLUTZ
+
+Mega Tripsius
+SKILLLINK
+
 2383; 2384. Frosowl-Whizzard [ICE.FLYING]
 INSOMNIA
 FOREWARN-KEENEYE
@@ -5357,9 +5366,7 @@ Clover
 2371.	Sabreck
 2372.	Huntabre
 2373.	Pyralink
-2374.	Singlets
-2375.	Dubus
-2376.	Tripsius
+
 2377.	Miasmer
 2378.	Miasmortor
 2379.	Cacademon
