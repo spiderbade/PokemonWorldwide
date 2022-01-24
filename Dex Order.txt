@@ -3223,6 +3223,15 @@ TRANSISTOR-ETHEREALSHROUD
 Mega ThretrainerpokeP [GLITCH]
 DESTABILIZE
 
+1235. Xu-xu [GLITCH.NORMAL]
+ANGERPOINT
+CURSEDBODY
+ANGERPOINTANDCURSEDBODY
+DASTURDLY
+
+Mega Xu-xu
+ANGERPOINTANDCURSEDBODY
+
 1529; 1530; 1531. Chapebaya-Denpecha-Denfrota [GRASS]
 OVERGROW
 FRUITRITION-STEELWORKER
@@ -4250,7 +4259,6 @@ Glitch
 1232.	óË {é Áî
 1233.	-----
 1234.	C ゥ ZAR {Charizard ‘M, u}
-1235.	Xゥ- xゥ, Mega Xu-xu (Mega) - Anger Point & Cursed Body
 1236.	PokéWTrainer
 1237.	.g
 Fools Gold
