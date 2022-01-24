@@ -1189,6 +1189,15 @@ FILTER
 Mega Togekiss [FLYING]
 SERENEGRACE
 
+177; 178. Natu-Xatu [PSYCHIC.FLYING]
+SYNCHRONIZE
+EARLYBIRD
+MAGICBOUNCE
+MIRACLESIGHT
+
+Mega Xatu
+MAGICBOUNCE
+
 179; 180; 181. Mareep-Flaaffy-Ampharos [ELECTRIC]
 STATIC
 PLUS
@@ -3530,8 +3539,6 @@ CACTUAREFFECTS
 141. Kabutops, Mega Kabutops 
 172. Pichu, Spiky-Eared
 174. Igglybuff
-177. Natu
-178. Xatu
 185. Sudowoodo, Mega Sudowoodo 
 187. Hoppip
 188. Skiploom
