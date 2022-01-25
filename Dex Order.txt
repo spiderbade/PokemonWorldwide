@@ -2748,14 +2748,17 @@ DOWNLOAD
 Gigant Aegislash
 FILTER
 
-682; 683. Spritzee-Aromatisse [FAIRY]
+682; 683; 2200. Spritzee-Aromatisse:Miasmedic [FAIRY]
 HEALER
-CUTECHARM-STENCH
+CUTECHARM-STENCH:POISONTOUCH
 AROMAVEIL
-REGENERATOR
+REGENERATOR-REGENERATOR:TRIAGE
 
-Mega Aromatisse [FAIRY.POISON]
-POISONTOUCH
+Mega Aromatisse [FAIRY.STEEL]
+INFILTRATOR
+
+Mega Miasmedic 
+OVERCOAT
 
 692; 693. Clauncher-Clawitzer [WATER]
 MEGALAUNCHER
@@ -5210,7 +5213,6 @@ Uranium
 2197.	Daikatuna
 2198.	Selkid
 2199.	Syrentide
-2200.	Miasmedic
 2201.	Jackdeary
 2202.	Winotinger
 2203.	Duplicat
