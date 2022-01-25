@@ -2561,6 +2561,13 @@ Abilities = MOXIE
 HiddenAbility = MOXIE
 BaseStats = 80,190,80,110,95,85
 #-------------------------------
+[WEAVILE,1]
+FormName = Mega Weavile
+MegaStone = MEGASTONE
+BaseStats = 70,175,75,140,55,95
+ Abilities = ADAPTABILITY
+ HiddenAbility = ADAPTABILITY
+#-------------------------------
 [MAGCARGO,1]
 FormName = Mega Magcargo
 MegaStone = MEGASTONE
