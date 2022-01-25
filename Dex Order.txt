@@ -699,6 +699,15 @@ DISCONCERT
 Mega Hitmongong [FIGHTING.ROCK]
 ROCKHEAD
 
+108; 463. Lickitung-Lickilicky [NORMAL]
+OWNTEMPO
+OBLIVIOUS
+HAMMERTIME
+CLOUDNINE
+
+Mega Lickilicky
+SLIMEEXCRETION
+
 109; 110; 920. Koffing-Weezing:Choaking [POISON-POISON:POISON.FAIRY]
 LEVITATE
 NEUTRALIZINGGAS
@@ -3537,7 +3546,6 @@ CACTUAREFFECTS
 83. Farfetch’d
 84. Doduo
 85. Dodrio
-108. Lickitung
 113. Chansey
 124. Jynx, Mega Jynx , Eye-eye , Delta Jynx (Natural)
 128. Tauros, Mega Tauros 
@@ -3681,7 +3689,6 @@ CACTUAREFFECTS
 453. Croagunk
 454. Toxicroak
 458. Mantyke, Pattern Variants (9)
-463. Lickilicky
 469. Yanmega, Mega Yanmega , Yanmega BREAK 
 472. Gliscor, Mega Gliscor  - Poison Heal
 473. Mamoswine adaptability
