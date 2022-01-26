@@ -3549,7 +3549,6 @@ CACTUAREFFECTS
 113. Chansey
 124. Jynx, Mega Jynx , Eye-eye , Delta Jynx (Natural)
 128. Tauros, Mega Tauros 
-137. Porygon
 138. Omanyte
 139. Omastar, Mega Omastar , Omastar BREAK 
 140. Kabuto
@@ -3580,7 +3579,6 @@ CACTUAREFFECTS
 229. Houndoom, Mega, Infested
 231. Phanpy
 232. Donphan, Mega Donphan  - Ground/Fighting, Scrappy
-233. Porygon2
 238. Smoochum, Nychum 
 241. Miltank, Mega Miltank 
 242. Blissey, Mega Blissey  - Donor passive wish/healing wish on switch ¼ 
@@ -3692,7 +3690,6 @@ CACTUAREFFECTS
 469. Yanmega, Mega Yanmega , Yanmega BREAK 
 472. Gliscor, Mega Gliscor  - Poison Heal
 473. Mamoswine adaptability
-474. Porygon-Z
 476. Probopass
 477. Dusknoir, Mega Dusknoir  - Unflinching
 480. Uxie
@@ -4162,7 +4159,6 @@ Beta https://www.pokecommunity.com/showthread.php?t=416410
 1089.	Genjo
 1090.	Wolfman
 1091.	Warwolf
-1092.	Betagon
 1093.	Nameeru
 1094.	Regalotter
 1095.	Plana
@@ -4293,7 +4289,7 @@ Glitch
 1234.	C ゥ ZAR {Charizard ‘M, u}
 1236.	PokéWTrainer
 1237.	.g
-Fools Gold
+Fools Gold [china]
 1238.	Bulbasaur, Boilbasaur (Infested)
 1239.	Ivysaur, Shrivlsaur (Infested)
 1240.	Venusaur, Mega Venusaur (Mega), Vivosaur (Infested), Gigant Venusaur (Gigant)
