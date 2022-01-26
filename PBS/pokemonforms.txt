@@ -1355,6 +1355,13 @@ Abilities = ROCKHEAD
 HiddenAbility = ROCKHEAD
 Pokedex = Its mindset has narrowed to the point where all it can think of is hitting the target as hard as it can.
 #-------------------------------
+[LICKILICKY,1]
+FormName = Mega Lickilicky
+MegaStone = MEGASTONE
+Abilities = SLIMEEXCRETION
+HiddenAbility = SLIMEEXCRETION
+BaseStats = 110,103,170,50,82,100
+#-------------------------------
 [WEEZING,1]
 FormName = Mega Weezing
 MegaStone = MEGASTONE
@@ -2561,12 +2568,19 @@ Abilities = MOXIE
 HiddenAbility = MOXIE
 BaseStats = 80,190,80,110,95,85
 #-------------------------------
+[SNEASEL,1]
+FormName = Mega Sneasel
+MegaStone = MEGASTONE
+BaseStats = 55,145,55,115,35,135
+Abilities = EVASIONBOOST
+HiddenAbility = EVASIONBOOST
+#-------------------------------
 [WEAVILE,1]
 FormName = Mega Weavile
 MegaStone = MEGASTONE
 BaseStats = 70,175,75,140,55,95
- Abilities = ADAPTABILITY
- HiddenAbility = ADAPTABILITY
+Abilities = ADAPTABILITY
+HiddenAbility = ADAPTABILITY
 #-------------------------------
 [MAGCARGO,1]
 FormName = Mega Magcargo
