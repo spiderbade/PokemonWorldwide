@@ -1,3 +1,5 @@
+https://docs.google.com/spreadsheets/d/1binEECDuns8_bk2iFenyMi4lDuAe6vdUJS0grpjgXxo/edit#gid=0
+
 1; 2; 3. Bulbasaur-Ivysaur-Venusaur [GRASS.POISON]
 OVERGROW
 VENOMOUS
