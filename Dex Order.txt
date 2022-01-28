@@ -3243,15 +3243,12 @@
 	3885. h-electrode
 	3886. ground-type voltorb
 	3887. ground-type electrode
-	3888. typhlosion
 	3889 qwilfish
 	3890 qwilfish evo
 	91kleavor
 	92sneasel
 	93weavile
 	94ursaring
-	95wyrdeer
-	96samurott
 	97lilligant
 	98basculin
 	99basculegion
@@ -3261,7 +3258,6 @@
 	03h-sligoo
 	04h-goodra
 	05h-avalugg
-	06h-decidueye
 	07whore landorus
 	
 	Clover+
