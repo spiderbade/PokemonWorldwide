@@ -231,6 +231,7 @@
 1220,BABBLE,Babble,000,45,FAIRY,Special,100,25,0,Other,0,befk,"The user babbles incessantly to damage the opponent."
 1224,SUGARRUSH,Sugar Rush,000,45,FAIRY,Physical,100,20,0,NearOther,1,abef,"The user, being hyper because of sweets, dashes at the target at high speeds. It is sure to strike first."
 1225,FERALCLUTCH,Feral Clutch,0CF,70,FAIRY,Physical,100,15,0,NearOther,0,abef,"The user crushes the target in a strong hug for four to five turns."
+1242,SPRINGTIDESTORM,Springtide Storm,308,95,FAIRY,Special,80,5,30,NearOther,bef,"The user attacks the target with winds brimming with emotion."
 #-------------------------------
 749,ALLOUTPUMMELING,All-Out Pummeling,164,200,FIGHTING,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 929,KAMEHAMEHA,Kamehameha,297,200,FIGHTING,Special,100,10,0,Other,0,befmv,"A two-turn attack. The user gathers ki, then unleashes it as a powerful beam."
@@ -434,7 +435,7 @@
 858,SPOOPERPOWER,Spooperpower,03B,120,GHOST,Physical,100,5,0,NearOther,0,abef,"The user attacks the target with great power. However, it also lowers the user's Attack and Defense."
 888,SHADOWSTRIKE,Shadow Strike,043,80,GHOST,Physical,95,10,50,NearOther,0,abef,"The user lunges from the shadows. This has a good chance of lowering the target's Defense."
 902,HATRED,Hatred,215,0,GHOST,Status,100,5,0,NearOther,0,bce,"The user unleashes its hatred on the move last used by the target by cutting 8 PP from it."
-932,SCAREDSTIFF,Scared Stiff,00C,90,GHOST,Special,100,10,10,NearOther,0,bef,"The target is struck with sudden chill of fear. It may also freeze the target solid."
+932,SCAREDSTIFF,Scared Stiff,00C,90,GHOST,Special,100,10,30,NearOther,0,bef,"The target is struck with sudden chill of fear. It may also freeze the target solid."
 1022,ASTRALBARRAGE,Astral Barrage,000,120,GHOST,Special,100,5,0,AllFoes,0,bef,"The user attacks by sending a frightful amount of small ghosts at opposing Pokémon."
 1073,SHADOWBALLBASH,Shadowball Bash,010,80,GHOST,Special,100,15,50,NearOther,0,befn,"The user manifests an orb of darkness and backhands it at the target. This may make the target flinch."
 1147,ABYSSALLURE,Abyssal Lure,150,70,GHOST,Physical,100,10,0,NearOther,0,abef,"When the user knocks out a target with this move, the user's Attack stat rises drastically."
@@ -448,6 +449,7 @@
 989,ORBITALCYCLE,Orbital Cycle,111,120,NUCLEAR,Special,100,5,0,NearOther,0,,"Two turns after this move is used, the user blasts the target with a concentrated bundle of light."
 990,INVIGORATINGNIGHT,Invigorating Night,07C,70,FAIRY,Physical,100,10,0,NearOther,0,abef,"This attack inflicts double damage on a paralyzed foe. It also cures the target's paralysis, however."
 1230,BLUENOTE,Blue Note,003,0,GHOST,Status,100,10,0,AllNearFoes,0,bcek,"The user plays a relaxing yet ominous melody that puts the foes to sleep."
+1243,BITTERMALICE,Bitter Malice,309,60,GHOST,Special,100,15,25,NearOther,0,bef,"This relentless attack does massive damage to a target affected by status problems. It may cause a cold burn."
 #-------------------------------
 759,BLOOMDOOM,Bloom Doom,164,200,GRASS,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 253,FRENZYPLANT,Frenzy Plant,0C2,150,GRASS,Special,90,5,0,NearOther,0,bef,"The user slams the target with an enormous tree. The user can't move on the next turn."
@@ -542,6 +544,7 @@
 852,SCORCHEARTH,Scorch Earth,246,20,GROUND,Special,100,15,30,AllBattlers,0,be,"The ground erupts into flame, burning everyone present."
 853,SPAM,Spam,0D2,120,GROUND,Physical,100,10,0,RandomNearFoe,0,abef,"The user spreads idiocy for two to three turns. It then becomes confused, however."
 1208,ARENITEWALL,Arenite Wall,300,0,GROUND,Status,0,20,0,UserSide,0,d,"A wall of sand is put up to suppress damage from Super Effective attacks for five turns."
+1240,HEADLONGRUSH,Headlong Rush,03C,100,GROUND,Physical,100,5,0,NearOther,0,abef,"The user smashes into the target in a full-body tackle. This also lowers the user’s defensive stats."
 #-------------------------------
 762,SUBZEROSLAMMER,Subzero Slammer,164,200,ICE,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 319,FREEZESHOCK,Freeze Shock,0C5,140,ICE,Physical,90,5,30,NearOther,0,bef,"On the second turn, the user hits the foe with electrically charged ice. It may also paralyze the foe."
@@ -829,6 +832,8 @@
 1182,TOXIFUME,Toxifume,295,80,POISON,Special,100,10,100,Other,0,bef,"The user gathers toxic power and boosts its Sp. Atk stat, then attacks the target on the next turn. This will badly poison the target."
 1183,VIRUGAIT,Virugait,01F,75,POISON,Physical,100,10,100,NearOther,0,abef,"A venomous charge that raises the user's Speed."
 1236,SLUDGE,Sludge,005,65,POISON,Special,100,20,30,NearOther,0,bef,"Unsanitary sludge is hurled at the target. It may also poison the target."
+1238,BARBBARRAGE,Barb Barrage,07B,60,POISON,Physical,100,15,10,NearOther,0,befp,"Toxic barbs that hurt the poisoned extra badly are launched at the target."
+1239,DIRECLAW,Dire Claw,239,60,POISON,Physical,100,15,20,NearOther,0,abefhp,"Lashes out with ruinous claws. Can cause three different statuses."
 #-------------------------------
 761,SHATTEREDPSYCHE,Shattered Psyche,164,200,PSYCHIC,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 964,GRAVITYWELL,Gravity Well,11F,0,PSYCHIC,Status,0,5,0,BothSides,-7,e,"The user creates a bizarre area in which slower Pokémon get to move first for five turns."
@@ -946,7 +951,7 @@
 1173,RUBBLERUSH,Rubble Rush,0FD,120,ROCK,Physical,90,10,0,NearOther,0,abef,"A rancorous rushdown that also hurts the user."
 1179,STONESURGE,Stone Surge,000,85,ROCK,Physical,95,10,0,AllNearOthers,0,abefh,"Large boulders are hurled. High critical-hit ratio."
 1209,PLATECRUNCH,Plate Crunch,000,90,ROCK,Physical,100,12,0,NearOther,0,abefi,"The user crushes the target in its jaws."
-1213,STONEAXE,Stone Axe,000,90,ROCK,Physical,100,12,0,NearOther,0,abefp,"LEGENDS ARCEUS"
+1213,STONEAXE,Stone Axe,307,65,ROCK,Physical,90,15,100,NearOther,0,abefp,"The user swings a stone axe, which leaves behind painful stone splinters if it hits."
 977,MOONROCK,Moon Rock,000,95,ROCK,Physical,100,10,0,NearOther,0,bekf,"The target is pelted by moon rocks in a musical pattern."
 992,MOONDUST,Moondust,000,45,PSYCHIC,Special,100,20,30,NearOther,0,efl,"The user fires a burst of thin dust, able to slip through tight protection."
 #-------------------------------
@@ -1025,6 +1030,7 @@
 664,OCTAZOOKA,Octazooka,047,65,WATER,Special,85,10,50,NearOther,0,befn,"The user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy."
 665,WATERPULSE,Water Pulse,013,60,WATER,Special,100,20,20,Other,0,befm,"The user attacks the target with a pulsing blast of water. It may also confuse the target."
 666,AQUAJET,Aqua Jet,000,40,WATER,Physical,100,20,0,NearOther,1,abef,"The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+1241,WAVECRASH,Wave Crash,306,75,WATER,Physical,100,10,100,NearOther,0,abef,"The user shrouds itself in water and crashes into the target, raising its speed and damaging both Pokémon."
 667,BUBBLE,Bubble,044,40,WATER,Special,100,30,10,AllNearFoes,0,bef,"A spray of countless bubbles is jetted at the opposing team. It may also lower the targets' Speed stats."
 668,WATERGUN,Water Gun,000,40,WATER,Special,100,25,0,NearOther,0,bef,"The target is blasted with a forceful shot of water."
 669,CLAMP,Clamp,0CF,35,WATER,Physical,85,15,0,NearOther,0,abefpu,"The target is clamped and squeezed by the user's very thick and sturdy shell for four to five turns."
@@ -1048,6 +1054,7 @@
 933,DELUGE,Deluge,03F,130,WATER,Special,90,5,0,NearOther,0,bef,"The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat."
 1165,KNUCKLEFINS,Knucklefins,292,90,WATER,Physical,90,15,100,NearOther,0,abefj,"Attacks with a flurry of swashbuckling punches. Inflicts Torment."
 1185,WEEPYWAIL,Weepy Wail,045,80,WATER,Special,100,10,100,NearOther,0,befk,"The user wails, making the target's Sp. Atk stat decrease."
+1244,CHILLSLUSH,Chill Slush,00D,80,WATER,Special,100,15,30,NearOther,0,bef,"The user shoots freezing cold water at its target. It may also leave the target with a freeze."
 #-------------------------------
 766,WITHERINGHALFLIFE,Withering Half-Life,164,200,NUCLEAR,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 784,DETONATION,Detonation,0E0,250,NUCLEAR,Special,100,5,0,AllNearOthers,0,befn,"The user explodes to inflict damage on those around it. The user faints upon using this move."

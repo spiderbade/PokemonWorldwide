@@ -3982,19 +3982,13 @@ Pokedex = Mega Audino has a radar-like ability to sense its surroundings. It can
 #-------------------------------
 [BASCULIN,1]
 FormName = Blue-Striped
-Abilities = RECKLESS,ROCKHEAD
-HiddenAbility = ADAPTABILITY,MOLDBREAKER
-WildItemUncommon = DEEPSEASCALE
+Abilities = ROCKHEAD,SNAPPY
+HiddenAbility = MOLDBREAKER,ADAPTABILITY
 #-------------------------------
 [BASCULIN,2]
-FormName = Mega Basculin
-Abilities = SNAPPY
-HiddenAbility = SNAPPY
-UnmegaForm = 0
-Type1 = WATER
-Type2 = ROCK
-BaseStats = 70,192,75,64,74,75
-Pokedex = Basculin has developed a thick skull at the end of its elongated body. It whips through the water at sonic speeds.
+FormName = White-Striped
+Abilities = RATTLED,SNAPPY
+HiddenAbility = MOLDBREAKER,ADAPTABILITY
 #-------------------------------
 [DARMANITAN,1]
 FormName = Zen Mode

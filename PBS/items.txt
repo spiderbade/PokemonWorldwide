@@ -588,7 +588,7 @@
 654,SERIOUSMINT,Serious Mint,Serious Mints,2,9800,A tasty mint that can change the nature of a Pokemon.,1,0,0,	
 #-------------------------------
 655,KEYCARD,Key Card,Key Cards,8,0,"A card that opens doors within Silph Co. You probably shouldn't have this?",0,0,0,
-656,DRACOFOSSIL,Plate Fossil,Helix Fossils,1,1000,"A fossil from a prehistoric Pokemon that lived on the land. It appears to be part of a spine.",0,0,8,	
+656,DRACOFOSSIL,Scute Fossil,Helix Fossils,1,1000,"A fossil from a prehistoric Pokemon that lived on the land. It appears to be part of a spine.",0,0,8,	
 657,ARCTOFOSSIL,Snout Fossil,Helix Fossils,1,1000,"A fossil of an ancient Pokemon that lived in the sea. It appears to be part of a long snout.",0,0,8,	
 658,VISHFOSSIL,Maw Fossil,Helix Fossils,1,1000,"A fossil of an ancient Pokemon that lived in the sea. It appears to be part of a strong jaw.",0,0,8,	
 659,ZOLTFOSSIL,Wing Fossil,Helix Fossils,1,1000,"A fossil of an ancient Pokemon that flew in the sky in ancient times. It appears to be part of a pair of wings.",0,0,8,
