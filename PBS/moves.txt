@@ -100,6 +100,7 @@
 994,ALBEDO,Albedo,047,0,DARK,Status,0,15,0,NearOther,2,bce,"The user envelops the target's mind in darkness. This effect almost always goes first."
 986,BLUTZCRASH,Blutz Crash,0FA,110,FIGHTING,Physical,100,15,0,NearOther,0,abef,"The user shrouds itself in lunar energy and smashes into its foe. It also damages the user a little."
 987,WANINGSTRENGTH,Waning Strength,263,0,POISON,Status,0,15,0,NearOther,0,be,"The user locks the target in and prevents it from fleeing. This move also lowers the target's attacking stats every turn."
+1259,CEASELESSEDGE,Ceaseless Edge,307,65,DARK,Physical,90,15,100,NearOther,0,abefhp,"The user swings its shell blade, which leaves behind painful splinters if it hits."
 #-------------------------------
 763,DEVASTATINGDRAKE,Devastating Drake,164,200,DRAGON,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 65,ROAROFTIME,Roar of Time,0C2,150,DRAGON,Special,90,5,0,NearOther,0,befv,"The user blasts the target with power that distorts even time. The user must rest on the next turn."
@@ -186,6 +187,7 @@
 1169,OVERCHARGE,Overcharge,293,160,ELECTRIC,Physical,100,5,100,NearOther,0,befg,"An explosive burst of power that paralyzes the user."
 1181,THUNDERCLAP,Thunderclap,000,80,ELECTRIC,Physical,100,5,0,Other,1,abefk,"A lightning-fueled tackle that always hits first."
 1232,THUNDERHAMMER,Thunder Hammer,0C2,150,ELECTRIC,Physical,90,5,0,NearOther,0,abefq,"The user slams the foe with a great strike of lightning, but must rest on the next turn."
+1245,WILDBOLTSTORM,Wildbolt Storm,007,95,ELECTRIC,Special,80,5,30,NearOther,0,bef,"The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave the target with paralysis."
 #-------------------------------
 765,TWINKLETACKLE,Twinkle Tackle,164,200,FAIRY,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 110,LIGHTOFRUIN,Light of Ruin,0FC,140,FAIRY,Special,90,5,0,NearOther,0,befv,"Fires a powerful beam of light. It also damages the user a lot."
@@ -231,7 +233,7 @@
 1220,BABBLE,Babble,000,45,FAIRY,Special,100,25,0,Other,0,befk,"The user babbles incessantly to damage the opponent."
 1224,SUGARRUSH,Sugar Rush,000,45,FAIRY,Physical,100,20,0,NearOther,1,abef,"The user, being hyper because of sweets, dashes at the target at high speeds. It is sure to strike first."
 1225,FERALCLUTCH,Feral Clutch,0CF,70,FAIRY,Physical,100,15,0,NearOther,0,abef,"The user crushes the target in a strong hug for four to five turns."
-1242,SPRINGTIDESTORM,Springtide Storm,308,95,FAIRY,Special,80,5,30,NearOther,bef,"The user attacks the target with winds brimming with emotion."
+1242,SPRINGTIDESTORM,Springtide Storm,308,95,FAIRY,Special,80,5,30,NearOther,0,bef,"The user attacks the target with winds brimming with emotion."
 #-------------------------------
 749,ALLOUTPUMMELING,All-Out Pummeling,164,200,FIGHTING,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 929,KAMEHAMEHA,Kamehameha,297,200,FIGHTING,Special,100,10,0,Other,0,befmv,"A two-turn attack. The user gathers ki, then unleashes it as a powerful beam."
@@ -289,12 +291,14 @@
 819,PUNCHOUT,Punch-Out,0EE,70,FIGHTING,Physical,100,10,0,NearOther,0,abefj,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
 836,FOCUSMUNCH,Focus Munch,240,0,FIGHTING,Status,0,10,0,User,-3,,"Heals and raises accuracy, but only if the user can focus."
 837,FORYOU,For You,043,100,FIGHTING,Physical,90,15,100,NearOther,0,abef,"An extremely painful attack that also lowers the target's defense."
-842,HULKUP,Hulk Up,242,0,FIGHTING,Status,0,5,0,User,0,d,"Raises Attack and Defense stats, by two stages if HP is below half."
+842,HULKUP,Hulk Up,242,0,FIGHTING,Status,0,5,0,User,0,de,"Raises Attack and Defense stats, by two stages if HP is below half."
 851,RIOTSHIELD,Riot Shield,01A,80,FIGHTING,Physical,100,10,100,NearOther,0,abef,"The user bashes into the target. They use this opportunity to set up a safeguard."
-868,WEIRDFLEX,Weird Flex,249,0,FIGHTING,Status,0,15,0,User,4,d,"The user displays a weird flex, resulting in multiple effects."
-1148,AUDACITY,Audacity,288,0,FIGHTING,Status,0,5,0,User,0,dg,"The user massively boosts its stats, but will faint soon."
+868,WEIRDFLEX,Weird Flex,249,0,FIGHTING,Status,0,15,0,User,4,de,"The user displays a weird flex, resulting in multiple effects."
+1148,AUDACITY,Audacity,288,0,FIGHTING,Status,0,5,0,User,0,deg,"The user massively boosts its stats, but will faint soon."
 1171,PUMMEL,Pummel,01C,90,FIGHTING,Physical,100,10,30,NearOther,0,abefj,"A flurry of punches that may raise user's Attack."
 1206,COMBINATIONATTACK,Combination Attack,091,30,FIGHTING,Physical,100,10,0,NearOther,0,abef,"The target is pummeled with martial arts. Its power increases if it hits in succession."
+1248,VICTORYDANCE,Victory Dance,310,0,FIGHTING,Status,0,10,100,User,0,deo,"The user performs a dance to usher in victory. This raises the user's stats and increases the damage dealt by the user's moves by 50 percent."
+1249,TRIPLEARROWS,Triple Arrows,311,50,FIGHTING,Physical,100,15,100,NearOther,0,befp,"The user riddles the target with arrows, lowering their defenses."
 #-------------------------------
 757,INFERNOOVERDRIVE,Inferno Overdrive,164,200,FIRE,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 172,VCREATE,V-create,03D,180,FIRE,Physical,95,5,0,NearOther,0,abef,"With a fiery forehead, the user hurls itself at the foe. It lowers the user's Defense, Sp. Def, and Speed."
@@ -367,6 +371,7 @@
 971,SOLARWAVE,Solar Wave,00A,75,ELECTRIC,Special,90,10,30,AllNearFoes,0,bef,"The user attacks by exhaling hot plasma on the opposing team. It may also leave targets with a burn."
 972,SOLARSPORT,Solar Sport,258,0,FIRE,Status,0,15,0,BothSides,0,,"The user calls down the fury of the sun. It weakens Water-type attacks while the user is in battle."
 1226,FIREKUNAI,Fire Kunai,0A0,50,FIRE,Physical,95,10,0,NearOther,1,abefghp,"The user quickly throws a precise knife of fire. This attack always crits."
+1252,RAGINGFURY,Raging Fury,0D2,90,FIRE,Physical,85,10,100,NearOther,0,abef,"The user rampages and spews vicious flames, but is then confused."
 #-------------------------------
 750,SUPERSONICSKYSTRIKE,Supersonic Skystrike,164,200,FLYING,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 206,SKYATTACK,Sky Attack,0C7,140,FLYING,Physical,90,5,30,Other,0,beh,"A second-turn attack move where critical hits land more easily. It may also make the target flinch."
@@ -403,6 +408,7 @@
 999,STORMFRONT,Storm Front,267,80,FLYING,Special,95,10,15,AllFoes,0,bef,"The user attacks with a burst of stormy energy. It may summon rain."
 1154,CLOUDBURST,Cloudburst,03F,140,FLYING,Special,90,5,0,Other,0,bef,"The user obliterates the target with a burst of air pressure."
 970,HELIUM,Helium,11A,0,FLYING,Status,0,15,0,NearOther,0,bce,"The user makes the target float with light gasses. The target is easier to hit for three turns."
+1247,BLEAKWINDSTORM,Bleakwind Storm,00C,95,FLYING,Special,80,5,30,NearOther,0,bcef,"The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also leave the target with frostbite."
 #-------------------------------
 767,MENACINGMOONRAZEMAELSTROM,Menacing Moonraze Maelstrom,164,200,GHOST,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 755,NEVERENDINGNIGHTMARE,Never-Ending Nightmare,164,200,GHOST,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
@@ -445,11 +451,13 @@
 916,LUNARWINGS,Lunar Wings,000,95,GHOST,Physical,100,15,0,NearOther,0,abefhp,"The user slashes the target with their wings. Critical hits land more easily."
 973,LUNARBLAST,Lunar Blast,045,105,FAIRY,Special,100,10,50,NearOther,0,bef,"The user attack with the power of the moon. This has a good chance to the target's Sp. Atk stat.
 974,LUNARMARIA,Lunar Maria,259,0,PSYCHIC,Status,100,15,0,User,0,ed,"The user cools down and hardens. This raises one of their defense stats sharply."
+1257,LUNARBLESSING,Lunar Blessing,316,0,PSYCHIC,Status,0,5,0,User,0,d,"The user heals its own status conditions and restores its HP. Incoming moves also become more likely to miss."
 975,ECLIPSEBLAST,Eclipse Blast,183,85,GHOST,Special,100,15,0,NearOther,0,bef,"The user fires an obscured blast of energy that cannot be redirected."
 989,ORBITALCYCLE,Orbital Cycle,111,120,NUCLEAR,Special,100,5,0,NearOther,0,,"Two turns after this move is used, the user blasts the target with a concentrated bundle of light."
 990,INVIGORATINGNIGHT,Invigorating Night,07C,70,FAIRY,Physical,100,10,0,NearOther,0,abef,"This attack inflicts double damage on a paralyzed foe. It also cures the target's paralysis, however."
 1230,BLUENOTE,Blue Note,003,0,GHOST,Status,100,10,0,AllNearFoes,0,bcek,"The user plays a relaxing yet ominous melody that puts the foes to sleep."
-1243,BITTERMALICE,Bitter Malice,309,60,GHOST,Special,100,15,25,NearOther,0,bef,"This relentless attack does massive damage to a target affected by status problems. It may cause a cold burn."
+1243,BITTERMALICE,Bitter Malice,309,60,GHOST,Special,100,15,30,NearOther,0,bef,"This relentless attack does massive damage to a target affected by status problems. It may cause a cold burn."
+1261,INFERNALPARADE,Infernal Parade,319,60,GHOST,Special,100,15,30,NearOther,0,bef,"The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition."
 #-------------------------------
 759,BLOOMDOOM,Bloom Doom,164,200,GRASS,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 253,FRENZYPLANT,Frenzy Plant,0C2,150,GRASS,Special,90,5,0,NearOther,0,bef,"The user slams the target with an enormous tree. The user can't move on the next turn."
@@ -511,6 +519,7 @@
 1201,RIPEN,Ripen,294,0,GRASS,Status,0,20,0,User,0,d,"The user ripens, raising Defense and sharply raising Sp. Attack."
 1207,SLASHANDBURN,Slash and Burn,00A,90,GRASS,Physical,90,10,10,NearOther,0,befp,"The target is hit with a heated branch. It may also leave the target with a burn."
 1216,PAPERCUT,Papercut,091,40,GRASS,Physical,90,20,0,NearOther,0,abefp,"The user attacks with razor-sharp paper edges. Its power increases if it hits in succession."
+1258,CHLOROBLAST,Chloroblast,317,120,GRASS,Special,95,5,100,Other,0,bef,"The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user and lowers the user's speed."
 #-------------------------------
 752,TECTONICRAGE,Tectonic Rage,164,200,GROUND,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 294,PRECIPICEBLADES,Precipice Blades,000,120,GROUND,Physical,85,10,0,AllNearFoes,0,bef,"The user attacks its foes by manifesting the power of the land in fearsome blades of stone."
@@ -545,6 +554,7 @@
 853,SPAM,Spam,0D2,120,GROUND,Physical,100,10,0,RandomNearFoe,0,abef,"The user spreads idiocy for two to three turns. It then becomes confused, however."
 1208,ARENITEWALL,Arenite Wall,300,0,GROUND,Status,0,20,0,UserSide,0,d,"A wall of sand is put up to suppress damage from Super Effective attacks for five turns."
 1240,HEADLONGRUSH,Headlong Rush,03C,100,GROUND,Physical,100,5,0,NearOther,0,abef,"The user smashes into the target in a full-body tackle. This also lowers the user’s defensive stats."
+1246,SANDSEARSTORM,Sandsear Storm,00A,95,GROUND,Special,80,5,30,NearOther,0,bef,"The user attacks by wrapping the target in fierce winds and searingly hot sand. This also leaves the target with a burn."
 #-------------------------------
 762,SUBZEROSLAMMER,Subzero Slammer,164,200,ICE,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 319,FREEZESHOCK,Freeze Shock,0C5,140,ICE,Physical,90,5,30,NearOther,0,bef,"On the second turn, the user hits the foe with electrically charged ice. It may also paralyze the foe."
@@ -585,6 +595,7 @@
 1161,FROSTBITE,Frostbite,00C,80,ICE,Physical,100,15,10,NearOther,0,abegi,"The user bites with icy fangs. It may also leave it frozen."
 1180,TAIGA,Taiga,000,100,ICE,Physical,80,5,0,NearOther,0,abefhp,"Tears the foe with a flurry of claws. High critical-hit ratio."
 1235,COLDSTAR,Coldstar,0DD,80,ICE,Special,100,10,0,NearOther,0,bef,"The user quickly drains the target of their kinetic energy, recovering half the damage dealt as HP."
+1256,MOUNTAINGALE,Mountain Gale,00F,100,ICE,Physical,85,5,30,NearOther,0,bef,"The user hurls giant chunks of ice at the target to inflict damage. This may cause the target to flinch."
 #-------------------------------
 748,BREAKNECKBLITZ,Breakneck Blitz,164,200,NORMAL,Special,0,1,0,Other,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 342,EXPLOSION,Explosion,0E0,250,NORMAL,Physical,100,5,0,AllNearOthers,0,bef,"The user explodes to inflict damage on those around it. The user faints upon using this move."
@@ -889,6 +900,7 @@
 590,POWERSPLIT,Power Split,058,0,PSYCHIC,Status,0,10,0,NearOther,0,b,"The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target."
 591,POWERSWAP,Power Swap,052,0,PSYCHIC,Status,0,10,0,NearOther,0,be,"The user employs its psychic power to switch changes to its Attack and Sp. Atk with the target."
 592,POWERTRICK,Power Trick,057,0,PSYCHIC,Status,0,10,0,User,0,d,"The user employs its psychic power to switch its Attack with its Defense stat."
+1254,POWERSHIFT,Power Shift,314,0,NORMAL,Status,0,10,0,User,0,d,"The user employs its psychic power to switch its Sp. Attack with its Sp. Defense stat."
 593,PSYCHICTERRAIN,Psychic Terrain,173,0,PSYCHIC,Status,0,10,0,BothSides,0,,"Protects grounded Pokémon from priority moves and powers up Psychic-type moves for five turns."
 594,PSYCHOSHIFT,Psycho Shift,01B,0,PSYCHIC,Status,100,10,0,NearOther,0,be,"Using its psychic power of suggestion, the user transfers its status problems to the target."
 595,REFLECT,Reflect,0A2,0,PSYCHIC,Status,0,20,0,UserSide,0,d,"A wondrous wall of light is put up to suppress damage from physical attacks for five turns."
@@ -919,6 +931,10 @@
 1170,PSYLIGHT,Psylight,013,95,PSYCHIC,Special,100,10,10,AllNearFoes,0,befv,"Bursts forth immense rays of light that can confuse."
 1172,REPLICATE,Replicate,05D,0,PSYCHIC,Status,0,1,0,NearOther,0,,"It enables the user to permanently learn the move last used by the foe. Once used, Replicate disappears."
 991,RAYPULSE,Ray Pulse,0C0,25,NORMAL,Special,85,10,0,NearOther,0,befmv,"The user attacks by pulsing with mysterious patterns. It hits the Pokémon two to five times in a row."
+1250,TAKEHEART,Take Heart,312,0,PSYCHIC,Status,0,10,100,User,0,d,"The user lifts its spirits, healing its own status conditions and raising its offensive and defensive stats."
+1253,PSYSHIELDBASH,Psyshield Bash,02A,70,PSYCHIC,Physical,90,10,30,NearOther,0,abef,"Cloaking itself in psychic energy, the user slams into the target. This may also raise the user's defensive stats."
+1255,MYSTICALPOWER,Mystical Power,315,70,PSYCHIC,Special,90,10,100,NearOther,0,abef,"The user strengthens itself with a mysterious power, raising its higher Special stat."
+1260,ESPERWING,Esper Wing,01F,75,PSYCHIC,Special,90,10,100,NearOther,0,abefhp,"The user slashes the target with aura-enriched wings. This also raises the user's speed."
 #-------------------------------
 753,CONTINENTALCRUSH,Continental Crush,164,200,ROCK,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 605,HEADSMASH,Head Smash,0FC,150,ROCK,Physical,80,5,0,NearOther,0,abef,"The user attacks the foe with a hazardous, full-power headbutt. The user also takes terrible damage."
@@ -951,7 +967,7 @@
 1173,RUBBLERUSH,Rubble Rush,0FD,120,ROCK,Physical,90,10,0,NearOther,0,abef,"A rancorous rushdown that also hurts the user."
 1179,STONESURGE,Stone Surge,000,85,ROCK,Physical,95,10,0,AllNearOthers,0,abefh,"Large boulders are hurled. High critical-hit ratio."
 1209,PLATECRUNCH,Plate Crunch,000,90,ROCK,Physical,100,12,0,NearOther,0,abefi,"The user crushes the target in its jaws."
-1213,STONEAXE,Stone Axe,307,65,ROCK,Physical,90,15,100,NearOther,0,abefp,"The user swings a stone axe, which leaves behind painful stone splinters if it hits."
+1213,STONEAXE,Stone Axe,307,65,ROCK,Physical,90,15,100,NearOther,0,abefhp,"The user swings a stone axe, which leaves behind painful stone splinters if it hits."
 977,MOONROCK,Moon Rock,000,95,ROCK,Physical,100,10,0,NearOther,0,bekf,"The target is pelted by moon rocks in a musical pattern."
 992,MOONDUST,Moondust,000,45,PSYCHIC,Special,100,20,30,NearOther,0,efl,"The user fires a burst of thin dust, able to slip through tight protection."
 #-------------------------------
@@ -986,7 +1002,7 @@
 644,METALSOUND,Metal Sound,04F,0,STEEL,Status,85,40,0,NearOther,0,bcek,"A horrible sound like scraping metal harshly reduces the target's Sp. Def stat."
 645,SHIFTGEAR,Shift Gear,036,0,STEEL,Status,0,10,0,User,0,d,"The user rotates its gears, raising its Attack and sharply raising its Speed."
 1223,REVUP,Rev-Up,01F,60,STEEL,Physical,100,20,100,NearOther,0,befk,"The user revvs up their engines and overwhelms the target. The user's speed increases."
-689,STEELBEAM,Steel Beam,170,140,STEEL,Special,95,5,100,NearOther,0,befv,"The user fires a beam of steel that it collected from its entire body. This also damages the user."
+689,STEELBEAM,Steel Beam,318,140,STEEL,Special,95,5,100,NearOther,0,befv,"The user fires a beam of steel that it collected from its entire body. This also damages the user."
 707,BEHEMOTHBASH,Behemoth Bash,296,100,STEEL,Physical,100,5,0,NearOther,0,abef,"The user becomes a gigantic shield and slams into the target."
 708,BEHEMOTHBLADE,Behemoth Blade,254,100,STEEL,Physical,100,5,0,NearOther,0,abefp,"The user becomes a gigantic sword and cuts the target."
 720,STEELROLLER,Steel Roller,198,130,STEEL,Physical,100,5,0,NearOther,0,abef,"The user attacks while destroying the terrain. This move fails when the ground hasn't turned into a terrain."
@@ -1005,6 +1021,7 @@
 1151,CARBONIZE,Carbonize,006,90,STEEL,Special,100,10,10,Other,0,befhl,"Flashes a burst of toxic metal. May badly poison."
 981,ORBITALBOMBARDMENT,Orbital Bombardment,11B,100,STEEL,Physical,85,15,0,AllFoes,0,befn,"The enemies are walloped by a barrage of projectiles dropped from orbit."
 1233,ASTRALLANCE,Astral Lance,0A0,80,STEEL,Physical,0,10,0,Other,0,befhp,"The user hurls a spear of pure cosmic energy at the target, dealing critical damage."
+1251,SHELTER,Shelter,313,0,STEEL,Status,0,10,100,User,0,d,"The user's skin shines and hardens, raising defense and evasion."
 #-------------------------------
 758,HYDROVORTEX,Hydro Vortex,164,200,WATER,Special,0,1,0,AllFoes,0,b,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 646,HYDROCANNON,Hydro Cannon,0C2,150,WATER,Special,90,5,0,NearOther,0,bef,"The target is hit with a watery blast. The user must rest on the next turn, however."

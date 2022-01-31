@@ -327,6 +327,7 @@
 ,WATERABSORB,Water Absorb,"Water moves don't hit and restore HP."
 ,VOLTABSORB,Volt Absorb,"Electric moves don't hit and restore HP."
 ,FIREABSORB,Fire Absorb,"Fire moves don't hit and restore HP."
+,STEELABSORB,Steel Absorb,"Steel moves don't hit and restore HP."
 ,EXTREMEOMNIVORE,Extreme Omnivore,"Poison moves don't hit and restore HP."
 ,PHONOSYNTHESIS,Phonosynthesis,"Sound moves don't hit and restore HP."
 ,FLASHFIRE,Flash Fire,"Fire moves don't hit and raise fire attacks' power."

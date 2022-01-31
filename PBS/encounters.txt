@@ -210,6 +210,42 @@ SuperRod
     ORTHOSTONE,5,10
     LILEEP,5,10
 #-------------------------------
+111 # Shell Island
+25,10,10
+Land
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    WARTORTLE,16,19
+    WARTORTLE,16,19
+    WARTORTLE,16,19
+    WARTORTLE,16,19
+Water
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+OldRod
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+GoodRod
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+SuperRod
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+    SQUIRTLE,5,15
+
+#-------------------------------
 110 # Seafoam Caverns
 25,5,10
 Cave
@@ -249,41 +285,6 @@ SuperRod
     SPHEAL,9,16
     CLAMPERL,9,16
     SLOWPOKE,9,16
-#-------------------------------
-111 # Shell Island
-25,10,10
-Land
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    WARTORTLE,16,19
-    WARTORTLE,16,19
-    WARTORTLE,16,19
-    WARTORTLE,16,19
-Water
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-OldRod
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-GoodRod
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-SuperRod
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
-    SQUIRTLE,5,15
 #-------------------------------
 114 # Cobalt Coast
 25,10,10
