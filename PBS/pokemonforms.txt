@@ -4261,13 +4261,13 @@ Pokedex = As it flies around, it shoots lightning all over the place and causes 
 #-------------------------------
 [RESHIRAM,1]
 FormName = Overdrive
-BaseStats = 100,180,100,100,180,120
+BaseStats = 100,180,100,120,180,120
 Abilities = MULTISTRIKE
 HiddenAbility = MULTISTRIKE
 #-------------------------------
 [ZEKROM,1]
 FormName = Overdrive
-BaseStats = 100,180,120,100,180,100
+BaseStats = 100,180,120,120,180,100
 Abilities = MULTISTRIKE
 HiddenAbility = MULTISTRIKE
 #-------------------------------
