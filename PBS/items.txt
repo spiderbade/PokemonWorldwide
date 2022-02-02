@@ -665,34 +665,35 @@
 700,HM21,HM21,HM21s,4,0,"The user vanishes somewhere, then strikes the target on the next turn. It can also be used to warp to any familiar town.",4,0,0,PHANTOMFORCE
 1057,HM22,HM22,HM22s,4,0,"A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness.",4,0,0,DEFOG
 #-------------------------------
-701,POISONIUM,Poisonium,Poisoniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,ACIDDOWNPOUR
-702,FIGHTINIUM,Fightinium,Fightiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,ALLOUTPUMMELING
-703,DARKINIUM,Darkinium,Darkiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,BLACKHOLEECLIPSE
-704,GRASSIUM,Grassium,Grassiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,BLOOMDOOM
-705,NORMALIUM,Normalium,Normaliums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,BREAKNECKBLITZ
-706,ROCKIUM,Rockium,Rockiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,CONTINENTALCRUSH
-707,STEELIUM,Steelium,Steeliums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,CORKSCREWCRASH
-708,DRAGONIUM,Dragonium,Dragoniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,DEVASTATINGDRAKE
-709,ELECTRIUM,Electrium,Electriums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,GIGAVOLTHAVOC
-710,WATERIUM,Waterium,Wateriums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,HYDROVORTEX
-711,FIRIUM,Firium,Firiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,INFERNOOVERDRIVE
-712,LUNARIUM,Lunarium,Lunariums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,MENACINGMOONRAZEMAELSTROM
-713,GHOSTIUM,Ghostium,Ghostiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,NEVERENDINGNIGHTMARE
-714,NINIUM,Ninium,Niniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,ONETWOTHREEBEATUP
-715,GLITCHIUM,Glitchium,Glitchiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,RUNTIMEERROROCCURRED
-716,SHADOWNIUM,Shadownium,Shadowniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,OMINOUSCORRUPTION
-717,BUGINIUM,Buginium,Buginiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,SAVAGESPINOUT
-718,SOLARIUM,Solarium,Solariums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,SEARINGSUNRAZESMASH
-719,PSYCHIUM,Psychium,Psychiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,SHATTEREDPSYCHE
-720,ICIUM,Icium,Iciums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,SUBZEROSLAMMER
-721,FLYINIUM,Flynium,Flyniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,SUPERSONICSKYSTRIKE
-722,FORBINIUM,Forbinium,Forbiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,TABOOSTEAMROLL
-723,GROUNDIUM,Groundium,Groundiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,TECTONICRAGE
-1106,UNIUM,Unium,Uniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,QUESTION
-724,BIRDINIUM,Birdinium,Birdiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,TRICKYBIRDBOMB
-725,FAIRIUM,Fairium,Fairiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,TWINKLETACKLE
-726,NUCLINIUM,Nuclinium,Nucliniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",4,0,0,WITHERINGHALFLIFE
-667,ULTRANECROZIUM,Ultranecrozium,Ultranecroziums,8,0,"This is a crystallized form of Z-Power. It was refined from a Sparkling Stone.",5,0,12,LIGHTTHATBURNSTHESKY
+701,POISONIUM,Poisonium,Poisoniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+702,FIGHTINIUM,Fightinium,Fightiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+703,DARKINIUM,Darkinium,Darkiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+704,GRASSIUM,Grassium,Grassiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+705,NORMALIUM,Normalium,Normaliums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+706,ROCKIUM,Rockium,Rockiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+707,STEELIUM,Steelium,Steeliums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+708,DRAGONIUM,Dragonium,Dragoniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+709,ELECTRIUM,Electrium,Electriums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+710,WATERIUM,Waterium,Wateriums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+711,FIRIUM,Firium,Firiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+712,LUNARIUM,Lunarium,Lunariums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+713,GHOSTIUM,Ghostium,Ghostiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+714,NINIUM,Ninium,Niniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+715,GLITCHIUM,Glitchium,Glitchiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+716,SHADOWNIUM,Shadownium,Shadowniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+717,BUGINIUM,Buginium,Buginiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+718,SOLARIUM,Solarium,Solariums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+719,PSYCHIUM,Psychium,Psychiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+720,ICIUM,Icium,Iciums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+721,FLYNIUM,Flynium,Flyniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+722,FORBINIUM,Forbinium,Forbiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+723,GROUNDIUM,Groundium,Groundiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+1106,UNIUM,Unium,Uniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+724,BIRDINIUM,Birdinium,Birdiniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+725,FAIRIUM,Fairium,Fairiums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+726,NUCLINIUM,Nuclinium,Nucliniums,8,0,"The user attacks at the zenith of the power, fueled by its friendship with its trainer!",5,0,13,
+667,ULTRANECROZIUM,Ultranecrozium,Ultranecroziums,8,0,"This is a crystallized form of Z-Power. It was refined from a Sparkling Stone.",5,0,13,
+#-------------------------------
 727,SMASHBALL,Smash Ball,Smash Balls,8,0,"It unlocks fully-charged attack that blows the target away.",4,0,0,TRIPLEFINISH
 728,OBLIVIONSHARD,Oblivion Shard,Oblivion Shards,8,0,"A shard of endless infinity. It can teach a deadly attack.",4,0,12,OBLITERATE
 729,DRAGONBALL,Dragon Ball,Dragon Balls,8,0,"A mystical orb which contains the secrets of an ultimate technique.",4,0,0,KAMEHAMEHA

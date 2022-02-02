@@ -244,7 +244,6 @@ SuperRod
     SQUIRTLE,5,15
     SQUIRTLE,5,15
     SQUIRTLE,5,15
-
 #-------------------------------
 110 # Seafoam Caverns
 25,5,10
