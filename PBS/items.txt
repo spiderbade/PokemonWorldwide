@@ -512,6 +512,7 @@
 585,BBALL,B-Ball,B-Balls,3,1000,"A somewhat different Poké Ball that works especially well on Dark and Rock types.",0,4,4
 586,RUDEBALL,Rude Ball,Rude Balls,3,1000,"A somewhat different Poké Ball that inflicts paralysis on Pokémon that escape it.",0,4,4
 587,BARBEDBALL,Barbed Ball,Barbed Balls,3,1000,"A somewhat different Poké Ball that deals some damage to Pokémon that escape it.",0,4,4
+1108,ROCK,Rock,Rocks,7,10,"You got a rock.",0,4,4,
 588,CUTEBOW,Cute Bow,Cute Bows,1,1000,"An item to be held by a Pokémon. It is a fluffy bow that boosts the power of Fairy-type moves.",0,0,0,
 589,SHINYELIXIR,Shiny Elixir,Shiny Elixirs,2,9999,"An item to be drank by a Pokémon. It is said to change their color.",1,0,0
 590,AZUREFLUTE,Azure Flute,Azure Flutes,8,0,"A flute that produces out echoing sounds that do not seem to be of this world. No one knows who made it.",0,0,6
