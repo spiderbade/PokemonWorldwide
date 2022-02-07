@@ -566,6 +566,7 @@ ShowArea = true
 # Seafoam Caverns
 SnapEdges = true
 Weather = Blizzard,100
+MapPosition = 8,11,18
 Bicycle = true
 Outdoor = false
 Environment = Ice
@@ -598,3 +599,23 @@ DarkMap = true
 Outdoor = false
 Environment = Cave
 ShowArea = true
+#-------------------------------
+[120]
+# Cobalt Coast
+SnapEdges = false
+Weather = HeavyRain,100
+Bicycle = true
+MapPosition = 8,3,18
+DarkMap = true
+Outdoor = false
+Environment = ForestGrass
+ShowArea = true
+#-------------------------------
+[121]
+# Seafoam Caverns
+SnapEdges = true
+Bicycle = true
+Outdoor = false
+Environment = Ice
+ShowArea = true
+MapPosition = 8,11,18

@@ -245,77 +245,16 @@ SuperRod
     SQUIRTLE,5,15
     SQUIRTLE,5,15
 #-------------------------------
-110 # Seafoam Caverns
-25,5,10
-Cave
-    ZUBAT,9,16
-    DELIBIRD,9,16
-    SNOWSHREW,9,16
-    ARPIX,9,16
-    SNEASEL,9,16
-    CRYOGONAL,9,16
-    SYCLAR,9,16
-    MOUSICLE,9,16
-    FROSOWL,9,16
-    BERGMITE,9,16
-    HOWLITHE,9,16
-    VOLUROD,9,16
-RockSmash
-    BLOBBOS,10,16
-    BERGMITE,10,16
-    SWINUB,9,16
-    CARBINK,10,16
-    WIMPOD,10,16
-Water
-    PIPLUP,9,16
-    DRIBLIZARD,9,16
-    BERGMITE,9,16
-    LAPRAS,9,16
-OldRod
-    SHELLDER,9,16
-    SEEL,9,16
-GoodRod
-    SHELLDER,9,16
-    SEEL,9,16
-    CLAMPERL,9,16
-SuperRod
-    SHELLDER,9,16
-    SEEL,9,16
-    SPHEAL,9,16
-    CLAMPERL,9,16
-    SLOWPOKE,9,16
-#-------------------------------
 114 # Cobalt Coast
 25,10,10
-Land
-    EXEGGCUTE,10,15
-    NATU,10,15
-    GROWLITHE,10,15
-    SHELLDER,10,15
-    SHUCKLE,10,15
-    LICKITUNG,10,15
-    TANGELA,10,15
-    EKANSEA,10,15
-    GIRAFARIG,10,15
-    MARILL,10,15
-    TOGEPI,10,15
-    BURROWORM,10,15
-Water
-    MARILL,10,15
-    MAGIKARP,10,15
-    TENTACOOL,10,15
-    PSYDUCK,10,15
-    QWILFISH,10,15
-OldRod
-    MAGIKARP,10,15
-    KRABBY,10,15
-GoodRod
-    KRABBY,10,15
-    SHELLDER,10,15
-    CHINCHOU,10,15
-SuperRod
-    CORSOLA,10,15
-    KABUTO,10,15
-    SLOWPOKE,10,15
-    CHINCHOU,10,15
-    GRUNKFISH,10,15
+#-------------------------------
+119 # Cobalt Cave
+#-------------------------------
+120 # Cobalt Coast
+25,10,10
+#-------------------------------
+121 # Seafoam Caverns
+25,10,10
+#-------------------------------
+110 # Seafoam Caverns
+25,10,10

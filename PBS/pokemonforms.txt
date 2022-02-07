@@ -50,7 +50,6 @@ Pokedex = Vivosaur constantly oozes acidic sap. It hates the presence of anythin
 [VENUSAUR,3]
 FormName = Gigant Venusaur
 MegaStone = WISHINGSTAR
-BaseStats = 80,122,120,80,100,123
 Abilities = GRASSYSURGE
 HiddenAbility = GRASSYSURGE
 MegaMessage = 1
@@ -110,7 +109,6 @@ Pokedex = Decomposition in its body has filled it with gas. It is able to float 
 [CHARIZARD,3]
 FormName = Gigant Charizard
 MegaStone = WISHINGSTAR
-BaseStats = 78,130,85,100,130,111
 Abilities = DROUGHT
 HiddenAbility = DROUGHT
 MegaMessage = 1
@@ -166,7 +164,6 @@ Pokedex = Its brutal battle style often leaves opponents dead in its wake. Some 
 [BLASTOISE,3]
 FormName = Gigant Blastoise
 MegaStone = WISHINGSTAR
-BaseStats = 79,135,115,78,103,120
 Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
 MegaMessage = 1
@@ -210,7 +207,6 @@ Pokedex = Its gossamer wings glow with sharp light. Mega Butterfree is able to i
 [BUTTERFREE,2]
 FormName = Gigant Butterfree
 MegaStone = WISHINGSTAR
-BaseStats=60,95,105,65,45,115
 Abilities = DELTASTREAM
 HiddenAbility = DELTASTREAM
 MegaMessage = 1
@@ -367,7 +363,6 @@ Pokedex = The electricity it shoots shines a blinding white. It can punch throug
 [PIKACHU,3]
 FormName = Gigant Pikachu
 MegaStone = WISHINGSTAR
-BaseStats = 35,121,40,134,50,40
 Abilities = ELECTRICSURGE
 HiddenAbility = ELECTRICSURGE
 MegaMessage = 1
@@ -406,7 +401,6 @@ Pokedex = Once thought to have been its own species, this Mega Evolution can fry
 [RAICHU,3]
 FormName = Gigant Raichu
 MegaStone = WISHINGSTAR
-BaseStats = 60,110,110,80,95,130
 Abilities = ELECTRICSURGE
 HiddenAbility = ELECTRICSURGE
 MegaMessage = 1
@@ -592,7 +586,6 @@ Type2 = NINE
 [MEOWTH,1]
 FormName = Gigant Meowth
 MegaStone = WISHINGSTAR
-BaseStats = 40,95,85,90,40,40
 Abilities = VICTORYSTAR
 HiddenAbility = VICTORYSTAR
 MegaMessage = 1
@@ -609,7 +602,6 @@ Pokedex = Mega Persian's coat is a so luxurious that opponents that touch it fal
 [PERSIAN,2]
 FormName = Gigant Persian
 MegaStone = WISHINGSTAR
-BaseStats = 65,95,65,115,110,90
 Abilities = VICTORYSTAR
 HiddenAbility = VICTORYSTAR
 MegaMessage = 1
@@ -776,7 +768,6 @@ FormName = Gigant Alakazam
 MegaStone = WISHINGSTAR
 Abilities = PSYCHICSURGE
 HiddenAbility = PSYCHICSURGE
-BaseStats = 55,175,105,150,50,65
 MegaMessage = 1
 Pokedex = Gigantamax energy has expanded its brain to a hundred times its former size. It is said to have seen the end of the universe in its own daydreams.
 #-------------------------------
@@ -823,7 +814,6 @@ BaseStats = 90,158,27,108,93,29
 [MACHAMP,3]
 FormName = Gigant Machamp
 MegaStone = WISHINGSTAR
-BaseStats = 90,65,85,85,200,80
 Abilities = MOLDBREAKER
 HiddenAbility = MOLDBREAKER
 MegaMessage = 1
@@ -853,7 +843,6 @@ HiddenAbility = UNIONIZED
 FormName = Gigant Tentacruel
 MegaStone = WISHINGSTAR
 MegaMessage = 1
-BaseStats = 80,100,130,90,80,135
 Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
 #-------------------------------
@@ -1100,7 +1089,6 @@ FormName = Gigant Gengar
 MegaStone = WISHINGSTAR
 Abilities = SHADOWSYNERGY
 HiddenAbility = SHADOWSYNERGY
-BaseStats = 60,170,95,130,65,80
 MegaMessage = 1
 Pokedex = Rumor has it that its gigantic mouth leads not into its body, filled with cursed energy, but instead directly to the afterlife.
 #-------------------------------
@@ -1168,7 +1156,6 @@ FormName = Gigant Kingler
 MegaStone = WISHINGSTAR
 Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
-BaseStats = 55,80,75,40,180,135
 MegaMessage = 1
 Pokedex = The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.
 #-------------------------------
@@ -1785,7 +1772,6 @@ Pokedex = Its shell is said to be impenetrable to all but the hottest flames. Un
 [LAPRAS,2]
 FormName = Gigant Lapras
 MegaStone = WISHINGSTAR
-BaseStats = 130,70,95,75,125,140
 Abilities = SNOWWARNING
 HiddenAbility = SNOWWARNING
 MegaMessage = 1
@@ -1798,6 +1784,20 @@ BaseStats = 148,48,48,48,48,48
 Abilities = IMPOSTOR
 HiddenAbility = IMPOSTOR
 Pokedex = Its cells divide at incredible rates, quickly repairing damage. Its skill at surviving is legendary. 
+#-------------------------------
+[DITTO,2]
+FormName = Waterlogged
+Type1 = WATER
+Abilities = UNIONIZED,PROTEAN
+HiddenAbility = IMPOSTOR,FLUIDFORM
+Evolutions = DETTO,None,,MEW,None,,
+#-------------------------------
+[DETTO,1]
+FormName = Mega Detto
+MegaStone = MEGASTONE
+BaseStats = 250,100,105,45,95,105
+Abilities = IMPOSTOR
+HiddenAbility = IMPOSTOR
 #-------------------------------
 [EEVEE,1]
 FormName = Mega Eevee
@@ -1817,7 +1817,6 @@ HiddenAbility = ADAPTABILITY,STEELYSPIRIT
 [EEVEE,3]
 FormName = Gigant Eevee
 MegaStone = WISHINGSTAR
-BaseStats = 55,85,100,55,45,135
 Abilities = FLUFFY
 HiddenAbility = FLUFFY
 MegaMessage = 1
@@ -1922,6 +1921,69 @@ Abilities = PIXILATE
 HiddenAbility = PIXILATE
 Pokedex = Its feelers have strengthened into brutal whips. Mega Sylveon's whip attacks leave nasty lacerations.
 #-------------------------------
+[PORYGON,1]
+FormName = Mega Porygon
+MegaStone = MEGASTONE
+Abilities = EVASIONBOOST
+BaseStats = 65,80,90,60,105,95
+HiddenAbility = EVASIONBOOST
+#-------------------------------
+[PORYGON2,1]
+FormName = Mega Porygon2
+MegaStone = MEGASTONE
+Type1 = NORMAL
+Type2 = ELECTRIC
+Abilities = MAGICBOUNCE
+BaseStats = 85,85,102,105,105,133
+HiddenAbility = MAGICBOUNCE
+#-------------------------------
+[PORYGONZ,1]
+Type1 = FIGHTING
+#-------------------------------
+[PORYGONZ,2]
+Type1 = FLYING
+#-------------------------------
+[PORYGONZ,3]
+Type1 = ELECTRIC
+#-------------------------------
+[PORYGONZ,4]
+Type1 = BUG
+#-------------------------------
+[PORYGONZ,5]
+Type1 = GLITCH
+#-------------------------------
+[PORYGONZ,6]
+Type1 = STEEL
+#-------------------------------
+[PORYGONZ,7]
+Type1 = GHOST
+#-------------------------------
+[PORYGONZ,8]
+Type1 = QMARKS
+#-------------------------------
+[PORYGONZ,9]
+Type1 = NINE
+#-------------------------------
+[PORYGONZ,10]
+Type1 = FORBIDDEN
+#-------------------------------
+[PORYGONZ,11]
+FormName = Mega Porygon-Z
+MegaStone = MEGASTONE
+Type1 = GLITCH
+Type2 = NORMAL
+Abilities = MOODY
+BaseStats = 85,100,90,110,155,95
+HiddenAbility = MOODY
+UnmegaForm = 0
+#-------------------------------
+[PORYGONB,1]
+FormName = Mega Porygon-β
+MegaStone = MEGASTONE
+BaseStats = 88,155,92,90,100,110
+Abilities = LIBERO
+HiddenAbility = LIBERO
+#-------------------------------
 [AERODACTYL,1]
 FormName = Mega Aerodactyl
 MegaStone = MEGASTONE
@@ -1965,7 +2027,6 @@ Pokedex = Nothing is safe from its ravenous appetite. Not even its closest frien
 FormName = Gigant Snorlax
 MegaStone = WISHINGSTAR
 UnmegaForm = 0
-BaseStats = 160,70,135,10,130,135
 Abilities = ADAPTABILITY
 HiddenAbility = ADAPTABILITY
 Height = 2.6
@@ -2055,7 +2116,6 @@ FormName = Gigant Dragonite
 MegaStone = WISHINGSTAR
 Type1 = DRAGON
 Type2 = WATER
-BaseStats = 91,114,160,91,122,122
 Abilities = DELTASTREAM
 HiddenAbility = DELTASTREAM
 MegaMessage = 1
@@ -2122,11 +2182,17 @@ Pokedex = Mega Feraligatr's quadrupedal stance gives much more musculature to ch
 [TYPHLOSION,1]
 FormName = Mega Typhlosion
 MegaStone = MEGASTONE
-Type1 = FIRE
 BaseStats = 78,150,103,116,84,103
 Abilities = IGNITION
 HiddenAbility = IGNITION
 Pokedex = Mega Typhlosion is built to dash through tight spaces and crowds. Its flames keep enemies at bay. 
+#-------------------------------
+[BAKPHOON,1]
+FormName = Mega Bakphoon
+MegaStone = MEGASTONE
+Abilities = DISCOURAGE
+HiddenAbility = DISCOURAGE
+BaseStats = 73,87,85,105,149,135
 #-------------------------------
 [FURRET,1]
 FormName = Mega Furret
@@ -2597,15 +2663,12 @@ BaseStats = 90,67,145,26,67,145
 Abilities = DRYSKIN
 HiddenAbility = DRYSKIN
 #-------------------------------
-[STANTLER,1]
-FormName = Mega Stantler
+[WYRDEER,1]
+FormName = Mega Wyrdeer
 MegaStone = MEGASTONE
-Type1 = NORMAL
-Type2 = PSYCHIC
-BaseStats = 73,105,64,150,85,88
+BaseStats = 103,105,92,125,105,95
 Abilities = NOGUARD
 HiddenAbility = NOGUARD
-Pokedex = It is able to hypnotize its enemies without fail. Mega Stantler sees itself as the alpha of its herd, and will trample over challengers.
 #-------------------------------
 [SMEARGLE,1]
 FormName = Mega Smeargle
@@ -2688,7 +2751,6 @@ Pokedex = Mega Sceptile can launch the end of its tail like a missile. The energ
 FormName = Gigant Sceptile
 MegaStone = WISHINGSTAR
 Type1 = GRASS
-BaseStats = 70,145,85,110,145,75
 Abilities = LIGHTNINGROD
 HiddenAbility = LIGHTNINGROD
 MegaMessage = 1
@@ -2899,7 +2961,6 @@ BaseStats = 70,130,60,170,80,20
 [AGGRON,3]
 FormName = Gigant Aggron
 MegaStone = WISHINGSTAR
-BaseStats = 70,60,80,50,140,230
 Abilities = STEELYSPIRIT
 HiddenAbility = STEELYSPIRIT
 Height = 2.2
@@ -3048,7 +3109,6 @@ HiddenAbility = UNAWARE
 FormName = Gigant Whiscash
 MegaStone = WISHINGSTAR
 MegaMessage = 1
-BaseStats = 110,116,83,60,128,81
 Abilities = HEAVYMETAL
 HiddenAbility = HEAVYMETAL
 #-------------------------------
@@ -3222,7 +3282,7 @@ HiddenAbility = GALVANIZE,MAGNETPULL
 [METAGROSS,2]
 FormName = Mega Metagross
 MegaStone = MEGASTONE
-BaseStats = 95,145,130,120,120,90
+BaseStats = 80,145,150,110,105,110
 Abilities = TOUGHCLAWS
 HiddenAbility = TOUGHCLAWS
 Height = 2.5
@@ -3389,7 +3449,6 @@ Pokedex = Mega Torterra has grown to massive size. Its speed is miniscule, so it
 FormName = Gigant Torterra
 MegaStone = WISHINGSTAR
 MegaMessage = 1
-BaseStats = 95,115,142,16,115,142
 Abilities = GREENTHUMB
 HiddenAbility = GREENTHUMB
 Height = 600
@@ -3967,6 +4026,13 @@ Abilities = SUPERLUCK
 HiddenAbility = SUPERLUCK
 Pokedex = Mega Samurott has trained its whole life in the art of the blade. It aims to land critical hits with every blow.
 #-------------------------------
+[DAIKENKI,1]
+FormName = Mega Daikenki
+MegaStone = MEGASTONE
+BaseStats = 90,208,80,85,100,65
+Abilities = MULTISTRIKE
+HiddenAbility = MULTISTRIKE
+#-------------------------------
 [AUDINO,1]
 FormName = Mega Audino
 MegaStone = MEGASTONE
@@ -4029,7 +4095,6 @@ Pokedex = Mega Garbodor is covered in sharp outcroppings of metallic trash. They
 [GARBODOR,2]
 FormName = Gigant Garbodor
 MegaStone = WISHINGSTAR
-BaseStats = 80,65,120,65,104,140
 Abilities = POLLUTION
 HiddenAbility = POLLUTION
 MegaMessage = 1
@@ -4189,7 +4254,6 @@ Pokedex = Mega Golurk's skin has hardened into stainless steel. Shining energy c
 [GOLURK,2]
 FormName = Gigant Golurk
 MegaMessage = 1
-BaseStats = 89,94,170,55,80,95
 Abilities = SANDSTREAM
 HiddenAbility = SANDSTREAM
 Pokedex = It doesn't look much different at first, but when it gets going, teal inscriptions start to glow.
@@ -4673,7 +4737,6 @@ Pokedex = Mega Aegislash's mind is working faster than ever during combat. It ca
 FormName = Gigant Aegislash
 MegaStone = WISHINGSTAR
 UnmegaForm = 0
-BaseStats = 60,125,125,60,125,125
 Abilities = FILTER
 HiddenAbility = FILTER
 MegaMessage = 1
@@ -4907,6 +4970,13 @@ Abilities = SHADOWTAG
 HiddenAbility = SHADOWTAG
 Pokedex = Its very presence pins its targets to the ground. Mega Decidueye has the uncanny ability to block you at every turn.
 #-------------------------------
+[JUNAIPER,1]
+FormName = Mega Junaiper
+MegaStone = MEGASTONE
+BaseStats = 88,182,100,60,95,105
+Abilities = SUPERLUCK
+HiddenAbility = SUPERLUCK
+#-------------------------------
 [INCINEROAR,1]
 FormName = Mega Incineroar
 BaseStats = 95,115,125,115,90,100
@@ -5043,7 +5113,6 @@ Pokedex = Electricity surges around it in a disconcerting pattern. Those who get
 [MELMETAL,2]
 FormName = Gigant Melmetal
 MegaStone = WISHINGSTAR
-BaseStats = 135,150,145,100,80,90
 Abilities = ELECTRICSURGE
 HiddenAbility = ELECTRICSURGE
 MegaMessage = 1
@@ -5060,7 +5129,6 @@ Pokedex = Mega Rillaboom slams its fists into its targets hard enough to cause C
 [RILLABOOM,2]
 FormName = Gigant Rillaboom
 MegaStone = WISHINGSTAR
-BaseStats = 100,100,90,75,130,135
 Abilities = GRASSYSURGE
 HiddenAbility = GRASSYSURGE
 MegaMessage = 1
@@ -5079,7 +5147,6 @@ Type2 = ELECTRIC
 [CINDERACE,2]
 FormName = Gigant Cinderace
 MegaStone = WISHINGSTAR
-BaseStats = 80,116,75,119,165,75
 Abilities = DROUGHT
 HiddenAbility = DROUGHT
 MegaMessage = 1
@@ -5096,7 +5163,6 @@ Pokedex = Mega Inteleon uses its flexible skin to change its appearance througho
 [INTELEON,2]
 FormName = Gigant Inteleon
 MegaStone = WISHINGSTAR
-BaseStats = 70,85,65,120,225,65
 Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
 MegaMessage = 1
@@ -5589,15 +5655,15 @@ FormName = Mega Howlithe
 MegaStone = MEGASTONE
 Abilities = STRONGJAW
 HiddenAbility = STRONGJAW
-BaseStats = 55,70,95,110,70,50
+BaseStats = 60,70,95,105,70,50
 #-------------------------------
 [VULKANINE,1]
 FormName = Mega Vulkanine
 Type1 = FIRE
-Type2 = ELECTRIC
-BaseStats = 90,130,120,95,100,120
-Abilities = LEVITATE
-HiddenAbility = LEVITATE
+Type2 = ROCK
+BaseStats = 95,130,120,90,100,120
+Abilities = VAPORIZATION
+HiddenAbility = VAPORIZATION
 #-------------------------------
 [THRETRAINERPOKEP,1]
 FormName = Mega ThretrainerpokeP
@@ -5606,3 +5672,10 @@ BaseStats = 33,255,255,27,255,50
 Abilities = DESTABILIZE
 HiddenAbility = DESTABILIZE
 Type1 = GLITCH
+#-------------------------------
+[ROGROSS,1]
+BaseStats = 80,145,150,110,105,110
+FormName = Mega Rogross
+MegaStone = MEGASTONE
+Abilities = ROCKHEAD
+HiddenAbility = ROCKHEAD
