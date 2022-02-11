@@ -1,0 +1,425 @@
+	>required
+upgrade to 1.20
+
+COOKING KIT
+	ORANBERRY = Berry Juice
+	STICK + GRASSYSEED = Medicinal Leek
+	MEDICINALLEEK + ORANBERRY = Potion
+	VIVICHOKE + MEDICINALLEEK (2) = Revive
+	SPOILEDAPRICORN = Nasty Aprijuice
+	BLACKSLUDGE = Perilous Soup 
+	BLACKAPRICORN = Power Aprijuice
+	REDAPRICORN = Strike Aprijuice
+	YELLOWAPRICORN = Vital Aprijuice
+	BLUEAPRICORN = Skill Aprijuice
+	GREENAPRICORN = Special Aprijuice
+	PINKAPRICORN = Dash Aprijuice
+	WHITEAPRICORN = Plain Aprijuice
+	VIVICHOKE (5) + HONEY = Rare Candy
+	VIVICHOKE (5) + HEALPOWDER = Bad Candy
+	FRESHWATER + NOMELBERRY = Lemonade
+	LEMONADE + HONEY = Soda Pop
+	POWERAPRIJUICE + SODAPOP = Rare Soda
+	GOLDBERRY + RARESODA = Ultra Rare Soda
+CRAFTING KIT
+	PEATBLOCK = STICK (20)
+	STICK + BLACKSLUDGE = Galarica Twig
+	GALARICATWIG (25) = Galarica Wreath + Galarica Cuff
+	SPOILEDAPRICORN + SOFTSAND = Mulch
+	HOPOBERRY + BUGWORT (3) = Repel
+	IRONCHUNK (10) = Metal Coat
+	IRONCHUNK (5) + THUNDERSTONE = Electirizer
+	IRONCHUNK (5) + FIRESTONE = Magmarizer
+	IRONCHUNK (5) + WOOD = Linking Cord
+	IRONCHUNK (5) + TUMBLESTONE = Protector
+	ROCK (2) = Tumblestone
+	ROCK + IRONCHUNK = Sky Tumblestone
+	ROCK (4) = Black Tumblestone
+	APRICORN = Junk Ball
+	TUMBLESTONE + REDAPRICORN = Poké Ball
+	TUMBLESTONE + BLUEAPRICORN = Great Ball
+	TUMBLESTONE (2) + YELLOW APRICORN = Ultra Ball
+	BLACKTUMBLESTONE + BLACKAPRICORN = Heavy Ball
+	BLACKTUMBLESTONE + BLACKAPRICORN + IRONCHUNK = Leaden Ball
+	TUMBLESTONE + IRONCHUNK + BLACKAPRICORN = Gigaton Ball
+	SPARKLINGSTONE = Z-Crystal
+	WOOD + SACHET = Poké Doll
+	
+eviolite does not work if the evo method is DNA Splicers (mew, plusle, etc)
+mystery gift to manual gift
+new berries (sprites, code IDs and effects)
+new items 1127+ besides tms
+add rock smash encounters to cobalt cave dolmite, route 21 caverns
+jackfrost (define typing, define effects, sprites and cry)
+	bufualo signature move 85 BP Special ice move that applies a three-turn effect 
+	immune to ice, weak to fire and fairy
+	ability 
+		weakens electric damage taken
+		stab ice and electric; +25% to ice
+		doubles evasion against fire
+		resist ice and psychic damage 
+which lowers spdefense by the equivalent of 1 stat stage? 
+fools ditto (sprites and in formulater)
+
+insurgence grimer
+clamperl
+kabuto
+omanyte
+buzlybub
+tyrunt
+basculegion
+insurgence riolu
+unown
+
+lileep
+tyrunt
+buizel
+insurgence hoothoot
+insurgence mismagius
+volurod
+insurgence scyther
+swinub
+mousicle
+insurgence diglett
+smoochum
+fools smoochum
+nutanuk
+dolmite
+dewpider
+skrelp
+grunkfish
+fools goldeen
+insurgence chinchou
+insurgence turtwig
+insurgence snivy
+fools remoraid
+fools drowzee
+barboach
+lotad
+insurgence tentacool
+insurgence froakie
+antpyre
+phantump
+hoatot
+stranglure
+volkritter
+fools tentacool
+cursola
+wandelus
+ekansea
+bellsprout
+venonat
+seviper
+fools magikarp
+burroworm
+fools paras
+
+
+gottamega code
+
+
+seafoam
+ZUBAT
+HOWLITHE
+BERGMITE
+BUIZEL
+DELIBIRD
+INSURGENCE HOOTHOOT
+ARPIX
+PIPLUP
+FROSOWL
+INSURGENCE MISDREAVUS
+VOLUROD
+INSURGENCE SCYTHER
+
+SLOWPOKE
+PSYDUCK
+SEEL
+PIPLUP
+LAPRAS
+
+SHELLDER
+SEEL
+
+SHELLDER
+CLAMPERL
+DRIBLIZARD
+
+CLAMPERL
+SPHEAL
+TENTACOOL
+SEEL
+BASCULIN
+
+REPLACE SOME OF THE LAND GUYS ON 2f WITH 
+SNEASEL
+SNOWSHREW
+SWINUB
+MOUSICLE
+INSURGENCE DIGLETT
+SYCLAR
+CRYOGONAL
+BLOBBOS
+CARBINK
+NUTANUK
+FOOLS SMOOCHUM
+SMOOCHUM
+
+cobaltcave
+rock smash DOLMITE, GEODUDE
+
+cobaltcoast
+EXEGGCUTE
+LICKITUNG
+FOOLS MAGIKARP
+SEVIPER
+ODDISH
+GIRAFARIG
+INSURGENCE SNIVY
+BURROWORM
+FOOLS PARAS
+NATU
+BELLSPROUT
+VENONAT
+
+
+INSURGENCE TURTWIG
+WANDELUS
+TENTACOOL
+EKANSEA
+GNARRK
+
+SKRELP
+CORSOLA
+
+MAREANIE
+CORSOLA
+G. CORSOLA
+
+CHINCHOU
+INSURGENCE CHINCHOU
+STRANGLURE
+VOLKRITTER
+FOOLS TENTACOOL
+
+
+cobaltforest
+TANGELA
+DROWZEE
+SPINARAK
+ANTPYRE
+SADROG
+PHANTUMP
+HOATOT
+CARNIVINE
+SHUCKLE
+INSURGENCE TENTACOOL
+INSURGENCE FROAKIE
+CROAGUNK
+
+LOTAD
+INSURGENCE SNIVY
+FOOLS REMORAID
+FOOLS DROWZEE
+BARBOACH
+
+SKRELP
+CORPHISH
+
+CORPHISH
+QWILFISH
+DEWPIDER
+
+DEWPIDER
+GRUNKFISH
+INSURGENCE CLAMPERL
+LILEEP
+FOOLS GOLDEEN
+
+
+
+
+
+
+>WANT TO DO SOON
+
+oreon	
+	typheon from azurite
+ALL FOSSIL MONS
+	fools gold versions too! clover ones too! insurgence ones too! sage ones too! all of them! quarantine crystal!
+
+titafrota n counterparts
+bogleechian sableye evos
+MURKROW
+MISMAGIUS
+bounsweet
+lunatone-solrock-soluna
+slakoth
+unown
+ayylamo 
+stratagem
+kleavor
+enamorus
+squirrap
+basculegion
+
+jack frost
+blue eyes w dragon
+
+
+
+
+>FOSSILS
+RAREBONE
+SKULLCAP FOSSIL - Skulzala
+EXO FOSSIL - Genesect
+FIN FOSSIL - Enchantrikarp
+THORN FOSSIL - Catacacta
+PAW FOSSIL - Wabawolf
+DOME FOSSIL - Kabuto
+HELIX FOSSIL - Omanyte
+OLD AMBER - Aerodactyl
+FROZEN HIDE - Swinub
+FUZZ FOSIL - Prochu
+DUSTY DIAMOND - Carbink
+ROOT FOSSIL - Lileep
+CLAW FOSSIL - Anorith
+PLATE FOSSIL - Relicanth
+DRILL FOSSIL - Orthostone
+SKULL FOSSIL - Cranidos
+ARMOR FOSSIL - Shieldon
+COVER FOSSIL - Tirtouga
+PLUME FOSSIL - Archen
+JAW FOSSIL - Tyrunt
+SAIL FOSSIL - Amaura
+CLAVICLE FOSSIL - H.Dreepy
+SCUTE FOSSIL - Dracoragon
+MAW FOSSIL - Uochivish
+SNOUT FOSSIL - Optarcto
+WING FOSSIL - Ornithozolt
+RAPTOR CLAW - Poizookie
+TOOTH FOSSIL - Sabreck
+FANG FOSSIL - Typobop
+CONCH FOSSIL - Randomix
+HORN FOSSIL - Tricient
+DARK FOSSIL - Tyranos
+FLAP FOSSIL - Ptervus
+SABER FOSSIL - Grindon
+SHELL FOSSIL - Spiraulix
+VERTEBRAE FOSSIL - Fishix
+MEMBRANE FOSSIL - Beakodoron
+PETAL FOSSIL - Torido
+LEATHER FOSSIL - Enyendrode
+TUSK FOSSIL - Snopach
+HAIR FOSSIL - Slotohm
+GOLD FOSSIL - Jungore
+MANDIBLE FOSSIL - Dinkywink
+HOOF FOSSIL - Calphite
+WEBBED FOSSIL - Hydrale
+CARAPACE FOSSIL - Fools Omanyte
+CRUNCHY FOSSIL - Fools Kabuto
+Kordiena
+Sordraena
+Kitsyna
+Therazor
+Krakentoa
+Wiwright
+Anomully
+Halloallo
+Belloceros
+Mammothra
+Ambionic
+kurian buneary
+kurian magikarp "enchantrikarp"
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>000</title>
+    <link href="https://rbade.neocities.org/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body> 
+
+  
+    <h1>000 Line</h1>
+
+<img src="https://raw.githubusercontent.com/spiderbade/PokemonWorldwide/PokemonWorldwide/Graphics/Battlers/000.png"> 
+<table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Name</th>
+    <th>Typing</th>
+    <th>Ability1</th>
+    <th>Ability2</th>
+    <th>Ability3</th>
+    <th>Ability4</th>
+    <th>HP</th>
+    <th>Attack</th>
+    <th>Defense</th>
+    <th>Speed</th>
+    <th>SpecialAttack</th>
+    <th>SpecialDefense</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+  </tr>
+</tbody></table><table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Environment</th>
+    <th>EggGroup</th>
+    <th>EVs</th>
+    <th>CatchRate</th>
+    <th>WildItems</th>
+    <th>'Kind'</th>
+    <th>BST</th>
+    <th>Origin</th>
+    <th>AvgHeight</th>
+    <th>AvgWeight</th>
+    <th>Forms</th>
+    <th>Evolutions</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000 m</td> 
+    <td>000 kg</td> 
+    <td>000</td> 
+    <td>000</td> 
+  </tr>
+</tbody></table>
+</tbody></table><table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Dex Entry</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+  </tr>
+</tbody></table>
+
+  </body>
+  <br></br>
+  <p>  <a href="https://rbade.neocities.org/pokemon/natdex.html">back</a></p>
+
+</html>

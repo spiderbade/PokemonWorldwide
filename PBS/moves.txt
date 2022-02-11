@@ -561,7 +561,7 @@
 320,ICEBURN,Ice Burn,0C6,140,ICE,Special,90,5,30,NearOther,0,bef,"On the second turn, an ultracold, freezing wind surrounds the foe. This may leave it with a burn."
 321,BLIZZARD,Blizzard,00D,110,ICE,Special,70,5,10,AllNearFoes,0,bef,"A howling blizzard is summoned to strike the opposing team. It may also freeze them solid."
 322,ICEHAMMER,Ice Hammer,03E,100,ICE,Physical,90,10,0,NearOther,0,abefjq,"The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however."
-323,ICEBEAM,Ice Beam,00C,90,ICE,Special,100,10,10,NearOther,0,befv,"The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+323,ICEBEAM,Ice Beam,00C,90,ICE,Special,100,10,100,NearOther,0,befv,"The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
 324,ICICLECRASH,Icicle Crash,00F,85,ICE,Physical,90,10,30,NearOther,0,be,"The user attacks by harshly dropping an icicle onto the foe. It may also make the target flinch."
 325,ICEPUNCH,Ice Punch,00C,75,ICE,Physical,100,15,10,NearOther,0,abefj,"The target is punched with an icy fist. It may also leave the target frozen."
 326,FREEZEDRY,Freeze-Dry,135,70,ICE,Special,100,20,10,NearOther,0,bef,"The user rapidly cools the target. This may freeze the target. Is super-effective on Water types."
@@ -596,6 +596,7 @@
 1180,TAIGA,Taiga,000,100,ICE,Physical,80,5,0,NearOther,0,abefhp,"Tears the foe with a flurry of claws. High critical-hit ratio."
 1235,COLDSTAR,Coldstar,0DD,80,ICE,Special,100,10,0,NearOther,0,bef,"The user quickly drains the target of their kinetic energy, recovering half the damage dealt as HP."
 1256,MOUNTAINGALE,Mountain Gale,00F,100,ICE,Physical,85,5,30,NearOther,0,bef,"The user hurls giant chunks of ice at the target to inflict damage. This may cause the target to flinch."
+1262,BUFULA,Bufula,320,85,ICE,Special,95,10,100,Other,0,bef,"A freezing spell which comprimises the target's special defense."
 #-------------------------------
 748,BREAKNECKBLITZ,Breakneck Blitz,164,75,NORMAL,Special,0,1,0,NearOther,0,,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 342,EXPLOSION,Explosion,0E0,250,NORMAL,Physical,100,5,0,AllNearOthers,0,bef,"The user explodes to inflict damage on those around it. The user faints upon using this move."

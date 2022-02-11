@@ -1,0 +1,140 @@
+-saffron
+POKEMON STADIUM
+https://bulbapedia.bulbagarden.net/wiki/Kanto#Notable_locations
+
+#-------------------------------
+[]
+Name =
+InternalName =
+Type1 =
+Type2 = 
+BaseStats = 
+GenderRate =
+GrowthRate =
+BaseEXP =
+EffortPoints = 
+Rareness = 
+Happiness = 
+Abilities = 
+HiddenAbility =
+Moves = 
+EggMoves = 
+Compatibility = 
+StepsToHatch =
+Height = 
+Weight = 
+Color =
+Shape = 
+Kind = 
+Pokedex = 
+Evolutions = 
+
+EGG GROUPS
+
+nonanimaloid supergroup
+
+Grass [floroid and fungoid]
+Mineral [inorganic]
+Amorphous [unsolid]
+Human-like.Humanlike [humanoid]
+Fairy [fairies and cryptids]
+
+tetrapoid supergroup
+
+Fish.Water2 [fish and amphiboids]
+Monster [non-serpentine/archosauroid reptilloids]
+Dragon [near-avian archosauroids or serpents]
+Flying [avian archosauroids]
+Field [mammaloids]
+Water.Water1 [aquatic tetrapoids]
+
+bug supergroup
+
+Bug [invertebrates, especially arthropods]
+Invertebrate.Water3 [aquatic invertebrates]
+
+cryptoid
+
+Ditto [shapeshifters]
+Legendary [legendary beasts]
+Mythical [legendary critters]
+Inapplicable [baby pokémon; infertile]
+
+
+SHAPEs
+
+Head 1 Voltorb
+Serpentine 2 Arbok
+Finned 3 Goldeen
+HeadArms 4 Geodude
+HeadBase 5 Lileep - Metapod
+BipedalTail 6 Machop - Raichu
+HeadLegs 7 Oddish
+Quadruped 8 Stantler
+Winged 9 Pidgey
+Multiped 10 Omanyte
+MultiBody 11 Exeggcute
+Bipedal 12 Snorlax
+MultiWinged 13 Butterfree
+Insectoid 14 Lotad - Spinarak
+
+
+EVOITEMS
+
+fire stone
+thunder stone
+water stone
+leaf stone
+moon stone
+dusk stone
+sun stone
+dawn stone
+shiny stone
+ice stone
+poison stone
+razor claw
+razor fang
+kings rock
+deep sea tooth
+deep sea scale
+metal coat
+upgrade
+dubious disc
+magmarizer
+electirizer
+protector
+reapercloth
+oval stone
+dragon scale
+prism scale
+peat block
+linking cord
+black augurite
+jungle crown
+cracked pot 
+chipped pot
+sweet apple
+tart apple
+whipped dream
+sachet
+dna splicers
+galarica cuff
+galarica wreath
+
+DEX ENTRIES
+
+canon ones
+https://www.fanfiction.net/s/6161819/1/Pokedex
+bogleech reviews
+
+
+http://web.archive.org/web/20200105193215/https://essentialsdocs.fandom.com/wiki/Wild_encounters
+
+https://www.smogon.com/forums/threads/encaplopedia-the-complete-reference-index-for-create-a-pok%C3%A9mon.48782/
+https://play.pokemonshowdown.com/audio/cries/ .mp3
+
+https://www.dragonflycave.com/fake-pokemon
+https://clover-wiki-replacement.netlify.app/
+https://docs.google.com/spreadsheets/d/1acgzAjh0dnFRQnjZu8kSjS177rKCzpFfEHRLtwuuXRU/edit#gid=0
+
+https://docs.google.com/spreadsheets/d/1binEECDuns8_bk2iFenyMi4lDuAe6vdUJS0grpjgXxo/edit#gid=1940669192

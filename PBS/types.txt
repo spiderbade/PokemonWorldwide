@@ -194,3 +194,10 @@ InternalName = CACTUAR
 IsSpecialType = true
 Weaknesses = NUCLEAR,WATER,ICE
 Resistances = FIRE,FAIRY,POISON
+#-------------------------------
+[28]
+Name = Jack Frost
+InternalName = JACKFROST
+Weaknesses = NUCLEAR,FIRE,FAIRY
+Resistances = FORBIDDEN,SHADOW
+Immunities = ICE

@@ -1,4 +1,4 @@
-﻿#-------------------------------
+#-------------------------------
 [BULBASAUR,1]
 FormName = Boilbasaur
 Type1 = SHADOW
@@ -52,6 +52,7 @@ FormName = Gigant Venusaur
 MegaStone = WISHINGSTAR
 Abilities = GRASSYSURGE
 HiddenAbility = GRASSYSURGE
+BaseStats = 160,82,83,80,100,100
 MegaMessage = 1
 Pokedex = Huge amounts of pollen burst from it with the force of a volcanic eruption. Breathing in too much of the pollen can cause fainting.
 #-------------------------------
@@ -111,8 +112,19 @@ FormName = Gigant Charizard
 MegaStone = WISHINGSTAR
 Abilities = DROUGHT
 HiddenAbility = DROUGHT
+BaseStats = 156,84,78,100,109,85
 MegaMessage = 1
 Pokedex = The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.
+#-------------------------------
+[CHARIZARD,4]
+FormName = Rift Charizard
+MegaStone = OBLIVIONSHARD
+Abilities = BACKWRONG
+HiddenAbility = BACKWRONG
+Type1 = FIRE
+MegaMessage = 2
+Type2 = GLITCH
+BaseStats = 78,184,88,100,189,95
 #-------------------------------
 [SQUIRTLE,1]
 FormName = Oozle
@@ -166,6 +178,7 @@ FormName = Gigant Blastoise
 MegaStone = WISHINGSTAR
 Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
+BaseStats = 158,83,100,78,85,105
 MegaMessage = 1
 Pokedex = It's not very good at precision shooting. When attacking, it fires its 31 cannons over and over and over.
 #-------------------------------
@@ -209,6 +222,7 @@ FormName = Gigant Butterfree
 MegaStone = WISHINGSTAR
 Abilities = DELTASTREAM
 HiddenAbility = DELTASTREAM
+BaseStats = 120,45,50,70,90,80
 MegaMessage = 1
 Pokedex = Once it has opponents trapped in a tornado that could blow away a 10-ton truck, it finishes them off with its poisonous scales.
 #-------------------------------
@@ -365,6 +379,7 @@ FormName = Gigant Pikachu
 MegaStone = WISHINGSTAR
 Abilities = ELECTRICSURGE
 HiddenAbility = ELECTRICSURGE
+BaseStats = 70,55,40,90,50,50
 MegaMessage = 1
 Pokedex = When it smashes its opponents with its bolt-shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 #-------------------------------
@@ -403,6 +418,7 @@ FormName = Gigant Raichu
 MegaStone = WISHINGSTAR
 Abilities = ELECTRICSURGE
 HiddenAbility = ELECTRICSURGE
+BaseStats = 120,90,55,110,90,80
 MegaMessage = 1
 Pokedex = The power flowing through it gives it delusions of grandeur. Gigant Raichu may try to roar, but everyone can still tell it's a squeak.
 #-------------------------------
@@ -588,6 +604,7 @@ FormName = Gigant Meowth
 MegaStone = WISHINGSTAR
 Abilities = VICTORYSTAR
 HiddenAbility = VICTORYSTAR
+BaseStats = 80,45,35,90,40,40
 MegaMessage = 1
 Pokedex = The pattern that has appeared on its giant coin is thought to be the key to unlocking the secrets of the Gigant phenomenon.
 #-------------------------------
@@ -604,6 +621,7 @@ FormName = Gigant Persian
 MegaStone = WISHINGSTAR
 Abilities = VICTORYSTAR
 HiddenAbility = VICTORYSTAR
+BaseStats = 130,70,60,115,65,65
 MegaMessage = 1
 Pokedex = Its body has grown incredibly long and the coin on its forehead has grown incredibly large - all thanks to Gigantamax power.
 #-------------------------------
@@ -768,6 +786,7 @@ FormName = Gigant Alakazam
 MegaStone = WISHINGSTAR
 Abilities = PSYCHICSURGE
 HiddenAbility = PSYCHICSURGE
+BaseStats = 130,50,45,120,135,95
 MegaMessage = 1
 Pokedex = Gigantamax energy has expanded its brain to a hundred times its former size. It is said to have seen the end of the universe in its own daydreams.
 #-------------------------------
@@ -817,6 +836,7 @@ MegaStone = WISHINGSTAR
 Abilities = MOLDBREAKER
 HiddenAbility = MOLDBREAKER
 MegaMessage = 1
+BaseStats = 180,130,80,55,65,85
 Pokedex = The Gigantamax energy coursing through its arms makes its punches hit as hard as bomb blasts.
 #-------------------------------
 [MACHAMP,4]
@@ -845,6 +865,7 @@ MegaStone = WISHINGSTAR
 MegaMessage = 1
 Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
+BaseStats = 160,70,65,100,80,120
 #-------------------------------
 [GEODUDE,1]
 FormName = Geodude δ
@@ -1089,6 +1110,7 @@ FormName = Gigant Gengar
 MegaStone = WISHINGSTAR
 Abilities = SHADOWSYNERGY
 HiddenAbility = SHADOWSYNERGY
+BaseStats = 120,65,60,110,130,75
 MegaMessage = 1
 Pokedex = Rumor has it that its gigantic mouth leads not into its body, filled with cursed energy, but instead directly to the afterlife.
 #-------------------------------
@@ -1155,6 +1177,7 @@ Pokedex = Kingler's eyes appear to have shattered into a hundred smaller ones. I
 FormName = Gigant Kingler
 MegaStone = WISHINGSTAR
 Abilities = DRIZZLE
+BaseStats = 130,130,115,75,50,50
 HiddenAbility = DRIZZLE
 MegaMessage = 1
 Pokedex = The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.
@@ -1774,6 +1797,7 @@ FormName = Gigant Lapras
 MegaStone = WISHINGSTAR
 Abilities = SNOWWARNING
 HiddenAbility = SNOWWARNING
+BaseStats = 255,85,80,60,85,95
 MegaMessage = 1
 Pokedex = It surrounds itself with a huge ring of gathered ice particles. It uses the ring to smash any icebergs that might impede its graceful swimming.
 #-------------------------------
@@ -1790,6 +1814,13 @@ FormName = Waterlogged
 Type1 = WATER
 Abilities = UNIONIZED,PROTEAN
 HiddenAbility = IMPOSTOR,FLUIDFORM
+Evolutions = DETTO,None,,MEW,None,,
+#-------------------------------
+[DITTO,3]
+FormName = Ferric
+Type1 = STEEL
+Abilities = MIRRORARMOR,PROTEAN
+HiddenAbility = IMPOSTOR,STURDY
 Evolutions = DETTO,None,,MEW,None,,
 #-------------------------------
 [DETTO,1]
@@ -1819,6 +1850,7 @@ FormName = Gigant Eevee
 MegaStone = WISHINGSTAR
 Abilities = FLUFFY
 HiddenAbility = FLUFFY
+BaseStats = 110,55,50,55,45,65
 MegaMessage = 1
 Pokedex = Having gotten even friendlier and more innocent, Eevee tries to play with anyone around, only to end up crushing them with its immense body.
 #-------------------------------
@@ -2029,6 +2061,7 @@ MegaStone = WISHINGSTAR
 UnmegaForm = 0
 Abilities = ADAPTABILITY
 HiddenAbility = ADAPTABILITY
+BaseStats = 255,110,65,30,65,110
 Height = 2.6
 Weight = 740
 MegaMessage = 1
@@ -2114,6 +2147,7 @@ HiddenAbility = TOUGHCLAWS
 [DRAGONITE,5]
 FormName = Gigant Dragonite
 MegaStone = WISHINGSTAR
+BaseStats = 182,134,95,80,100,100
 Type1 = DRAGON
 Type2 = WATER
 Abilities = DELTASTREAM
@@ -2753,6 +2787,7 @@ MegaStone = WISHINGSTAR
 Type1 = GRASS
 Abilities = LIGHTNINGROD
 HiddenAbility = LIGHTNINGROD
+BaseStats = 140,85,65,120,105,85
 MegaMessage = 1
 Pokedex = Gigant Sceptile towers over the trees. Lightning strikes it invariably.
 MegaMessage = 1
@@ -2963,6 +2998,7 @@ FormName = Gigant Aggron
 MegaStone = WISHINGSTAR
 Abilities = STEELYSPIRIT
 HiddenAbility = STEELYSPIRIT
+BaseStats = 140,110,180,50,60,60
 Height = 2.2
 MegaMessage = 1
 Weight = 395.0
@@ -3109,6 +3145,7 @@ HiddenAbility = UNAWARE
 FormName = Gigant Whiscash
 MegaStone = WISHINGSTAR
 MegaMessage = 1
+BaseStats = 220,78,73,60,76,71
 Abilities = HEAVYMETAL
 HiddenAbility = HEAVYMETAL
 #-------------------------------
@@ -3451,6 +3488,7 @@ MegaStone = WISHINGSTAR
 MegaMessage = 1
 Abilities = GREENTHUMB
 HiddenAbility = GREENTHUMB
+BaseStats = 190,109,105,56,75,85
 Height = 600
 Weight = 999
 Pokedex = It looks more like a mountain than a Pokémon. When it sleeps, it can hardly be recognized.
@@ -4097,6 +4135,7 @@ FormName = Gigant Garbodor
 MegaStone = WISHINGSTAR
 Abilities = POLLUTION
 HiddenAbility = POLLUTION
+BaseStats = 160,95,82,75,60,82
 MegaMessage = 1
 Pokedex = It sprays toxic gas from its mouth and fingers. If the gas engulfs you, the toxins will seep in all the way down to your bones.
 #-------------------------------
@@ -4255,6 +4294,7 @@ Pokedex = Mega Golurk's skin has hardened into stainless steel. Shining energy c
 FormName = Gigant Golurk
 MegaMessage = 1
 Abilities = SANDSTREAM
+BaseStats = 178,124,80,55,55,80
 HiddenAbility = SANDSTREAM
 Pokedex = It doesn't look much different at first, but when it gets going, teal inscriptions start to glow.
 #-------------------------------
@@ -4737,6 +4777,7 @@ Pokedex = Mega Aegislash's mind is working faster than ever during combat. It ca
 FormName = Gigant Aegislash
 MegaStone = WISHINGSTAR
 UnmegaForm = 0
+BaseStats = 120,50,150,60,50,150
 Abilities = FILTER
 HiddenAbility = FILTER
 MegaMessage = 1
@@ -5115,6 +5156,7 @@ FormName = Gigant Melmetal
 MegaStone = WISHINGSTAR
 Abilities = ELECTRICSURGE
 HiddenAbility = ELECTRICSURGE
+BaseStats = 255,143,143,34,80,65
 MegaMessage = 1
 Pokedex = It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot.
 #-------------------------------
@@ -5131,6 +5173,7 @@ FormName = Gigant Rillaboom
 MegaStone = WISHINGSTAR
 Abilities = GRASSYSURGE
 HiddenAbility = GRASSYSURGE
+BaseStats = 200,125,90,85,60,70
 MegaMessage = 1
 Pokedex = Rillaboom has become one with its forest of drums and lays down beats that shake the world.
 #-------------------------------
@@ -5149,6 +5192,7 @@ FormName = Gigant Cinderace
 MegaStone = WISHINGSTAR
 Abilities = DROUGHT
 HiddenAbility = DROUGHT
+BaseStats = 160,116,75,119,65,75
 MegaMessage = 1
 Pokedex = Wishing star energy can sometimes cause the diameter of this Pokémon's fireball to exceed 300 feet.
 #-------------------------------
@@ -5165,6 +5209,7 @@ FormName = Gigant Inteleon
 MegaStone = WISHINGSTAR
 Abilities = DRIZZLE
 HiddenAbility = DRIZZLE
+BaseStats = 140,85,65,120,125,65
 MegaMessage = 1
 Pokedex = It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
 #-------------------------------

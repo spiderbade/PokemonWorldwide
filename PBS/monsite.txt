@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>000</title>
+    <link href="https://rbade.neocities.org/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body> 
+
+  
+    <h1>000 Line</h1>
+
+<img src="https://raw.githubusercontent.com/spiderbade/PokemonWorldwide/PokemonWorldwide/Graphics/Battlers/000.png"> 
+<table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Name</th>
+    <th>Typing</th>
+    <th>Ability1</th>
+    <th>Ability2</th>
+    <th>Ability3</th>
+    <th>Ability4</th>
+    <th>HP</th>
+    <th>Attack</th>
+    <th>Defense</th>
+    <th>Speed</th>
+    <th>SpecialAttack</th>
+    <th>SpecialDefense</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+  </tr>
+</tbody></table><table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Environment</th>
+    <th>EggGroup</th>
+    <th>EVs</th>
+    <th>CatchRate</th>
+    <th>WildItems</th>
+    <th>'Kind'</th>
+    <th>Basis</th>
+    <th>Origin</th>
+    <th>AvgHeight</th>
+    <th>AvgWeight</th>
+    <th>Forms</th>
+    <th>Evolutions</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000 m</td> 
+    <td>000 kg</td> 
+    <td>000</td> 
+    <td>000</td> 
+  </tr>
+</tbody></table>
+</tbody></table><table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Dex Entry</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+  </tr>
+</tbody></table>
+
+  </body>
+  <br></br>
+  <p>  <a href="https://rbade.neocities.org/pokemon/natdex.html">back</a></p>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/spiderbade/PokemonWorldwide/PokemonWorldwide/Graphics/Battlers/000.png"> 
+<table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Name</th>
+    <th>Typing</th>
+    <th>Ability1</th>
+    <th>Ability2</th>
+    <th>Ability3</th>
+    <th>Ability4</th>
+    <th>HP</th>
+    <th>Attack</th>
+    <th>Defense</th>
+    <th>Speed</th>
+    <th>SpecialAttack</th>
+    <th>SpecialDefense</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+  </tr>
+</tbody></table><table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Environment</th>
+    <th>EggGroup</th>
+    <th>EVs</th>
+    <th>CatchRate</th>
+    <th>WildItems</th>
+    <th>'Kind'</th>
+    <th>Basis</th>
+    <th>Origin</th>
+    <th>AvgHeight</th>
+    <th>AvgWeight</th>
+    <th>Forms</th>
+    <th>Evolutions</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000</td> 
+    <td>000 m</td> 
+    <td>000 kg</td> 
+    <td>000</td> 
+    <td>000</td> 
+  </tr>
+</tbody></table>
+</tbody></table><table style="width:75%" border="1|0">
+  <tbody>
+  <tr>
+    <th>Dex Entry</th>
+  </tr> 
+  <tr>
+    <td>000</td>
+  </tr>
+</tbody></table>

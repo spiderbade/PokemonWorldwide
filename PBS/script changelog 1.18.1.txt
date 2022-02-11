@@ -1,0 +1,67 @@
+SETTINGS
+
+Pokerus chance to 50
+Fishing auto hook to true
+Max money to 9,999,999
+Max player name size to 255
+
+All badges for boosts set to impossibly high
+All badges for field moves set to negative value 
+Split EXP between gainers true
+Enable crit captures true
+Mega rings added ultra bracelet
+
+Added no_pc, no_fly, no_catching, no_z_moves, and z_moving switches
+
+INTERPRETER
+
+
+    $game_switches[Toggle_Following_Switch]=true on line 1041 
+
+PBTYPESEXTRA
+
+commented out shadow being a pseudotype
+
+PBEGGGROUPS
+
+changed Undiscovered to Inapplicable
+	water1 to water
+	water2 to fish
+	water3 to invertebrate
+	added legendary and mythical groups
+
+PBCOLORS
+
+added Orange
+
+PBWEATHER
+
+added fallout and fog weather
+	gave fallout hail animation and fog shadow sky animation
+
+PBBATTLETERRAINS
+
+added glitchy terrain
+	gave glitchy terrain electric terrain animation
+
+PBEFFECTS
+
+added battler effects Gorilla Tactics, Ball Fetch, Lashout, burning jealousy, noretreat, obstruct, jawlock, jawlockuser, tarshot, octolock, octolock user, firestorm, fiveturnattack, solarsport, strengthwane, strengthwaneuser, counterattack, counterattacktarget, maxifocus, acidarmor, victorydance, powershift, stoneaxe, and zmove
+
+added side effects jetstream, livewire, sleazyspore, lavapool, sharpsteel, hazardous smudge, and arenite wall
+
+added battle effects neutralizing gas, fusion freeze, inverse room, concert, solar sport field, and explosive gas
+
+MOVE_USAGE_CALCULATIONS
+
+added inverse battle effects under delta stream
+
+POKEBATTLE_POKEMON
+
+changed max name size to 255
+
+POKEMON_EVOLUTION
+
+added HappinessLevel, SilcoonItem,CascoonItem, SpatkGreater,AttackGreaterSp, and HappinessItem, evo methods
+	changed maxvalue to 65
+	defined evo methods lower in script
