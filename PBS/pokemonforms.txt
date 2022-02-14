@@ -3100,8 +3100,15 @@ FormName = PULSE Camerupt
 MegaStone = DUBIOUSDISC
 Abilities = DESOLATELAND
 HiddenAbility = DESOLATELAND
-BaseStast = 70,100,70,40,205,75
+BaseStats = 70,100,70,40,205,75
 Pokedex = The heat it emits vaporizes liquid in an instant. Even Fire-type Pokémon should beware of being burnt by it.
+#-------------------------------
+[TORKOAL,1]
+FormName = Mega Torkoal
+MegaStone = MEGASTONE
+Abilities = DRYSKIN
+HiddenAbility = DRYSKIN
+BaseStats = 70,95,210,20,95,90
 #-------------------------------
 [ALTARIA,1]
 FormName = Mega Altaria
@@ -4374,6 +4381,26 @@ FormName = Overdrive
 BaseStats = 100,180,120,120,180,100
 Abilities = MULTISTRIKE
 HiddenAbility = MULTISTRIKE
+#-------------------------------
+[KYUREM,1]
+Abilities = TURBOBLAZE
+HiddenAbility = TURBOBLAZE
+BaseStats = 125,120,90,95,170,100
+FormName = Kyurem White
+Height = 3.6
+Weight = 325.0
+EffortPoints = 0,0,0,0,3,0
+Pokedex = The sameness of Reshiram's and Kyurem's genes allowed Kyurem to absorb Reshiram. Kyurem can now use the power of both fire and ice.
+#-------------------------------
+[KYUREM,2]
+Abilities = TERAVOLT
+HiddenAbility = TERAVOLT
+BaseStats = 125,170,100,95,120,90
+FormName = Kyurem Black
+Height = 3.3
+Weight = 325.0
+EffortPoints = 0,0,3,0,0,0
+Pokedex = The sameness of Zekrom's and Kyurem's genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.
 #-------------------------------
 [LANDORUS,1]
 FormName = Therian Forme
@@ -5717,6 +5744,13 @@ BaseStats = 33,255,255,27,255,50
 Abilities = DESTABILIZE
 HiddenAbility = DESTABILIZE
 Type1 = GLITCH
+#-------------------------------
+[WHISPISH,1]
+FormName = Mega Whispish
+MegaStone = MEGASTONE
+Abilities = WATERABSORB
+HiddenAbility = WATERABSORB
+BaseStats = 125,58,108,67,96,106
 #-------------------------------
 [ROGROSS,1]
 BaseStats = 80,145,150,110,105,110
