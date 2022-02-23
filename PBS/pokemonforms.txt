@@ -4099,7 +4099,20 @@ HiddenAbility = MOLDBREAKER,ADAPTABILITY
 [BASCULIN,2]
 FormName = White-Striped
 Abilities = RATTLED,SNAPPY
+Kind = Mellow
 HiddenAbility = MOLDBREAKER,ADAPTABILITY
+Pokedex = It is oddly skittish for Basculin. White-Striped Basculin seems to hold a fear of waterfalls.
+#-------------------------------
+[BASCULEGION,1]
+BaseStats = 120,92,65,78,100,75
+FormName = Female
+#-------------------------------
+[BASCULEGION,2]
+BaseStats = 120,122,65,126,122,75
+FormName = Mega Basculegion
+MegaStone = MEGASTONE
+Abilities = DEFIANT
+HiddenAbility = DEFIANT
 #-------------------------------
 [DARMANITAN,1]
 FormName = Zen Mode
@@ -5463,6 +5476,12 @@ Abilities = STAMINA
 HiddenAbility = STAMINA
 BaseStats = 80,100,123,80,122,120
 #-------------------------------
+[TITAFROTA,1]
+FormName = Primal Titafrota
+BaseStats = 115,115,135,100,100,115
+Abilities = NOCTEM
+HiddenAbility = NOCTEM
+#-------------------------------
 [ROELLAMA,1]
 FormName = Mega Roellma
 MegaStone = MEGASTONE
@@ -5470,12 +5489,24 @@ BaseStats = 78,130,111,100,130,85
 Abilities = IGNITION
 HiddenAbility = IGNITION
 #-------------------------------
+[TITALLAMA,1]
+FormName = Primal Titallama
+BaseStats = 100,105,125,125,100,125
+Abilities = INFILTRATOR
+HiddenAbility = INFILTRATOR
+#-------------------------------
 [BULTOAD,1]
 FormName = Mega Bultoad
 MegaStone = MEGASTONE
 BaseStats = 79,103,120,78,135,115
 Abilities = PROTEAN
 HiddenAbility = PROTEAN
+#-------------------------------
+[TITATOAD,1]
+FormName = Primal Titatoad
+BaseStats = 90,125,95,115,155,100
+Abilities = GUTS
+HiddenAbility = GUTS
 #-------------------------------
 [OGRITATO,1]
 FormName = Mega Ogritato

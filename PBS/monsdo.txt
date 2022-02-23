@@ -1,27 +1,13 @@
-	>required
-upgrade to 1.20
-	
-mystery gift to manual gift
-wild charge, volt tackle, shake off drowsiness and sleep
-new items 1127+ besides tms
-	add golden razz berries
-	berries
-	actually just go down every item
-	in items.doc
-	make sure to define
-	sprite
-ferric fools ditto (sprites)
-add rock smash encounters to cobalt cave dolmite, route 21 caverns
-
+dolmite
 insurgence grimer
 clamperl
 kabuto
 omanyte
 buzlybub
 tyrunt
-basculegion
 insurgence riolu
 unown
+beta tangela baby
 
 lileep
 tyrunt
@@ -66,9 +52,6 @@ seviper
 fools magikarp
 burroworm
 fools paras
-
-
-gottamega code
 
 cobalt coast inner and outer, route 21, pallet town cut encounters
 route 21 caverns upper and lower, cobalt coast, cinnabar island rock smash encounters
@@ -152,7 +135,7 @@ CORSOLA
 G. CORSOLA
 
 CHINCHOU
-INSURGENCE CHINCHOU
+SWIRLPOOL
 STRANGLURE
 VOLKRITTER
 FOOLS TENTACOOL
@@ -185,7 +168,7 @@ CORPHISH
 QWILFISH
 DEWPIDER
 
-DEWPIDER
+INSURGENCE CHINCHOU
 GRUNKFISH
 INSURGENCE CLAMPERL
 LILEEP
@@ -198,49 +181,7 @@ FOOLS GOLDEEN
 
 
 
-COOKING KIT
-	ORANBERRY = Berry Juice
-	STICK + GRASSYSEED = Medicinal Leek
-	MEDICINALLEEK + ORANBERRY = Potion
-	VIVICHOKE + MEDICINALLEEK (2) = Revive
-	SPOILEDAPRICORN = Nasty Aprijuice
-	BLACKSLUDGE = Perilous Soup 
-	BLACKAPRICORN = Power Aprijuice
-	REDAPRICORN = Strike Aprijuice
-	YELLOWAPRICORN = Vital Aprijuice
-	BLUEAPRICORN = Skill Aprijuice
-	GREENAPRICORN = Special Aprijuice
-	PINKAPRICORN = Dash Aprijuice
-	WHITEAPRICORN = Plain Aprijuice
-	VIVICHOKE (5) + HONEY = Rare Candy
-	VIVICHOKE (5) + HEALPOWDER = Bad Candy
-	FRESHWATER + NOMELBERRY = Lemonade
-	LEMONADE + HONEY = Soda Pop
-	POWERAPRIJUICE + SODAPOP = Rare Soda
-	GOLDBERRY + RARESODA = Ultra Rare Soda
-CRAFTING KIT
-	PEATBLOCK = STICK (20)
-	STICK + BLACKSLUDGE = Galarica Twig
-	GALARICATWIG (25) = Galarica Wreath + Galarica Cuff
-	SPOILEDAPRICORN + SOFTSAND = Mulch
-	HOPOBERRY + BUGWORT (3) = Repel
-	IRONCHUNK (10) = Metal Coat
-	IRONCHUNK (5) + THUNDERSTONE = Electirizer
-	IRONCHUNK (5) + FIRESTONE = Magmarizer
-	IRONCHUNK (5) + WOOD = Linking Cord
-	IRONCHUNK (5) + TUMBLESTONE = Protector
-	ROCK (2) = Tumblestone
-	ROCK + IRONCHUNK = Sky Tumblestone
-	ROCK (4) = Black Tumblestone
-	APRICORN = Junk Ball
-	TUMBLESTONE + REDAPRICORN = Poké Ball
-	TUMBLESTONE + BLUEAPRICORN = Great Ball
-	TUMBLESTONE (2) + YELLOW APRICORN = Ultra Ball
-	BLACKTUMBLESTONE + BLACKAPRICORN = Heavy Ball
-	BLACKTUMBLESTONE + BLACKAPRICORN + IRONCHUNK = Leaden Ball
-	TUMBLESTONE + IRONCHUNK + BLACKAPRICORN = Gigaton Ball
-	SPARKLINGSTONE = Z-Crystal
-	WOOD + SACHET = Poké Doll
+
 
 
 >WANT TO DO SOON
@@ -250,7 +191,6 @@ oreon
 ALL FOSSIL MONS
 	fools gold versions too! clover ones too! insurgence ones too! sage ones too! all of them! quarantine crystal!
 
-titafrota n counterparts
 bogleechian sableye evos
 MURKROW
 MISMAGIUS
@@ -271,7 +211,7 @@ blue eyes w dragon
 
 
 
->FOSSILS
+>FOSSILS implement with the the the that one guy in the lab
 RAREBONE
 SKULLCAP FOSSIL - Skulzala
 EXO FOSSIL - Genesect
