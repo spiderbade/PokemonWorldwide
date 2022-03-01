@@ -3507,7 +3507,7 @@ robot bidoof
 	189Dire Miralis [monster hunter
 	190Fatalis [monster hunter
 	191Kuriboh [duel monsters
-	192Blue Eyes White Dragon [duel monsters
+	192Blue Eyes White Dragon [duel monsters https://tvtropes.org/pmwiki/pmwiki.php/Metaplot/YuGiOh
 	193Red Eyes Black Dragon [duel monsters
 	194EXODIA [duel monsters
 	195Botamon [digimon
