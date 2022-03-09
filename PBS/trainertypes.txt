@@ -1,6 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 0,POKEMONTRAINER_Lucas,Pokémon Trainer,100,bgm,,intro,Mixed,,
+1151,POKEMONTRAINER_PTLucas,Pokémon Trainer,100,bgm,,intro,Mixed,,
 1,POKEMONTRAINER_Dawn,Champion,100,Dawn,,,Mixed,,
 2,POKEMONTRAINER_Barry,Pokémon Trainer,100,Barry,,,Mixed,,
 3,POKEMONTRAINER_Ethan,Champion,100,Ethan,,,Mixed,,

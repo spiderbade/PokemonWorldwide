@@ -173,6 +173,7 @@
 ,DARKSOUL,Dark Soul,"Powers up dark attacks."
 ,FREEZINGWINDS,Freezing Winds,"Powers up ice attacks."
 ,PIXIE,Pixie,"Powers up fairy attacks."
+,SHADOWY,Shadowy,"Powers up shadow attacks."
 ,FAETOUCHED,Fae Touched,"Powers up fairy attacks."
 ,FIGHTINGPOWER,Fighting Power,"Powers up fighting attacks."
 ,ATOMPOWER,Atom Power,"Powers up nuclear attacks."

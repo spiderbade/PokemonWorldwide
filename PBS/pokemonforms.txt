@@ -10,6 +10,7 @@ WildItemUncommon = ZOMBIEVIRUS
 WildItemRare = ZOMBIEVIRUS
 Color = Black
 Pokedex = An infestation has turned Bulbasaur into a vicious, cold-hearted predator. It preys mercilessly on grasses and leaves.
+Evolutions = IVYSAUR,None,
 #-------------------------------
 [IVYSAUR,1]
 FormName = Shrivlsaur
@@ -204,7 +205,7 @@ BaseStats = 50,2,5,5,3,5
 Abilities = TRUANT
 HiddenAbility = LAZY
 Pokedex = A Metapod infested by the spores of a rival species. It has no hope of fulfilling its dream to become a Butterfree, but it may become something else.
-Evolutions = BUTTERFREE,None,
+Evolutions = BUTTERFREE,None,, BUZLYBUB,Level,25
 #-------------------------------
 [BUTTERFREE,1]
 FormName = Mega Butterfree
@@ -234,7 +235,7 @@ BaseStats = 45,2,5,5,3,5
 Abilities = TRUANT
 HiddenAbility = LAZY
 Pokedex = A Kakuna infested by the spores of a rival species. It has no hope of fulfilling its dream to become a Beedrill, but it may become something else.
-Evolutions = BEEDRILL,None,
+Evolutions = BEEDRILL,None,, BUZLYBUB,Level,25
 #-------------------------------
 [BEEDRILL,1]
 FormName = Mega Beedrill
@@ -1814,14 +1815,14 @@ FormName = Waterlogged
 Type1 = WATER
 Abilities = UNIONIZED,PROTEAN
 HiddenAbility = IMPOSTOR,FLUIDFORM
-Evolutions = DETTO,None,,MEW,None,,
+Evolutions = DETTO,None,
 #-------------------------------
 [DITTO,3]
 FormName = Ferric
 Type1 = STEEL
 Abilities = MIRRORARMOR,PROTEAN
 HiddenAbility = IMPOSTOR,STURDY
-Evolutions = DETTO,None,,MEW,None,,
+Evolutions = DETTO,None,
 #-------------------------------
 [DETTO,1]
 FormName = Mega Detto
@@ -2734,7 +2735,7 @@ BaseStats = 70,2,5,5,3,5
 Abilities = TRUANT
 HiddenAbility = LAZY
 Pokedex = A Pupitar infested by the spores of a rival species. It has no hope of fulfilling its dream to become a Tyranitar, but it may become something else.
-Evolutions = TYRANITAR,None,
+Evolutions = TYRANITAR,None,, BUZLYBUB,Level,25
 #-------------------------------
 [TYRANITAR,2]
 FormName = Mega Tyranitar
@@ -2811,6 +2812,26 @@ HiddenAbility = SWIFTSWIM
 Height = 1.9
 Weight = 102.0
 Pokedex = Mega Swampert may look bulky, but its muscles allow it to plow through water with incredible speed.
+#-------------------------------
+[SILCOON,1]
+FormName = Infested Silcoon
+Type1 = BUG
+Type2 = SHADOW
+BaseStats = 50,2,5,5,3,5
+Abilities = TRUANT
+HiddenAbility = LAZY
+Pokedex = A Silcoon infested by the spores of a rival species. It has no hope of fulfilling its dream to become a Beautifly, but it may become something else.
+Evolutions = BEAUTIFLY,None,,BUZLYBUB,Level,25
+#-------------------------------
+[CASCOON,1]
+FormName = Infested Cascoon
+Type1 = BUG
+Type2 = SHADOW
+BaseStats = 50,2,5,5,3,5
+Abilities = TRUANT
+HiddenAbility = LAZY
+Pokedex = A Cascoon infested by the spores of a rival species. It has no hope of fulfilling its dream to become a Dustox, but it may become something else.
+Evolutions = DUSTOX,None,,BUZLYBUB,Level,25
 #-------------------------------
 [NUZLEAF,1]
 FormName = Mega Nuzleaf
@@ -3581,14 +3602,14 @@ FormName = No Cloak
 BaseStats = 40,29,35,56,29,35
 #-------------------------------
 [BURMY,4]
-FormName = Infested 
+FormName = Infested Burmy
 Type1 = BUG
 Type2 = SHADOW
 BaseStats = 40,2,5,5,3,5
 Abilities = TRUANT
 HiddenAbility = LAZY
 Pokedex = A Burmy infested by the spores of a rival species. It has no hope of fulfilling its dream to become a Wormadam, but it may become something else.
-Evolutions = MOTHIM,None,
+Evolutions = MOTHIM,None,,WORMADAM,None,, BUZLYBUB,Level,25
 #-------------------------------
 [WORMADAM,1]
 FormName = Sandy Cloak
@@ -4550,7 +4571,7 @@ BaseStats = 45,2,5,5,3,5
 Abilities = TRUANT
 HiddenAbility = LAZY
 Pokedex = A Spewpa infested by the spores of a rival species. It has no hope of fulfilling its dream to become a Vivillon, but it may become something else.
-Evolutions = VIVILLON,None,
+Evolutions = VIVILLON,None,, BUZLYBUB,Level,25
 #-------------------------------
 [VIVILLON,1]
 FormName = Archipelago
@@ -5715,6 +5736,22 @@ BaseStats = 101,120,121,121,136,121
 Abilities = MIRRORARMOR
 HiddenAbility = MIRRORARMOR
 Pokedex = It considers itself the greatest wizard in the universe. Mega Narwhiz refuses to engage in romance.
+#-------------------------------
+[BUZLYBUB,1]
+BaseStats = 80,140,151,50,50,66
+Type1 = BUG
+Type2 = SHADOW
+Abilities = GUTS
+HiddenAbility = GUTS
+FormName = Mega Buzlybub
+MegaStone = MEGASTONE
+#-------------------------------
+[CAIRNIVORE,1]
+BaseStats = 92,156,175,25,55,112
+Abilities = HARDASROCK
+HiddenAbility = HARDASROCK
+FormName = Mega Cairnivore
+MegaStone = MEGASTONE
 #-------------------------------
 [ELECTRATH,1]
 FormName = Shrouded Electrath
