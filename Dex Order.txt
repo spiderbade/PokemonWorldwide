@@ -3261,7 +3261,10 @@ robot bidoof
 	04h-goodra
 	05h-avalugg
 	07whore landorus
-	08+ gen 9 starters 
+	
+	14+ gen 9 starters 
+	
+	23: https://64.media.tumblr.com/f0a4cc06c0d0eb4f0ce679cd12d18d7f/d8a62ba6c2c485c3-76/s500x750/fb9efc093fbc32609ddc0a9d6ee53ddeef1180a4.png
 	
 	Clover+
 	. Ethigator
