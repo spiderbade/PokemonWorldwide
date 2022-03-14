@@ -118,7 +118,7 @@ FOOLS SMOOCHUM
 SMOOCHUM
 
 cobaltcave
-rock smash DOLMITE, GEODUDE
+rock smash DOLMITE, DHELMISE, LILEEP, GEODUDE
 
 cobaltcoast
 EXEGGCUTE
