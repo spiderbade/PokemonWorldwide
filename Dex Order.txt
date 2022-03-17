@@ -651,7 +651,7 @@ robot bidoof
 	1116. Sui
 	1117. Zearen
 	1118. Belatio
-	1119. Grubdon
+	1119. Grubdon https://www.youtube.com/watch?v=Fi9qKp7gJFU
 	smogdon
 	1129. Mumbao
 	1130. Jumbao
