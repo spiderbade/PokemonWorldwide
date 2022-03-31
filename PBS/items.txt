@@ -337,8 +337,8 @@
 207,ELECTIRIZER,Electirizer,Electirizers,1,2000,"A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.",0,0,7,
 208,MAGMARIZER,Magmarizer,Magmarizers,1,2000,"A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.",0,0,7,
 209,REAPERCLOTH,Reaper Cloth,Reaper Cloths,1,2000,"A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.",0,0,7,
-210,PRISMSCALE,Prism Scale,Prism Scales,1,2000,"A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.",0,0,7,
-211,OVALSTONE,Oval Stone,Oval Stones,1,2000,"A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.",0,0,7,
+210,PRISMSCALE,Prism Scale,Prism Scales,1,2000,"A mysterious scale. It shines in rainbow colors.",0,0,7,
+211,OVALSTONE,Oval Stone,Oval Stones,1,3000,"A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.",0,0,7,
 212,REDSCARF,Red Scarf,Red Scarves,1,100,"An item to be held by a Pokémon. It boosts the Cool aspect of the holder in a Contest.",0,0,0,
 213,BLUESCARF,Blue Scarf,Blue Scarves,1,100,"An item to be held by a Pokémon. It boosts the Beauty aspect of the holder in a Contest.",0,0,0,
 214,PINKSCARF,Pink Scarf,Pink Scarves,1,100,"An item to be held by a Pokémon. It boosts the Cute aspect of the holder in a Contest.",0,0,0,
@@ -580,10 +580,10 @@
 590,AZUREFLUTE,Azure Flute,Azure Flutes,8,0,"A flute that produces out echoing sounds that do not seem to be of this world. No one knows who made it.",0,0,6
 1107,MAGMASTONE,Magma Stone,Magma Stones,8,0,"A stone formed when boulders melted in intensely hot magma, then hardened. Magma remains sealed inside.",0,0,6
 592,JUNGLECROWN,Jungle Crown,Jungle Crowns,1,5000,"A mysterious crown that belongs to the king of the jungle.",0,0,7
-593,CHIPPEDPOT,Chipped Pot,Chipped Pots,1,5000,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be chipped, but tea poured from it is delicious.",0,0,7,
-594,CRACKEDPOT,Cracked Pot,Cracked Pots,1,5000,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious.",0,0,7,
-595,SWEETAPPLE,Sweet Apple,Sweet Apples,1,5000,"A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet.",0,0,7,
-596,TARTAPPLE,Tart Apple,Tart Apples,1,5000,"A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.",0,0,7,
+593,CHIPPEDPOT,Chipped Pot,Chipped Pots,1,5000,"A peculiar teapot. It may be chipped, but tea poured from it is delicious.",0,0,7,
+594,CRACKEDPOT,Cracked Pot,Cracked Pots,1,5000,"A peculiar teapot. It may be cracked, but tea poured from it is delicious.",0,0,7,
+595,SWEETAPPLE,Sweet Apple,Sweet Apples,1,5000,"A peculiar apple. It's exceptionally sweet.",0,0,7,
+596,TARTAPPLE,Tart Apple,Tart Apples,1,5000,"A peculiar apple. It's exceptionally tart.",0,0,7,
 597,POISONSTONE,Poison Stone,Poison Stones,1,2100,"A peculiar stone that makes certain species of Pokémon evolve. It is an ominous purple.",0,0,7,
 598,LUNARGEM,Lunar Gem,Lunar Gems,1,200,"A gem with an essence of the moon. When held, it strengthens the power of a Lunar-type move only once.",0,0,10,
 599,SOLARGEM,Solar Gem,Solar Gems,1,200,"A gem with an essence of the sun. When held, it strengthens the power of a Solar-type move only once.",0,0,10,

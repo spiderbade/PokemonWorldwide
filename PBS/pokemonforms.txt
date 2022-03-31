@@ -630,7 +630,7 @@ Pokedex = Its body has grown incredibly long and the coin on its forehead has gr
 FormName = Persian δ
 Type1 = DARK
 Abilities = LIMBER,TECHNICIAN
-HiddenAbility = DARKENING,POUNCE
+HiddenAbility = DEGENERATE,POUNCE
 #-------------------------------
 [GOLDUCK,1]
 FormName = Mega Golduck
@@ -1845,6 +1845,7 @@ Type1 = NORMAL
 Type2 = STEEL
 Abilities = PICKUP,ANTICIPATION
 HiddenAbility = ADAPTABILITY,STEELYSPIRIT
+Evolutions = VAPOREON,None,
 #-------------------------------
 [EEVEE,3]
 FormName = Gigant Eevee
@@ -1906,6 +1907,7 @@ MegaStone = MEGASTONE
 BaseStats = 65,65,130,110,130,125
 Abilities = PSIONICINFUSION
 HiddenAbility = PSIONICINFUSION
+UnmegaForm = 0
 Pokedex = Mega Espeon passively sees shortly into the future. It tenses up right before it is hit.
 #-------------------------------
 [ESPEON,2]
@@ -1915,6 +1917,22 @@ Type2 = STEEL
 Abilities = RECEIVER,FOREWARN
 HiddenAbility = MAGICBOUNCE,TELEPATHY
 #-------------------------------
+[ESPEON,3]
+FormName = Proto-Espeon
+Pokedex = A rare and basal form of Espeon.
+Type1 = PSYCHIC
+Type2 = DARK
+Abilities = POISONHEAL,SHADOWY
+HiddenAbility = ABSOLUTION,NOCTEM
+#-------------------------------
+[ESPEON,4]
+FormName = Jumpeon
+Type1 = NORMAL
+Type2 = FLYING
+Abilities = POUNCE,FOREWARN
+HiddenAbility = MAGICBOUNCE,OWNTEMPO
+Pokedex = Something about its aura signature is subtly off. It is thought that in another world, its two types were one that was in-between. 
+#-------------------------------
 [UMBREON,1]
 FormName = Mega Umbreon
 MegaStone = MEGASTONE
@@ -1922,6 +1940,7 @@ BaseStats = 95,85,90,105,140,110
 Abilities = DEGENERATE
 HiddenAbility = DEGENERATE
 Pokedex = It is said to attack with the fury of a ravenous ape. Mega Umbreon is said to harness mysterious Blutz Waves to attack.
+UnmegaForm = 0
 #-------------------------------
 [UMBREON,2]
 FormName = Umbreon δ
@@ -1929,6 +1948,13 @@ Type1 = DARK
 Type2 = STEEL
 Abilities = SHADOWDANCE,VENOM
 HiddenAbility = POISONTOUCH,HELIOPHOBIA
+#-------------------------------
+[UMBREON,3]
+FormName = Proto-Umbreon
+Pokedex = A rare and basal form of Umbreon.
+Type1 = POISON
+Abilities = VENOMOUS,MERCILESS
+HiddenAbility = SHADOWDANCE,HELIOPHOBIA
 #-------------------------------
 [LEAFEON,1]
 FormName = Mega Leafeon
@@ -1953,6 +1979,57 @@ BaseStats = 95,145,85,60,110,130
 Abilities = PIXILATE
 HiddenAbility = PIXILATE
 Pokedex = Its feelers have strengthened into brutal whips. Mega Sylveon's whip attacks leave nasty lacerations.
+#-------------------------------
+[EON,1]
+FormName = Mega Eon
+MegaStone = MEGASTONE
+BaseStats = 100,120,120,120,120,120
+Abilities = PROTEANMAXIMA
+HiddenAbility = PROTEANMAXIMA
+#-------------------------------
+[EON,2]
+FormName = Proto-Eon
+BaseStats = 80,78,81,81,100,101
+Type1 = NORMAL
+Abilities = PROTEAN
+Moves = 1,HELPINGHAND,1,TACKLE,1,DISARMINGVOICE,1,TAILWHIP,5,SANDATTACK,9,RAZORLEAF,9,PURSUIT,9,CONFUSION,9,ICYWIND,9,FAIRYWIND,9,WATERGUN,9,THUNDERSHOCK,9,EMBER,13,QUICKATTACK,17,GRASSWHISTLE,17,DOUBLEKICK,17,CONFUSERAY,17,WATERPULSE,17,SWIFT,17,BITE,20,DRAININGKISS,21,FEINTATTACK,21,THUNDERFANG,21,FIREFANG,21,MAGICALLEAF,21,AURORABEAM,21,ICEFANG,21,PSYBEAM,25,AQUARING,25,ICESHARD,25,ASSURANCE,25,SKILLSWAP,25,FUTURESIGHT,25,PINMISSILE,25,FIRESPIN,25,GIGADRAIN,29,SWORDSDANCE,29,BARRIER,29,SCARYFACE,29,ACIDARMOR,29,AGIITY,29,SCREECH,29,DAZZLINGGLEAM,29,PSYCHUP,33,THUNDERWAVE,33,MIRRORCOAT,33,MOONLIGHT,33,LIGHTSCREEN,33,SMOG,33,MORNINGSUN,33,SYNTHESIS,33,HAZE,37,SUNNYDAY,37,MUDDYWATER,37,LAVAPLUME,37,PSYCHIC,37,HAIL,37,DISCHARGE,37,MEANLOOK,37,MOONBLAST,41,LASTRESORT,45,THUNDER,45,HYDROPUMP,45,BLIZZARD,45,FLAREBLITSZ,45,LEAFBLADE,45,POWERSWAP,45,GUARDSWAP
+Pokedex = Eon as it was a year or so ago, before it had unlocked its full potential. 
+#-------------------------------
+[NUCLEON,1]
+FormName = Mega Nucleon
+MegaStone = MEGASTONE
+BaseStats = 65,75,67,103,205,110
+Abilities = ATOMIZE
+HiddenAbility = ATOMIZE
+#-------------------------------
+[NUCLEON,2]
+FormName = Proto-Nucleon
+BaseStats =  70,55,85,90,115,115
+Pokedex = Nucleon with a slighly different skillset, as it is in the Tandor region. 
+#-------------------------------
+[VALKYREON,1]
+FormName = Mega Valkyreon
+MegaStone = MEGASTONE
+BaseStats = 60,115,130,110,95,95
+Abilities = AERILATE
+HiddenAbility = AERILATE
+#-------------------------------
+[VALKYREON,2]
+FormName = Proto-Valkyreon
+BaseStats = 135,10,60,125,105,90
+Pokedex = Valkyreon with a slighly different skillset, as it is in the Omuran region. 
+#-------------------------------
+[CYBEREON,1]
+FormName = Mega Cybereon
+MegaStone = MEGASTONE
+BaseStats = 65,100,125,110,130,95
+Abilities = WEAPONSPROFICIENCY
+HiddenAbility = WEAPONSPROFICIENCY
+#-------------------------------
+[CYBEREON,2]
+FormName = Proto-Cybereon
+BaseStats = 70,90,65,100,115,85
+Pokedex = Cybereon with a slighly different skillset, as it is in the Omuran region. 
 #-------------------------------
 [PORYGON,1]
 FormName = Mega Porygon
@@ -2954,8 +3031,8 @@ Pokedex = Its empathic abilities have dulled due to its combative nature. Until 
 FormName = Mega Ninjask
 MegaStone = MEGASTONE
 BaseStats = 61,90,45,150,140,70
-Abilities = AERILATE
-HiddenAbility = AERILATE
+Abilities = NOGUARD
+HiddenAbility = NOGUARD
 Pokedex = Unlike its base form, Mega Ninjask is quite loud. Its sharp chirps can shatter the eardrums of unlucky predators. 
 #-------------------------------
 [SHEDINJA,1]
@@ -4190,6 +4267,12 @@ Abilities = POISONHEAL
 HiddenAbility = POISONHEAL
 Pokedex = Rift Garbodor slowly absorbs toxins to fuel itself. Its general appetite seems lower, though.
 #-------------------------------
+[MINCCINO,1]
+FormName = Mega Minccino
+Abilities = MAGICBOUNCE
+HiddenAbility = MAGICBOUNCE
+BaseStats = 55,90,100,75,40,40
+#-------------------------------
 [CINCCINO,1]
 FormName = Mega Cinccino
 Abilities = SKILLLINK
@@ -5285,6 +5368,7 @@ MegaStone = MEGASTONE
 BaseStats = 58,95,108,85,82,108
 Abilities = INFURIATE
 HiddenAbility = INFURIATE
+UnmegaForm = 0
 #-------------------------------
 [INVAMAUSE,1]
 FormName = Mega Invamause
@@ -5304,6 +5388,13 @@ WildItemCommon = CELLBATTERY
 WildItemUncommon = CELLBATTERY
 WildItemRare = CELLBATTERY
 BaseStats = 75,97,23,125,66,28
+#-------------------------------
+[SNOWSHREW,1]
+FormName = Mega Snowshrew
+MegaStone = MEGASTONE
+BaseStats = 50,80,180,40,10,40
+Abilities = SHELLARMOR
+HiddenAbility = SHELLARMOR
 #-------------------------------
 [SNOWSLASH,1]
 FormName = Mega Snowslash
