@@ -724,6 +724,7 @@ robot bidoof
 	1199. Pajantom
 	1200. Miasmite
 	1201. Miasmaw
+	CHROMERA
 	Glitch
 	1206. ♀
 	1207. Hゥ
