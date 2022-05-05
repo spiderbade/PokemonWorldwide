@@ -2373,7 +2373,7 @@ robot bidoof
 	2919. Turmur
 	2920. Shaderu
 	2921. Faceleech
-	Bogmon
+	Bogmon https://bogleech.tumblr.com/post/683371218919997440/sentretsparkle-i-think-about-bogleechs-fakemon
 	2922. Grass Pterosaur 1
 	2923. Grass Pterosaur 2
 	2924. Fire Calf
@@ -3237,7 +3237,7 @@ robot bidoof
 	3877. Tsurigu https://virovac.tumblr.com/post/672501088455376896/aviculor-beardycarrot-back-in-the-summer-of
 	3878. https://bogleech.tumblr.com/post/672521189400379392/i-was-up-late-last-night-working-on-gen-one
 	3879
-	3880
+	3880 
 	3881. Lemureon
 	3882. Incepteon
 	3883. Annectencha
