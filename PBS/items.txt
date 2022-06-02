@@ -1300,3 +1300,5 @@
 1238,AZELFSFANG,Azelf's Fang,Azelf Fangs,8,0,"Some of Azelf's essence to forge a Red Chain.",0,0,0,
 1239,UXIESCLAW,Uxie's Claw,Uxie Claws,8,0,"Some of Uxie's essence to forge a Red Chain.",0,0,0,
 1240,MESPRITSPLUME,Mesprit's Plume,Mesprit Plumes,8,0,"Some of Mesprit's essence to forge a Red Chain.",0,0,0,
+
+1241,LEGENDPLATE,Legend Plate,Legend Plate,4,0,"A plate which can teach a legendary attack.",3,0,0,JUDGMENT

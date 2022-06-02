@@ -478,6 +478,8 @@
 ,FOGSHROUDON,Fog Shroud,"Changes forms when using a dark move. Changes back when using an electric move."
 ,FOGSHROUDNON,Fog Shroud,"Changes forms when using a dark move. Changes back when using an electric move."
 ,BATTLEBOND,Battle Bond,"Changes form when a foe is KOd by an attack."
+,ARTIFICIAL,Artificial,"Immune to all Status Conditions."
+,BREAKFACTOR,BREAK Factor,"Protects from all sorts of status. Slightly raises defenses."
 ,ILLUSION,Illusion,"Appears to be the Pokémon in the back of the party until hit."
 ,IMPOSTOR,Impostor,"Transforms into the foe when sent out."
 ,DESTABILIZE,Destabilize,"KOs the target on contact."
