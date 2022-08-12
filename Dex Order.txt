@@ -2347,7 +2347,7 @@ robot bidoof
 	2891. Vigourian
 	2892. Mutagon
 	2893. Mewby
-	2894. Madio
+	2894. Madio (healmadio!
 	2895. BlastMadio
 	2896. Demoneon
 	2898. Cinderco
