@@ -1,28 +1,29 @@
 #-------------------------------
 []
-Name=
-InternalName=
-Type1=
-Type2=
-BaseStats=
-GenderRate=
-GrowthRate=
-BaseEXP=
-EffortPoints=
-Rareness=
-Happiness=
-Abilities=
-Moves=
-Compatibility=
-StepsToHatch=
-Height=
-Weight=
-Color=
-Shape=
-Kind=
-Pokedex=
-WildItemUncommon=
-Evolutions=
+Name =
+InternalName =
+Type1 =
+Type2 =
+BaseStats =
+GenderRate =
+GrowthRate =
+BaseEXP =
+EffortPoints =
+Rareness =
+Happiness =
+Abilities =
+HiddenAbility = 
+Moves =
+Compatibility =
+StepsToHatch =
+Height =
+Weight =
+Color =
+Shape =
+Kind =
+Pokedex =
+WildItemUncommon =
+Evolutions =
 
 Black
 Blue

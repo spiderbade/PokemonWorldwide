@@ -52,6 +52,7 @@
 ,CHERNOBYL,Chernobyl,"Summons fallout in battle."
 ,NOCTEM,Noctem,"Summons a shadow sky in battle."
 ,AIRLOCK,Air Lock,"Eliminates the effects of weather."
+,WEATHERBENEFIT,Weather Benefit,"Boosts the power of the relevant attacks in weather."
 ,CLOUDNINE,Cloud Nine,"Eliminates the effects of weather."
 ,PRIMORDIALSEA,Primordial Sea,"Changes the weather to nullify Fire-type moves."
 ,DESOLATELAND,Desolate Land,"Changes the weather to nullify Water-type moves."

@@ -2031,6 +2031,55 @@ FormName = Proto-Cybereon
 BaseStats = 70,90,65,100,115,85
 Pokedex = Cybereon with a slighly different skillset, as it is in the Omuran region. 
 #-------------------------------
+[TYPHEON,1]
+FormName = Mega Typheon
+MegaStone = MEGASTONE
+BaseStats = 60,95,95,110,115,130
+Abilities = AERILATE
+HiddenAbility = AERILATE
+#-------------------------------
+[DEMONEON,1]
+FormName = Mega Demoneon
+MegaStone = MEGASTONE
+BaseStats = 65,105,110,105,175,65
+Abilities = DARKENING
+HiddenAbility = DARKENING
+#-------------------------------
+[BANDEON,1]
+FormName = Mega Bandeon
+MegaStone = MEGASTONE
+BaseStats = 110,60,75,70,180,130
+Abilities = BOOMBOX
+HiddenAbility = BOOMBOX
+#-------------------------------
+[SCALEON,1]
+FormName = Mega Scaleon
+MegaStone = MEGASTONE
+BaseStats = 95,195,110,90,65,70
+Abilities = SCALATE
+HiddenAbility = SCALATE
+#-------------------------------
+[CARCINEON,1]
+FormName = Mega Carcineon
+MegaStone = MEGASTONE
+BaseStats = 60,145,140,110,75,95
+Abilities = INSECTAFFINITY
+HiddenAbility = INSECTAFFINITY
+#-------------------------------
+[LEMUREON,1]
+FormName = Mega Lemureon
+MegaStone = MEGASTONE
+BaseStats = 95,115,45,140,100,130
+Abilities = SPIRITTOUCH
+HiddenAbility = SPIRITTOUCH
+#-------------------------------
+[INCEPTEON,1]
+FormName = Mega Incepteon
+MegaStone = MEGASTONE
+BaseStats = 65,115,125,140,70,115
+Abilities = GLITCH
+HiddenAbility = GLITCH
+#-------------------------------
 [PORYGON,1]
 FormName = Mega Porygon
 MegaStone = MEGASTONE
@@ -3310,8 +3359,8 @@ UnmegaForm = 0
 Type1 = FLYING
 Type2 = GLITCH
 BaseStats = 70,75,100,100,75,100
-Abilities = PHOTOTROPH
-HiddenAbility = PHOTOTROPH
+Abilities = WEATHERBENEFIT
+HiddenAbility = WEATHERBENEFIT
 Pokedex = Touching it feels like solidified air. Mega Castform is said to be the heir of the atmosphere.
 #-------------------------------
 [BANETTE,1]

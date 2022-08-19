@@ -239,7 +239,7 @@
 #-------------------------------
 749,ALLOUTPUMMELING,All-Out Pummeling,164,75,FIGHTING,Special,0,1,0,NearOther,0,,"This attack inflicts Attack or Sp. Atk damage; whichever stat is higher for the user. This move ignores the target's Ability."
 929,KAMEHAMEHA,Kamehameha,297,200,FIGHTING,Special,100,10,0,Other,0,befmv,"A two-turn attack. The user gathers ki, then unleashes it as a powerful beam."
-936,HOKUTO,Hokuto Hyakuretsu Ken,0E5,0,FIGHTING,Status,0,5,0,NearOther,0,k,"Any Pokémon that is touched by this will perish soon enough."
+936,HOKUTO,Hokuto Hyakuretsu Ken,0E5,0,FIGHTING,Status,0,5,0,NearOther,0,,"Any Pokémon that is touched by this will perish soon enough."
 130,FOCUSPUNCH,Focus Punch,115,150,FIGHTING,Physical,100,20,0,NearOther,-3,abfj,"The user focuses its mind before launching a punch. It will fail if the user is hit before it is used."
 131,HIGHJUMPKICK,High Jump Kick,10B,130,FIGHTING,Physical,90,10,0,NearOther,0,abefs,"The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead."
 132,CLOSECOMBAT,Close Combat,03C,120,FIGHTING,Physical,100,5,0,NearOther,0,abef,"The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def."
