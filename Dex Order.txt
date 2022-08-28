@@ -481,7 +481,8 @@ robot bidoof
 	933. Sadiichi
 	934. Pounitsu
 	935. Malosuri
-	Blazing Emerald
+	
+	BLAZING EMERALD
 	936. H. Venonat
 	937. Muramoth
 	938. Lucemoth
@@ -518,7 +519,8 @@ robot bidoof
 	969. C.R.A.W.B.
 	970. Vitellion
 	971. Metunn (Unown)
-	Beta https://www.pokecommunity.com/showthread.php?t=416410
+	
+	BETA https://www.pokecommunity.com/showthread.php?t=416410
 	972. Ocuflora https://www.deviantart.com/mechanicalape464/art/Goldbloom-894988491
 	973. Kameil
 	974. Kamex
@@ -652,7 +654,8 @@ robot bidoof
 	1117. Zearen
 	1118. Belatio
 	1119. Grubdon https://www.youtube.com/watch?v=Fi9qKp7gJFU
-	smogdon
+	
+	CAP
 	1129. Mumbao
 	1130. Jumbao
 	1131. Embirch
@@ -725,7 +728,8 @@ robot bidoof
 	1200. Miasmite
 	1201. Miasmaw
 	CHROMERA
-	Glitch
+	
+	GLITCH
 	1206. ♀
 	1207. Hゥ
 	1208. AゥG
@@ -756,6 +760,7 @@ robot bidoof
 	1234. C ゥ ZAR {Charizard ‘M, u}
 	1236. PokéWTrainer
 	1237. .g
+	
 	Fools Gold [china]
 	1238. Bulbasaur, Boilbasaur (Infested)
 	1239. Ivysaur, Shrivlsaur (Infested)
@@ -1050,6 +1055,7 @@ robot bidoof
 	1526. Treadbot
 	1527. Type: Full (State, 25)
 	1528. Psicris
+	
 	Quartz
 	1538. Larvet
 	1539. Morfade
@@ -1416,6 +1422,7 @@ robot bidoof
 	1916. Fambaco
 	1917. Libabeel
 	1918. Varaneous
+	
 	LSASV
 	1919. Nimbleaf
 	1920. Leafrond
@@ -1755,6 +1762,7 @@ robot bidoof
 	2264. Aotius
 	2265. Mutios
 	2266. Zephy
+	
 	Clover
 	2276. Squirrap
 	2277. Gampster
@@ -2101,6 +2109,7 @@ robot bidoof
 	2646. Admoot
 	2647. Tentaquil
 	2648. Pokfusa
+	
 	Sage
 	2649. Foliat
 	2650. Florabi
@@ -2331,6 +2340,7 @@ robot bidoof
 	2875. Quetzar
 	2876. Xochi
 	2877. Xotec
+	
 	Snakewood
 	2878. Stitcher
 	2879. Glute
@@ -2373,6 +2383,7 @@ robot bidoof
 	2919. Turmur
 	2920. Shaderu
 	2921. Faceleech
+	
 	Bogmon https://bogleech.tumblr.com/post/683371218919997440/sentretsparkle-i-think-about-bogleechs-fakemon
 	2922. Grass Pterosaur 1
 	2923. Grass Pterosaur 2
@@ -2551,6 +2562,7 @@ robot bidoof
 	3096. Landfill Tsareena
 	3097. Skeletal Dhelmise
 	3098. Forest Diamandix
+	
 	Buddy
 	3099. Rabbush
 	3100. Clovare
@@ -2687,7 +2699,8 @@ robot bidoof
 	3231. Armmiter
 	3232. Etheriam
 	3233. Aviankh
-	Quarantinehttps://archive.nyafuu.org/foolfuuka/boards/vp/image/1610/92/1610923393809.png
+	
+	Quarantine
 	3234. Cigerillar
 	3235. Tobacoon
 	3236. Okamikaze
@@ -2965,6 +2978,7 @@ robot bidoof
 	3508. 24
 	3509. 25
 	3510. 26
+	
 	Empyrean
 	3511. Valkyreon
 	3512. Cybereon
@@ -3008,6 +3022,7 @@ robot bidoof
 	3550. ?QMARKS?
 	3551. ?S?adowglitch?
 	3552. OVERHEAVEN
+	 
 	Xenoverse
 	3553. Shyleon
 	3554. Trishout
@@ -3115,6 +3130,7 @@ robot bidoof
 	3656. Xeno Mareanie
 	3657. Xeno Toxapex
 	3658. Xeno Mewtwo https://xenoverse-per-aspera-ad-astra.fandom.com/it/wiki/Xenodex
+	
 	Other
 	3660. Cottonpillar
 	3661. Coldoon
